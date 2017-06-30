@@ -1,0 +1,45 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>English cucumber</span>",
+        "qty": "1",
+        "comment": "medium",
+        "input": "1 medium English cucumber",
+        "name": "English cucumber"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>seasoned rice vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup seasoned rice vinegar",
+        "name": "seasoned rice vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>thinly sliced</span><span class='name'>radish</span>",
+        "comment": "thinly sliced",
+        "unit": "cup",
+        "name": "radish",
+        "input": "1 cup thinly sliced radish",
+        "qty": "1"
+    }
+]

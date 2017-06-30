@@ -1,0 +1,45 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>( packed ) fresh</span><span class='name'>mint leaves</span>",
+        "comment": "(packed) fresh",
+        "unit": "cup",
+        "name": "mint leaves",
+        "input": "1 cup (packed) fresh mint leaves",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>large</span><span class='name'>tomatoes</span><span class='comment'>, each cut horizontally into 4 round slices</span>",
+        "qty": "6",
+        "comment": "large, each cut horizontally into 4 round slices",
+        "input": "6 large tomatoes, each cut horizontally into 4 round slices",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>basil</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "basil",
+        "input": "2 tablespoons chopped fresh basil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Additional fresh</span><span class='name'>mint leaves</span>",
+        "comment": "Additional fresh",
+        "input": "Additional fresh mint leaves",
+        "name": "mint leaves"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium</span><span class='name'>Delicata squash</span><span class='comment'>( about 3 pounds )</span><span class='other'>,</span><span class='comment'>halved lengthwise</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>and cut into 1/4-inch thick slices</span>",
+        "comment": "medium (about 3 pounds) halved lengthwise seeded and cut into 1/4-inch thick slices",
+        "other": ",, ,",
+        "name": "Delicata squash",
+        "input": "3 medium Delicata squash (about 3 pounds), halved lengthwise, seeded, and cut into 1/4-inch thick slices",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium red</span><span class='name'>onions</span><span class='comment'>, halved lengthwise and cut into 1/2-inch rings</span>",
+        "qty": "2",
+        "comment": "medium red, halved lengthwise and cut into 1/2-inch rings",
+        "input": "2 medium red onions, halved lengthwise and cut into 1/2-inch rings",
+        "name": "onions"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>peeled and smashed</span>",
+        "comment": "peeled and smashed",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "5 garlic cloves, peeled and smashed",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>fresh</span><span class='name'>thyme</span><span class='comment'>sprigs</span>",
+        "qty": "4",
+        "comment": "fresh sprigs",
+        "input": "4 fresh thyme sprigs",
+        "name": "thyme"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>red-pepper flakes</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon red-pepper flakes",
+        "name": "red-pepper flakes"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>maple syrup</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons maple syrup",
+        "name": "maple syrup"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "input": "freshly ground black pepper",
+        "name": "black pepper"
+    }
+]

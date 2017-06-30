@@ -1,0 +1,50 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>green beans</span><span class='comment'>, trimmed and cut into 2-inch pieces</span>",
+        "comment": ", trimmed and cut into 2-inch pieces",
+        "unit": "pound",
+        "name": "green beans",
+        "input": "1 pound green beans, trimmed and cut into 2-inch pieces",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>russet</span><span class='comment'>( baking )</span><span class='name'>potatoes</span><span class='comment'>, peeled and cut into 1-inch pieces</span>",
+        "comment": "(baking), peeled and cut into 1-inch pieces",
+        "unit": "pound",
+        "name": "russet potatoes",
+        "input": "2 pounds russet (baking) potatoes, peeled and cut into 1-inch pieces",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 large garlic cloves, minced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>28-ounces ) can whole</span><span class='name'>tomatoes</span><span class='comment'>in juice</span>",
+        "comment": "28-ounces) can whole in juice",
+        "other": "(",
+        "name": "tomatoes",
+        "input": "1 (28-ounces) can whole tomatoes in juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sesame seeds</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sesame seeds",
+        "name": "sesame seeds"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='comment'>large ( 8- to 9-ounce ) bunches fresh</span><span class='name'>spinach</span><span class='other'>,</span><span class='comment'>stem ends and roots trimmed</span><span class='other'>,</span><span class='comment'>rinsed well</span>",
+        "comment": "large (8- to 9-ounce) bunches fresh stem ends and roots trimmed rinsed well",
+        "other": ", ,",
+        "name": "spinach",
+        "input": "5 large (8- to 9-ounce) bunches fresh spinach, stem ends and roots trimmed, rinsed well",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>teaspoons</span><span class='name'>oriental sesame oil</span>",
+        "unit": "teaspoon",
+        "qty": "4",
+        "input": "4 teaspoons oriental sesame oil",
+        "name": "oriental sesame oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>unseasoned</span><span class='name'>rice vinegar</span>",
+        "comment": "unseasoned",
+        "unit": "tablespoon",
+        "name": "rice vinegar",
+        "input": "1 tablespoon unseasoned rice vinegar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>hot pepper sauce</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon hot pepper sauce",
+        "name": "hot pepper sauce"
+    }
+]

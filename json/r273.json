@@ -1,0 +1,32 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>raw</span><span class='name'>macadamia nuts</span>",
+        "comment": "raw",
+        "unit": "cup",
+        "name": "macadamia nuts",
+        "input": "2 cups raw macadamia nuts",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 teaspoon kosher salt",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Juice from</span><span class='qty'>1/2</span><span class='comment'>medium</span><span class='name'>lemon</span><span class='comment'>( about 1 tablespoon )</span>",
+        "qty": "1/2",
+        "comment": "Juice from medium (about 1 tablespoon)",
+        "input": "Juice from 1/2 medium lemon (about 1 tablespoon)",
+        "name": "lemon"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    }
+]

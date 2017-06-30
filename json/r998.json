@@ -1,0 +1,73 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>fennel</span><span class='unit'>bulbs</span><span class='comment'>with fronds</span>",
+        "comment": "medium with fronds",
+        "unit": "bulb",
+        "name": "fennel",
+        "input": "2 medium fennel bulbs with fronds",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='name'>carrots</span><span class='other'>,</span><span class='comment'>coarsely grated</span>",
+        "comment": "coarsely grated",
+        "other": ",",
+        "name": "carrots",
+        "input": "5 carrots, coarsely grated",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>balsamic vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon balsamic vinegar",
+        "name": "balsamic vinegar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>Spanish</span><span class='name'>green olives</span><span class='comment'>, pitted and finely chopped</span>",
+        "comment": "Spanish, pitted and finely chopped",
+        "unit": "cup",
+        "name": "green olives",
+        "input": "1/4 cup Spanish green olives, pitted and finely chopped",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>dried Aleppo</span><span class='name'>chile</span><span class='other'>or</span><span class='comment'>Espelette pepper flakes ( optional ) , or to taste</span>",
+        "comment": "dried Aleppo Espelette pepper flakes (optional), or to taste",
+        "other": "or",
+        "unit": "teaspoon",
+        "name": "chile",
+        "input": "3/4 teaspoon dried Aleppo chile or Espelette pepper flakes (optional), or to taste",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>sun-dried</span><span class='name'>tomatoes</span><span class='comment'>packed in oil , drained and very thinly sliced</span>",
+        "qty": "6",
+        "comment": "sun-dried packed in oil, drained and very thinly sliced",
+        "input": "6 sun-dried tomatoes packed in oil, drained and very thinly sliced",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped flat-leaf</span><span class='name'>parsley</span>",
+        "comment": "chopped flat-leaf",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "2 tablespoons chopped flat-leaf parsley",
+        "qty": "2"
+    }
+]

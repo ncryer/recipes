@@ -1,0 +1,78 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='comment'>lb</span><span class='name'>tomatoes</span><span class='comment'>, chopped ( 4 cups )</span>",
+        "qty": "1 1/2",
+        "comment": "lb, chopped (4 cups)",
+        "input": "1 1/2 lb tomatoes, chopped (4 cups)",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>lb peaches</span><span class='other'>,</span><span class='comment'>pitted and chopped ( 2 cups )</span>",
+        "comment": "pitted and chopped (2 cups)",
+        "other": ",",
+        "name": "lb peaches",
+        "input": "1 lb peaches, pitted and chopped (2 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>crushed</span><span class='name'>ice</span>",
+        "comment": "crushed",
+        "unit": "cup",
+        "name": "ice",
+        "input": "1/4 cup crushed ice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped</span><span class='name'>shallot</span><span class='comment'>( 1 medium )</span>",
+        "comment": "chopped (1 medium)",
+        "unit": "tablespoon",
+        "name": "shallot",
+        "input": "2 tablespoons chopped shallot (1 medium)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>white-wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons white-wine vinegar",
+        "name": "white-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>tarragon</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "tarragon",
+        "input": "1 tablespoon chopped fresh tarragon",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='other'>to</span><span class='range_end'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "other": "to",
+        "unit": "cup",
+        "name": "water",
+        "range_end": "1/2",
+        "input": "1/4 to 1/2 cup water",
+        "qty": "1/4"
+    }
+]

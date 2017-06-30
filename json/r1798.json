@@ -1,0 +1,24 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>fresh</span><span class='name'>orange juice</span><span class='comment'>, strained</span>",
+        "comment": "fresh, strained",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "3 cups fresh orange juice, strained",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>almond-flavored</span><span class='name'>liqueur</span><span class='comment'>such as Amaretto di Saronno , or to taste</span>",
+        "comment": "almond-flavored such as Amaretto di Saronno, or to taste",
+        "unit": "cup",
+        "name": "liqueur",
+        "input": "1/4 cup almond-flavored liqueur such as Amaretto di Saronno, or to taste",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='comment'>A 750-ml. bottle</span><span class='name'>chilled sparkling wine</span><span class='comment'>such as Freixenet</span>",
+        "comment": "A 750-ml. bottle such as Freixenet",
+        "input": "A 750-ml. bottle chilled sparkling wine such as Freixenet",
+        "name": "chilled sparkling wine"
+    }
+]

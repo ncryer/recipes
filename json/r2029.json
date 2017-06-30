@@ -1,0 +1,60 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>pineapple juice</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup pineapple juice",
+        "name": "pineapple juice"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>peach-passion fruit nectar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup peach-passion fruit nectar",
+        "name": "peach-passion fruit nectar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>guava nectar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup guava nectar",
+        "name": "guava nectar"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>dark rum</span>",
+        "unit": "tablespoon",
+        "qty": "6",
+        "input": "6 tablespoons dark rum",
+        "name": "dark rum"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>teaspoons</span><span class='name'>grenadine</span>",
+        "unit": "teaspoon",
+        "qty": "4",
+        "input": "4 teaspoons grenadine",
+        "name": "grenadine"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "1 tablespoon fresh lime juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>fresh</span><span class='name'>pineapple</span><span class='comment'>wedges ( optional</span><span class='other'>)</span>",
+        "comment": "fresh wedges (optional",
+        "other": ")",
+        "name": "pineapple",
+        "input": "4 fresh pineapple wedges (optional)",
+        "qty": "4"
+    }
+]

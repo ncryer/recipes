@@ -1,0 +1,120 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>canola oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup canola oil",
+        "name": "canola oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>sweet onions</span><span class='comment'>( Vidalia or Walla Walla ) , diced medium</span>",
+        "comment": "(Vidalia or Walla Walla), diced medium",
+        "unit": "pound",
+        "name": "sweet onions",
+        "input": "2 pounds sweet onions (Vidalia or Walla Walla), diced medium",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='comment'>Yukon Gold</span><span class='name'>potatoes</span><span class='comment'>, peeled and sliced</span><span class='other'>,</span><span class='comment'>cut into 3/4-inch chunks</span>",
+        "comment": "Yukon Gold, peeled and sliced cut into 3/4-inch chunks",
+        "other": ",",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "1 1/2 pounds Yukon Gold potatoes, peeled and sliced, cut into 3/4-inch chunks",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>canola oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup canola oil",
+        "name": "canola oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>onion</span><span class='comment'>, finely chopped</span>",
+        "qty": "1",
+        "comment": "small, finely chopped",
+        "input": "1 small onion, finely chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon pepper",
+        "name": "pepper"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='name'>nonhydrogenated margarine</span><span class='comment'>( or 1/4 cup canola</span><span class='name'>oil</span><span class='comment'>and 1/4 teaspoon salt )</span>",
+        "comment": "(or 1/4 cup canola and 1/4 teaspoon salt)",
+        "unit": "tablespoon",
+        "name": "nonhydrogenated margarine oil",
+        "input": "4 tablespoons nonhydrogenated margarine (or 1/4 cup canola oil and 1/4 teaspoon salt)",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>10</span><span class='unit'>ounces</span><span class='name'>mushrooms</span><span class='comment'>, sliced ( about 3 cups )</span>",
+        "comment": ", sliced (about 3 cups)",
+        "unit": "ounce",
+        "name": "mushrooms",
+        "input": "10 ounces mushrooms, sliced (about 3 cups)",
+        "qty": "10"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>sauerkraut</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups sauerkraut",
+        "name": "sauerkraut"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon pepper",
+        "name": "pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>warm</span><span class='name'>water</span>",
+        "comment": "warm",
+        "unit": "cup",
+        "name": "water",
+        "input": "1 cup warm water",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>canola oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons canola oil",
+        "name": "canola oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>all-purpose flour</span><span class='other'>, divided ,</span><span class='comment'>plus a little extra for sprinkling</span>",
+        "comment": "plus a little extra for sprinkling",
+        "other": ", divided ,",
+        "unit": "cup",
+        "name": "all-purpose flour",
+        "input": "3 cups all-purpose flour, divided, plus a little extra for sprinkling",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='name'>Applesauce</span>",
+        "input": "Applesauce",
+        "name": "Applesauce"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "display": "<span class='qty'>5 1/2</span><span class='unit'>cups</span><span class='name'>all-purpose flour</span><span class='other'>,</span><span class='comment'>plus more as needed for dusting</span>",
+        "comment": "plus more as needed for dusting",
+        "other": ",",
+        "unit": "cup",
+        "name": "all-purpose flour",
+        "input": "5 1/2 cups all-purpose flour, plus more as needed for dusting",
+        "qty": "5 1/2"
+    },
+    {
+        "display": "<span class='other'>1 tablespoon plus 1</span><span class='unit'>teaspoon</span><span class='other'>instant</span><span class='name'>dry yeast</span>",
+        "unit": "teaspoon",
+        "other": "1 tablespoon plus 1 instant",
+        "input": "1 tablespoon plus 1 teaspoon instant dry yeast",
+        "name": "dry yeast"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>warm</span><span class='name'>water</span><span class='comment'>( 90\u00b0-110\u00b0F</span><span class='other'>)</span>",
+        "comment": "warm (90\u00b0-110\u00b0F",
+        "other": ")",
+        "unit": "cup",
+        "name": "water",
+        "input": "2 cups warm water (90\u00b0-110\u00b0F)",
+        "qty": "2"
+    }
+]

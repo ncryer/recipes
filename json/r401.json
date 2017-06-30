@@ -1,0 +1,31 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>Marcona</span><span class='name'>almonds</span>",
+        "comment": "Marcona",
+        "unit": "cup",
+        "name": "almonds",
+        "input": "2 cups Marcona almonds",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>smoked paprika</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon smoked paprika",
+        "name": "smoked paprika"
+    },
+    {
+        "display": "<span class='name'>Flaky sea salt</span><span class='other'>(</span><span class='comment'>such as Maldon</span><span class='other'>)</span>",
+        "comment": "such as Maldon",
+        "input": "Flaky sea salt (such as Maldon)",
+        "name": "Flaky sea salt",
+        "other": "()"
+    }
+]

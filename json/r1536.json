@@ -1,0 +1,39 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>raw</span><span class='name'>almond butter</span><span class='other'>,</span><span class='comment'>at room temperature</span>",
+        "comment": "raw at room temperature",
+        "other": ",",
+        "unit": "cup",
+        "name": "almond butter",
+        "input": "1 cup raw almond butter, at room temperature",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>maple syrup</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup maple syrup",
+        "name": "maple syrup"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>Green & Black's Organic cocoa powder</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup Green & Black's Organic cocoa powder",
+        "name": "Green & Black's Organic cocoa powder"
+    },
+    {
+        "display": "<span class='comment'>Seeds from</span><span class='qty'>1/4</span><span class='name'>vanilla bean</span>",
+        "qty": "1/4",
+        "comment": "Seeds from",
+        "input": "Seeds from 1/4 vanilla bean",
+        "name": "vanilla bean"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>nama shoyu</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons nama shoyu",
+        "name": "nama shoyu"
+    }
+]

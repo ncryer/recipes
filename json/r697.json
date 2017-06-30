@@ -1,0 +1,30 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium red</span><span class='name'>onion</span><span class='comment'>, thinly sliced ( about 1 cup )</span>",
+        "qty": "1",
+        "comment": "medium red, thinly sliced (about 1 cup)",
+        "input": "1 medium red onion, thinly sliced (about 1 cup)",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>red wine vinegar</span><span class='comment'>or apple cider</span><span class='name'>vinegar</span>",
+        "comment": "or apple cider",
+        "unit": "cup",
+        "name": "red wine vinegar vinegar",
+        "input": "1/4 cup red wine vinegar or apple cider vinegar",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    }
+]

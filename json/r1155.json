@@ -1,0 +1,51 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>ounces</span><span class='comment'>thin</span><span class='name'>spaghetti</span>",
+        "comment": "thin",
+        "unit": "ounce",
+        "name": "spaghetti",
+        "input": "8 ounces thin spaghetti",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pints</span><span class='name'>cherry tomatoes</span><span class='comment'>( such as orange</span><span class='other'>,</span><span class='comment'>red</span><span class='other'>,</span><span class='comment'>and yellow teardrop varieties )</span>",
+        "comment": "(such as orange red and yellow teardrop varieties)",
+        "other": ", ,",
+        "unit": "pint",
+        "name": "cherry tomatoes",
+        "input": "2 pints cherry tomatoes (such as orange, red, and yellow teardrop varieties)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>peeled and finely chopped</span>",
+        "comment": "peeled and finely chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, peeled and finely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "4 tablespoons extra-virgin olive oil",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>arugula</span><span class='comment'>( optional</span><span class='other'>)</span>",
+        "comment": "fresh (optional",
+        "other": ")",
+        "unit": "cup",
+        "name": "arugula",
+        "input": "1 cup fresh arugula (optional)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span><span class='comment'>to taste</span>",
+        "comment": "Kosher freshly ground to taste",
+        "input": "Kosher salt and freshly ground black pepper to taste",
+        "name": "salt and black pepper"
+    }
+]

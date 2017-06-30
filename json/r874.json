@@ -1,0 +1,62 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>dried cannellini ( white kidney beans )</span>",
+        "unit": "pound",
+        "qty": "1",
+        "input": "1 pound dried cannellini (white kidney beans)",
+        "name": "dried cannellini (white kidney beans)"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='name'>room-temperature water</span>",
+        "unit": "cup",
+        "qty": "8",
+        "input": "8 cups room-temperature water",
+        "name": "room-temperature water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='unit'>head</span><span class='other'>of</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>unpeeled</span><span class='other'>,</span><span class='comment'>top 1/2 inch cut off to expose cloves</span>",
+        "comment": "unpeeled top 1/2 inch cut off to expose cloves",
+        "other": "large of, ,",
+        "unit": "head",
+        "name": "garlic",
+        "input": "1 large head of garlic, unpeeled, top 1/2 inch cut off to expose cloves",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large fresh</span><span class='name'>sage sprig</span>",
+        "qty": "1",
+        "comment": "large fresh",
+        "input": "1 large fresh sage sprig",
+        "name": "sage sprig"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>whole</span><span class='name'>black peppercorns</span>",
+        "comment": "whole",
+        "unit": "teaspoon",
+        "name": "black peppercorns",
+        "input": "1/4 teaspoon whole black peppercorns",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>coarse kosher</span><span class='name'>salt</span>",
+        "comment": "coarse kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 teaspoon coarse kosher salt",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Extra-virgin</span><span class='name'>olive oil</span><span class='other'>(</span><span class='comment'>for drizzling )</span>",
+        "comment": "Extra-virgin for drizzling)",
+        "input": "Extra-virgin olive oil (for drizzling)",
+        "name": "olive oil",
+        "other": "("
+    }
+]

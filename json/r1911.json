@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pint</span><span class='comment'>vine-ripened cherry</span><span class='name'>tomatoes</span>",
+        "comment": "vine-ripened cherry",
+        "unit": "pint",
+        "name": "tomatoes",
+        "input": "1 pint vine-ripened cherry tomatoes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>pepper-flavored</span><span class='name'>vodka</span>",
+        "comment": "pepper-flavored",
+        "unit": "cup",
+        "name": "vodka",
+        "input": "1/2 cup pepper-flavored vodka",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>coarse or fine sea</span><span class='name'>salt</span>",
+        "comment": "coarse or fine sea",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "3 tablespoons coarse or fine sea salt",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>lemon pepper</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon lemon pepper",
+        "name": "lemon pepper"
+    }
+]

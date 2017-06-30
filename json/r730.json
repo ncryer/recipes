@@ -1,0 +1,84 @@
+[
+    {
+        "display": "<span class='qty'>2 1/4</span><span class='unit'>pounds</span><span class='name'>tomatoes</span>",
+        "unit": "pound",
+        "qty": "2 1/4",
+        "input": "2 1/4 pounds tomatoes",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>sea salt</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons sea salt",
+        "name": "sea salt"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>peeled and sliced</span>",
+        "comment": "peeled and sliced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 garlic cloves, peeled and sliced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2 1/4</span><span class='unit'>pounds</span><span class='comment'>young , small</span><span class='name'>beets</span><span class='comment'>, trimmed</span>",
+        "comment": "young, small, trimmed",
+        "unit": "pound",
+        "name": "beets",
+        "input": "2 1/4 pounds young, small beets, trimmed",
+        "qty": "2 1/4"
+    },
+    {
+        "display": "<span class='name'>Olive oil</span><span class='other'>,</span><span class='comment'>for drizzling</span>",
+        "comment": "for drizzling",
+        "input": "Olive oil, for drizzling",
+        "name": "Olive oil",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='comment'>granulated</span><span class='name'>sugar</span>",
+        "comment": "granulated",
+        "unit": "cup",
+        "name": "sugar",
+        "input": "1 1/4 cups granulated sugar",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>red wine vinegar</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>balsamic vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons balsamic vinegar",
+        "name": "balsamic vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large red</span><span class='name'>onion</span><span class='comment'>, peeled and finely chopped</span>",
+        "qty": "1",
+        "comment": "large red, peeled and finely chopped",
+        "input": "1 large red onion, peeled and finely chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>ounces</span><span class='comment'>freshly grated</span><span class='name'>horseradish root</span><span class='comment'>( or pickled horseradish , see below )</span>",
+        "comment": "freshly grated (or pickled horseradish, see below)",
+        "unit": "ounce",
+        "name": "horseradish root",
+        "input": "2 ounces freshly grated horseradish root (or pickled horseradish, see below)",
+        "qty": "2"
+    }
+]

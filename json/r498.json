@@ -1,0 +1,87 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>red bell pepper</span><span class='comment'>( about 7 ounces ) or 1 roasted red pepper from jar</span>",
+        "qty": "1",
+        "comment": "small (about 7 ounces) or 1 roasted red pepper from jar",
+        "input": "1 small red bell pepper (about 7 ounces) or 1 roasted red pepper from jar",
+        "name": "red bell pepper"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>red jalape\u00f1os</span><span class='comment'>or Fresno chiles</span>",
+        "qty": "3",
+        "comment": "or Fresno chiles",
+        "input": "3 red jalape\u00f1os or Fresno chiles",
+        "name": "red jalape\u00f1os"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 garlic cloves, minced",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span><span class='comment'>plus more for seasoning</span>",
+        "comment": "kosher plus more for seasoning",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 teaspoon kosher salt plus more for seasoning",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": ", divided",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons olive oil, divided",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>coriander</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "coriander",
+        "input": "1/4 teaspoon ground coriander",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1/4 teaspoon ground cumin",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>green beans</span><span class='comment'>, ends trimmed</span>",
+        "comment": ", ends trimmed",
+        "unit": "pound",
+        "name": "green beans",
+        "input": "2 pounds green beans, ends trimmed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>roasted unsalted</span><span class='name'>almonds</span><span class='comment'>, coarsely chopped</span>",
+        "comment": "roasted unsalted, coarsely chopped",
+        "unit": "cup",
+        "name": "almonds",
+        "input": "1/4 cup roasted unsalted almonds, coarsely chopped",
+        "qty": "1/4"
+    }
+]

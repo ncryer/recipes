@@ -1,0 +1,22 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>Ruby Red pink grapefruits</span>",
+        "qty": "2",
+        "input": "2 Ruby Red pink grapefruits",
+        "name": "Ruby Red pink grapefruits"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>750-ml bottle brut</span><span class='name'>Champagne</span><span class='comment'>, well chilled</span>",
+        "qty": "1",
+        "comment": "750-ml bottle brut, well chilled",
+        "input": "1 750-ml bottle brut Champagne, well chilled",
+        "name": "Champagne"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "display": "<span class='qty'>4 1/2</span><span class='other'>to</span><span class='range_end'>5</span><span class='unit'>cups</span><span class='comment'>1/2-inch cubes peeled seeded</span><span class='name'>butternut squash</span><span class='other'>(</span><span class='comment'>from about one 2-pound squash )</span>",
+        "comment": "1/2-inch cubes peeled seeded from about one 2-pound squash)",
+        "other": "to (",
+        "unit": "cup",
+        "qty": "4 1/2",
+        "range_end": "5",
+        "input": "4 1/2 to 5 cups 1/2-inch cubes peeled seeded butternut squash (from about one 2-pound squash)",
+        "name": "butternut squash"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>Pinch of</span><span class='name'>dried crushed red pepper</span>",
+        "other": "Pinch of",
+        "input": "Pinch of dried crushed red pepper",
+        "name": "dried crushed red pepper"
+    },
+    {
+        "display": "<span class='name'>Coarse</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "input": "Coarse kosher salt",
+        "name": "Coarse salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>orange juice</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons orange juice",
+        "name": "orange juice"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>walnut oil</span><span class='comment'>or other nut</span><span class='name'>oil</span>",
+        "comment": "or other nut",
+        "unit": "tablespoon",
+        "name": "walnut oil oil",
+        "input": "1 1/2 tablespoons walnut oil or other nut oil",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "1 1/2 teaspoons fresh lemon juice",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>ounces</span><span class='name'>arugula</span><span class='other'>(</span><span class='comment'>about 8 cups lightly packed )</span>",
+        "comment": "about 8 cups lightly packed)",
+        "other": "(",
+        "unit": "ounce",
+        "name": "arugula",
+        "input": "4 ounces arugula (about 8 cups lightly packed)",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>walnuts</span><span class='other'>,</span>",
+        "other": ",",
+        "unit": "cup",
+        "name": "walnuts",
+        "input": "1/2 cup walnuts ,",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>,</span><span class='comment'>coarsely chopped</span>",
+        "comment": "coarsely chopped",
+        "input": ", coarsely chopped",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>pomegranate seeds</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup pomegranate seeds",
+        "name": "pomegranate seeds"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>pomegranate molasses*</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons pomegranate molasses*",
+        "name": "pomegranate molasses*"
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='other'>small</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": "small ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1/2 small garlic clove, finely chopped",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>white wine vinegar</span><span class='comment'>or fresh</span><span class='name'>lemon juice</span>",
+        "comment": "or fresh",
+        "unit": "teaspoon",
+        "name": "white wine vinegar lemon juice",
+        "input": "2 teaspoons white wine vinegar or fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>chives</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "chives",
+        "input": "1 tablespoon chopped fresh chives",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='name'>salad greens and</span><span class='comment'>fresh herb leaves and tender stems</span>",
+        "comment": "fresh herb leaves and tender stems",
+        "unit": "cup",
+        "name": "salad greens and",
+        "input": "8 cups salad greens and fresh herb leaves and tender stems",
+        "qty": "8"
+    }
+]

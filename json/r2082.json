@@ -1,0 +1,21 @@
+[
+    {
+        "display": "<span class='name'>Note: Also great mixed into mashed potatoes.</span>",
+        "input": "Note: Also great mixed into mashed potatoes.",
+        "name": "Note: Also great mixed into mashed potatoes."
+    },
+    {
+        "display": "<span class='other'>large</span><span class='unit'>heads</span><span class='other'>of</span><span class='name'>garlic</span>",
+        "unit": "head",
+        "other": "large of",
+        "input": "large heads of garlic",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    }
+]

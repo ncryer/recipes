@@ -1,0 +1,102 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>sliced</span><span class='name'>almonds</span>",
+        "comment": "sliced",
+        "unit": "cup",
+        "name": "almonds",
+        "input": "1/4 cup sliced almonds",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='unit'>head</span><span class='name'>cauliflower</span><span class='comment'>( about 2 pounds ) , coarsely chopped</span>",
+        "comment": "medium (about 2 pounds), coarsely chopped",
+        "unit": "head",
+        "name": "cauliflower",
+        "input": "1 medium head cauliflower (about 2 pounds), coarsely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>low-sodium vegetable or chicken broth</span>",
+        "unit": "cup",
+        "comment": "low-sodium vegetable or chicken broth",
+        "input": "1/2 cup low-sodium vegetable or chicken broth",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>honey</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons honey",
+        "name": "honey"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "3/4 teaspoon ground cumin",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>turmeric</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "turmeric",
+        "input": "3/4 teaspoon ground turmeric",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>paprika</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon paprika",
+        "name": "paprika"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cinnamon</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cinnamon",
+        "input": "1/2 teaspoon ground cinnamon",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "3/4 teaspoon kosher salt",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/4 teaspoon freshly ground black pepper",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>dried</span><span class='name'>currants</span><span class='comment'>or raisins</span>",
+        "comment": "dried or raisins",
+        "unit": "cup",
+        "name": "currants",
+        "input": "1/4 cup dried currants or raisins",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>sliced dried</span><span class='name'>apricots</span>",
+        "comment": "sliced dried",
+        "unit": "cup",
+        "name": "apricots",
+        "input": "1/4 cup sliced dried apricots",
+        "qty": "1/4"
+    }
+]

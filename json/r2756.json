@@ -1,0 +1,26 @@
+[
+    {
+        "display": "<span class='qty'>20</span><span class='unit'>ounces</span><span class='name'>mint chocolate</span><span class='other'>(</span><span class='comment'>such as Ghirardelli ) , chopped</span>",
+        "comment": "such as Ghirardelli), chopped",
+        "other": "(",
+        "unit": "ounce",
+        "name": "mint chocolate",
+        "input": "20 ounces mint chocolate (such as Ghirardelli), chopped",
+        "qty": "20"
+    },
+    {
+        "display": "<span class='comment'>1 7.5-ounce package red-and-white-striped hard peppermint candies</span><span class='other'>,</span><span class='comment'>chopped ( about 1 generous cup )</span>",
+        "comment": "1 7.5-ounce package red-and-white-striped hard peppermint candies chopped (about 1 generous cup)",
+        "input": "1 7.5-ounce package red-and-white-striped hard peppermint candies, chopped (about 1 generous cup)",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>pecans</span><span class='other'>,</span><span class='comment'>toasted , chopped</span>",
+        "comment": "toasted, chopped",
+        "other": ",",
+        "unit": "cup",
+        "name": "pecans",
+        "input": "1 cup pecans, toasted, chopped",
+        "qty": "1"
+    }
+]

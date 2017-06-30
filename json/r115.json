@@ -1,0 +1,136 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>onion</span><span class='comment'>, diced</span>",
+        "qty": "1",
+        "comment": "small, diced",
+        "input": "1 small onion, diced",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>stalk</span><span class='name'>celery</span><span class='other'>,</span><span class='comment'>diced</span>",
+        "comment": "diced",
+        "other": ",",
+        "unit": "stalk",
+        "name": "celery",
+        "input": "1 stalk celery, diced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>carrot</span><span class='other'>,</span><span class='comment'>diced</span>",
+        "comment": "diced",
+        "other": ",",
+        "name": "carrot",
+        "input": "1 carrot, diced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>paprika</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon paprika",
+        "name": "paprika"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cinnamon</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cinnamon",
+        "input": "1/2 teaspoon ground cinnamon",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1/2 teaspoon ground cumin",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>fresh</span><span class='name'>ginger</span><span class='comment'>, grated or 1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>ginger</span>",
+        "comment": "fresh, grated or 1/4 ground",
+        "unit": "teaspoon teaspoon",
+        "name": "ginger ginger",
+        "input": "1/2 teaspoon fresh ginger, grated or 1/4 teaspoon ground ginger",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>14.5-ounce ) can diced</span><span class='name'>tomatoes</span>",
+        "comment": "14.5-ounce) can diced",
+        "other": "(",
+        "name": "tomatoes",
+        "input": "1 (14.5-ounce) can diced tomatoes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>butternut squash</span><span class='other'>,</span><span class='comment'>peeled and cut into chunks ( about 2 cups )</span>",
+        "comment": "small peeled and cut into chunks (about 2 cups)",
+        "other": ",",
+        "name": "butternut squash",
+        "input": "1 small butternut squash, peeled and cut into chunks (about 2 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>cauliflower florets</span><span class='comment'>(</span><span class='qty'>1</span><span class='other'>small</span><span class='comment'>head )</span>",
+        "comment": "(head)",
+        "other": "small",
+        "unit": "cup",
+        "name": "cauliflower florets",
+        "input": "2 cups cauliflower florets (1 small head)",
+        "qty": "2 1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>low sodium vegetable broth</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups low sodium vegetable broth",
+        "name": "low sodium vegetable broth"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>cooked</span><span class='name'>chickpeas</span><span class='comment'>or 1 ( 15-ounce ) can , rinsed and drained</span>",
+        "comment": "cooked or 1 (15-ounce) can, rinsed and drained",
+        "unit": "cup",
+        "name": "chickpeas",
+        "input": "2 cups cooked chickpeas or 1 (15-ounce) can, rinsed and drained",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>raisins</span><span class='comment'>or currants</span>",
+        "comment": "or currants",
+        "unit": "cup",
+        "name": "raisins",
+        "input": "1/4 cup raisins or currants",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>cooked</span><span class='name'>couscous</span>",
+        "comment": "cooked",
+        "unit": "cup",
+        "name": "couscous",
+        "input": "3 cups cooked couscous",
+        "qty": "3"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>extra-long-grain rice</span><span class='comment'>( rices grown in the southern United States and jasmine rice from Thailand are preferred )</span>",
+        "comment": "(rices grown in the southern United States and jasmine rice from Thailand are preferred)",
+        "unit": "cup",
+        "name": "extra-long-grain rice",
+        "input": "2 cups extra-long-grain rice (rices grown in the southern United States and jasmine rice from Thailand are preferred)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>15</span><span class='unit'>ounces</span><span class='comment'>cold</span><span class='name'>water</span>",
+        "comment": "cold",
+        "unit": "ounce",
+        "name": "water",
+        "input": "15 ounces cold water",
+        "qty": "15"
+    }
+]

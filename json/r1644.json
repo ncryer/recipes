@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>pliable dried</span><span class='name'>ancho chile* ( less than 1/2 oz )</span>",
+        "qty": "1",
+        "comment": "pliable dried",
+        "input": "1 pliable dried ancho chile* (less than 1/2 oz)",
+        "name": "ancho chile* (less than 1/2 oz)"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3",
+        "input": "3 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>fresh</span><span class='name'>raspberries</span><span class='comment'>( 6 oz</span><span class='other'>)</span>",
+        "comment": "fresh (6 oz",
+        "other": ")",
+        "unit": "cup",
+        "name": "raspberries",
+        "input": "1 1/2 cups fresh raspberries (6 oz)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "1/2 teaspoon fresh lemon juice",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>firm-ripe large</span><span class='name'>peaches</span><span class='comment'>( preferably freestone</span><span class='other'>)</span>",
+        "comment": "firm-ripe large (preferably freestone",
+        "other": ")",
+        "name": "peaches",
+        "input": "2 firm-ripe large peaches (preferably freestone)",
+        "qty": "2"
+    }
+]

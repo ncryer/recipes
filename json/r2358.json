@@ -1,0 +1,26 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>pound</span><span class='name'>spinach</span><span class='other'>(</span><span class='comment'>about</span><span class='qty'>1</span><span class='comment'>bunch</span><span class='other'>)</span>",
+        "comment": "about bunch",
+        "other": "()",
+        "unit": "pound",
+        "name": "spinach",
+        "input": "3/4 pound spinach (about 1 bunch)",
+        "qty": "3/4 1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>shallots</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "large minced",
+        "other": ",",
+        "name": "shallots",
+        "input": "2 large shallots, minced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    }
+]

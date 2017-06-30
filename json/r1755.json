@@ -1,0 +1,51 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": ", divided",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "4 tablespoons olive oil, divided",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>shallot</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "name": "shallot",
+        "input": "1 shallot, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>coarse fresh</span><span class='name'>breadcrumbs</span><span class='comment'>made from crustless French</span><span class='name'>bread</span>",
+        "comment": "coarse fresh made from crustless French",
+        "unit": "cup",
+        "name": "breadcrumbs bread",
+        "input": "1/2 cup coarse fresh breadcrumbs made from crustless French bread",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>grated</span><span class='name'>lemon peel</span>",
+        "comment": "grated",
+        "unit": "teaspoon",
+        "name": "lemon peel",
+        "input": "2 teaspoons grated lemon peel",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>broccoli</span><span class='comment'>, stems removed</span><span class='other'>,</span><span class='comment'>tops cut into 2-inch-long florets</span>",
+        "comment": ", stems removed tops cut into 2-inch-long florets",
+        "other": ",",
+        "unit": "pound",
+        "name": "broccoli",
+        "input": "2 pounds broccoli, stems removed, tops cut into 2-inch-long florets",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons fresh lemon juice",
+        "qty": "2"
+    }
+]

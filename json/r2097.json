@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped drained canned</span><span class='name'>pickled jalape\u00f1o chilies</span>",
+        "comment": "chopped drained canned",
+        "unit": "tablespoon",
+        "name": "pickled jalape\u00f1o chilies",
+        "input": "2 tablespoons chopped drained canned pickled jalape\u00f1o chilies",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>sage</span><span class='comment'>or 2 teaspoons dried rubbed</span><span class='name'>sage</span>",
+        "comment": "chopped fresh or 2 teaspoons dried rubbed",
+        "unit": "tablespoon",
+        "name": "sage sage",
+        "input": "1 1/2 tablespoons chopped fresh sage or 2 teaspoons dried rubbed sage",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped</span><span class='name'>garlic</span>",
+        "comment": "chopped",
+        "unit": "tablespoon",
+        "name": "garlic",
+        "input": "1 tablespoon chopped garlic",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>2 15-ounce cans</span><span class='name'>cannellini</span><span class='comment'>( white kidney</span><span class='name'>beans</span><span class='comment'>) , drained</span>",
+        "comment": "2 15-ounce cans (white kidney), drained",
+        "input": "2 15-ounce cans cannellini (white kidney beans), drained",
+        "name": "cannellini beans"
+    },
+    {
+        "display": "<span class='qty'>1 3/4</span><span class='unit'>cups</span><span class='comment'>canned crushed</span><span class='name'>tomatoes</span><span class='comment'>with added puree</span>",
+        "comment": "canned crushed with added puree",
+        "unit": "cup",
+        "name": "tomatoes",
+        "input": "1 3/4 cups canned crushed tomatoes with added puree",
+        "qty": "1 3/4"
+    }
+]

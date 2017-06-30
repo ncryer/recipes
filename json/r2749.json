@@ -1,0 +1,38 @@
+[
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1 1/4",
+        "input": "1 1/4 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>jasmine blend tea bags</span>",
+        "qty": "3",
+        "input": "3 jasmine blend tea bags",
+        "name": "jasmine blend tea bags"
+    },
+    {
+        "display": "<span class='qty'>2 3/4</span><span class='unit'>pounds</span><span class='comment'>fresh</span><span class='name'>rhubarb</span><span class='comment'>, trimmed , cut into 2-inch lengths ( about 2 pounds trimmed )</span>",
+        "comment": "fresh, trimmed, cut into 2-inch lengths (about 2 pounds trimmed)",
+        "unit": "pound",
+        "name": "rhubarb",
+        "input": "2 3/4 pounds fresh rhubarb, trimmed, cut into 2-inch lengths (about 2 pounds trimmed)",
+        "qty": "2 3/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>minced peeled</span><span class='name'>ginger</span>",
+        "comment": "minced peeled",
+        "unit": "tablespoon",
+        "name": "ginger",
+        "input": "2 tablespoons minced peeled ginger",
+        "qty": "2"
+    }
+]

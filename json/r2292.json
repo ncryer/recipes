@@ -1,0 +1,68 @@
+[
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>sliced</span><span class='name'>almonds</span>",
+        "comment": "sliced",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup sliced almonds",
+        "name": "almonds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>mixed cup-up vegetables</span><span class='comment'>( such as red</span><span class='name'>onion , carrots , zucchini and cauliflower )</span>",
+        "comment": "(such as red",
+        "unit": "cup",
+        "name": "mixed cup-up vegetables onion, carrots, zucchini and cauliflower)",
+        "input": "3 cups mixed cup-up vegetables (such as red onion, carrots, zucchini and cauliflower)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1 1/2 teaspoons ground cumin",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>ground</span><span class='name'>coriander</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "coriander",
+        "input": "1 1/2 teaspoons ground coriander",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>dry white wine</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup dry white wine",
+        "name": "dry white wine"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>golden raisins</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup golden raisins",
+        "name": "golden raisins"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>canned</span><span class='name'>vegetable broth</span>",
+        "comment": "canned",
+        "unit": "cup",
+        "name": "vegetable broth",
+        "input": "3/4 cup canned vegetable broth",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='comment'>1 5- to 7-ounce box couscous and lentil mix or other couscous blend</span>",
+        "comment": "1 5- to 7-ounce box couscous and lentil mix or other couscous blend",
+        "input": "1 5- to 7-ounce box couscous and lentil mix or other couscous blend"
+    }
+]

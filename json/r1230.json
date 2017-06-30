@@ -1,0 +1,46 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>packed</span><span class='name'>mint leaves</span><span class='comment'>( peppermint or spearmint )</span>",
+        "comment": "packed (peppermint or spearmint)",
+        "unit": "cup",
+        "name": "mint leaves",
+        "input": "3 cups packed mint leaves (peppermint or spearmint)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>light</span><span class='name'>corn syrup</span>",
+        "comment": "light",
+        "unit": "tablespoon",
+        "name": "corn syrup",
+        "input": "1 tablespoon light corn syrup",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>pure</span><span class='name'>peppermint</span><span class='comment'>or spearmint extract</span>",
+        "comment": "pure or spearmint extract",
+        "unit": "teaspoon",
+        "name": "peppermint",
+        "input": "1/4 teaspoon pure peppermint or spearmint extract",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='comment'>Equipment:</span><span class='other'>a</span><span class='comment'>candy thermometer; 24 lollipop sticks; cellophane wrappers ( optional )</span>",
+        "comment": "Equipment: candy thermometer; 24 lollipop sticks; cellophane wrappers (optional)",
+        "input": "Equipment: a candy thermometer; 24 lollipop sticks; cellophane wrappers (optional)",
+        "other": "a"
+    }
+]

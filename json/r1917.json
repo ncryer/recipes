@@ -1,0 +1,34 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>red-skinned new</span><span class='name'>potatoes</span><span class='comment'>, quartered</span>",
+        "comment": "red-skinned new, quartered",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "1 pound red-skinned new potatoes, quartered",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>10</span><span class='unit'>ounces</span><span class='name'>sugar snap peas</span><span class='other'>,</span><span class='comment'>trimmed</span>",
+        "comment": "trimmed",
+        "other": ",",
+        "unit": "ounce",
+        "name": "sugar snap peas",
+        "input": "10 ounces sugar snap peas, trimmed",
+        "qty": "10"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>chives</span><span class='comment'>or green</span><span class='name'>onions</span>",
+        "comment": "chopped fresh or green",
+        "unit": "cup",
+        "name": "chives onions",
+        "input": "1/4 cup chopped fresh chives or green onions",
+        "qty": "1/4"
+    }
+]

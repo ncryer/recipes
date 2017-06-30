@@ -1,0 +1,82 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>onion</span><span class='other'>,</span><span class='comment'>roughly chopped</span>",
+        "comment": "small roughly chopped",
+        "other": ",",
+        "name": "onion",
+        "input": "1 small onion, roughly chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 garlic cloves, chopped",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>thyme</span><span class='comment'>, chopped</span>",
+        "comment": "fresh, chopped",
+        "unit": "tablespoon",
+        "name": "thyme",
+        "input": "3 tablespoons fresh thyme, chopped",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='comment'>Several dashes fresh</span><span class='name'>black pepper</span>",
+        "comment": "Several dashes fresh",
+        "input": "Several dashes fresh black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>vegetable broth</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups vegetable broth",
+        "name": "vegetable broth"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>flour</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup flour",
+        "name": "flour"
+    },
+    {
+        "display": "<span class='comment'>1 fifteen-ounce can</span><span class='name'>navy beans</span><span class='comment'>, drained and rinsed</span>",
+        "comment": "1 fifteen-ounce can, drained and rinsed",
+        "input": "1 fifteen-ounce can navy beans, drained and rinsed",
+        "name": "navy beans"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>soy sauce</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='other'>to</span><span class='range_end'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "other": "to",
+        "unit": "cup",
+        "name": "water",
+        "range_end": "1/2",
+        "input": "1/4 to 1/2 cup water",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='name'>Salt ,</span><span class='comment'>to taste ( if needed )</span>",
+        "comment": "to taste (if needed)",
+        "input": "Salt, to taste (if needed)",
+        "name": "Salt ,"
+    }
+]

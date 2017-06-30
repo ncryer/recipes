@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lime juice",
+        "input": "3/4 cup fresh lime juice",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='name'>sugar</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "unit": "cup",
+        "name": "sugar",
+        "input": "1 1/4 cups sugar, divided",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>white rum</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "unit": "cup",
+        "name": "white rum",
+        "input": "1/2 cup white rum, divided",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>fresh grapefruit juice</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups fresh grapefruit juice",
+        "name": "fresh grapefruit juice"
+    },
+    {
+        "display": "<span class='name'>Twelve 3-ounce ice-pop molds</span>",
+        "input": "Twelve 3-ounce ice-pop molds",
+        "name": "Twelve 3-ounce ice-pop molds"
+    }
+]

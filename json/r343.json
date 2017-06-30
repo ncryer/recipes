@@ -1,0 +1,84 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>quinoa</span><span class='comment'>( any color ) rinsed well</span>",
+        "comment": "(any color) rinsed well",
+        "unit": "cup",
+        "name": "quinoa",
+        "input": "1 1/2 cups quinoa (any color) rinsed well",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>teaspoons</span><span class='comment'>kosher</span><span class='name'>salt</span><span class='comment'>plus more</span>",
+        "comment": "kosher plus more",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "4 teaspoons kosher salt plus more",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium red</span><span class='name'>onion</span><span class='comment'>, sliced 1/4\" thick</span>",
+        "qty": "1",
+        "comment": "medium red, sliced 1/4\" thick",
+        "input": "1 medium red onion, sliced 1/4\" thick",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>apple cider vinegar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup apple cider vinegar",
+        "name": "apple cider vinegar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large ripe firm</span><span class='name'>peaches</span><span class='comment'>, cut into 1/2\" pieces</span>",
+        "qty": "2",
+        "comment": "large ripe firm, cut into 1/2\" pieces",
+        "input": "2 large ripe firm peaches, cut into 1/2\" pieces",
+        "name": "peaches"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>bunch</span><span class='name'>arugula</span><span class='comment'>, thick stems trimmed</span><span class='other'>,</span><span class='comment'>leaves torn ( about 2 cups )</span>",
+        "comment": ", thick stems trimmed leaves torn (about 2 cups)",
+        "other": ",",
+        "unit": "bunch",
+        "name": "arugula",
+        "input": "1/2 bunch arugula, thick stems trimmed, leaves torn (about 2 cups)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>small cherry</span><span class='name'>tomatoes</span><span class='comment'>( about 1 pint ) , halved</span>",
+        "comment": "small cherry (about 1 pint), halved",
+        "unit": "cup",
+        "name": "tomatoes",
+        "input": "2 cups small cherry tomatoes (about 1 pint), halved",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>1/2\" pieces chives</span><span class='comment'>, divided</span>",
+        "comment": ", divided",
+        "unit": "cup",
+        "name": "1/2\" pieces chives",
+        "input": "1/2 cup 1/2\" pieces chives, divided",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground black pepper",
+        "name": "black pepper"
+    }
+]

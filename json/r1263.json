@@ -1,0 +1,61 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>active dry yeast</span><span class='comment'>( from a 1/4-ounce package )</span>",
+        "comment": "(from a 1/4-ounce package)",
+        "unit": "teaspoon",
+        "name": "active dry yeast",
+        "input": "1 teaspoon active dry yeast (from a 1/4-ounce package)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>warm</span><span class='name'>water</span><span class='comment'>( 105-115\u00b0F ) , divided</span>",
+        "comment": "warm (105-115\u00b0F), divided",
+        "unit": "cup",
+        "name": "water",
+        "input": "1 1/2 cups warm water (105-115\u00b0F), divided",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>tablespoon</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "1/2",
+        "input": "1/2 tablespoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='name'>semolina flour</span>",
+        "unit": "cup",
+        "qty": "1 1/4",
+        "input": "1 1/4 cups semolina flour",
+        "name": "semolina flour"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>Italian \"00\"</span><span class='name'>flour</span>",
+        "comment": "Italian \"00\"",
+        "unit": "cup",
+        "name": "flour",
+        "input": "1 1/2 cups Italian \"00\" flour",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup extra-virgin olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='name'>Equipment: a stand mixer fitted</span><span class='comment'>with paddle attachment</span>",
+        "comment": "with paddle attachment",
+        "input": "Equipment: a stand mixer fitted with paddle attachment",
+        "name": "Equipment: a stand mixer fitted"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>small</span><span class='name'>shallots</span><span class='other'>,</span><span class='comment'>sliced into rings</span>",
+        "comment": "small sliced into rings",
+        "other": ",",
+        "name": "shallots",
+        "input": "2 small shallots, sliced into rings",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "6",
+        "input": "6 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>collard greens</span><span class='comment'>( about 10 ounces )</span><span class='other'>,</span><span class='comment'>center ribs and stems removed</span><span class='other'>,</span><span class='comment'>thinly sliced crosswise</span>",
+        "comment": "(about 10 ounces) center ribs and stems removed thinly sliced crosswise",
+        "other": ", ,",
+        "unit": "bunch",
+        "name": "collard greens",
+        "input": "1 bunch collard greens (about 10 ounces), center ribs and stems removed, thinly sliced crosswise",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>small</span><span class='name'>radishes</span><span class='comment'>, trimmed , sliced</span>",
+        "qty": "6",
+        "comment": "small, trimmed, sliced",
+        "input": "6 small radishes, trimmed, sliced",
+        "name": "radishes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>white wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons white wine vinegar",
+        "name": "white wine vinegar"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground black pepper",
+        "name": "black pepper"
+    }
+]

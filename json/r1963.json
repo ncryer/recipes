@@ -1,0 +1,39 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>coarsely chopped pitted Bing cherries</span>",
+        "unit": "cup",
+        "comment": "coarsely chopped pitted Bing cherries",
+        "input": "2 cups coarsely chopped pitted Bing cherries",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>fresh</span><span class='name'>raspberries</span><span class='comment'>or frozen unsweetened , thawed</span>",
+        "comment": "fresh or frozen unsweetened, thawed",
+        "unit": "cup",
+        "name": "raspberries",
+        "input": "2 cups fresh raspberries or frozen unsweetened, thawed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>cinnamon sticks</span><span class='other'>,</span><span class='comment'>broken in half</span>",
+        "comment": "broken in half",
+        "other": ",",
+        "name": "cinnamon sticks",
+        "input": "2 cinnamon sticks, broken in half",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>teaspoons</span><span class='name'>brandy</span>",
+        "unit": "teaspoon",
+        "qty": "4",
+        "input": "4 teaspoons brandy",
+        "name": "brandy"
+    }
+]

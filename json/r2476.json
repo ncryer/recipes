@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>jasmine rice</span><span class='comment'>or long-grain</span><span class='name'>white rice</span>",
+        "comment": "or long-grain",
+        "unit": "cup",
+        "name": "jasmine rice white rice",
+        "input": "1 1/2 cups jasmine rice or long-grain white rice",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>boiled</span><span class='name'>soybeans</span><span class='comment'>( edamame ) , shelled ( about 8 ounces )</span>",
+        "comment": "boiled (edamame), shelled (about 8 ounces)",
+        "unit": "pound",
+        "name": "soybeans",
+        "input": "1 pound boiled soybeans (edamame), shelled (about 8 ounces)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>peanut oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon peanut oil",
+        "name": "peanut oil"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>sesame seeds</span><span class='other'>,</span><span class='comment'>toasted</span>",
+        "comment": "toasted",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "sesame seeds",
+        "input": "1 1/2 tablespoons sesame seeds, toasted",
+        "qty": "1 1/2"
+    }
+]

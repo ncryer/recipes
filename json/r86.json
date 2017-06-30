@@ -1,0 +1,78 @@
+[
+    {
+        "display": "<span class='name'>Canola oil</span><span class='other'>(</span><span class='comment'>for frying; about 5-7 cups )</span>",
+        "comment": "for frying; about 5-7 cups)",
+        "input": "Canola oil (for frying; about 5-7 cups)",
+        "name": "Canola oil",
+        "other": "("
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>all-purpose flour</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups all-purpose flour",
+        "name": "all-purpose flour"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='name'>sugar</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "unit": "cup",
+        "name": "sugar",
+        "input": "1 1/4 cups sugar, divided",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cinnamon</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "ground divided",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "cinnamon",
+        "input": "1 teaspoon ground cinnamon, divided",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>cold</span><span class='name'>beer</span><span class='comment'>( preferably lager or pilsner )</span>",
+        "comment": "cold (preferably lager or pilsner)",
+        "unit": "cup",
+        "name": "beer",
+        "input": "1 1/2 cups cold beer (preferably lager or pilsner)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "3/4 teaspoon freshly ground black pepper",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cardamom</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cardamom",
+        "input": "3/4 teaspoon ground cardamom",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>Honeycrisp or other firm sweet-tart</span><span class='name'>apples</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>sliced into scant 1/4\"-thick rings ( 8-10 rings per apple )</span>",
+        "comment": "Honeycrisp or other firm sweet-tart peeled cored sliced into scant 1/4\"-thick rings (8-10 rings per apple)",
+        "other": ",, ,",
+        "name": "apples",
+        "input": "2 Honeycrisp or other firm sweet-tart apples, peeled, cored, sliced into scant 1/4\"-thick rings (8-10 rings per apple)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>A</span><span class='name'>candy thermometer</span>",
+        "comment": "A",
+        "input": "A candy thermometer",
+        "name": "candy thermometer"
+    }
+]

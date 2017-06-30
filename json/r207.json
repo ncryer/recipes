@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 garlic cloves, thinly sliced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='comment'>green and/or yellow runner</span><span class='name'>beans</span><span class='comment'>, trimmed</span>",
+        "comment": "green and/or yellow runner, trimmed",
+        "unit": "pound",
+        "name": "beans",
+        "input": "1 1/2 pounds green and/or yellow runner beans, trimmed",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>crushed</span><span class='name'>red pepper flakes</span>",
+        "comment": "crushed",
+        "unit": "teaspoon",
+        "name": "red pepper flakes",
+        "input": "1 teaspoon crushed red pepper flakes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground pepper",
+        "name": "salt pepper",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>lemon</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "halved",
+        "other": ",",
+        "name": "lemon",
+        "input": "1 lemon, halved",
+        "qty": "1"
+    }
+]

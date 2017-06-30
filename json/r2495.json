@@ -1,0 +1,18 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>pound</span><span class='name'>collard greens</span><span class='other'>,</span><span class='comment'>leaves halved lengthwise and stems and center ribs discarded</span>",
+        "comment": "leaves halved lengthwise and stems and center ribs discarded",
+        "other": ",",
+        "unit": "pound",
+        "name": "collard greens",
+        "input": "3 pound collard greens, leaves halved lengthwise and stems and center ribs discarded",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    }
+]

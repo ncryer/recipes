@@ -1,0 +1,50 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>Napa cabbage</span><span class='comment'>( 1/2 head ) , thinly shredded</span>",
+        "comment": "(1/2 head), thinly shredded",
+        "unit": "pound",
+        "name": "Napa cabbage",
+        "input": "1 pound Napa cabbage (1/2 head), thinly shredded",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>scallion</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "name": "scallion",
+        "input": "1 scallion, thinly sliced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>seasoned rice vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup seasoned rice vinegar",
+        "name": "seasoned rice vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>minced peeled fresh</span><span class='name'>ginger</span>",
+        "comment": "minced peeled fresh",
+        "unit": "tablespoon",
+        "name": "ginger",
+        "input": "1 tablespoon minced peeled fresh ginger",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='other'>to</span><span class='range_end'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>hot red pepper flakes</span>",
+        "comment": "dried",
+        "other": "to",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "range_end": "3/4",
+        "input": "1/2 to 3/4 teaspoon dried hot red pepper flakes",
+        "name": "hot red pepper flakes"
+    }
+]

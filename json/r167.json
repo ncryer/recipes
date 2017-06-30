@@ -1,0 +1,66 @@
+[
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>Sherry</span><span class='comment'>or red wine</span><span class='name'>vinegar</span>",
+        "comment": "or red wine",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup Sherry or red wine vinegar",
+        "name": "Sherry vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>membrillo</span><span class='other'>(</span><span class='comment'>quince paste ) or orange marmalade</span>",
+        "comment": "quince paste) or orange marmalade",
+        "other": "(",
+        "unit": "tablespoon",
+        "name": "membrillo",
+        "input": "2 tablespoons membrillo (quince paste) or orange marmalade",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>Dijon mustard</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground pepper",
+        "name": "salt pepper",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>Asian pears</span><span class='other'>,</span><span class='comment'>cut into bite-size pieces</span>",
+        "comment": "medium cut into bite-size pieces",
+        "other": ",",
+        "name": "Asian pears",
+        "input": "2 medium Asian pears, cut into bite-size pieces",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='name'>mixed chicories</span><span class='comment'>( such as radicchio</span><span class='other'>,</span><span class='comment'>escarole</span><span class='other'>,</span><span class='comment'>and/or frisee ) , torn into 2\" pieces</span>",
+        "comment": "(such as radicchio escarole and/or frisee), torn into 2\" pieces",
+        "other": ", ,",
+        "unit": "cup",
+        "name": "mixed chicories",
+        "input": "8 cups mixed chicories (such as radicchio, escarole, and/or frisee), torn into 2\" pieces",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>walnuts</span><span class='other'>,</span><span class='comment'>coarsely chopped</span>",
+        "comment": "coarsely chopped",
+        "other": ",",
+        "unit": "cup",
+        "name": "walnuts",
+        "input": "1/2 cup walnuts, coarsely chopped",
+        "qty": "1/2"
+    }
+]

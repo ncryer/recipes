@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='comment'>small</span><span class='name'>plums</span><span class='comment'>( 15-20 ) , preferably Italian</span>",
+        "comment": "small (15-20), preferably Italian",
+        "unit": "pound",
+        "name": "plums",
+        "input": "1 1/2 pounds small plums (15-20), preferably Italian",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>bags strong</span><span class='name'>black tea</span>",
+        "qty": "3",
+        "comment": "bags strong",
+        "input": "3 bags strong black tea",
+        "name": "black tea"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>whole</span><span class='name'>cardamom pods</span><span class='other'>,</span><span class='comment'>lightly crushed</span>",
+        "comment": "whole lightly crushed",
+        "other": ",",
+        "name": "cardamom pods",
+        "input": "6 whole cardamom pods, lightly crushed",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>whole</span><span class='name'>star anise pod</span>",
+        "qty": "1",
+        "comment": "whole",
+        "input": "1 whole star anise pod",
+        "name": "star anise pod"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>vanilla bean</span><span class='other'>,</span><span class='comment'>halved lengthwise</span>",
+        "comment": "halved lengthwise",
+        "other": ",",
+        "name": "vanilla bean",
+        "input": "1 vanilla bean, halved lengthwise",
+        "qty": "1"
+    }
+]

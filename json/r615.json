@@ -1,0 +1,93 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='name'>hazelnuts</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "hazelnuts",
+        "input": "4 tablespoons hazelnuts, divided",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>orange juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "1/4 cup fresh orange juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>hazelnut oil</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons hazelnut oil",
+        "name": "hazelnut oil"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt and freshly ground black pepper",
+        "name": "salt and black pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>red beet</span><span class='comment'>, peeled</span>",
+        "qty": "1",
+        "comment": "medium, peeled",
+        "input": "1 medium red beet, peeled",
+        "name": "red beet"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>golden beet</span><span class='other'>,</span><span class='comment'>peeled</span>",
+        "comment": "medium peeled",
+        "other": ",",
+        "name": "golden beet",
+        "input": "1 medium golden beet, peeled",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>turnip</span><span class='comment'>, peeled</span>",
+        "qty": "1",
+        "comment": "small, peeled",
+        "input": "1 small turnip, peeled",
+        "name": "turnip"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>carrot</span><span class='other'>,</span><span class='comment'>peeled</span>",
+        "comment": "peeled",
+        "other": ",",
+        "name": "carrot",
+        "input": "1 carrot, peeled",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>radishes</span><span class='other'>,</span><span class='comment'>trimmed</span>",
+        "comment": "trimmed",
+        "other": ",",
+        "name": "radishes",
+        "input": "2 radishes, trimmed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>( loosely packed ) flat-leaf</span><span class='name'>parsley</span>",
+        "comment": "(loosely packed) flat-leaf",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/4 cup (loosely packed) flat-leaf parsley",
+        "qty": "1/4"
+    }
+]

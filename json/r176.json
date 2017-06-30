@@ -1,0 +1,56 @@
+[
+    {
+        "display": "<span class='qty'>7</span><span class='name'>carrots</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>sliced in half lengthwise</span><span class='other'>,</span><span class='comment'>then cut into 2-inch pieces</span>",
+        "comment": "peeled sliced in half lengthwise then cut into 2-inch pieces",
+        "other": ",, ,",
+        "name": "carrots",
+        "input": "7 carrots, peeled, sliced in half lengthwise, then cut into 2-inch pieces",
+        "qty": "7"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>red bell peppers</span><span class='other'>,</span><span class='comment'>cut into large chunks</span>",
+        "comment": "cut into large chunks",
+        "other": ",",
+        "name": "red bell peppers",
+        "input": "2 red bell peppers, cut into large chunks",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>delicata squash</span><span class='other'>,</span><span class='comment'>unpeeled</span><span class='other'>,</span><span class='comment'>split lengthwise</span><span class='other'>,</span><span class='comment'>seeds removed and cut into half moons ( you could also use peeled butternut squash )</span>",
+        "comment": "unpeeled split lengthwise seeds removed and cut into half moons (you could also use peeled butternut squash)",
+        "other": ",, ,",
+        "name": "delicata squash",
+        "input": "1 delicata squash, unpeeled, split lengthwise, seeds removed and cut into half moons (you could also use peeled butternut squash)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>yellow onion</span><span class='other'>,</span><span class='comment'>cut into wedges</span>",
+        "comment": "cut into wedges",
+        "other": ",",
+        "name": "yellow onion",
+        "input": "1 yellow onion, cut into wedges",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>maple syrup</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons maple syrup",
+        "name": "maple syrup"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>oil</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons oil",
+        "name": "oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>kosher or sea</span><span class='name'>salt</span>",
+        "comment": "kosher or sea",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "1 tablespoon kosher or sea salt",
+        "qty": "1"
+    }
+]

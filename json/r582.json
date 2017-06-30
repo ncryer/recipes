@@ -1,0 +1,70 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>bunches</span><span class='name'>broccolini</span><span class='other'>(</span><span class='comment'>1 pound</span><span class='other'>)</span>",
+        "comment": "1 pound",
+        "other": "()",
+        "unit": "bunch",
+        "name": "broccolini",
+        "input": "2 bunches broccolini (1 pound)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='other'>2 tablespoons plus 1</span><span class='unit'>teaspoon</span><span class='comment'>toasted white</span><span class='name'>sesame seeds</span>",
+        "comment": "toasted white",
+        "other": "2 tablespoons plus 1",
+        "unit": "teaspoon",
+        "input": "2 tablespoons plus 1 teaspoon toasted white sesame seeds",
+        "name": "sesame seeds"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>crushed</span><span class='name'>red pepper flakes</span><span class='comment'>plus more to taste</span>",
+        "comment": "crushed plus more to taste",
+        "unit": "teaspoon",
+        "name": "red pepper flakes",
+        "input": "1/2 teaspoon crushed red pepper flakes plus more to taste",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>2 tablespoons plus 1</span><span class='unit'>teaspoon</span><span class='name'>vegetable oil</span>",
+        "unit": "teaspoon",
+        "other": "2 tablespoons plus 1",
+        "input": "2 tablespoons plus 1 teaspoon vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>toasted</span><span class='name'>sesame oil</span>",
+        "comment": "toasted",
+        "unit": "tablespoon",
+        "name": "sesame oil",
+        "input": "1 tablespoon toasted sesame oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>distilled</span><span class='name'>white vinegar</span>",
+        "comment": "distilled",
+        "unit": "tablespoon",
+        "name": "white vinegar",
+        "input": "1 tablespoon distilled white vinegar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>minced</span><span class='name'>garlic</span>",
+        "comment": "minced",
+        "unit": "teaspoon",
+        "name": "garlic",
+        "input": "2 teaspoons minced garlic",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground black pepper",
+        "name": "black pepper"
+    }
+]

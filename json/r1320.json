@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>brut</span><span class='name'>Champagne</span>",
+        "comment": "brut",
+        "unit": "cup",
+        "name": "Champagne",
+        "input": "1/4 cup brut Champagne",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>minced</span><span class='name'>lemon verbena</span><span class='comment'>or fresh</span><span class='name'>tarragon</span>",
+        "comment": "minced or fresh",
+        "unit": "teaspoon",
+        "name": "lemon verbena tarragon",
+        "input": "1 teaspoon minced lemon verbena or fresh tarragon",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2 1/2-pint</span><span class='comment'>containers</span><span class='name'>raspberries</span>",
+        "qty": "2 1/2-pint",
+        "comment": "containers",
+        "input": "2 1/2-pint containers raspberries",
+        "name": "raspberries"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='name'>apricots</span><span class='comment'>, pitted</span><span class='other'>,</span><span class='comment'>cut into 1/2-inch pieces</span>",
+        "comment": ", pitted cut into 1/2-inch pieces",
+        "other": ",",
+        "name": "apricots",
+        "input": "8 apricots, pitted, cut into 1/2-inch pieces",
+        "qty": "8"
+    }
+]

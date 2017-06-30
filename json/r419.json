@@ -1,0 +1,43 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>bunches</span><span class='name'>scallions</span>",
+        "unit": "bunch",
+        "qty": "2",
+        "input": "2 bunches scallions",
+        "name": "scallions"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>distilled</span><span class='name'>white vinegar</span>",
+        "comment": "distilled",
+        "unit": "tablespoon",
+        "name": "white vinegar",
+        "input": "1 tablespoon distilled white vinegar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>toasted</span><span class='name'>sesame oil</span>",
+        "comment": "toasted",
+        "unit": "tablespoon",
+        "name": "sesame oil",
+        "input": "1 tablespoon toasted sesame oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "input": "kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "input": "freshly ground black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='comment'>gochugaru</span><span class='other'>(</span><span class='comment'>coarse Korean red pepper powder</span><span class='other'>)</span>",
+        "comment": "gochugaru coarse Korean red pepper powder",
+        "input": "gochugaru (coarse Korean red pepper powder)",
+        "other": "()"
+    }
+]

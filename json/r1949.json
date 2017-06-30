@@ -1,0 +1,51 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>plum tomatoes</span><span class='other'>,</span><span class='comment'>seeded , chopped</span>",
+        "comment": "seeded, chopped",
+        "other": ",",
+        "unit": "pound",
+        "name": "plum tomatoes",
+        "input": "1 pound plum tomatoes, seeded, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>onion</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1 cup chopped onion",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>( packed ) chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "(packed) chopped fresh",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "6 tablespoons (packed) chopped fresh cilantro",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lime juice",
+        "input": "1/4 cup fresh lime juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 large garlic cloves, minced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>tablespoons</span><span class='name'>minced seeded jalape\u00f1o chilies</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/4",
+        "input": "1 1/4 tablespoons minced seeded jalape\u00f1o chilies",
+        "name": "minced seeded jalape\u00f1o chilies"
+    }
+]

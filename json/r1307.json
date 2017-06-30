@@ -1,0 +1,24 @@
+[
+    {
+        "display": "<span class='qty'>12</span><span class='unit'>ounces</span><span class='comment'>fresh baby</span><span class='name'>spinach</span>",
+        "comment": "fresh baby",
+        "unit": "ounce",
+        "name": "spinach",
+        "input": "12 ounces fresh baby spinach",
+        "qty": "12"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='comment'>Juice of</span><span class='qty'>1/4</span><span class='name'>lemon</span>",
+        "qty": "1/4",
+        "comment": "Juice of",
+        "input": "Juice of 1/4 lemon",
+        "name": "lemon"
+    }
+]

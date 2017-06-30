@@ -1,0 +1,75 @@
+[
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>peanut , grapeseed , or vegetable</span><span class='name'>oil</span>",
+        "comment": "peanut, grapeseed, or vegetable",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup peanut, grapeseed, or vegetable oil",
+        "name": "oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>bunches</span><span class='comment'>of Swiss</span><span class='name'>chard</span><span class='comment'>or beet leaves with stems</span><span class='other'>,</span><span class='comment'>coarsely chopped ( about 1 pound )</span>",
+        "comment": "of Swiss or beet leaves with stems coarsely chopped (about 1 pound)",
+        "other": ",",
+        "unit": "bunch",
+        "name": "chard",
+        "input": "2 bunches of Swiss chard or beet leaves with stems, coarsely chopped (about 1 pound)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 cloves garlic, minced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='name'>Salt</span><span class='comment'>to taste</span>",
+        "comment": "to taste",
+        "input": "Salt to taste",
+        "name": "Salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sweet paprika</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sweet paprika",
+        "name": "sweet paprika"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1 teaspoon ground cumin",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span>",
+        "unit": "teaspoon",
+        "input": "1 teaspoon",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>,</span><span class='comment'>or to taste</span>",
+        "comment": "or to taste",
+        "input": ", or to taste",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>white vinegar</span><span class='comment'>or lemon juice</span>",
+        "comment": "or lemon juice",
+        "unit": "cup",
+        "name": "white vinegar",
+        "input": "1/4 cup white vinegar or lemon juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>pepper</span><span class='comment'>to taste</span>",
+        "comment": "Freshly ground to taste",
+        "input": "Freshly ground pepper to taste",
+        "name": "pepper"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>all-purpose flour</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups all-purpose flour",
+        "name": "all-purpose flour"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>solid</span><span class='name'>vegetable shortening</span><span class='comment'>, cut into pieces</span>",
+        "comment": "solid, cut into pieces",
+        "unit": "cup",
+        "name": "vegetable shortening",
+        "input": "3/4 cup solid vegetable shortening, cut into pieces",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>tablespoons</span><span class='comment'>ice</span><span class='name'>water</span>",
+        "comment": "ice",
+        "unit": "tablespoon",
+        "name": "water",
+        "input": "5 tablespoons ice water",
+        "qty": "5"
+    }
+]

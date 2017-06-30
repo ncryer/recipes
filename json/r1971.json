@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>tablespoons</span><span class='comment'>fine sea</span><span class='name'>salt</span><span class='comment'>plus additional to taste</span>",
+        "comment": "fine sea plus additional to taste",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "2 1/2 tablespoons fine sea salt plus additional to taste",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>spaghetti</span>",
+        "unit": "pound",
+        "qty": "1",
+        "input": "1 pound spaghetti",
+        "name": "spaghetti"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>to</span><span class='range_end'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='comment'>, sliced thin</span>",
+        "comment": ", sliced thin",
+        "other": "to",
+        "unit": "clove",
+        "name": "garlic",
+        "range_end": "4",
+        "input": "2 to 4 garlic cloves, sliced thin",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span><span class='comment'>, plus additional to taste if desired</span>",
+        "comment": "extra-virgin, plus additional to taste if desired",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil, plus additional to taste if desired",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh flat-leafed</span><span class='name'>parsley leaves</span>",
+        "comment": "chopped fresh flat-leafed",
+        "unit": "tablespoon",
+        "name": "parsley leaves",
+        "input": "2 tablespoons chopped fresh flat-leafed parsley leaves",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>freshly ground</span><span class='name'>black pepper</span><span class='comment'>to taste</span>",
+        "comment": "freshly ground to taste",
+        "input": "freshly ground black pepper to taste",
+        "name": "black pepper"
+    }
+]

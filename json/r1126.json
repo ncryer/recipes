@@ -1,0 +1,50 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pound</span><span class='comment'>fingerling</span><span class='name'>potatoes</span><span class='comment'>such as Russian Banana</span>",
+        "comment": "fingerling such as Russian Banana",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "1 1/2 pound fingerling potatoes such as Russian Banana",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 large garlic clove, finely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>chopped</span><span class='name'>chives</span>",
+        "comment": "chopped",
+        "unit": "tablespoon",
+        "name": "chives",
+        "input": "3 tablespoons chopped chives",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped</span><span class='name'>tarragon</span>",
+        "comment": "chopped",
+        "unit": "tablespoon",
+        "name": "tarragon",
+        "input": "1 tablespoon chopped tarragon",
+        "qty": "1"
+    }
+]

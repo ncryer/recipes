@@ -1,0 +1,84 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='name'>vanilla bean</span><span class='other'>,</span><span class='comment'>split lengthwise</span>",
+        "comment": "split lengthwise",
+        "other": ",",
+        "name": "vanilla bean",
+        "input": "1 vanilla bean, split lengthwise",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>imported dry</span><span class='name'>Sherry</span>",
+        "comment": "imported dry",
+        "unit": "cup",
+        "name": "Sherry",
+        "input": "1 cup imported dry Sherry",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>cinnamon</span><span class='unit'>sticks</span>",
+        "unit": "stick",
+        "qty": "2",
+        "input": "2 cinnamon sticks",
+        "name": "cinnamon"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>whole</span><span class='name'>star anise*</span>",
+        "qty": "2",
+        "comment": "whole",
+        "input": "2 whole star anise*",
+        "name": "star anise*"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>1/2-inch dice dried</span><span class='name'>mango</span><span class='comment'>( about 4 1/2 ounces )</span>",
+        "comment": "1/2-inch dice dried (about 4 1/2 ounces)",
+        "unit": "cup",
+        "name": "mango",
+        "input": "1 cup 1/2-inch dice dried mango (about 4 1/2 ounces)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>1/2-inch dice dried papaya</span><span class='comment'>( about 4 1/2 ounces )</span>",
+        "comment": "(about 4 1/2 ounces)",
+        "unit": "cup",
+        "name": "1/2-inch dice dried papaya",
+        "input": "1 cup 1/2-inch dice dried papaya (about 4 1/2 ounces)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>1/2-inch dice dried</span><span class='name'>pineapple</span><span class='comment'>( about 3 ounces )</span>",
+        "comment": "1/2-inch dice dried (about 3 ounces)",
+        "unit": "cup",
+        "name": "pineapple",
+        "input": "1/2 cup 1/2-inch dice dried pineapple (about 3 ounces)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>raisins</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup raisins",
+        "name": "raisins"
+    },
+    {
+        "display": "<span class='name'>Pineapple juice</span>",
+        "input": "Pineapple juice",
+        "name": "Pineapple juice"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>mint</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "mint",
+        "input": "3 tablespoons chopped fresh mint",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "3 tablespoons chopped fresh cilantro",
+        "qty": "3"
+    }
+]

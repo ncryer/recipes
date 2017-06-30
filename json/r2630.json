@@ -1,0 +1,18 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>large baking</span><span class='name'>potatoes</span><span class='comment'>( about 4 1/2 pounds )</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>cut crosswise into thirds</span>",
+        "comment": "large baking (about 4 1/2 pounds) peeled cut crosswise into thirds",
+        "other": ", ,",
+        "name": "potatoes",
+        "input": "6 large baking potatoes (about 4 1/2 pounds), peeled, cut crosswise into thirds",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>7</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": "extra-virgin, divided",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "7 tablespoons extra-virgin olive oil, divided",
+        "qty": "7"
+    }
+]

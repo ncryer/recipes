@@ -1,0 +1,51 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>white-wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons white-wine vinegar",
+        "name": "white-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>navel orange</span>",
+        "qty": "1",
+        "input": "1 navel orange",
+        "name": "navel orange"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>fennel</span><span class='unit'>bulb</span><span class='comment'>( sometimes called anise; 3/4 lb ) , stalks cut off and discarded</span>",
+        "comment": "(sometimes called anise; 3/4 lb), stalks cut off and discarded",
+        "unit": "bulb",
+        "name": "fennel",
+        "input": "1 fennel bulb (sometimes called anise; 3/4 lb), stalks cut off and discarded",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>firm-ripe</span><span class='name'>California avocado</span>",
+        "qty": "1",
+        "comment": "firm-ripe",
+        "input": "1 firm-ripe California avocado",
+        "name": "California avocado"
+    }
+]

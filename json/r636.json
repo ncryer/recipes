@@ -1,0 +1,56 @@
+[
+    {
+        "display": "<span class='qty'>cooked</span><span class='name'>sushi rice 1 1/4 cups</span><span class='comment'>( 6 oz/185 g )</span>",
+        "qty": "cooked",
+        "comment": "(6 oz/185 g)",
+        "input": "cooked sushi rice 1 1/4 cups (6 oz/185 g)",
+        "name": "sushi rice 1 1/4 cups"
+    },
+    {
+        "display": "<span class='qty'>unseasoned</span><span class='name'>rice vinegar 1 teaspoon</span>",
+        "qty": "unseasoned",
+        "input": "unseasoned rice vinegar 1 teaspoon",
+        "name": "rice vinegar 1 teaspoon"
+    },
+    {
+        "display": "<span class='comment'>toasted nori seaweed 1 sheet</span><span class='other'>,</span><span class='comment'>about 7 by 8 inches ( 18 by 20 cm )</span>",
+        "comment": "toasted nori seaweed 1 sheet about 7 by 8 inches (18 by 20 cm)",
+        "input": "toasted nori seaweed 1 sheet, about 7 by 8 inches (18 by 20 cm)",
+        "other": ","
+    },
+    {
+        "display": "<span class='comment'>toasted</span><span class='name'>sesame seeds</span><span class='other'>1 tablespoon</span><span class='comment'>, plus more for sprinkling</span>",
+        "comment": "toasted, plus more for sprinkling",
+        "input": "toasted sesame seeds 1 tablespoon, plus more for sprinkling",
+        "name": "sesame seeds",
+        "other": "1 tablespoon"
+    },
+    {
+        "display": "<span class='name'>English cucumber 1/4</span><span class='other'>,</span><span class='comment'>peeled and cut into thin matchsticks</span>",
+        "comment": "peeled and cut into thin matchsticks",
+        "input": "English cucumber 1/4, peeled and cut into thin matchsticks",
+        "name": "English cucumber 1/4",
+        "other": ","
+    },
+    {
+        "display": "<span class='name'>carrot 1/2</span><span class='other'>,</span><span class='comment'>peeled and cut into thin matchsticks</span>",
+        "comment": "peeled and cut into thin matchsticks",
+        "input": "carrot 1/2, peeled and cut into thin matchsticks",
+        "name": "carrot 1/2",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>ripe</span><span class='name'>avocado 1/4</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "name": "avocado 1/4",
+        "input": "ripe avocado 1/4, thinly sliced",
+        "qty": "ripe"
+    },
+    {
+        "display": "<span class='name'>soy sauce and pickled ginger</span><span class='comment'>slices for serving ( optional )</span>",
+        "comment": "slices for serving (optional)",
+        "input": "soy sauce and pickled ginger slices for serving (optional)",
+        "name": "soy sauce and pickled ginger"
+    }
+]

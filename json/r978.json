@@ -1,0 +1,124 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>ounces</span><span class='comment'>dried</span><span class='name'>bean thread noodles</span><span class='comment'>( cellophane noodles )</span>",
+        "comment": "dried (cellophane noodles)",
+        "unit": "ounce",
+        "name": "bean thread noodles",
+        "input": "2 ounces dried bean thread noodles (cellophane noodles)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>carrot</span><span class='comment'>, cut into thin matchsticks ( about 3/4 cup )</span>",
+        "qty": "1",
+        "comment": "small, cut into thin matchsticks (about 3/4 cup)",
+        "input": "1 small carrot, cut into thin matchsticks (about 3/4 cup)",
+        "name": "carrot"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>Kirby cucumber</span><span class='other'>,</span><span class='comment'>halved lengthwise</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>and cut into thin matchsticks ( about 3/4 cup</span><span class='other'>)</span>",
+        "comment": "halved lengthwise seeded and cut into thin matchsticks (about 3/4 cup",
+        "other": ",, ,)",
+        "name": "Kirby cucumber",
+        "input": "1 Kirby cucumber, halved lengthwise, seeded, and cut into thin matchsticks (about 3/4 cup)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small fresh</span><span class='name'>jalape\u00f1o</span><span class='comment'>, cut into thin matchsticks</span>",
+        "qty": "1",
+        "comment": "small fresh, cut into thin matchsticks",
+        "input": "1 small fresh jalape\u00f1o, cut into thin matchsticks",
+        "name": "jalape\u00f1o"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>rice vinegar</span><span class='other'>(</span><span class='comment'>not seasoned )</span>",
+        "comment": "not seasoned)",
+        "other": "(",
+        "unit": "cup",
+        "name": "rice vinegar",
+        "input": "1/4 cup rice vinegar (not seasoned)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='other'>1 tablespoon plus 3/4</span><span class='unit'>teaspoon</span><span class='comment'>fresh</span><span class='name'>lime juice</span><span class='other'>, divided</span>",
+        "comment": "fresh",
+        "other": "1 tablespoon plus 3/4, divided",
+        "unit": "teaspoon",
+        "input": "1 tablespoon plus 3/4 teaspoon fresh lime juice, divided",
+        "name": "lime juice"
+    },
+    {
+        "display": "<span class='qty'>16</span><span class='name'>rice-paper</span><span class='comment'>rounds ( also called galettes de riz; about 8 inches in diameter ) plus additional in case some tear</span>",
+        "qty": "16",
+        "comment": "rounds (also called galettes de riz; about 8 inches in diameter) plus additional in case some tear",
+        "input": "16 rice-paper rounds (also called galettes de riz; about 8 inches in diameter) plus additional in case some tear",
+        "name": "rice-paper"
+    },
+    {
+        "display": "<span class='other'>plus additional</span><span class='comment'>in case some tear</span>",
+        "comment": "in case some tear",
+        "input": "plus additional in case some tear",
+        "other": "plus additional"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>romaine leaves</span><span class='other'>,</span><span class='comment'>each torn into 4 pieces</span>",
+        "comment": "each torn into 4 pieces",
+        "other": ",",
+        "name": "romaine leaves",
+        "input": "4 romaine leaves, each torn into 4 pieces",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>10</span><span class='unit'>ounces</span><span class='comment'>packaged baked</span><span class='name'>tofu</span><span class='comment'>, cut into 3- by 1/3-inch sticks</span>",
+        "comment": "packaged baked, cut into 3- by 1/3-inch sticks",
+        "unit": "ounce",
+        "name": "tofu",
+        "input": "10 ounces packaged baked tofu, cut into 3- by 1/3-inch sticks",
+        "qty": "10"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>bean sprouts</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "bean sprouts",
+        "input": "1 cup fresh bean sprouts",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>each of torn basil , mint , and cilantro leaves</span><span class='other'>(</span><span class='comment'>11/2 cups total )</span>",
+        "comment": "11/2 cups total)",
+        "other": "(",
+        "unit": "cup",
+        "name": "each of torn basil, mint, and cilantro leaves",
+        "input": "1/2 cup each of torn basil, mint, and cilantro leaves (11/2 cups total)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>hoisin sauce</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup hoisin sauce",
+        "name": "hoisin sauce"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chunky</span><span class='name'>peanut butter</span>",
+        "comment": "chunky",
+        "unit": "tablespoon",
+        "name": "peanut butter",
+        "input": "2 tablespoons chunky peanut butter",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>water</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons water",
+        "name": "water"
+    }
+]

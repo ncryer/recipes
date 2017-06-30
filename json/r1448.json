@@ -1,0 +1,51 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>heads</span><span class='name'>garlic</span><span class='other'>(</span><span class='comment'>3 inches wide )</span>",
+        "comment": "3 inches wide)",
+        "other": "(",
+        "unit": "head",
+        "name": "garlic",
+        "input": "2 heads garlic (3 inches wide)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/2 cup extra-virgin olive oil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>( 4-inch</span><span class='other'>)</span><span class='unit'>sprigs</span><span class='comment'>fresh</span><span class='name'>thyme</span>",
+        "comment": "(4-inch fresh",
+        "other": ")",
+        "unit": "sprig",
+        "name": "thyme",
+        "input": "6 (4-inch) sprigs fresh thyme",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>( 4-inch</span><span class='other'>)</span><span class='unit'>sprigs</span><span class='comment'>fresh</span><span class='name'>rosemary</span>",
+        "comment": "(4-inch fresh",
+        "other": ")",
+        "unit": "sprig",
+        "name": "rosemary",
+        "input": "3 (4-inch) sprigs fresh rosemary",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    }
+]

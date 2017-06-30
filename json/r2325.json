@@ -1,0 +1,88 @@
+[
+    {
+        "other": "a",
+        "display": "<span class='other'>a</span><span class='name'>1-</span><span class='comment'>to 1 1/4-pound</span><span class='name'>eggplant</span>",
+        "comment": "to 1 1/4-pound",
+        "input": "a 1- to 1 1/4-pound eggplant",
+        "name": "1- eggplant"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span><span class='comment'>plus additional for coating eggplant</span>",
+        "comment": "plus additional for coating eggplant",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons olive oil plus additional for coating eggplant",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium-large</span><span class='name'>onion</span><span class='comment'>, chopped fine ( about 1 1/2 cups )</span>",
+        "qty": "1",
+        "comment": "medium-large, chopped fine (about 1 1/2 cups)",
+        "input": "1 medium-large onion, chopped fine (about 1 1/2 cups)",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, minced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>red bell peppers</span><span class='other'>,</span><span class='comment'>chopped fine ( about 1 1/2 cups )</span>",
+        "comment": "medium chopped fine (about 1 1/2 cups)",
+        "other": ",",
+        "name": "red bell peppers",
+        "input": "2 medium red bell peppers, chopped fine (about 1 1/2 cups)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>zucchini</span><span class='comment'>, cut into 1/2-inch dice</span>",
+        "qty": "1",
+        "comment": "medium, cut into 1/2-inch dice",
+        "input": "1 medium zucchini, cut into 1/2-inch dice",
+        "name": "zucchini"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>yellow squash</span><span class='other'>,</span><span class='comment'>cut into 1/2-inch dice</span>",
+        "comment": "medium cut into 1/2-inch dice",
+        "other": ",",
+        "name": "yellow squash",
+        "input": "1 medium yellow squash, cut into 1/2-inch dice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>minced fresh</span><span class='name'>thyme leaves</span>",
+        "comment": "minced fresh",
+        "unit": "tablespoon",
+        "name": "thyme leaves",
+        "input": "1 1/2 tablespoons minced fresh thyme leaves",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>finely chopped seeded vine-ripened</span><span class='name'>tomato</span><span class='comment'>or drained canned</span><span class='name'>tomatoes</span>",
+        "comment": "finely chopped seeded vine-ripened or drained canned",
+        "unit": "cup",
+        "name": "tomato tomatoes",
+        "input": "1/2 cup finely chopped seeded vine-ripened tomato or drained canned tomatoes",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>finely chopped fresh</span><span class='name'>parsley leaves</span>",
+        "comment": "finely chopped fresh",
+        "unit": "tablespoon",
+        "name": "parsley leaves",
+        "input": "2 tablespoons finely chopped fresh parsley leaves",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Accompaniment:</span><span class='other'>thin</span><span class='unit'>slices</span><span class='comment'>of</span><span class='name'>French bread</span><span class='other'>,</span><span class='comment'>toasted , or crackers</span>",
+        "comment": "Accompaniment: of toasted, or crackers",
+        "other": "thin ,",
+        "unit": "slice",
+        "input": "Accompaniment: thin slices of French bread, toasted, or crackers",
+        "name": "French bread"
+    }
+]

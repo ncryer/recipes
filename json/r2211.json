@@ -1,0 +1,51 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>pound</span><span class='comment'>haricot verts or other thin green</span><span class='name'>beans</span><span class='comment'>, trimmed</span><span class='other'>,</span><span class='comment'>leaving tails intact</span>",
+        "comment": "haricot verts or other thin green, trimmed leaving tails intact",
+        "other": ",",
+        "unit": "pound",
+        "name": "beans",
+        "input": "3/4 pound haricot verts or other thin green beans, trimmed, leaving tails intact",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>small</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": "small ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 small garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>dried Aleppo</span><span class='name'>chile flakes</span>",
+        "comment": "dried Aleppo",
+        "unit": "teaspoon",
+        "name": "chile flakes",
+        "input": "1/2 teaspoon dried Aleppo chile flakes",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>coriander</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "coriander",
+        "input": "1/4 teaspoon ground coriander",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>fine sea</span><span class='name'>salt</span>",
+        "comment": "fine sea",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/4 teaspoon fine sea salt",
+        "qty": "1/4"
+    }
+]

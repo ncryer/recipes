@@ -1,0 +1,17 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>medium</span><span class='name'>red</span><span class='comment'>or pink</span><span class='name'>grapefruits</span>",
+        "qty": "4",
+        "comment": "medium or pink",
+        "input": "4 medium red or pink grapefruits",
+        "name": "red grapefruits"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pints</span><span class='name'>fruit-flavored sorbet</span><span class='comment'>or sherbet , slightly softened</span>",
+        "comment": "or sherbet, slightly softened",
+        "unit": "pint",
+        "name": "fruit-flavored sorbet",
+        "input": "2 pints fruit-flavored sorbet or sherbet, slightly softened",
+        "qty": "2"
+    }
+]

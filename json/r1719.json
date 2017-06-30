@@ -1,0 +1,37 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='comment'>fine sea</span><span class='name'>salt</span>",
+        "comment": "fine sea",
+        "other": "1/8",
+        "unit": "teaspoon",
+        "input": "1/8 teaspoon fine sea salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>raw green ( hulled )</span><span class='name'>pumpkin seeds</span><span class='comment'>( not toasted; 4 ounces )</span>",
+        "comment": "raw green (hulled) (not toasted; 4 ounces)",
+        "unit": "cup",
+        "name": "pumpkin seeds",
+        "input": "3/4 cup raw green (hulled) pumpkin seeds (not toasted; 4 ounces)",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='name'>Special equipment: parchment paper; a candy thermometer</span>",
+        "input": "Special equipment: parchment paper; a candy thermometer",
+        "name": "Special equipment: parchment paper; a candy thermometer"
+    }
+]

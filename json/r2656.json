@@ -1,0 +1,55 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>small</span><span class='name'>eggplants</span><span class='comment'>( about 12 ) , halved lengthwise</span>",
+        "comment": "small (about 12), halved lengthwise",
+        "unit": "pound",
+        "name": "eggplants",
+        "input": "2 pounds small eggplants (about 12), halved lengthwise",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>minced</span><span class='name'>garlic</span>",
+        "comment": "minced",
+        "unit": "teaspoon",
+        "name": "garlic",
+        "input": "1 teaspoon minced garlic",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>soy sauce</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>rice vinegar</span><span class='other'>(</span><span class='comment'>not seasoned )</span>",
+        "comment": "not seasoned)",
+        "other": "(",
+        "unit": "tablespoon",
+        "name": "rice vinegar",
+        "input": "1 tablespoon rice vinegar (not seasoned)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>dark</span><span class='name'>sesame oil</span><span class='comment'>( Asian )</span>",
+        "comment": "dark (Asian)",
+        "unit": "tablespoon",
+        "name": "sesame oil",
+        "input": "1 tablespoon dark sesame oil (Asian)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>vegetable oil</span><span class='comment'>for brushing eggplants</span>",
+        "comment": "for brushing eggplants",
+        "input": "vegetable oil for brushing eggplants",
+        "name": "vegetable oil"
+    }
+]

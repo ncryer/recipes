@@ -1,0 +1,92 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='name'>plum tomatoes</span><span class='other'>,</span><span class='comment'>cored , cut lengthwise into thin wedges</span>",
+        "comment": "cored, cut lengthwise into thin wedges",
+        "other": ",",
+        "unit": "pound",
+        "name": "plum tomatoes",
+        "input": "1 1/2 pounds plum tomatoes, cored, cut lengthwise into thin wedges",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='name'>Kalamata olives</span><span class='other'>,</span><span class='comment'>pitted , sliced</span>",
+        "comment": "pitted, sliced",
+        "other": ",",
+        "name": "Kalamata olives",
+        "input": "12 Kalamata olives, pitted, sliced",
+        "qty": "12"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/2 cup extra-virgin olive oil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>diced roasted red or yellow</span><span class='name'>bell peppers</span><span class='comment'>from jar</span>",
+        "comment": "diced roasted red or yellow from jar",
+        "unit": "cup",
+        "name": "bell peppers",
+        "input": "1/2 cup diced roasted red or yellow bell peppers from jar",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>red onion</span>",
+        "comment": "finely chopped",
+        "unit": "cup",
+        "name": "red onion",
+        "input": "1/4 cup finely chopped red onion",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 garlic cloves, minced",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>drained</span><span class='name'>capers</span><span class='comment'>, coarsely chopped</span>",
+        "comment": "drained, coarsely chopped",
+        "unit": "tablespoon",
+        "name": "capers",
+        "input": "2 tablespoons drained capers, coarsely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh Italian</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh Italian",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "2 tablespoons chopped fresh Italian parsley",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>oregano</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "oregano",
+        "input": "1 tablespoon chopped fresh oregano",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>dried crushed</span><span class='name'>red pepper</span>",
+        "comment": "dried crushed",
+        "unit": "teaspoon",
+        "name": "red pepper",
+        "input": "1/2 teaspoon dried crushed red pepper",
+        "qty": "1/2"
+    }
+]

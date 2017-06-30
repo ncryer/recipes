@@ -1,0 +1,60 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>English hothouse cucumbers</span>",
+        "qty": "2",
+        "comment": "large",
+        "input": "2 large English hothouse cucumbers",
+        "name": "English hothouse cucumbers"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>red wine vinegar</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>large</span><span class='name'>tomatoes</span><span class='comment'>, seeded , coarsely chopped</span>",
+        "qty": "3",
+        "comment": "large, seeded, coarsely chopped",
+        "input": "3 large tomatoes, seeded, coarsely chopped",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>coarsely chopped</span><span class='name'>red onion</span>",
+        "comment": "coarsely chopped",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup coarsely chopped red onion",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>mint</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "mint",
+        "input": "1/2 cup chopped fresh mint",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='name'>coconut oil</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "coconut oil",
+        "input": "4 tablespoons coconut oil, divided",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>yellow onion</span><span class='comment'>, finely diced</span>",
+        "qty": "1",
+        "comment": "small, finely diced",
+        "input": "1 small yellow onion, finely diced",
+        "name": "yellow onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>freshly grated</span><span class='name'>ginger</span>",
+        "comment": "freshly grated",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "1 teaspoon freshly grated ginger",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>carrot</span><span class='comment'>, grated , about 1 1/2 cups</span>",
+        "qty": "1",
+        "comment": "large, grated, about 1 1/2 cups",
+        "input": "1 large carrot, grated, about 1 1/2 cups",
+        "name": "carrot"
+    },
+    {
+        "display": "<span class='qty'>6\u20138</span><span class='name'>shiitake mushrooms</span><span class='other'>,</span><span class='comment'>diced</span>",
+        "comment": "diced",
+        "other": ",",
+        "name": "shiitake mushrooms",
+        "input": "6\u20138 shiitake mushrooms, diced",
+        "qty": "6\u20138"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>thinly sliced</span><span class='name'>kale</span>",
+        "comment": "thinly sliced",
+        "unit": "cup",
+        "name": "kale",
+        "input": "1 cup thinly sliced kale",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>thinly sliced napa</span><span class='name'>cabbage</span>",
+        "comment": "thinly sliced napa",
+        "unit": "cup",
+        "name": "cabbage",
+        "input": "1 cup thinly sliced napa cabbage",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>scallion</span><span class='other'>,</span><span class='comment'>diced</span>",
+        "comment": "diced",
+        "other": ",",
+        "name": "scallion",
+        "input": "1 scallion, diced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>low sodium</span><span class='name'>soy sauce</span>",
+        "comment": "low sodium",
+        "unit": "cup",
+        "name": "soy sauce",
+        "input": "1/4 cup low sodium soy sauce",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>rice vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon rice vinegar",
+        "name": "rice vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sesame oil</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sesame oil",
+        "name": "sesame oil"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='name'>spring roll wrappers</span>",
+        "qty": "12",
+        "input": "12 spring roll wrappers",
+        "name": "spring roll wrappers"
+    }
+]

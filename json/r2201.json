@@ -1,0 +1,91 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>eggplants</span><span class='comment'>, unpeeled</span><span class='other'>,</span><span class='comment'>cut crosswise into 1/4-inch thick rounds</span>",
+        "comment": "medium, unpeeled cut crosswise into 1/4-inch thick rounds",
+        "other": ",",
+        "name": "eggplants",
+        "input": "2 medium eggplants, unpeeled, cut crosswise into 1/4-inch thick rounds",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='other'>of</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>divided in half</span>",
+        "comment": "divided in half",
+        "other": "of ,",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "2 teaspoons of salt, divided in half",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1 cup extra-virgin olive oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>balsamic vinegar</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup balsamic vinegar",
+        "name": "balsamic vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/2 teaspoon freshly ground black pepper",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='name'>zucchini</span><span class='other'>,</span><span class='comment'>washed</span><span class='other'>,</span><span class='comment'>dried</span><span class='other'>,</span><span class='comment'>and cut on the bias into 1/4-inch rounds</span>",
+        "comment": "washed dried and cut on the bias into 1/4-inch rounds",
+        "other": ",, ,",
+        "unit": "pound",
+        "name": "zucchini",
+        "input": "1 1/2 pounds zucchini, washed, dried, and cut on the bias into 1/4-inch rounds",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>large red</span><span class='name'>onions</span><span class='comment'>, sliced into 1/4-inch rounds</span>",
+        "qty": "3",
+        "comment": "large red, sliced into 1/4-inch rounds",
+        "input": "3 large red onions, sliced into 1/4-inch rounds",
+        "name": "onions"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>red bell peppers</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>and cut into 3/4-inch squares</span>",
+        "comment": "medium cored seeded and cut into 3/4-inch squares",
+        "other": ",, ,",
+        "name": "red bell peppers",
+        "input": "2 medium red bell peppers, cored, seeded, and cut into 3/4-inch squares",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>yellow bell peppers</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>and cut into 3/4-inch squares</span>",
+        "comment": "medium cored seeded and cut into 3/4-inch squares",
+        "other": ",, ,",
+        "name": "yellow bell peppers",
+        "input": "2 medium yellow bell peppers, cored, seeded, and cut into 3/4-inch squares",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='other'>large</span><span class='unit'>heads</span><span class='comment'>of</span><span class='name'>endive</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>halved</span><span class='other'>,</span><span class='comment'>and quartered lengthwise</span>",
+        "comment": "of cored halved and quartered lengthwise",
+        "other": "large, , ,",
+        "unit": "head",
+        "name": "endive",
+        "input": "6 large heads of endive, cored, halved, and quartered lengthwise",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='comment'>Garnish:</span><span class='qty'>4</span><span class='unit'>sprigs</span><span class='comment'>fresh</span><span class='name'>basil</span>",
+        "comment": "Garnish: fresh",
+        "unit": "sprig",
+        "name": "basil",
+        "input": "Garnish: 4 sprigs fresh basil",
+        "qty": "4"
+    }
+]

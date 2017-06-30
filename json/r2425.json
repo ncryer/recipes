@@ -1,0 +1,34 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>uncooked medium-grain</span><span class='name'>white rice</span>",
+        "comment": "uncooked medium-grain",
+        "unit": "cup",
+        "name": "white rice",
+        "input": "1 1/2 cups uncooked medium-grain white rice",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>cold</span><span class='name'>water</span>",
+        "comment": "cold",
+        "unit": "cup",
+        "name": "water",
+        "input": "3 cups cold water",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>minced fresh</span><span class='name'>ginger</span>",
+        "comment": "minced fresh",
+        "unit": "tablespoon",
+        "name": "ginger",
+        "input": "1 tablespoon minced fresh ginger",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>frozen</span><span class='name'>petite peas</span>",
+        "comment": "frozen",
+        "unit": "cup",
+        "name": "petite peas",
+        "input": "1 cup frozen petite peas",
+        "qty": "1"
+    }
+]

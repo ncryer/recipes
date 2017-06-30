@@ -1,0 +1,61 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>chopped Granny Smith</span><span class='name'>apple</span><span class='comment'>( with core and peel )</span>",
+        "qty": "1",
+        "comment": "chopped Granny Smith (with core and peel)",
+        "input": "1 chopped Granny Smith apple (with core and peel)",
+        "name": "apple"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>raw unfiltered</span><span class='name'>apple cider vinegar</span>",
+        "comment": "raw unfiltered",
+        "unit": "cup",
+        "name": "apple cider vinegar",
+        "input": "1/4 cup raw unfiltered apple cider vinegar",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "1 tablespoon fresh lime juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>minced</span><span class='name'>shallot</span>",
+        "comment": "minced",
+        "unit": "tablespoon",
+        "name": "shallot",
+        "input": "1 tablespoon minced shallot",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>raw</span><span class='name'>sugar</span>",
+        "comment": "raw",
+        "unit": "teaspoon",
+        "name": "sugar",
+        "input": "1 teaspoon raw sugar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1/4 cup plus 1</span><span class='unit'>tablespoon</span><span class='comment'>safflower or grapeseed</span><span class='name'>oil</span>",
+        "comment": "safflower or grapeseed",
+        "other": "1/4 cup plus 1",
+        "unit": "tablespoon",
+        "input": "1/4 cup plus 1 tablespoon safflower or grapeseed oil",
+        "name": "oil"
+    },
+    {
+        "display": "<span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "input": "kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "input": "freshly ground black pepper",
+        "name": "black pepper"
+    }
+]

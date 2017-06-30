@@ -1,0 +1,50 @@
+[
+    {
+        "display": "<span class='qty'>4 1/2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "4 1/2",
+        "input": "4 1/2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>whole</span><span class='name'>baby squash</span><span class='comment'>( such as zucchini</span><span class='other'>,</span><span class='comment'>crookneck and pattypan )</span>",
+        "comment": "whole (such as zucchini crookneck and pattypan)",
+        "other": ",",
+        "unit": "pound",
+        "name": "baby squash",
+        "input": "2 pounds whole baby squash (such as zucchini, crookneck and pattypan)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>water</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>drained</span><span class='name'>capers</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "drained minced",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "capers",
+        "input": "6 tablespoons drained capers, minced",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>4 1/2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "4 1/2 tablespoons chopped fresh parsley",
+        "qty": "4 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "3 tablespoons fresh lemon juice",
+        "qty": "3"
+    }
+]

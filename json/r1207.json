@@ -1,0 +1,61 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>finely chopped</span><span class='name'>shallots</span>",
+        "comment": "finely chopped",
+        "unit": "tablespoon",
+        "name": "shallots",
+        "input": "2 tablespoons finely chopped shallots",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>seasoned rice vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons seasoned rice vinegar",
+        "name": "seasoned rice vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>minced peeled fresh</span><span class='name'>ginger</span>",
+        "comment": "minced peeled fresh",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "2 teaspoons minced peeled fresh ginger",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>( generous ) Asian</span><span class='name'>sesame oil</span>",
+        "comment": "(generous) Asian",
+        "unit": "teaspoon",
+        "name": "sesame oil",
+        "input": "1/4 teaspoon (generous) Asian sesame oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>navel orange</span>",
+        "qty": "1",
+        "input": "1 navel orange",
+        "name": "navel orange"
+    },
+    {
+        "display": "<span class='comment'>1 6-ounce</span><span class='unit'>bag</span><span class='name'>baby spinach leaves</span>",
+        "unit": "bag",
+        "comment": "1 6-ounce",
+        "input": "1 6-ounce bag baby spinach leaves",
+        "name": "baby spinach leaves"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>Pinkerton</span><span class='comment'>or Fuerte avocado</span><span class='other'>,</span><span class='comment'>halved</span><span class='other'>,</span><span class='comment'>pitted</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>cut into 1/2-inch wedges</span>",
+        "comment": "or Fuerte avocado halved pitted peeled cut into 1/2-inch wedges",
+        "other": ",, , ,",
+        "name": "Pinkerton",
+        "input": "1 Pinkerton or Fuerte avocado, halved, pitted, peeled, cut into 1/2-inch wedges",
+        "qty": "1"
+    }
+]

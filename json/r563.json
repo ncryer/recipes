@@ -1,0 +1,46 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='other'>thin</span><span class='unit'>slices</span><span class='comment'>peeled cucumber , plus 1 slice for garnish</span>",
+        "comment": "peeled cucumber, plus 1 slice for garnish",
+        "other": "thin",
+        "unit": "slice",
+        "input": "3 thin slices peeled cucumber, plus 1 slice for garnish",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>ounce</span><span class='name'>absinthe</span>",
+        "unit": "ounce",
+        "qty": "1/2",
+        "input": "1/2 ounce absinthe",
+        "name": "absinthe"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>ounces</span><span class='name'>gin</span>",
+        "unit": "ounce",
+        "qty": "2",
+        "input": "2 ounces gin",
+        "name": "gin"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>ounce</span><span class='name'>lemon juice</span>",
+        "unit": "ounce",
+        "qty": "3/4",
+        "input": "3/4 ounce lemon juice",
+        "name": "lemon juice"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='name'>ounce</span>",
+        "qty": "3/4",
+        "input": "3/4 ounce",
+        "name": "ounce"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>to</span><span class='range_end'>4</span><span class='unit'>ounces</span><span class='comment'>tonic water , chilled</span>",
+        "comment": "tonic water, chilled",
+        "other": "to",
+        "unit": "ounce",
+        "range_end": "4",
+        "input": "2 to 4 ounces tonic water, chilled",
+        "qty": "2"
+    }
+]

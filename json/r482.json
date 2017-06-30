@@ -1,0 +1,42 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>ears</span><span class='other'>of</span><span class='name'>corn</span><span class='other'>,</span><span class='comment'>husked , cut crosswise into about 1 1/2\" rounds</span>",
+        "comment": "husked, cut crosswise into about 1 1/2\" rounds",
+        "other": "of ,",
+        "unit": "ear",
+        "name": "corn",
+        "input": "6 ears of corn, husked, cut crosswise into about 1 1/2\" rounds",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>5 1/2</span><span class='unit'>tablespoons</span><span class='comment'>kosher</span><span class='name'>salt</span><span class='comment'>plus more</span>",
+        "comment": "kosher plus more",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "5 1/2 tablespoons kosher salt plus more",
+        "qty": "5 1/2"
+    },
+    {
+        "display": "<span class='qty'>10</span><span class='name'>garlic</span><span class='unit'>cloves</span>",
+        "unit": "clove",
+        "qty": "10",
+        "input": "10 garlic cloves",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>red chiles</span><span class='other'>(</span><span class='comment'>such as jalape\u00f1o or Fresno ) , cut crosswise into thin rounds</span><span class='other'>,</span><span class='comment'>seeded</span>",
+        "comment": "such as jalape\u00f1o or Fresno), cut crosswise into thin rounds seeded",
+        "other": "(,",
+        "name": "red chiles",
+        "input": "2 red chiles (such as jalape\u00f1o or Fresno), cut crosswise into thin rounds, seeded",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>whole</span><span class='name'>black peppercorns</span>",
+        "comment": "whole",
+        "unit": "teaspoon",
+        "name": "black peppercorns",
+        "input": "1 teaspoon whole black peppercorns",
+        "qty": "1"
+    }
+]

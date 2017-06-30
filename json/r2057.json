@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>olive oil</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>pounds</span><span class='comment'>peeled baby</span><span class='name'>carrots</span>",
+        "comment": "peeled baby",
+        "unit": "pound",
+        "name": "carrots",
+        "input": "1 1/4 pounds peeled baby carrots",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>pounds</span><span class='name'>sugar snap peas</span><span class='other'>,</span><span class='comment'>trimmed</span>",
+        "comment": "trimmed",
+        "other": ",",
+        "unit": "pound",
+        "name": "sugar snap peas",
+        "input": "1 1/4 pounds sugar snap peas, trimmed",
+        "qty": "1 1/4"
+    }
+]

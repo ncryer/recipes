@@ -1,0 +1,69 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>onion</span><span class='comment'>, chopped</span>",
+        "qty": "1",
+        "comment": "small, chopped",
+        "input": "1 small onion, chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>tomato pulp</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups tomato pulp",
+        "name": "tomato pulp"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>green beans , stem end snapped off</span>",
+        "unit": "pound",
+        "qty": "1",
+        "input": "1 pound green beans, stem end snapped off",
+        "name": "green beans, stem end snapped off"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span><span class='other'>,</span><span class='comment'>fresh red</span><span class='name'>hot pepper</span><span class='other'>, or</span><span class='comment'>dried chili pepper flakes</span>",
+        "comment": "Freshly ground fresh red dried chili pepper flakes",
+        "input": "Freshly ground black pepper, fresh red hot pepper, or dried chili pepper flakes",
+        "name": "black pepper hot pepper",
+        "other": ",, or"
+    },
+    {
+        "display": "<span class='comment'>Coarse sea</span><span class='name'>salt</span>",
+        "comment": "Coarse sea",
+        "input": "Coarse sea salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>boiling</span><span class='name'>water</span>",
+        "comment": "boiling",
+        "unit": "cup",
+        "name": "water",
+        "input": "1/4 cup boiling water",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped</span><span class='name'>basil</span>",
+        "comment": "chopped",
+        "unit": "tablespoon",
+        "name": "basil",
+        "input": "2 tablespoons chopped basil",
+        "qty": "2"
+    }
+]

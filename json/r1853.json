@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>yellow</span><span class='comment'>or red</span><span class='name'>bell peppers</span><span class='comment'>, cut into 1-inch squares</span>",
+        "qty": "3",
+        "comment": "or red, cut into 1-inch squares",
+        "input": "3 yellow or red bell peppers, cut into 1-inch squares",
+        "name": "yellow bell peppers"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>bread crumbs</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "bread crumbs",
+        "input": "1 cup fresh bread crumbs",
+        "qty": "1"
+    }
+]

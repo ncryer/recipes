@@ -1,0 +1,66 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>purple jasmine rice</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup purple jasmine rice",
+        "name": "purple jasmine rice"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1 1/4",
+        "input": "1 1/4 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>coriander seeds</span><span class='comment'>,</span>",
+        "comment": ",",
+        "unit": "teaspoon",
+        "name": "coriander seeds",
+        "input": "1 1/2 teaspoons coriander seeds ,",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>Persian cucumbers</span><span class='comment'>( also called mini cucumbers; about 6 ) or other cucumbers</span><span class='other'>,</span><span class='comment'>quartered lengthwise and sliced crosswise 1/4 inch thick</span>",
+        "comment": "(also called mini cucumbers; about 6) or other cucumbers quartered lengthwise and sliced crosswise 1/4 inch thick",
+        "other": ",",
+        "unit": "pound",
+        "name": "Persian cucumbers",
+        "input": "1 pound Persian cucumbers (also called mini cucumbers; about 6) or other cucumbers, quartered lengthwise and sliced crosswise 1/4 inch thick",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "unit": "bunch",
+        "name": "scallions",
+        "input": "1 bunch scallions, thinly sliced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>grated</span><span class='name'>lemon</span>",
+        "comment": "grated",
+        "unit": "teaspoon",
+        "name": "lemon",
+        "input": "2 teaspoons grated lemon",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "2 teaspoons fresh lemon juice",
+        "qty": "2"
+    }
+]

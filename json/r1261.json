@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/4 cup fresh lemon juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>( 6- to 8-oounce ) firm-ripe</span><span class='name'>avocados</span>",
+        "qty": "2",
+        "comment": "(6- to 8-oounce) firm-ripe",
+        "input": "2 (6- to 8-oounce) firm-ripe avocados",
+        "name": "avocados"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>heads</span><span class='name'>Bibb lettuce</span><span class='comment'>( 3/4 pound total ) , leaves torn if large</span>",
+        "comment": "(3/4 pound total), leaves torn if large",
+        "unit": "head",
+        "name": "Bibb lettuce",
+        "input": "3 heads Bibb lettuce (3/4 pound total), leaves torn if large",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>heart</span><span class='other'>of</span><span class='name'>romaine</span><span class='comment'>, sliced crosswise into 1-inch pieces</span>",
+        "comment": ", sliced crosswise into 1-inch pieces",
+        "other": "of",
+        "unit": "heart",
+        "name": "romaine",
+        "input": "1 heart of romaine, sliced crosswise into 1-inch pieces",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium</span><span class='name'>radishes</span><span class='comment'>, thinly sliced</span>",
+        "qty": "3",
+        "comment": "medium, thinly sliced",
+        "input": "3 medium radishes, thinly sliced",
+        "name": "radishes"
+    }
+]

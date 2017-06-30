@@ -1,0 +1,73 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>scallions</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "scallions",
+        "input": "1/2 cup chopped scallions",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>finely chopped</span><span class='name'>garlic</span>",
+        "comment": "finely chopped",
+        "unit": "teaspoon",
+        "name": "garlic",
+        "input": "1/2 teaspoon finely chopped garlic",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>corn</span><span class='other'>(</span><span class='comment'>from about 4 ears</span><span class='other'>)</span>",
+        "comment": "from about 4 ears",
+        "other": "()",
+        "unit": "cup",
+        "name": "corn",
+        "input": "2 cups corn (from about 4 ears)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>zucchini</span><span class='comment'>( 1 lb total ) , quartered lengthwise</span><span class='other'>,</span><span class='comment'>then cut crosswise into 1/4-inch-thick pieces</span>",
+        "comment": "medium (1 lb total), quartered lengthwise then cut crosswise into 1/4-inch-thick pieces",
+        "other": ",",
+        "name": "zucchini",
+        "input": "2 medium zucchini (1 lb total), quartered lengthwise, then cut crosswise into 1/4-inch-thick pieces",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1/4 teaspoon ground cumin",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/2 cup chopped fresh cilantro",
+        "qty": "1/2"
+    }
+]

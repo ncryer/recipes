@@ -1,0 +1,53 @@
+[
+    {
+        "display": "<span class='qty'>7</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": "extra-virgin, divided",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "7 tablespoons extra-virgin olive oil, divided",
+        "qty": "7"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>small yellow fingerling</span><span class='name'>potatoes</span><span class='comment'>, unpeeled</span><span class='other'>,</span><span class='comment'>halved lengthwise</span>",
+        "comment": "small yellow fingerling, unpeeled halved lengthwise",
+        "other": ",",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "2 pounds small yellow fingerling potatoes, unpeeled, halved lengthwise",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='comment'>minced</span><span class='name'>shallots</span><span class='comment'>, divided</span>",
+        "comment": "minced, divided",
+        "unit": "tablespoon",
+        "name": "shallots",
+        "input": "4 tablespoons minced shallots, divided",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>pressed</span>",
+        "comment": "pressed",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, pressed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>large fresh</span><span class='name'>oyster mushrooms</span><span class='other'>,</span><span class='comment'>torn into 1-inch-wide strips</span>",
+        "comment": "large fresh torn into 1-inch-wide strips",
+        "other": ",",
+        "unit": "pound",
+        "name": "oyster mushrooms",
+        "input": "1 pound large fresh oyster mushrooms, torn into 1-inch-wide strips",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh Italian</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh Italian",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "1 tablespoon chopped fresh Italian parsley",
+        "qty": "1"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "display": "<span class='name'>Olive oil</span><span class='comment'>for greasing</span>",
+        "comment": "for greasing",
+        "input": "Olive oil for greasing",
+        "name": "Olive oil"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='comment'>lb</span><span class='name'>plum tomatoes</span><span class='comment'>( about 6 large )</span>",
+        "qty": "1 1/2",
+        "comment": "lb (about 6 large)",
+        "input": "1 1/2 lb plum tomatoes (about 6 large)",
+        "name": "plum tomatoes"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, chopped</span>",
+        "qty": "1",
+        "comment": "medium, chopped",
+        "input": "1 medium onion, chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped canned</span><span class='name'>chipotle chiles</span><span class='other'>in</span><span class='comment'>adobo plus 2 teaspoons sauce from can</span>",
+        "comment": "chopped canned adobo plus 2 teaspoons sauce from can",
+        "other": "in",
+        "unit": "tablespoon",
+        "name": "chipotle chiles",
+        "input": "1 tablespoon chopped canned chipotle chiles in adobo plus 2 teaspoons sauce from can",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>1 ( 2 1/2-inch ) fresh jalape\u00f1o</span><span class='other'>,</span><span class='comment'>seeded and remainder chopped ( 1 tablespoon )</span>",
+        "comment": "1 (2 1/2-inch) fresh jalape\u00f1o seeded and remainder chopped (1 tablespoon)",
+        "input": "1 (2 1/2-inch) fresh jalape\u00f1o, seeded and remainder chopped (1 tablespoon)",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "1 tablespoon fresh lime juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/2 cup chopped fresh cilantro",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='name'>Accompaniment: tortilla chips</span>",
+        "input": "Accompaniment: tortilla chips",
+        "name": "Accompaniment: tortilla chips"
+    }
+]

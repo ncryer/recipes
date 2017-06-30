@@ -1,0 +1,45 @@
+[
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='comment'>lb fine-quality bittersweet</span><span class='name'>chocolate</span><span class='comment'>( not unsweetened ) , broken into small pieces</span>",
+        "qty": "1 1/4",
+        "comment": "lb fine-quality bittersweet (not unsweetened), broken into small pieces",
+        "input": "1 1/4 lb fine-quality bittersweet chocolate (not unsweetened), broken into small pieces",
+        "name": "chocolate"
+    },
+    {
+        "display": "<span class='name'>Vegetable oil</span><span class='comment'>for greasing pan</span>",
+        "comment": "for greasing pan",
+        "input": "Vegetable oil for greasing pan",
+        "name": "Vegetable oil"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>dried</span><span class='name'>cranberries</span>",
+        "comment": "dried",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup dried cranberries",
+        "name": "cranberries"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>raisins</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup raisins",
+        "name": "raisins"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>salted roasted shelled pistachios ( 3 oz )</span>",
+        "unit": "cup",
+        "comment": "salted roasted shelled pistachios (3 oz)",
+        "input": "2/3 cup salted roasted shelled pistachios (3 oz)",
+        "other": "2/3"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>salted roasted</span><span class='name'>cashews</span><span class='other'>(</span><span class='comment'>3 oz )</span>",
+        "comment": "salted roasted 3 oz)",
+        "other": "2/3 (",
+        "unit": "cup",
+        "input": "2/3 cup salted roasted cashews (3 oz)",
+        "name": "cashews"
+    }
+]

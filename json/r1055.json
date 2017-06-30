@@ -1,0 +1,36 @@
+[
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>whole</span><span class='name'>star anise</span>",
+        "qty": "3",
+        "comment": "whole",
+        "input": "3 whole star anise",
+        "name": "star anise"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='comment'>large</span><span class='name'>ruby</span><span class='comment'>red or pink grapefruit</span>",
+        "qty": "5",
+        "comment": "large red or pink grapefruit",
+        "input": "5 large ruby red or pink grapefruit",
+        "name": "ruby"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>blood oranges</span>",
+        "qty": "4",
+        "input": "4 blood oranges",
+        "name": "blood oranges"
+    }
+]

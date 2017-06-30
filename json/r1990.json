@@ -1,0 +1,25 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>12-ounce baskets</span><span class='name'>strawberries</span><span class='other'>,</span><span class='comment'>hulled</span><span class='other'>,</span><span class='comment'>sliced ( about 4 cups )</span>",
+        "comment": "12-ounce baskets hulled sliced (about 4 cups)",
+        "other": ", ,",
+        "name": "strawberries",
+        "input": "2 12-ounce baskets strawberries, hulled, sliced (about 4 cups)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>banana liqueur</span><span class='comment'>or brandy</span>",
+        "comment": "or brandy",
+        "unit": "tablespoon",
+        "name": "banana liqueur",
+        "input": "2 tablespoons banana liqueur or brandy",
+        "qty": "2"
+    }
+]

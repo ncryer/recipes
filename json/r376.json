@@ -1,0 +1,121 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium spring</span><span class='name'>onion</span><span class='comment'>, thinly sliced</span>",
+        "qty": "1",
+        "comment": "medium spring, thinly sliced",
+        "input": "1 medium spring onion, thinly sliced",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>red wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>Persian</span><span class='other'>,</span><span class='comment'>Armenian</span><span class='other'>,</span><span class='name'>lemon</span><span class='other'>, or</span><span class='comment'>English hothouse cucumbers</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>leaving alternating strips of peel</span><span class='other'>,</span><span class='comment'>cut into bite-size pieces</span>",
+        "comment": "Armenian English hothouse cucumbers peeled leaving alternating strips of peel cut into bite-size pieces",
+        "other": ",, , or, , ,",
+        "unit": "pound",
+        "name": "Persian lemon",
+        "input": "1 pound Persian, Armenian, lemon, or English hothouse cucumbers, peeled, leaving alternating strips of peel, cut into bite-size pieces",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>finely grated</span>",
+        "comment": "finely grated",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, finely grated",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2-3</span><span class='comment'>large heirloom</span><span class='name'>tomatoes</span><span class='comment'>, sliced</span>",
+        "qty": "2-3",
+        "comment": "large heirloom, sliced",
+        "input": "2-3 large heirloom tomatoes, sliced",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>small</span><span class='name'>red tomatoes</span><span class='comment'>, cut into wedges</span>",
+        "qty": "6",
+        "comment": "small, cut into wedges",
+        "input": "6 small red tomatoes, cut into wedges",
+        "name": "red tomatoes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pints</span><span class='comment'>small cherry</span><span class='name'>tomatoes</span><span class='comment'>, halved</span>",
+        "comment": "small cherry, halved",
+        "unit": "pint",
+        "name": "tomatoes",
+        "input": "2 pints small cherry tomatoes, halved",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lime juice</span><span class='comment'>, divided</span>",
+        "comment": "fresh, divided",
+        "unit": "cup",
+        "name": "lime juice",
+        "input": "1/2 cup fresh lime juice, divided",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": "extra-virgin, divided",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "4 tablespoons extra-virgin olive oil, divided",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground pepper",
+        "name": "salt pepper",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>bunch</span><span class='name'>chives</span><span class='other'>,</span><span class='comment'>cut into 1\" pieces</span>",
+        "comment": "cut into 1\" pieces",
+        "other": ",",
+        "unit": "bunch",
+        "name": "chives",
+        "input": "1/2 bunch chives, cut into 1\" pieces",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>bunch</span><span class='name'>dill</span><span class='comment'>with tender stems and blossoms</span><span class='other'>,</span><span class='comment'>cut into 1\" pieces</span>",
+        "comment": "with tender stems and blossoms cut into 1\" pieces",
+        "other": ",",
+        "unit": "bunch",
+        "name": "dill",
+        "input": "1/4 bunch dill with tender stems and blossoms, cut into 1\" pieces",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>cilantro leaves</span><span class='comment'>with tender stems</span>",
+        "comment": "fresh with tender stems",
+        "unit": "cup",
+        "name": "cilantro leaves",
+        "input": "1 cup fresh cilantro leaves with tender stems",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh flat-leaf</span><span class='name'>parsley leaves</span><span class='comment'>with tender stems</span>",
+        "comment": "fresh flat-leaf with tender stems",
+        "unit": "cup",
+        "name": "parsley leaves",
+        "input": "1 cup fresh flat-leaf parsley leaves with tender stems",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>tarragon leaves</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "tarragon leaves",
+        "input": "1/4 cup fresh tarragon leaves",
+        "qty": "1/4"
+    }
+]

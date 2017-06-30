@@ -1,0 +1,45 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>rice vinegar</span><span class='other'>(</span><span class='comment'>not seasoned )</span>",
+        "comment": "not seasoned)",
+        "other": "(",
+        "unit": "cup",
+        "name": "rice vinegar",
+        "input": "1/2 cup rice vinegar (not seasoned)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span>",
+        "unit": "teaspoon",
+        "input": "1/2 teaspoon",
+        "qty": "1/2"
+    },
+    {
+        "other": "(",
+        "display": "<span class='other'>(</span><span class='comment'>chile garlic</span><span class='name'>sauce</span><span class='comment'>) or 1/2 teaspoon dried hot</span><span class='name'>red pepper flakes</span>",
+        "comment": "chile garlic) or 1/2 teaspoon dried hot",
+        "input": "(chile garlic sauce) or 1/2 teaspoon dried hot red pepper flakes",
+        "name": "sauce red pepper flakes"
+    }
+]

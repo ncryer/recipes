@@ -1,0 +1,31 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='name'>oz dark chocolate</span><span class='other'>,</span><span class='comment'>60% cocoa</span>",
+        "comment": "60% cocoa",
+        "other": ",",
+        "name": "oz dark chocolate",
+        "input": "6 oz dark chocolate, 60% cocoa",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>slices</span><span class='comment'>1-lb white country-style loaf , cut into 8 slices</span>",
+        "unit": "slice",
+        "comment": "1-lb white country-style loaf, cut into 8 slices",
+        "input": "6 slices 1-lb white country-style loaf, cut into 8 slices",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>tsp sea salt flakes</span>",
+        "qty": "1/2",
+        "input": "1/2 tsp sea salt flakes",
+        "name": "tsp sea salt flakes"
+    }
+]

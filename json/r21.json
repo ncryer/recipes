@@ -1,0 +1,39 @@
+[
+    {
+        "display": "<span class='qty'>5</span><span class='name'>celery</span><span class='unit'>stalks</span><span class='comment'>, strings removed , cut into 3x1/2-inch sticks</span>",
+        "comment": ", strings removed, cut into 3x1/2-inch sticks",
+        "unit": "stalk",
+        "name": "celery",
+        "input": "5 celery stalks, strings removed, cut into 3x1/2-inch sticks",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>furikake</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon furikake",
+        "name": "furikake"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>toasted</span><span class='name'>sesame oil</span>",
+        "comment": "toasted",
+        "unit": "tablespoon",
+        "name": "sesame oil",
+        "input": "1 tablespoon toasted sesame oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>soy sauce</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='comment'>Toasted</span><span class='name'>sesame seeds</span><span class='other'>(</span><span class='comment'>for serving</span><span class='other'>)</span>",
+        "comment": "Toasted for serving",
+        "input": "Toasted sesame seeds (for serving)",
+        "name": "sesame seeds",
+        "other": "()"
+    }
+]

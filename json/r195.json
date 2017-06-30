@@ -1,0 +1,53 @@
+[
+    {
+        "display": "<span class='qty'>16 1/3\u00bf-thick</span><span class='unit'>slices</span><span class='comment'>from a 10\u00bf-long Italian loaf</span>",
+        "unit": "slice",
+        "comment": "from a 10\u00bf-long Italian loaf",
+        "input": "16 1/3\u00bf-thick slices from a 10\u00bf-long Italian loaf",
+        "qty": "16 1/3\u00bf-thick"
+    },
+    {
+        "display": "<span class='other'>2</span><span class='unit'>tablespoons</span><span class='other'>plus 1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": ", divided",
+        "other": "2 plus 1/4",
+        "unit": "tablespoon cup",
+        "input": "2 tablespoons plus 1/4 cup olive oil, divided",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='name'>Salt</span>",
+        "input": "Salt",
+        "name": "Salt"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>, 1</span><span class='comment'>halved , 2 thinly sliced</span>",
+        "comment": "halved, 2 thinly sliced",
+        "other": ", 1",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 garlic cloves, 1 halved, 2 thinly sliced",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>broccoli rabe</span><span class='comment'>, tough ends discarded , remainder chopped</span>",
+        "comment": ", tough ends discarded, remainder chopped",
+        "unit": "pound",
+        "name": "broccoli rabe",
+        "input": "1 pound broccoli rabe, tough ends discarded, remainder chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='comment'>crushed</span><span class='name'>red pepper flakes</span>",
+        "comment": "crushed",
+        "other": "1/8",
+        "unit": "teaspoon",
+        "input": "1/8 teaspoon crushed red pepper flakes",
+        "name": "red pepper flakes"
+    }
+]

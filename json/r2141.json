@@ -1,0 +1,30 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "6",
+        "input": "6 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>Turkish bay leaves</span><span class='comment'>or 1/2 California</span><span class='name'>bay leaf</span>",
+        "qty": "2",
+        "comment": "or 1/2 California",
+        "input": "2 Turkish bay leaves or 1/2 California bay leaf",
+        "name": "Turkish bay leaves bay leaf"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>cornmeal</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups cornmeal",
+        "name": "cornmeal"
+    }
+]

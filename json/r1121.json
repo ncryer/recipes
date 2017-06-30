@@ -1,0 +1,46 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>red wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>coarse kosher</span><span class='name'>salt</span>",
+        "comment": "coarse kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "2 teaspoons coarse kosher salt",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>celery seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon celery seeds",
+        "name": "celery seeds"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>green onions</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "name": "green onions",
+        "input": "3 green onions, thinly sliced",
+        "qty": "3"
+    },
+    {
+        "other": "8-ounce",
+        "display": "<span class='comment'>2</span><span class='other'>8-ounce</span><span class='comment'>packages</span><span class='name'>coleslaw mix</span>",
+        "comment": "2 packages",
+        "input": "2 8-ounce packages coleslaw mix",
+        "name": "coleslaw mix"
+    }
+]

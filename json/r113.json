@@ -1,0 +1,62 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>kale leaves</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups kale leaves",
+        "name": "kale leaves"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>Hass ripe avocados</span>",
+        "qty": "4",
+        "input": "4 Hass ripe avocados",
+        "name": "Hass ripe avocados"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>ripe</span><span class='name'>tomatoes</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "ripe seeded finely chopped",
+        "other": ", ,",
+        "name": "tomatoes",
+        "input": "3 ripe tomatoes, seeded, finely chopped",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>minced</span><span class='name'>red onion</span>",
+        "comment": "minced",
+        "unit": "cup",
+        "name": "red onion",
+        "input": "1/4 cup minced red onion",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>jalapeno chilies</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "seeded finely chopped",
+        "other": ", ,",
+        "name": "jalapeno chilies",
+        "input": "2 jalapeno chilies, seeded, finely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>lime</span><span class='other'>,</span><span class='comment'>juiced</span>",
+        "comment": "juiced",
+        "other": ",",
+        "name": "lime",
+        "input": "1 lime, juiced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>sea salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon sea salt",
+        "name": "sea salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>cilantro</span><span class='comment'>, minced</span>",
+        "comment": "fresh, minced",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/4 cup fresh cilantro, minced",
+        "qty": "1/4"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>cantaloupe</span><span class='comment'>( peeled</span><span class='other'>,</span><span class='comment'>seeded , chopped )</span>",
+        "comment": "medium (peeled seeded, chopped)",
+        "other": ",",
+        "name": "cantaloupe",
+        "input": "1 medium cantaloupe (peeled, seeded, chopped)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>cucumber</span><span class='comment'>( peeled , chopped</span><span class='other'>)</span>",
+        "comment": "small (peeled, chopped",
+        "other": ")",
+        "name": "cucumber",
+        "input": "1 small cucumber (peeled, chopped)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped</span><span class='name'>red onion</span>",
+        "comment": "chopped",
+        "unit": "tablespoon",
+        "name": "red onion",
+        "input": "2 tablespoons chopped red onion",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "2 teaspoons kosher salt",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>extra virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/2 cup extra virgin olive oil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt and freshly ground black pepper",
+        "name": "salt and black pepper"
+    },
+    {
+        "display": "<span class='name'>Thinly sliced fresh mint</span>",
+        "input": "Thinly sliced fresh mint",
+        "name": "Thinly sliced fresh mint"
+    }
+]

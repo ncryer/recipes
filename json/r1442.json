@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro leaves</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro leaves",
+        "input": "1 cup chopped fresh cilantro leaves",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 garlic cloves, minced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>apple cider vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons apple cider vinegar",
+        "name": "apple cider vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "1 tablespoon fresh lime juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>hot pepper sauce</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon hot pepper sauce",
+        "name": "hot pepper sauce"
+    }
+]

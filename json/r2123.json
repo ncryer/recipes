@@ -1,0 +1,80 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>pounds</span><span class='comment'>Italian prune</span><span class='name'>plums</span>",
+        "comment": "Italian prune",
+        "unit": "pound",
+        "name": "plums",
+        "input": "2 1/2 pounds Italian prune plums",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>packed light</span><span class='name'>brown sugar</span>",
+        "comment": "packed light",
+        "unit": "cup",
+        "name": "brown sugar",
+        "input": "1 cup packed light brown sugar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>minced peeled fresh</span><span class='name'>gingerroot</span>",
+        "comment": "minced peeled fresh",
+        "unit": "tablespoon",
+        "name": "gingerroot",
+        "input": "1 tablespoon minced peeled fresh gingerroot",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 large garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>paprika</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon paprika",
+        "name": "paprika"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>coriander seeds</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "coriander seeds",
+        "input": "1 teaspoon ground coriander seeds",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>allspice</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "allspice",
+        "input": "1 teaspoon ground allspice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>white-wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup white-wine vinegar",
+        "name": "white-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lime juice",
+        "input": "1/2 cup fresh lime juice",
+        "qty": "1/2"
+    }
+]

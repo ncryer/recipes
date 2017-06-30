@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>navel</span><span class='name'>oranges</span>",
+        "qty": "6",
+        "comment": "navel",
+        "input": "6 navel oranges",
+        "name": "oranges"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>pineapple</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>cored , and cut into cubes</span>",
+        "comment": "peeled cored, and cut into cubes",
+        "other": ", ,",
+        "name": "pineapple",
+        "input": "1 pineapple, peeled, cored, and cut into cubes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>coconut</span><span class='other'>,</span><span class='comment'>shredded fresh</span><span class='other'>,</span><span class='comment'>fresh frozen</span><span class='other'>, or</span><span class='comment'>packaged sweetened</span><span class='other'>,</span><span class='comment'>according to taste or tradition</span>",
+        "comment": "shredded fresh fresh frozen packaged sweetened according to taste or tradition",
+        "other": ",, , or ,",
+        "unit": "cup",
+        "name": "coconut",
+        "input": "1 cup coconut, shredded fresh, fresh frozen, or packaged sweetened, according to taste or tradition",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>banana</span>",
+        "qty": "1",
+        "comment": "large",
+        "input": "1 large banana",
+        "name": "banana"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small ( 4 1/2-ounce ) bottle maraschino cherries</span><span class='other'>,</span><span class='comment'>drained well ( optional )</span>",
+        "qty": "1",
+        "comment": "small (4 1/2-ounce) bottle maraschino cherries drained well (optional)",
+        "input": "1 small (4 1/2-ounce) bottle maraschino cherries, drained well (optional)",
+        "other": ","
+    }
+]

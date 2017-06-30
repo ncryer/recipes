@@ -1,0 +1,59 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>mixed-colored</span><span class='name'>string beans</span><span class='comment'>, trimmed</span>",
+        "comment": "mixed-colored, trimmed",
+        "unit": "cup",
+        "name": "string beans",
+        "input": "3 cups mixed-colored string beans, trimmed",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>cups</span><span class='name'>cherry tomatoes</span><span class='comment'>, halved</span>",
+        "comment": ", halved",
+        "unit": "cup",
+        "name": "cherry tomatoes",
+        "input": "2 1/2 cups cherry tomatoes, halved",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>pitted</span><span class='name'>kalamata olives</span>",
+        "comment": "pitted",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup pitted kalamata olives",
+        "name": "kalamata olives"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>clove</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 clove garlic, finely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>sprig</span><span class='name'>summer savory</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "unit": "sprig",
+        "name": "summer savory",
+        "input": "1 sprig summer savory, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "1 tablespoon extra-virgin olive oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>red wine vinegar</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon red wine vinegar",
+        "name": "red wine vinegar"
+    }
+]

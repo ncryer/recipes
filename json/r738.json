@@ -1,0 +1,74 @@
+[
+    {
+        "display": "<span class='comment'>1 bag</span><span class='other'>(</span><span class='comment'>12 ounces ) frozen shelled edamame</span>",
+        "comment": "1 bag 12 ounces) frozen shelled edamame",
+        "input": "1 bag (12 ounces) frozen shelled edamame",
+        "other": "("
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>whole-wheat</span><span class='name'>pocket pitas</span><span class='comment'>, cut into 8 triangles each</span>",
+        "qty": "3",
+        "comment": "whole-wheat, cut into 8 triangles each",
+        "input": "3 whole-wheat pocket pitas, cut into 8 triangles each",
+        "name": "pocket pitas"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span>",
+        "unit": "clove",
+        "qty": "2",
+        "input": "2 cloves garlic",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>tahini</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons tahini",
+        "name": "tahini"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "3 tablespoons fresh lemon juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1/2 teaspoon ground cumin",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>red bell peppers</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>seeded and cut into 24 strips</span>",
+        "comment": "large cored seeded and cut into 24 strips",
+        "other": ", ,",
+        "name": "red bell peppers",
+        "input": "2 large red bell peppers, cored, seeded and cut into 24 strips",
+        "qty": "2"
+    }
+]

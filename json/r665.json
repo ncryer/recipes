@@ -1,0 +1,72 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>( 96 g ) TVP granules</span>",
+        "unit": "cup",
+        "comment": "(96 g) TVP granules",
+        "input": "1 cup (96 g) TVP granules",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>( 235 ml ) vegetable</span><span class='name'>broth</span>",
+        "comment": "(235 ml) vegetable",
+        "unit": "cup",
+        "name": "broth",
+        "input": "1 cup (235 ml) vegetable broth",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>10</span><span class='unit'>ounces</span><span class='comment'>( 280 g ) extra-firm</span><span class='name'>tofu</span><span class='comment'>, drained and pressed</span>",
+        "comment": "(280 g) extra-firm, drained and pressed",
+        "unit": "ounce",
+        "name": "tofu",
+        "input": "10 ounces (280 g) extra-firm tofu, drained and pressed",
+        "qty": "10"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>ounces</span><span class='comment'>( 112 g ) plain soy tempeh</span>",
+        "unit": "ounce",
+        "comment": "(112 g) plain soy tempeh",
+        "input": "4 ounces (112 g) plain soy tempeh",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( 112 g ) vegan</span><span class='name'>mayonnaise</span><span class='comment'>, store-bought or homemade</span>",
+        "comment": "(112 g) vegan, store-bought or homemade",
+        "unit": "cup",
+        "name": "mayonnaise",
+        "input": "1/2 cup (112 g) vegan mayonnaise, store-bought or homemade",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>( 34 g ) Sriracha</span><span class='name'>sauce</span>",
+        "comment": "(34 g) Sriracha",
+        "unit": "tablespoon",
+        "name": "sauce",
+        "input": "2 tablespoons (34 g) Sriracha sauce",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>( 30 ml</span><span class='other'>)</span><span class='name'>sesame oil</span>",
+        "comment": "(30 ml",
+        "other": ")",
+        "unit": "tablespoon",
+        "name": "sesame oil",
+        "input": "2 tablespoons (30 ml) sesame oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( 62 g )</span><span class='name'>all-purpose flour</span>",
+        "comment": "(62 g)",
+        "unit": "cup",
+        "name": "all-purpose flour",
+        "input": "1/2 cup (62 g) all-purpose flour",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='name'>Oil</span><span class='other'>,</span><span class='comment'>for frying ( optional</span><span class='other'>)</span>",
+        "comment": "for frying (optional",
+        "input": "Oil, for frying (optional)",
+        "name": "Oil",
+        "other": ",)"
+    }
+]

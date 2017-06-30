@@ -1,0 +1,61 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>red bell pepper</span><span class='comment'>, cored and seeded</span>",
+        "qty": "1/2",
+        "comment": ", cored and seeded",
+        "input": "1/2 red bell pepper, cored and seeded",
+        "name": "red bell pepper"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>red wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>vanilla bean</span><span class='other'>,</span><span class='comment'>seeds scraped</span>",
+        "comment": "seeds scraped",
+        "other": ",",
+        "name": "vanilla bean",
+        "input": "1/2 vanilla bean, seeds scraped",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>almost-ripe avocados</span>",
+        "qty": "2",
+        "input": "2 almost-ripe avocados",
+        "name": "almost-ripe avocados"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='name'>arugula</span><span class='comment'>or sorrel</span>",
+        "comment": "or sorrel",
+        "unit": "cup",
+        "name": "arugula",
+        "input": "8 cups arugula or sorrel",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>peaches</span><span class='other'>,</span><span class='comment'>diced and peeled</span>",
+        "comment": "diced and peeled",
+        "other": ",",
+        "name": "peaches",
+        "input": "2 peaches, diced and peeled",
+        "qty": "2"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "display": "<span class='comment'>1 15-ounce can white</span><span class='name'>beans</span><span class='comment'>( such as cannellini</span><span class='other'>or</span><span class='comment'>Great Northern ) , rinsed</span><span class='other'>,</span><span class='comment'>coarsely chopped</span>",
+        "comment": "1 15-ounce can white (such as cannellini Great Northern), rinsed coarsely chopped",
+        "input": "1 15-ounce can white beans (such as cannellini or Great Northern), rinsed, coarsely chopped",
+        "name": "beans",
+        "other": "or ,"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>pitted</span><span class='name'>mixed olives</span><span class='comment'>, coarsely chopped</span>",
+        "comment": "pitted, coarsely chopped",
+        "unit": "cup",
+        "name": "mixed olives",
+        "input": "1/2 cup pitted mixed olives, coarsely chopped",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>coarsely chopped fresh flat-leaf</span><span class='name'>parsley</span>",
+        "comment": "coarsely chopped fresh flat-leaf",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "2 tablespoons coarsely chopped fresh flat-leaf parsley",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>thinly sliced</span><span class='name'>lemon</span><span class='comment'>zest</span>",
+        "comment": "thinly sliced zest",
+        "unit": "teaspoon",
+        "name": "lemon",
+        "input": "1 teaspoon thinly sliced lemon zest",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='comment'>crushed</span><span class='name'>red pepper flakes</span>",
+        "comment": "crushed",
+        "other": "1/8",
+        "unit": "teaspoon",
+        "input": "1/8 teaspoon crushed red pepper flakes",
+        "name": "red pepper flakes"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>( or more ) fresh</span><span class='name'>lemon juice</span>",
+        "comment": "(or more) fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon (or more) fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground pepper",
+        "name": "salt pepper",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>baguette</span><span class='other'>(</span><span class='comment'>for serving</span><span class='other'>)</span>",
+        "comment": "for serving",
+        "other": "()",
+        "name": "baguette",
+        "input": "1 baguette (for serving)",
+        "qty": "1"
+    }
+]

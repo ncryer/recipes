@@ -1,0 +1,78 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>white wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup white wine vinegar",
+        "name": "white wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>sweet curry powder</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons sweet curry powder",
+        "name": "sweet curry powder"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>pressed</span>",
+        "comment": "pressed",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, pressed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup extra-virgin olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='comment'>1 16-ounce package red</span><span class='name'>lentils</span><span class='comment'>( about 2 1/4 cups )</span>",
+        "comment": "1 16-ounce package red (about 2 1/4 cups)",
+        "input": "1 16-ounce package red lentils (about 2 1/4 cups)",
+        "name": "lentils"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>large</span><span class='name'>kohlrabi</span><span class='comment'>( about 1 1/4 to 1 1/2 pounds ) ; leaves stemmed</span><span class='other'>,</span><span class='comment'>thinly sliced; bulb peeled</span><span class='other'>,</span><span class='comment'>cut into 1/3-inch dice ( about 3 cups</span><span class='other'>)</span>",
+        "comment": "large (about 1 1/4 to 1 1/2 pounds) ; leaves stemmed thinly sliced; bulb peeled cut into 1/3-inch dice (about 3 cups",
+        "other": ",,)",
+        "name": "kohlrabi",
+        "input": "3 large kohlrabi (about 1 1/4 to 1 1/2 pounds) ; leaves stemmed, thinly sliced; bulb peeled, cut into 1/3-inch dice (about 3 cups)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>plain couscous</span><span class='comment'>( about 6 ounces )</span>",
+        "comment": "(about 6 ounces)",
+        "unit": "cup",
+        "name": "plain couscous",
+        "input": "1 cup plain couscous (about 6 ounces)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>green onions</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "green onions",
+        "input": "1 cup chopped green onions",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>5-to 6-ounce package baby</span><span class='name'>spinach</span>",
+        "qty": "1",
+        "comment": "5-to 6-ounce package baby",
+        "input": "1 5-to 6-ounce package baby spinach",
+        "name": "spinach"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>mint</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "mint",
+        "input": "1/2 cup chopped fresh mint",
+        "qty": "1/2"
+    }
+]

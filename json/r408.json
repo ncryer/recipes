@@ -1,0 +1,93 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, quartered</span>",
+        "qty": "1",
+        "comment": "medium, quartered",
+        "input": "1 medium onion, quartered",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>carrot</span><span class='comment'>, peeled , cut into 1\" pieces</span>",
+        "qty": "1",
+        "comment": "medium, peeled, cut into 1\" pieces",
+        "input": "1 medium carrot, peeled, cut into 1\" pieces",
+        "name": "carrot"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>celery</span><span class='unit'>stalk</span><span class='other'>,</span><span class='comment'>cut into 1\" pieces</span>",
+        "comment": "cut into 1\" pieces",
+        "other": ",",
+        "unit": "stalk",
+        "name": "celery",
+        "input": "1 celery stalk, cut into 1\" pieces",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>4 whole , 2 chopped</span>",
+        "comment": "4 whole, 2 chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "6 garlic cloves, 4 whole, 2 chopped",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>flat-leaf</span><span class='name'>parsley leaves</span>",
+        "comment": "flat-leaf",
+        "unit": "cup",
+        "name": "parsley leaves",
+        "input": "1/2 cup flat-leaf parsley leaves",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoons</span><span class='comment'>crushed</span><span class='name'>red pepper flakes</span>",
+        "comment": "crushed",
+        "unit": "teaspoon",
+        "name": "red pepper flakes",
+        "input": "1/4 teaspoons crushed red pepper flakes",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": ", divided",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/2 cup olive oil, divided",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>tomato paste</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons tomato paste",
+        "name": "tomato paste"
+    },
+    {
+        "display": "<span class='comment'>2 15-ounce cans</span><span class='name'>chickpeas</span><span class='comment'>, rinsed</span>",
+        "comment": "2 15-ounce cans, rinsed",
+        "input": "2 15-ounce cans chickpeas, rinsed",
+        "name": "chickpeas"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>ditalini or elbow</span><span class='name'>macaroni</span>",
+        "comment": "ditalini or elbow",
+        "unit": "pound",
+        "name": "macaroni",
+        "input": "1 pound ditalini or elbow macaroni",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>rosemary</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "rosemary",
+        "input": "1 tablespoon chopped fresh rosemary",
+        "qty": "1"
+    }
+]

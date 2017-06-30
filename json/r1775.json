@@ -1,0 +1,30 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>ounces</span><span class='name'>vodka</span>",
+        "unit": "ounce",
+        "qty": "1 1/2",
+        "input": "1 1/2 ounces vodka",
+        "name": "vodka"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>ounces</span><span class='name'>orange juice</span>",
+        "unit": "ounce",
+        "qty": "3",
+        "input": "3 ounces orange juice",
+        "name": "orange juice"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='other'>or</span><span class='range_end'>4</span><span class='comment'>ice cubes</span>",
+        "comment": "ice cubes",
+        "other": "or",
+        "range_end": "4",
+        "input": "3 or 4 ice cubes",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='other'>Dash</span><span class='name'>Angostura bitters</span>",
+        "other": "Dash",
+        "input": "Dash Angostura bitters",
+        "name": "Angostura bitters"
+    }
+]

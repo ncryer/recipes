@@ -1,0 +1,69 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>butternut squash</span><span class='comment'>( about 2 pounds )</span>",
+        "qty": "1",
+        "comment": "small (about 2 pounds)",
+        "input": "1 small butternut squash (about 2 pounds)",
+        "name": "butternut squash"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>tbsp canola oil</span>",
+        "qty": "1",
+        "input": "1 tbsp canola oil",
+        "name": "tbsp canola oil"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>oz</span><span class='comment'>silken</span><span class='name'>tofu</span>",
+        "qty": "6",
+        "comment": "silken",
+        "input": "6 oz silken tofu",
+        "name": "oz tofu"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>maple syrup</span><span class='other'>(</span><span class='comment'>or honey )</span>",
+        "comment": "or honey)",
+        "other": "(",
+        "unit": "cup",
+        "name": "maple syrup",
+        "input": "1/4 cup maple syrup (or honey)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>orange juice</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup orange juice",
+        "name": "orange juice"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>vanilla-flavored soymilk</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup vanilla-flavored soymilk",
+        "name": "vanilla-flavored soymilk"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tbsp</span><span class='comment'>grated</span><span class='name'>orange zest</span>",
+        "comment": "grated",
+        "unit": "tbsp",
+        "name": "orange zest",
+        "input": "2 tbsp grated orange zest",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>raspberries</span><span class='other'>(</span><span class='comment'>or other seasonal fruit )</span>",
+        "comment": "or other seasonal fruit)",
+        "other": "(",
+        "unit": "cup",
+        "name": "raspberries",
+        "input": "1/2 cup raspberries (or other seasonal fruit)",
+        "qty": "1/2"
+    },
+    {
+        "other": "1/8 tbsp",
+        "display": "<span class='other'>1/8 tbsp</span><span class='comment'>grated</span><span class='name'>nutmeg</span>",
+        "comment": "grated",
+        "input": "1/8 tbsp grated nutmeg",
+        "name": "nutmeg"
+    }
+]

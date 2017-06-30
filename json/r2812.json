@@ -1,0 +1,28 @@
+[
+    {
+        "display": "<span class='qty'>12</span><span class='comment'>large vine-ripened</span><span class='name'>tomatoes</span><span class='comment'>( about 6 pounds ) , sliced</span>",
+        "qty": "12",
+        "comment": "large vine-ripened (about 6 pounds), sliced",
+        "input": "12 large vine-ripened tomatoes (about 6 pounds), sliced",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='name'>salt</span><span class='comment'>to taste</span>",
+        "comment": "to taste",
+        "input": "salt to taste",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='comment'>freshly ground</span><span class='name'>black pepper</span><span class='comment'>to taste</span>",
+        "comment": "freshly ground to taste",
+        "input": "freshly ground black pepper to taste",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>balsamic vinegar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup balsamic vinegar",
+        "name": "balsamic vinegar"
+    }
+]

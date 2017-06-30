@@ -1,0 +1,53 @@
+[
+    {
+        "display": "<span class='qty'>7</span><span class='comment'>large portobello</span><span class='name'>mushrooms</span><span class='comment'>( about 2 pounds total ) , stemmed</span>",
+        "qty": "7",
+        "comment": "large portobello (about 2 pounds total), stemmed",
+        "input": "7 large portobello mushrooms (about 2 pounds total), stemmed",
+        "name": "mushrooms"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>red bell peppers</span>",
+        "qty": "2",
+        "comment": "large",
+        "input": "2 large red bell peppers",
+        "name": "red bell peppers"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>red wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>rosemary</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "rosemary",
+        "input": "1 tablespoon chopped fresh rosemary",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>peeled</span>",
+        "comment": "peeled",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, peeled",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>1 4- to 5-ounce package</span><span class='name'>mixed baby greens</span>",
+        "comment": "1 4- to 5-ounce package",
+        "input": "1 4- to 5-ounce package mixed baby greens",
+        "name": "mixed baby greens"
+    }
+]

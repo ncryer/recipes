@@ -1,0 +1,65 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='comment'>sprouted</span><span class='name'>garbanzo beans</span>",
+        "comment": "sprouted",
+        "unit": "cup",
+        "name": "garbanzo beans",
+        "input": "6 cups sprouted garbanzo beans",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>loosely packed fresh flat-leaf</span><span class='name'>parsley leaves</span>",
+        "comment": "loosely packed fresh flat-leaf",
+        "unit": "cup",
+        "name": "parsley leaves",
+        "input": "1 cup loosely packed fresh flat-leaf parsley leaves",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>raw</span><span class='name'>tahini</span>",
+        "comment": "raw",
+        "unit": "cup",
+        "name": "tahini",
+        "input": "1 cup raw tahini",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>freshly squeezed</span><span class='name'>lemon juice</span>",
+        "comment": "freshly squeezed",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1 cup freshly squeezed lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>onion</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "name": "onion",
+        "input": "1 onion, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "tablespoon",
+        "name": "cumin",
+        "input": "2 tablespoons ground cumin",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>Bragg Liquid Aminos , or 2</span><span class='unit'>tablespoons</span><span class='name'>sun-dried sea salt</span>",
+        "comment": "Bragg Liquid Aminos, or 2",
+        "unit": "tablespoon tablespoon",
+        "name": "sun-dried sea salt",
+        "input": "6 tablespoons Bragg Liquid Aminos, or 2 tablespoons sun-dried sea salt",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sesame seeds</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup sesame seeds",
+        "name": "sesame seeds"
+    }
+]

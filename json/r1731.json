@@ -1,0 +1,34 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>lb</span><span class='name'>mustard greens</span><span class='other'>, stems and</span><span class='comment'>center ribs discarded and leaves coarsely chopped</span><span class='other'>(</span><span class='comment'>4 cups packed )</span>",
+        "comment": "lb center ribs discarded and leaves coarsely chopped 4 cups packed)",
+        "other": ", stems and (",
+        "name": "mustard greens",
+        "input": "1/2 lb mustard greens, stems and center ribs discarded and leaves coarsely chopped (4 cups packed)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, finely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "1 tablespoon extra-virgin olive oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup water",
+        "name": "water"
+    }
+]

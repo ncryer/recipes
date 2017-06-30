@@ -1,0 +1,73 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/4 cup fresh lemon juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>grated</span><span class='name'>lemon peel</span>",
+        "comment": "grated",
+        "unit": "teaspoon",
+        "name": "lemon peel",
+        "input": "1 1/2 teaspoons grated lemon peel",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>green bell pepper</span><span class='other'>,</span><span class='comment'>diced</span>",
+        "comment": "diced",
+        "other": ",",
+        "name": "green bell pepper",
+        "input": "1 green bell pepper, diced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>onion</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1 cup chopped onion",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>finely chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "finely chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/4 cup finely chopped fresh cilantro",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>finely chopped fresh</span><span class='name'>basil</span>",
+        "comment": "finely chopped fresh",
+        "unit": "cup",
+        "name": "basil",
+        "input": "1/4 cup finely chopped fresh basil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>finely chopped fresh</span><span class='name'>mint</span>",
+        "comment": "finely chopped fresh",
+        "unit": "cup",
+        "name": "mint",
+        "input": "1/4 cup finely chopped fresh mint",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2 1/4</span><span class='unit'>pounds</span><span class='comment'>small red-skinned</span><span class='name'>potatoes</span><span class='comment'>, unpeeled</span>",
+        "comment": "small red-skinned, unpeeled",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "2 1/4 pounds small red-skinned potatoes, unpeeled",
+        "qty": "2 1/4"
+    }
+]

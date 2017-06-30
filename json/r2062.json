@@ -1,0 +1,71 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>onions</span><span class='comment'>, finely chopped</span>",
+        "qty": "2",
+        "comment": "large, finely chopped",
+        "input": "2 large onions, finely chopped",
+        "name": "onions"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>long-grain white</span><span class='name'>rice</span>",
+        "comment": "long-grain white",
+        "unit": "cup",
+        "name": "rice",
+        "input": "2 cups long-grain white rice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "5 tablespoons fresh lemon juice",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh Italian</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh Italian",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "3 tablespoons chopped fresh Italian parsley",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>finely chopped fresh</span><span class='name'>dill</span>",
+        "comment": "finely chopped fresh",
+        "unit": "tablespoon",
+        "name": "dill",
+        "input": "3 tablespoons finely chopped fresh dill",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>cups</span><span class='comment'>( or more</span><span class='other'>)</span><span class='name'>hot water</span>",
+        "comment": "(or more",
+        "other": ")",
+        "unit": "cup",
+        "name": "hot water",
+        "input": "5 cups (or more) hot water",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>32-ounce</span><span class='comment'>jar grape</span><span class='name'>leaves</span><span class='comment'>, rinsed</span><span class='other'>,</span><span class='comment'>drained</span><span class='other'>,</span><span class='comment'>tough stems trimmed</span>",
+        "comment": "jar grape, rinsed drained tough stems trimmed",
+        "other": "32-ounce, ,",
+        "name": "leaves",
+        "input": "1 32-ounce jar grape leaves, rinsed, drained, tough stems trimmed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Plain</span><span class='name'>yogurt and lemon wedges</span>",
+        "comment": "Plain",
+        "input": "Plain yogurt and lemon wedges",
+        "name": "yogurt and lemon wedges"
+    }
+]

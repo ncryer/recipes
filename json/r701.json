@@ -1,0 +1,62 @@
+[
+    {
+        "display": "<span class='qty'>1 3/4</span><span class='unit'>pounds</span><span class='comment'>fingerling</span><span class='name'>potatoes</span><span class='comment'>, halved lengthwise</span>",
+        "comment": "fingerling, halved lengthwise",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "1 3/4 pounds fingerling potatoes, halved lengthwise",
+        "qty": "1 3/4"
+    },
+    {
+        "other": "1 tablespoon plus 1/2 cup",
+        "display": "<span class='other'>1 tablespoon plus 1/2 cup</span><span class='comment'>extra-virgin olive</span><span class='name'>oil</span>",
+        "comment": "extra-virgin olive",
+        "input": "1 tablespoon plus 1/2 cup extra-virgin olive oil",
+        "name": "oil"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt and freshly ground black pepper",
+        "name": "salt and black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( packed ) chopped fresh</span><span class='name'>chives</span><span class='comment'>, plus more for garnish</span>",
+        "comment": "(packed) chopped fresh, plus more for garnish",
+        "unit": "cup",
+        "name": "chives",
+        "input": "1/2 cup (packed) chopped fresh chives, plus more for garnish",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( packed ) chopped fresh flat-leaf</span><span class='name'>parsley</span>",
+        "comment": "(packed) chopped fresh flat-leaf",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/2 cup (packed) chopped fresh flat-leaf parsley",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>slivered</span><span class='name'>almonds</span><span class='comment'>, chopped</span><span class='name'>walnuts</span><span class='comment'>, or pine nuts</span>",
+        "comment": "slivered, chopped, or pine nuts",
+        "unit": "tablespoon",
+        "name": "almonds walnuts",
+        "input": "2 tablespoons slivered almonds, chopped walnuts, or pine nuts",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span>",
+        "unit": "clove",
+        "qty": "1",
+        "input": "1 garlic clove",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "2 teaspoons fresh lemon juice",
+        "qty": "2"
+    }
+]

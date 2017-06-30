@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>apple cider</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups apple cider",
+        "name": "apple cider"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>12-ounce bag fresh</span><span class='name'>cranberries</span>",
+        "qty": "1",
+        "comment": "12-ounce bag fresh",
+        "input": "1 12-ounce bag fresh cranberries",
+        "name": "cranberries"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium Granny Smith</span><span class='name'>apple</span><span class='comment'>, peeled</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>diced</span>",
+        "comment": "medium Granny Smith, peeled cored diced",
+        "other": ", ,",
+        "name": "apple",
+        "input": "1 medium Granny Smith apple, peeled, cored, diced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>finely grated</span><span class='name'>lemon peel</span>",
+        "comment": "finely grated",
+        "unit": "teaspoon",
+        "name": "lemon peel",
+        "input": "1 1/2 teaspoons finely grated lemon peel",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "1 tablespoon chopped fresh parsley",
+        "qty": "1"
+    }
+]

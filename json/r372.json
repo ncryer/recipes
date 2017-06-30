@@ -1,0 +1,54 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>raw shelled</span><span class='name'>pumpkin seeds</span>",
+        "comment": "raw shelled",
+        "unit": "cup",
+        "name": "pumpkin seeds",
+        "input": "1/4 cup raw shelled pumpkin seeds",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sesame seeds</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons sesame seeds",
+        "name": "sesame seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>fennel</span><span class='other'>,</span><span class='comment'>aniseed , caraway , or cumin seeds</span>",
+        "comment": "aniseed, caraway, or cumin seeds",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "fennel",
+        "input": "1 tablespoon fennel, aniseed, caraway, or cumin seeds",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>pure</span><span class='name'>maple syrup</span>",
+        "comment": "pure",
+        "unit": "tablespoon",
+        "name": "maple syrup",
+        "input": "1 tablespoon pure maple syrup",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>hemp seeds</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup hemp seeds",
+        "name": "hemp seeds"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>chia seeds</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons chia seeds",
+        "name": "chia seeds"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    }
+]

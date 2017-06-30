@@ -1,0 +1,58 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='name'>onion</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "name": "onion",
+        "input": "1 onion, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>fresh</span><span class='name'>corn</span><span class='comment'>( cut from about 4 ears )</span>",
+        "comment": "fresh (cut from about 4 ears)",
+        "unit": "cup",
+        "name": "corn",
+        "input": "2 cups fresh corn (cut from about 4 ears)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3",
+        "input": "3 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1/4 teaspoon ground cumin",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='name'>tofu</span><span class='other'>(</span><span class='comment'>preferably silken</span><span class='other'>)</span>",
+        "comment": "preferably silken",
+        "other": "()",
+        "unit": "pound",
+        "name": "tofu",
+        "input": "1/2 pound tofu (preferably silken)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>chopped fine</span>",
+        "comment": "chopped fine",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, chopped fine",
+        "qty": "1"
+    }
+]

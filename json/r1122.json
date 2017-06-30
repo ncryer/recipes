@@ -1,0 +1,56 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>medium-sized</span><span class='name'>golden</span><span class='comment'>( or red</span><span class='other'>)</span><span class='name'>beets</span>",
+        "comment": "medium-sized (or red",
+        "other": ")",
+        "name": "golden beets",
+        "input": "4 medium-sized golden (or red) beets",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>white wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon white wine vinegar",
+        "name": "white wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>lime</span><span class='other'>,</span><span class='name'>lemon</span><span class='comment'>or orange-flavored</span><span class='name'>olive oil</span>",
+        "comment": "or orange-flavored",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "lime lemon olive oil",
+        "input": "2 tablespoons lime, lemon or orange-flavored olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span><span class='comment'>to taste</span>",
+        "comment": "Kosher freshly ground to taste",
+        "input": "Kosher salt and freshly ground black pepper to taste",
+        "name": "salt and black pepper"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='comment'>fresh</span><span class='name'>nopal cactus paddles</span>",
+        "comment": "fresh",
+        "unit": "pound",
+        "name": "nopal cactus paddles",
+        "input": "1 1/2 pounds fresh nopal cactus paddles",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>or</span><span class='range_end'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "other": "or",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "range_end": "3",
+        "input": "2 or 3 tablespoons olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>red onion</span><span class='comment'>, cut into slivers</span>",
+        "qty": "1",
+        "comment": "small, cut into slivers",
+        "input": "1 small red onion, cut into slivers",
+        "name": "red onion"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>coarsely chopped</span><span class='name'>walnuts</span>",
+        "comment": "coarsely chopped",
+        "unit": "cup",
+        "name": "walnuts",
+        "input": "1/2 cup coarsely chopped walnuts",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>water</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='other'>Large</span><span class='unit'>pinch</span><span class='other'>of</span><span class='name'>cayenne pepper</span>",
+        "unit": "pinch",
+        "other": "Large of",
+        "input": "Large pinch of cayenne pepper",
+        "name": "cayenne pepper"
+    },
+    {
+        "display": "<span class='other'>Large</span><span class='unit'>pinch</span><span class='other'>of</span><span class='comment'>coarse kosher</span><span class='name'>salt</span>",
+        "comment": "coarse kosher",
+        "other": "Large of",
+        "unit": "pinch",
+        "input": "Large pinch of coarse kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "1 1/2 tablespoons extra-virgin olive oil",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>balsamic vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon balsamic vinegar",
+        "name": "balsamic vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='unit'>bunch</span><span class='name'>watercress</span><span class='other'>,</span><span class='comment'>thick stems trimmed</span>",
+        "comment": "thick stems trimmed",
+        "other": "large ,",
+        "unit": "bunch",
+        "name": "watercress",
+        "input": "1 large bunch watercress, thick stems trimmed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>heads</span><span class='other'>of</span><span class='name'>Belgian endive</span><span class='other'>(</span><span class='comment'>preferably red ) , sliced crosswise</span>",
+        "comment": "preferably red), sliced crosswise",
+        "other": "of (",
+        "unit": "head",
+        "name": "Belgian endive",
+        "input": "2 heads of Belgian endive (preferably red), sliced crosswise",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>ripe Asian</span><span class='name'>pear</span><span class='other'>,</span><span class='comment'>halved</span><span class='other'>,</span><span class='comment'>cored , thinly sliced</span>",
+        "comment": "ripe Asian halved cored, thinly sliced",
+        "other": ", ,",
+        "name": "pear",
+        "input": "1 ripe Asian pear, halved, cored, thinly sliced",
+        "qty": "1"
+    }
+]

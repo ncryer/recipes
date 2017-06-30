@@ -1,0 +1,28 @@
+[
+    {
+        "display": "<span class='name'>Nonstick vegetable oil spray</span>",
+        "input": "Nonstick vegetable oil spray",
+        "name": "Nonstick vegetable oil spray"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>pine nuts</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons pine nuts",
+        "name": "pine nuts"
+    }
+]

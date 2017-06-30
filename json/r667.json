@@ -1,0 +1,23 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>pitted fresh or frozen ( not thawed ) red or black cherries</span>",
+        "unit": "cup",
+        "comment": "pitted fresh or frozen (not thawed) red or black cherries",
+        "input": "2 cups pitted fresh or frozen (not thawed) red or black cherries",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>cornstarch</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons cornstarch",
+        "name": "cornstarch"
+    }
+]

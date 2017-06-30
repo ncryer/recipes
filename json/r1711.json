@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='comment'>Swiss</span><span class='name'>chard</span><span class='comment'>( preferably rainbow or red; from 2 bunches )</span>",
+        "comment": "Swiss (preferably rainbow or red; from 2 bunches)",
+        "unit": "pound",
+        "name": "chard",
+        "input": "1 1/2 pounds Swiss chard (preferably rainbow or red; from 2 bunches)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>pine nuts</span><span class='comment'>( 2 1/2 ounces</span><span class='other'>)</span>",
+        "comment": "(2 1/2 ounces",
+        "other": ")",
+        "unit": "cup",
+        "name": "pine nuts",
+        "input": "1/2 cup pine nuts (2 1/2 ounces)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, finely chopped</span>",
+        "qty": "1",
+        "comment": "medium, finely chopped",
+        "input": "1 medium onion, finely chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>golden raisins</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": ",",
+        "unit": "cup",
+        "name": "golden raisins",
+        "input": "1/4 cup golden raisins, finely chopped",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    }
+]

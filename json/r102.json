@@ -1,0 +1,45 @@
+[
+    {
+        "display": "<span class='comment'>Mustard</span><span class='name'>Salt</span>",
+        "comment": "Mustard",
+        "input": "Mustard Salt",
+        "name": "Salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>yellow mustard seeds</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon yellow mustard seeds",
+        "name": "yellow mustard seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sea salt</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sea salt",
+        "name": "sea salt"
+    },
+    {
+        "display": "<span class='name'>Vegetable oil</span><span class='other'>,</span><span class='comment'>for deep frying</span>",
+        "comment": "for deep frying",
+        "input": "Vegetable oil, for deep frying",
+        "name": "Vegetable oil",
+        "other": ","
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>pound</span><span class='name'>waxy potatoes</span><span class='other'>,</span><span class='comment'>thinly sliced ( see Cooks' Note )</span>",
+        "comment": "thinly sliced (see Cooks' Note)",
+        "other": "2/3 ,",
+        "unit": "pound",
+        "input": "2/3 pound waxy potatoes, thinly sliced (see Cooks' Note)",
+        "name": "waxy potatoes"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>pound</span><span class='name'>Jerusalem artichokes</span><span class='comment'>, thinly sliced ( see Cooks' Note )</span>",
+        "comment": ", thinly sliced (see Cooks' Note)",
+        "other": "2/3",
+        "unit": "pound",
+        "input": "2/3 pound Jerusalem artichokes, thinly sliced (see Cooks' Note)",
+        "name": "Jerusalem artichokes"
+    }
+]

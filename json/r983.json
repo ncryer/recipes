@@ -1,0 +1,60 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>onions</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "onions",
+        "input": "2 1/2 cups chopped onions",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>teaspoons</span><span class='name'>curry powder</span>",
+        "unit": "teaspoon",
+        "qty": "5",
+        "input": "5 teaspoons curry powder",
+        "name": "curry powder"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='comment'>small</span><span class='name'>cauliflower florets</span><span class='comment'>( from 1 medium head )</span>",
+        "comment": "small (from 1 medium head)",
+        "unit": "cup",
+        "name": "cauliflower florets",
+        "input": "6 cups small cauliflower florets (from 1 medium head)",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>15 1/2-ounce cans</span><span class='name'>garbanzo beans</span><span class='comment'>( chickpeas ) , drained</span>",
+        "qty": "2",
+        "comment": "15 1/2-ounce cans (chickpeas), drained",
+        "input": "2 15 1/2-ounce cans garbanzo beans (chickpeas), drained",
+        "name": "garbanzo beans"
+    },
+    {
+        "display": "<span class='comment'>2 10-ounce cans diced</span><span class='name'>tomatoes</span><span class='comment'>with green chiles</span>",
+        "comment": "2 10-ounce cans diced with green chiles",
+        "input": "2 10-ounce cans diced tomatoes with green chiles",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>14-ounce can unsweetened</span><span class='name'>coconut milk*</span>",
+        "qty": "1",
+        "comment": "14-ounce can unsweetened",
+        "input": "1 14-ounce can unsweetened coconut milk*",
+        "name": "coconut milk*"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/2 cup chopped fresh cilantro",
+        "qty": "1/2"
+    }
+]

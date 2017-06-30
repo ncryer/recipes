@@ -1,0 +1,75 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='name'>celery rib</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "name": "celery rib",
+        "input": "1 celery rib, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>carrot</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "name": "carrot",
+        "input": "1 carrot, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>minced</span><span class='name'>red bell pepper</span>",
+        "comment": "minced",
+        "unit": "cup",
+        "name": "red bell pepper",
+        "input": "1/2 cup minced red bell pepper",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>minced</span><span class='name'>red onion</span>",
+        "comment": "minced",
+        "unit": "cup",
+        "name": "red onion",
+        "input": "1/2 cup minced red onion",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>minced</span><span class='name'>pickled</span>",
+        "comment": "minced",
+        "unit": "tablespoon",
+        "name": "pickled",
+        "input": "1 tablespoon minced pickled",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>chili</span>",
+        "input": "chili",
+        "name": "chili"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>minced fresh</span><span class='name'>coriander leaves</span>",
+        "comment": "minced fresh",
+        "unit": "tablespoon",
+        "name": "coriander leaves",
+        "input": "1 tablespoon minced fresh coriander leaves",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='name'>Accompaniment if serving salsa as a dip: tortilla chips</span>",
+        "input": "Accompaniment if serving salsa as a dip: tortilla chips",
+        "name": "Accompaniment if serving salsa as a dip: tortilla chips"
+    }
+]

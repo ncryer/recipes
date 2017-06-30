@@ -1,0 +1,89 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>red beets</span><span class='comment'>, tops trimmed</span>",
+        "qty": "2",
+        "comment": "medium, tops trimmed",
+        "input": "2 medium red beets, tops trimmed",
+        "name": "red beets"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>golden beets</span><span class='other'>,</span><span class='comment'>tops trimmed</span>",
+        "comment": "medium tops trimmed",
+        "other": ",",
+        "name": "golden beets",
+        "input": "2 medium golden beets, tops trimmed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>blood oranges</span>",
+        "qty": "3",
+        "input": "3 blood oranges",
+        "name": "blood oranges"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium navel</span><span class='name'>orange</span><span class='other'>(</span><span class='comment'>preferably Cara Cara )</span>",
+        "comment": "medium navel preferably Cara Cara)",
+        "other": "(",
+        "name": "orange",
+        "input": "1 medium navel orange (preferably Cara Cara)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "1 tablespoon fresh lime juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>small</span><span class='name'>fennel bulb</span><span class='comment'>, very thinly sliced crosswise on a mandoline</span>",
+        "qty": "1/2",
+        "comment": "small, very thinly sliced crosswise on a mandoline",
+        "input": "1/2 small fennel bulb, very thinly sliced crosswise on a mandoline",
+        "name": "fennel bulb"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='name'>red onion</span><span class='comment'>, very thinly sliced on a mandoline ( about 1/3 cup )</span>",
+        "qty": "1/4",
+        "comment": ", very thinly sliced on a mandoline (about 1/3 cup)",
+        "input": "1/4 red onion, very thinly sliced on a mandoline (about 1/3 cup)",
+        "name": "red onion"
+    },
+    {
+        "other": "Good-quality, , or",
+        "display": "<span class='other'>Good-quality</span><span class='comment'>extra-virgin olive</span><span class='other'>,</span><span class='name'>pumpkin seed</span><span class='other'>, or</span><span class='comment'>walnut oil ( for drizzling )</span>",
+        "comment": "extra-virgin olive walnut oil (for drizzling)",
+        "input": "Good-quality extra-virgin olive, pumpkin seed, or walnut oil (for drizzling)",
+        "name": "pumpkin seed"
+    },
+    {
+        "display": "<span class='name'>Coarse sea salt</span><span class='other'>,</span><span class='comment'>such as fleur de sel or Maldon sea</span><span class='name'>salt</span>",
+        "comment": "such as fleur de sel or Maldon sea",
+        "input": "Coarse sea salt, such as fleur de sel or Maldon sea salt",
+        "name": "Coarse sea salt salt",
+        "other": ","
+    },
+    {
+        "display": "<span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "input": "freshly ground black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>loosely packed fresh</span><span class='name'>cilantro</span><span class='comment'>and/or chervil leaves</span>",
+        "comment": "loosely packed fresh and/or chervil leaves",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/4 cup loosely packed fresh cilantro and/or chervil leaves",
+        "qty": "1/4"
+    }
+]

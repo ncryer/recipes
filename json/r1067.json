@@ -1,0 +1,41 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='name'>tofu pillows</span><span class='comment'>( Chinese-style pressed firm tofu )</span>",
+        "comment": "(Chinese-style pressed firm tofu)",
+        "unit": "pound",
+        "name": "tofu pillows",
+        "input": "1/2 pound tofu pillows (Chinese-style pressed firm tofu)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='name'>Oil</span><span class='other'>,</span><span class='comment'>for deep-frying</span>",
+        "comment": "for deep-frying",
+        "input": "Oil, for deep-frying",
+        "name": "Oil",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>sliced</span>",
+        "comment": "sliced",
+        "other": ",",
+        "name": "scallions",
+        "input": "2 scallions, sliced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>bird's-eye</span><span class='name'>chile</span><span class='other'>,</span><span class='comment'>sliced</span>",
+        "comment": "bird's-eye sliced",
+        "other": ",",
+        "name": "chile",
+        "input": "1 bird's-eye chile, sliced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>garlic</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "garlic",
+        "input": "1 teaspoon ground garlic",
+        "qty": "1"
+    }
+]

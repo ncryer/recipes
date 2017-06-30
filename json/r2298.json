@@ -1,0 +1,61 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='unit'>ounces</span><span class='name'>shallots</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "unit": "ounce",
+        "name": "shallots",
+        "input": "12 ounces shallots, chopped",
+        "qty": "12"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>sweet Marsala</span><span class='comment'>or Port</span>",
+        "comment": "or Port",
+        "unit": "cup",
+        "name": "sweet Marsala",
+        "input": "1 1/2 cups sweet Marsala or Port",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='comment'>2 12-ounce packages</span><span class='name'>cranberries</span>",
+        "comment": "2 12-ounce packages",
+        "input": "2 12-ounce packages cranberries",
+        "name": "cranberries"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>curry powder</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon curry powder",
+        "name": "curry powder"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>dry mustard</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon dry mustard",
+        "name": "dry mustard"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped crystallized</span><span class='name'>ginger</span><span class='comment'>( about 5 ounces )</span>",
+        "comment": "chopped crystallized (about 5 ounces)",
+        "unit": "cup",
+        "name": "ginger",
+        "input": "1 cup chopped crystallized ginger (about 5 ounces)",
+        "qty": "1"
+    }
+]

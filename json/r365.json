@@ -1,0 +1,68 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>autumn squash</span><span class='comment'>( 2 to 3 pounds )</span>",
+        "qty": "1",
+        "comment": "medium (2 to 3 pounds)",
+        "input": "1 medium autumn squash (2 to 3 pounds)",
+        "name": "autumn squash"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>tahini</span><span class='comment'>( sesame paste; available in most grocery stores )</span>",
+        "comment": "(sesame paste; available in most grocery stores)",
+        "unit": "cup",
+        "name": "tahini",
+        "input": "1 cup tahini (sesame paste; available in most grocery stores)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Juice of</span><span class='qty'>2</span><span class='name'>lemons</span>",
+        "qty": "2",
+        "comment": "Juice of",
+        "input": "Juice of 2 lemons",
+        "name": "lemons"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>clove</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>grated on a Microplane or very finely minced ( optional )</span>",
+        "comment": "grated on a Microplane or very finely minced (optional)",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 clove garlic, grated on a Microplane or very finely minced (optional)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>to</span><span class='range_end'>3</span><span class='unit'>cups</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "other": "to",
+        "unit": "cup",
+        "qty": "2",
+        "range_end": "3",
+        "input": "2 to 3 cups extra-virgin olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='comment'>Freshly grated</span><span class='name'>nutmeg</span>",
+        "comment": "Freshly grated",
+        "input": "Freshly grated nutmeg",
+        "name": "nutmeg"
+    },
+    {
+        "display": "<span class='name'>Espelette pepper</span><span class='comment'>or crushed</span><span class='name'>red pepper</span>",
+        "comment": "or crushed",
+        "input": "Espelette pepper or crushed red pepper",
+        "name": "Espelette pepper red pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>baguette</span><span class='comment'>, sliced on the bias 1/2 inch thick</span>",
+        "qty": "1",
+        "comment": "small, sliced on the bias 1/2 inch thick",
+        "input": "1 small baguette, sliced on the bias 1/2 inch thick",
+        "name": "baguette"
+    }
+]

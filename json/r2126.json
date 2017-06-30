@@ -1,0 +1,115 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>distilled</span><span class='name'>white vinegar</span>",
+        "comment": "distilled",
+        "unit": "cup",
+        "name": "white vinegar",
+        "input": "1 cup distilled white vinegar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>rice vinegar</span><span class='comment'>( available at specialty foods shops</span><span class='other'>,</span><span class='comment'>Asian markets</span><span class='other'>,</span><span class='comment'>and many supermarkets )</span>",
+        "comment": "(available at specialty foods shops Asian markets and many supermarkets)",
+        "other": ", ,",
+        "unit": "cup",
+        "name": "rice vinegar",
+        "input": "1 cup rice vinegar (available at specialty foods shops, Asian markets, and many supermarkets)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2 3/4</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "2 3/4",
+        "input": "2 3/4 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>slices</span><span class='other'>of</span><span class='comment'>peeled</span><span class='name'>fresh gingerroot</span><span class='other'>,</span><span class='comment'>each the size of a quarter , crushed lightly with the flat side of a knife</span>",
+        "comment": "peeled each the size of a quarter, crushed lightly with the flat side of a knife",
+        "other": "of ,",
+        "unit": "slice",
+        "name": "fresh gingerroot",
+        "input": "8 slices of peeled fresh gingerroot, each the size of a quarter, crushed lightly with the flat side of a knife",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>crushed lightly</span>",
+        "comment": "crushed lightly",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, crushed lightly",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>dill seeds</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon dill seeds",
+        "name": "dill seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>celery seeds</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon celery seeds",
+        "name": "celery seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>salt</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>mustard seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon mustard seeds",
+        "name": "mustard seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>Dijon-style mustard</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon Dijon-style mustard",
+        "name": "Dijon-style mustard"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='name'>black peppercorns</span>",
+        "qty": "8",
+        "input": "8 black peppercorns",
+        "name": "black peppercorns"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>carrots</span><span class='other'>,</span><span class='comment'>cut into 3 1/2-by 1/3-inch sticks</span>",
+        "comment": "cut into 3 1/2-by 1/3-inch sticks",
+        "other": ",",
+        "name": "carrots",
+        "input": "4 carrots, cut into 3 1/2-by 1/3-inch sticks",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>turnips</span><span class='comment'>( about 3/4 pound ) , peeled and cut into 3 1/2 by 1/3-inch sticks</span>",
+        "qty": "2",
+        "comment": "(about 3/4 pound), peeled and cut into 3 1/2 by 1/3-inch sticks",
+        "input": "2 turnips (about 3/4 pound), peeled and cut into 3 1/2 by 1/3-inch sticks",
+        "name": "turnips"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>red bell peppers</span><span class='other'>,</span><span class='comment'>cut into 3 1/2-by 1/3-inch strips</span>",
+        "comment": "cut into 3 1/2-by 1/3-inch strips",
+        "other": ",",
+        "name": "red bell peppers",
+        "input": "2 red bell peppers, cut into 3 1/2-by 1/3-inch strips",
+        "qty": "2"
+    }
+]

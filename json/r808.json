@@ -1,0 +1,59 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>Chinese black</span><span class='name'>rice</span>",
+        "comment": "Chinese black",
+        "unit": "cup",
+        "name": "rice",
+        "input": "2 cups Chinese black rice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>basil leaves</span><span class='comment'>, divided</span>",
+        "comment": ", divided",
+        "unit": "cup",
+        "name": "basil leaves",
+        "input": "1 1/2 cups basil leaves, divided",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/2 cup extra-virgin olive oil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "3 tablespoons fresh lemon juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='other'>ribs</span><span class='name'>celery</span><span class='other'>,</span><span class='comment'>diced</span>",
+        "comment": "diced",
+        "other": "ribs ,",
+        "name": "celery",
+        "input": "3 ribs celery, diced",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='name'>radishes</span><span class='other'>,</span><span class='comment'>diced</span>",
+        "comment": "diced",
+        "other": ",",
+        "name": "radishes",
+        "input": "5 radishes, diced",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>scallions</span><span class='comment'>(</span><span class='qty'>1</span><span class='comment'>bunch</span><span class='other'>)</span>",
+        "comment": "chopped (bunch",
+        "other": ")",
+        "unit": "cup",
+        "name": "scallions",
+        "input": "1 cup chopped scallions (1 bunch)",
+        "qty": "1 1"
+    }
+]

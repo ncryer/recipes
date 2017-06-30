@@ -1,0 +1,55 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>plum tomatoes</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>finely chopped ( about 2 cups )</span>",
+        "comment": "cored finely chopped (about 2 cups)",
+        "other": ", ,",
+        "unit": "pound",
+        "name": "plum tomatoes",
+        "input": "1 pound plum tomatoes, cored, finely chopped (about 2 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>serrano chiles</span><span class='other'>,</span><span class='comment'>seeded , minced</span>",
+        "comment": "seeded, minced",
+        "other": ",",
+        "name": "serrano chiles",
+        "input": "2 serrano chiles, seeded, minced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>white onion</span><span class='comment'>, minced ( about 1 cup )</span>",
+        "qty": "1",
+        "comment": "medium, minced (about 1 cup)",
+        "input": "1 medium white onion, minced (about 1 cup)",
+        "name": "white onion"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "3 tablespoons chopped fresh cilantro",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "3 tablespoons fresh lime juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='name'>Tortilla chips</span><span class='other'>(</span><span class='comment'>for serving</span><span class='other'>)</span>",
+        "comment": "for serving",
+        "input": "Tortilla chips (for serving)",
+        "name": "Tortilla chips",
+        "other": "()"
+    }
+]

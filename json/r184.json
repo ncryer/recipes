@@ -1,0 +1,62 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>unsalted butter</span><span class='other'>,</span><span class='comment'>at room temperature</span>",
+        "comment": "at room temperature",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "unsalted butter",
+        "input": "2 tablespoons unsalted butter, at room temperature",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>grated</span><span class='name'>orange</span><span class='other'>zest</span><span class='comment'>, plus 1 1/2 teaspoons orange juice</span>",
+        "comment": "grated, plus 1 1/2 teaspoons orange juice",
+        "other": "zest",
+        "unit": "teaspoon",
+        "name": "orange",
+        "input": "1 teaspoon grated orange zest, plus 1 1/2 teaspoons orange juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>kosher</span><span class='name'>salt</span><span class='comment'>, divided</span>",
+        "comment": "kosher, divided",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 1/2 teaspoons kosher salt, divided",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/4 teaspoon freshly ground black pepper",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>carrots</span><span class='other'>,</span><span class='comment'>peeled</span>",
+        "comment": "peeled",
+        "other": ",",
+        "unit": "pound",
+        "name": "carrots",
+        "input": "1 pound carrots, peeled",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>parsnips</span><span class='other'>,</span><span class='comment'>peeled</span>",
+        "comment": "peeled",
+        "other": ",",
+        "unit": "pound",
+        "name": "parsnips",
+        "input": "1 pound parsnips, peeled",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>ounces</span><span class='comment'>( 1 cup</span><span class='other'>)</span><span class='name'>cherry tomatoes</span><span class='comment'>, halved</span>",
+        "comment": "(1 cup, halved",
+        "other": ")",
+        "unit": "ounce",
+        "name": "cherry tomatoes",
+        "input": "6 ounces (1 cup) cherry tomatoes, halved",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>( about 1/2</span><span class='unit'>pound</span><span class='comment'>whole berries ) small</span><span class='name'>strawberries</span><span class='comment'>, trimmed and halved</span>",
+        "comment": "(about 1/2 whole berries) small, trimmed and halved",
+        "unit": "cup pound",
+        "name": "strawberries",
+        "input": "1 cup (about 1/2 pound whole berries) small strawberries, trimmed and halved",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "1 tablespoon extra-virgin olive oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>aged</span><span class='name'>balsamic vinegar</span>",
+        "comment": "aged",
+        "unit": "tablespoon",
+        "name": "balsamic vinegar",
+        "input": "1 tablespoon aged balsamic vinegar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>finely grated</span><span class='name'>lemon</span><span class='other'>zest</span><span class='comment'>( about</span><span class='qty'>1</span><span class='name'>lemon</span><span class='other'>)</span>",
+        "comment": "finely grated (about",
+        "other": "zest)",
+        "unit": "tablespoon",
+        "name": "lemon lemon",
+        "input": "1 tablespoon finely grated lemon zest (about 1 lemon)",
+        "qty": "1 1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>table</span><span class='name'>salt</span>",
+        "comment": "table",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/2 teaspoon table salt",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "pepper",
+        "input": "1/4 teaspoon freshly ground pepper",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>heads</span><span class='name'>Boston lettuce</span><span class='comment'>, halved and cores removed</span>",
+        "comment": ", halved and cores removed",
+        "unit": "head",
+        "name": "Boston lettuce",
+        "input": "2 heads Boston lettuce, halved and cores removed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>chives</span><span class='comment'>, minced</span>",
+        "comment": "fresh, minced",
+        "unit": "teaspoon",
+        "name": "chives",
+        "input": "2 teaspoons fresh chives, minced",
+        "qty": "2"
+    }
+]

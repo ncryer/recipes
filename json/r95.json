@@ -1,0 +1,63 @@
+[
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>unseasoned</span><span class='name'>rice vinegar</span>",
+        "comment": "unseasoned",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup unseasoned rice vinegar",
+        "name": "rice vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>mirin</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup mirin",
+        "name": "mirin"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>vegetable oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>finely grated</span><span class='name'>carrot</span>",
+        "comment": "finely grated",
+        "unit": "tablespoon",
+        "name": "carrot",
+        "input": "2 tablespoons finely grated carrot",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>white miso</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons white miso",
+        "name": "white miso"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>finely grated peeled</span><span class='name'>ginger</span>",
+        "comment": "finely grated peeled",
+        "unit": "tablespoon",
+        "name": "ginger",
+        "input": "1 tablespoon finely grated peeled ginger",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>finely grated peeled turmeric or 1/2 teaspoon ground</span><span class='name'>turmeric</span>",
+        "comment": "finely grated peeled turmeric or 1/2 teaspoon ground",
+        "unit": "teaspoon",
+        "name": "turmeric",
+        "input": "2 teaspoons finely grated peeled turmeric or 1/2 teaspoon ground turmeric",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>toasted</span><span class='name'>sesame oil</span>",
+        "comment": "toasted",
+        "unit": "teaspoon",
+        "name": "sesame oil",
+        "input": "1 teaspoon toasted sesame oil",
+        "qty": "1"
+    }
+]

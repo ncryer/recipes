@@ -1,0 +1,108 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "1 tablespoon extra-virgin olive oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>onion</span><span class='other'>,</span><span class='comment'>diced</span>",
+        "comment": "diced",
+        "other": ",",
+        "name": "onion",
+        "input": "1 onion, diced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>green bell pepper</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>deveined</span><span class='other'>,</span><span class='comment'>and diced</span>",
+        "comment": "seeded deveined and diced",
+        "other": ",, ,",
+        "name": "green bell pepper",
+        "input": "1 green bell pepper, seeded, deveined, and diced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>red bell pepper</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>deveined</span><span class='other'>,</span><span class='comment'>and diced</span>",
+        "comment": "seeded deveined and diced",
+        "other": ",, ,",
+        "name": "red bell pepper",
+        "input": "1/2 red bell pepper, seeded, deveined, and diced",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "tablespoon",
+        "name": "cumin",
+        "input": "1 tablespoon ground cumin",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>ground</span><span class='name'>turmeric</span>",
+        "comment": "ground",
+        "unit": "tablespoon",
+        "name": "turmeric",
+        "input": "1 tablespoon ground turmeric",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>coriander</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon coriander",
+        "name": "coriander"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>chili powder</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon chili powder",
+        "name": "chili powder"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>paprika</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon paprika",
+        "name": "paprika"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>thyme</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "thyme",
+        "input": "1 teaspoon dried thyme",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>Pinch of</span><span class='name'>cayenne</span>",
+        "other": "Pinch of",
+        "input": "Pinch of cayenne",
+        "name": "cayenne"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>sea</span><span class='name'>salt</span>",
+        "comment": "sea",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/4 teaspoon sea salt",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>firm</span><span class='name'>tofu</span><span class='other'>,</span><span class='comment'>drained of excess water</span>",
+        "comment": "firm drained of excess water",
+        "other": ",",
+        "unit": "pound",
+        "name": "tofu",
+        "input": "2 pounds firm tofu, drained of excess water",
+        "qty": "2"
+    }
+]

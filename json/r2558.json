@@ -1,0 +1,50 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>pine nuts</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon pine nuts",
+        "name": "pine nuts"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>sliced</span>",
+        "comment": "sliced",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 large garlic clove, sliced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>fennel</span><span class='unit'>bulb</span><span class='comment'>( sometimes called anise ) , trimmed and cut lengthwise into 1/4-inch slices</span>",
+        "comment": "(sometimes called anise), trimmed and cut lengthwise into 1/4-inch slices",
+        "unit": "bulb",
+        "name": "fennel",
+        "input": "1/2 fennel bulb (sometimes called anise), trimmed and cut lengthwise into 1/4-inch slices",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "1 teaspoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>head</span><span class='name'>radicchio</span><span class='other'>,</span><span class='comment'>cut into one inch pieces</span>",
+        "comment": "cut into one inch pieces",
+        "other": ",",
+        "unit": "head",
+        "name": "radicchio",
+        "input": "1/2 head radicchio, cut into one inch pieces",
+        "qty": "1/2"
+    }
+]

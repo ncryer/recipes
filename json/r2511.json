@@ -1,0 +1,26 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>small ( 1 1/2-inch ) red</span><span class='name'>potatoes</span><span class='comment'>, halved lengthwise</span>",
+        "comment": "small (1 1/2-inch) red, halved lengthwise",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "2 pounds small (1 1/2-inch) red potatoes, halved lengthwise",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>olive or safflower</span><span class='name'>oil</span>",
+        "comment": "olive or safflower",
+        "unit": "tablespoon",
+        "name": "oil",
+        "input": "2 tablespoons olive or safflower oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>coarse sea</span><span class='name'>salt</span>",
+        "comment": "coarse sea",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "3/4 teaspoon coarse sea salt",
+        "qty": "3/4"
+    }
+]

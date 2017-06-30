@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>dried Great Northern</span><span class='name'>beans</span>",
+        "comment": "dried Great Northern",
+        "unit": "pound",
+        "name": "beans",
+        "input": "1 pound dried Great Northern beans",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='comment'>cold</span><span class='name'>water</span>",
+        "comment": "cold",
+        "unit": "cup",
+        "name": "water",
+        "input": "6 cups cold water",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>sage</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "sage",
+        "input": "1 1/2 tablespoons chopped fresh sage",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 large garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Additional</span><span class='name'>olive oil</span>",
+        "comment": "Additional",
+        "input": "Additional olive oil",
+        "name": "olive oil"
+    }
+]

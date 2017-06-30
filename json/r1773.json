@@ -1,0 +1,60 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>unpeeled</span>",
+        "comment": "unpeeled",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "6 large garlic cloves, unpeeled",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>large</span><span class='name'>plum tomatoes</span><span class='comment'>( 3/4 to 1</span><span class='unit'>pound</span><span class='comment'>total )</span>",
+        "comment": "large (3/4 to 1 total)",
+        "unit": "pound",
+        "name": "plum tomatoes",
+        "input": "4 large plum tomatoes (3/4 to 1 pound total)",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>3-inch-long serrano chiles</span>",
+        "qty": "4",
+        "input": "4 3-inch-long serrano chiles",
+        "name": "3-inch-long serrano chiles"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>large</span><span class='name'>shallots</span><span class='comment'>, peeled , halved through root end</span>",
+        "qty": "4",
+        "comment": "large, peeled, halved through root end",
+        "input": "4 large shallots, peeled, halved through root end",
+        "name": "shallots"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1 cup chopped fresh cilantro",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lime juice",
+        "input": "8 teaspoons fresh lime juice",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='name'>Purchased rice crackers</span>",
+        "input": "Purchased rice crackers",
+        "name": "Purchased rice crackers"
+    }
+]

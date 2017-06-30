@@ -1,0 +1,123 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='comment'>medium Yukon Gold</span><span class='name'>potatoes</span><span class='comment'>( about 2 3/4 pounds )</span>",
+        "qty": "8",
+        "comment": "medium Yukon Gold (about 2 3/4 pounds)",
+        "input": "8 medium Yukon Gold potatoes (about 2 3/4 pounds)",
+        "name": "potatoes"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>lemon</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "halved",
+        "other": ",",
+        "name": "lemon",
+        "input": "1 lemon, halved",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>large artichokes</span>",
+        "qty": "4",
+        "input": "4 large artichokes",
+        "name": "large artichokes"
+    },
+    {
+        "display": "<span class='other'>1 2/3</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "other": "1 2/3",
+        "input": "1 2/3 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>dry white wine</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup dry white wine",
+        "name": "dry white wine"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>whole</span><span class='name'>black peppercorns</span>",
+        "qty": "6",
+        "comment": "whole",
+        "input": "6 whole black peppercorns",
+        "name": "black peppercorns"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>coriander seeds</span>",
+        "qty": "6",
+        "input": "6 coriander seeds",
+        "name": "coriander seeds"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>fresh</span><span class='name'>thyme</span><span class='unit'>sprigs</span><span class='comment'>or 1/2 teaspoon dried</span>",
+        "comment": "fresh or 1/2 teaspoon dried",
+        "unit": "sprig",
+        "name": "thyme",
+        "input": "2 fresh thyme sprigs or 1/2 teaspoon dried",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>red onion , very thinly sliced</span>",
+        "qty": "1/2",
+        "input": "1/2 red onion, very thinly sliced",
+        "name": "red onion, very thinly sliced"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>green onions</span><span class='comment'>, thinly sliced diagonally</span>",
+        "qty": "3",
+        "comment": ", thinly sliced diagonally",
+        "input": "3 green onions, thinly sliced diagonally",
+        "name": "green onions"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>tomato</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>seeded , chopped</span>",
+        "comment": "peeled seeded, chopped",
+        "other": ", ,",
+        "name": "tomato",
+        "input": "1 tomato, peeled, seeded, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>10</span><span class='comment'>black brine-cured</span><span class='name'>olives</span><span class='comment'>( such a Ni\u00e7ois or Kalamata ) , pitted</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "black brine-cured (such a Ni\u00e7ois or Kalamata), pitted chopped",
+        "other": ",",
+        "name": "olives",
+        "input": "10 black brine-cured olives (such a Ni\u00e7ois or Kalamata), pitted, chopped",
+        "qty": "10"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>fresh</span><span class='name'>basil leaves</span><span class='comment'>, thinly sliced</span>",
+        "qty": "6",
+        "comment": "fresh, thinly sliced",
+        "input": "6 fresh basil leaves, thinly sliced",
+        "name": "basil leaves"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/4 cup fresh lemon juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>Dijon mustard</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup olive oil",
+        "name": "olive oil"
+    }
+]

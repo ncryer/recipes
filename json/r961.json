@@ -1,0 +1,45 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>carrots</span><span class='comment'>, cut into 2-inch chunks</span>",
+        "qty": "2",
+        "comment": "large, cut into 2-inch chunks",
+        "input": "2 large carrots, cut into 2-inch chunks",
+        "name": "carrots"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium-size unpeeled</span><span class='name'>russet potatoes</span><span class='comment'>, cut into 2-inch chunks</span>",
+        "qty": "2",
+        "comment": "medium-size unpeeled, cut into 2-inch chunks",
+        "input": "2 medium-size unpeeled russet potatoes, cut into 2-inch chunks",
+        "name": "russet potatoes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium-size unpeeled</span><span class='name'>sweet potatoes</span><span class='comment'>, cut into 2-inch chunks</span>",
+        "qty": "2",
+        "comment": "medium-size unpeeled, cut into 2-inch chunks",
+        "input": "2 medium-size unpeeled sweet potatoes, cut into 2-inch chunks",
+        "name": "sweet potatoes"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span><span class='comment'>, plus more for drizzling</span>",
+        "comment": "extra-virgin, plus more for drizzling",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil, plus more for drizzling",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='comment'>Fine sea</span><span class='name'>salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Fine sea freshly ground",
+        "input": "Fine sea salt and freshly ground black pepper",
+        "name": "salt and black pepper"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh flat-leaf</span><span class='name'>parsley</span><span class='comment'>, for garnish</span>",
+        "comment": "chopped fresh flat-leaf, for garnish",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "2 tablespoons chopped fresh flat-leaf parsley, for garnish",
+        "qty": "2"
+    }
+]

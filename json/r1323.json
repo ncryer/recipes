@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>water</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>coarse fresh</span><span class='name'>bread crumbs</span><span class='comment'>( preferably from a baguette</span><span class='other'>,</span><span class='comment'>crust removed )</span>",
+        "comment": "coarse fresh (preferably from a baguette crust removed)",
+        "other": ",",
+        "unit": "cup",
+        "name": "bread crumbs",
+        "input": "3/4 cup coarse fresh bread crumbs (preferably from a baguette, crust removed)",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>garlic</span><span class='unit'>cloves</span>",
+        "unit": "clove",
+        "qty": "3",
+        "input": "3 garlic cloves",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>coarse sea</span><span class='name'>salt</span>",
+        "comment": "coarse sea",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/2 teaspoon coarse sea salt",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>cayenne</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon cayenne",
+        "name": "cayenne"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    }
+]

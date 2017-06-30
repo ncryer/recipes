@@ -1,0 +1,50 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>lb</span><span class='name'>rhubarb stalks</span><span class='comment'>, trimmed and cut into 1-inch-long pieces ( about 7 cups )</span>",
+        "qty": "2",
+        "comment": "lb, trimmed and cut into 1-inch-long pieces (about 7 cups)",
+        "input": "2 lb rhubarb stalks, trimmed and cut into 1-inch-long pieces (about 7 cups)",
+        "name": "rhubarb stalks"
+    },
+    {
+        "display": "<span class='other'>1 2/3</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "1 2/3",
+        "input": "1 2/3 cups sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>light</span><span class='name'>corn syrup</span>",
+        "comment": "light",
+        "unit": "tablespoon",
+        "name": "corn syrup",
+        "input": "2 tablespoons light corn syrup",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>lb</span><span class='name'>rhubarb stalks</span><span class='comment'>, trimmed and cut diagonally into 1/4-inch-thick slices ( about 1 cup )</span>",
+        "qty": "1/2",
+        "comment": "lb, trimmed and cut diagonally into 1/4-inch-thick slices (about 1 cup)",
+        "input": "1/2 lb rhubarb stalks, trimmed and cut diagonally into 1/4-inch-thick slices (about 1 cup)",
+        "name": "rhubarb stalks"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>drops</span><span class='name'>vanilla</span>",
+        "qty": "2",
+        "name": "vanilla",
+        "input": "2 drops vanilla",
+        "other": "drops"
+    },
+    {
+        "display": "<span class='name'>Special equipment: an ice cream maker</span>",
+        "input": "Special equipment: an ice cream maker",
+        "name": "Special equipment: an ice cream maker"
+    }
+]

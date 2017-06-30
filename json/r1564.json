@@ -1,0 +1,24 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>passion fruit pulp</span><span class='comment'>( from about 7 ripe passion fruits )</span>",
+        "comment": "(from about 7 ripe passion fruits)",
+        "unit": "cup",
+        "name": "passion fruit pulp",
+        "input": "1/2 cup passion fruit pulp (from about 7 ripe passion fruits)",
+        "qty": "1/2"
+    }
+]

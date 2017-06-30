@@ -1,0 +1,18 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1 cup extra-virgin olive oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>7</span><span class='unit'>ounces</span><span class='comment'>slivered blanched</span><span class='name'>almonds</span>",
+        "comment": "slivered blanched",
+        "unit": "ounce",
+        "name": "almonds",
+        "input": "7 ounces slivered blanched almonds",
+        "qty": "7"
+    }
+]

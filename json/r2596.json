@@ -1,0 +1,58 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>onion</span><span class='comment'>, thinly sliced</span>",
+        "qty": "1",
+        "comment": "small, thinly sliced",
+        "input": "1 small onion, thinly sliced",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, thinly sliced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>tomato</span><span class='other'>,</span><span class='comment'>cut into 1/4-inch dice</span>",
+        "comment": "small cut into 1/4-inch dice",
+        "other": ",",
+        "name": "tomato",
+        "input": "1 small tomato, cut into 1/4-inch dice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>rinsed canned</span><span class='name'>chick-peas</span>",
+        "comment": "rinsed canned",
+        "unit": "cup",
+        "name": "chick-peas",
+        "input": "1 cup rinsed canned chick-peas",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='name'>Swiss chard</span><span class='other'>,</span><span class='comment'>stems discarded and leaves coarsely chopped</span>",
+        "comment": "stems discarded and leaves coarsely chopped",
+        "other": ",",
+        "unit": "pound",
+        "name": "Swiss chard",
+        "input": "1/2 pound Swiss chard, stems discarded and leaves coarsely chopped",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1/2 tablespoon fresh lemon juice",
+        "qty": "1/2"
+    }
+]

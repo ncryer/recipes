@@ -1,0 +1,85 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>head</span><span class='name'>cauliflower</span><span class='comment'>( about 1 pound ) , trimmed and cut into florets</span>",
+        "comment": "(about 1 pound), trimmed and cut into florets",
+        "unit": "head",
+        "name": "cauliflower",
+        "input": "1/2 head cauliflower (about 1 pound), trimmed and cut into florets",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>2 tablespoons plus 2</span><span class='unit'>teaspoons</span><span class='comment'>extra-virgin olive</span><span class='name'>oil</span>",
+        "comment": "extra-virgin olive",
+        "other": "2 tablespoons plus 2",
+        "unit": "teaspoon",
+        "input": "2 tablespoons plus 2 teaspoons extra-virgin olive oil",
+        "name": "oil"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pints</span><span class='name'>cherry tomatoes</span>",
+        "unit": "pint",
+        "qty": "1 1/2",
+        "input": "1 1/2 pints cherry tomatoes",
+        "name": "cherry tomatoes"
+    },
+    {
+        "display": "<span class='comment'>Coarse</span><span class='name'>salt and</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Coarse freshly ground",
+        "input": "Coarse salt and freshly ground pepper",
+        "name": "salt and pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>yellow onion</span><span class='comment'>, cut into medium dice</span>",
+        "qty": "1",
+        "comment": "large, cut into medium dice",
+        "input": "1 large yellow onion, cut into medium dice",
+        "name": "yellow onion"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 garlic cloves, minced",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>minced peeled fresh</span><span class='name'>ginger</span>",
+        "comment": "minced peeled fresh",
+        "unit": "tablespoon",
+        "name": "ginger",
+        "input": "1 tablespoon minced peeled fresh ginger",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1 tablespoon plus 1</span><span class='unit'>teaspoon</span><span class='name'>curry powder</span>",
+        "unit": "teaspoon",
+        "other": "1 tablespoon plus 1",
+        "input": "1 tablespoon plus 1 teaspoon curry powder",
+        "name": "curry powder"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>cooked</span><span class='name'>chickpeas</span><span class='comment'>, drained and rinsed</span>",
+        "comment": "cooked, drained and rinsed",
+        "unit": "cup",
+        "name": "chickpeas",
+        "input": "3 cups cooked chickpeas, drained and rinsed",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>cups</span><span class='name'>baby spinach</span>",
+        "unit": "cup",
+        "qty": "2 1/2",
+        "input": "2 1/2 cups baby spinach",
+        "name": "baby spinach"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>cilantro leaves</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "cilantro leaves",
+        "input": "1 tablespoon chopped fresh cilantro leaves",
+        "qty": "1"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='name'>plum tomatoes</span><span class='other'>,</span><span class='comment'>seeded , chopped</span>",
+        "comment": "seeded, chopped",
+        "other": ",",
+        "unit": "pound",
+        "name": "plum tomatoes",
+        "input": "1 1/2 pounds plum tomatoes, seeded, chopped",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>onion</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "onion",
+        "input": "3/4 cup chopped onion",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/2 cup chopped fresh cilantro",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "3 tablespoons fresh lime juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>minced seeded</span><span class='name'>jalape\u00f1o chilies</span><span class='comment'>( about 2 medium )</span>",
+        "comment": "minced seeded (about 2 medium)",
+        "unit": "tablespoon",
+        "name": "jalape\u00f1o chilies",
+        "input": "3 tablespoons minced seeded jalape\u00f1o chilies (about 2 medium)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, minced",
+        "qty": "1"
+    }
+]

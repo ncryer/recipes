@@ -1,0 +1,31 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sesame seeds</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sesame seeds",
+        "name": "sesame seeds"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>orzo</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup orzo",
+        "name": "orzo"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>Asian sesame oil</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons Asian sesame oil",
+        "name": "Asian sesame oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>scallions</span><span class='comment'>( about 6 ) , cut on diagonal into 1-inch pieces</span>",
+        "comment": "(about 6), cut on diagonal into 1-inch pieces",
+        "unit": "bunch",
+        "name": "scallions",
+        "input": "1 bunch scallions (about 6), cut on diagonal into 1-inch pieces",
+        "qty": "1"
+    }
+]

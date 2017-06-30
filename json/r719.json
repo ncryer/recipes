@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>seedless</span><span class='name'>red grapes</span>",
+        "comment": "seedless",
+        "unit": "cup",
+        "name": "red grapes",
+        "input": "4 cups seedless red grapes",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>Champagne</span><span class='comment'>or sparkling wine</span>",
+        "comment": "or sparkling wine",
+        "unit": "cup",
+        "name": "Champagne",
+        "input": "3/4 cup Champagne or sparkling wine",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>frozen Concord grape</span><span class='name'>juice</span><span class='comment'>concentrate , thawed</span>",
+        "comment": "frozen Concord grape concentrate, thawed",
+        "unit": "cup",
+        "name": "juice",
+        "input": "1/4 cup frozen Concord grape juice concentrate, thawed",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='comment'>Few</span><span class='unit'>pinches</span><span class='other'>of</span><span class='comment'>ground</span><span class='name'>cinnamon</span>",
+        "comment": "Few ground",
+        "other": "of",
+        "unit": "pinch",
+        "input": "Few pinches of ground cinnamon",
+        "name": "cinnamon"
+    },
+    {
+        "display": "<span class='comment'>Additional seedless</span><span class='name'>red grapes</span><span class='comment'>( for garnish; optional )</span>",
+        "comment": "Additional seedless (for garnish; optional)",
+        "input": "Additional seedless red grapes (for garnish; optional)",
+        "name": "red grapes"
+    }
+]

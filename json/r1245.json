@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='name'>baby fennel</span><span class='other'>,</span><span class='comment'>trimmed and thinly sliced</span>",
+        "comment": "trimmed and thinly sliced",
+        "other": ",",
+        "name": "baby fennel",
+        "input": "4 baby fennel, trimmed and thinly sliced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>flat-leaf</span><span class='name'>parsley leaves</span>",
+        "comment": "flat-leaf",
+        "unit": "cup",
+        "name": "parsley leaves",
+        "input": "2 cups flat-leaf parsley leaves",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>( 2 fluid ounces )</span><span class='name'>orange juice</span>",
+        "comment": "(2 fluid ounces)",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "1/4 cup (2 fluid ounces) orange juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>seeded</span><span class='name'>mustard</span>",
+        "comment": "seeded",
+        "unit": "tablespoon",
+        "name": "mustard",
+        "input": "1 tablespoon seeded mustard",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Sea</span><span class='name'>salt and cracked black pepper</span>",
+        "comment": "Sea",
+        "input": "Sea salt and cracked black pepper",
+        "name": "salt and cracked black pepper"
+    }
+]

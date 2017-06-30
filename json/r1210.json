@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='name'>broccoli</span><span class='comment'>, stems removed</span><span class='other'>,</span><span class='comment'>tops cut into large florets</span>",
+        "comment": ", stems removed tops cut into large florets",
+        "other": ",",
+        "unit": "pound",
+        "name": "broccoli",
+        "input": "1 1/2 pounds broccoli, stems removed, tops cut into large florets",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": "extra-virgin, divided",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "6 tablespoons extra-virgin olive oil, divided",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>Sherry wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons Sherry wine vinegar",
+        "name": "Sherry wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>raisins</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup raisins",
+        "name": "raisins"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>water</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1/2 teaspoon ground cumin",
+        "qty": "1/2"
+    }
+]

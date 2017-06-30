@@ -1,0 +1,65 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='other'>1 1/4-pound</span><span class='name'>eggplant</span><span class='other'>,</span><span class='comment'>peeled , cut into 1-inch pieces</span>",
+        "comment": "peeled, cut into 1-inch pieces",
+        "other": "1 1/4-pound ,",
+        "name": "eggplant",
+        "input": "1 1 1/4-pound eggplant, peeled, cut into 1-inch pieces",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>peeled</span>",
+        "comment": "peeled",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "8 large garlic cloves, peeled",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>1-pint</span><span class='comment'>basket cherry</span><span class='name'>tomatoes</span><span class='comment'>, halved</span>",
+        "comment": "basket cherry, halved",
+        "other": "1-pint",
+        "name": "tomatoes",
+        "input": "1 1-pint basket cherry tomatoes, halved",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>onion</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1/4 cup chopped onion",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "2 tablespoons chopped fresh parsley",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>dill</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "dill",
+        "input": "2 tablespoons chopped fresh dill",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>red wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons red wine vinegar",
+        "name": "red wine vinegar"
+    }
+]

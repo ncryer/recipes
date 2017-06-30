@@ -1,0 +1,60 @@
+[
+    {
+        "other": "a, , ,",
+        "display": "<span class='other'>a</span><span class='comment'>14-to-16 ounce can whole</span><span class='name'>artichoke hearts</span><span class='other'>,</span><span class='comment'>rinsed well</span><span class='other'>,</span><span class='comment'>drained</span><span class='other'>,</span><span class='comment'>and patted dry</span>",
+        "comment": "14-to-16 ounce can whole rinsed well drained and patted dry",
+        "input": "a 14-to-16 ounce can whole artichoke hearts, rinsed well, drained, and patted dry",
+        "name": "artichoke hearts"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced and mashed to a paste with 1/4 teaspoon</span><span class='name'>salt</span>",
+        "comment": "minced and mashed to a paste with 1/4 teaspoon",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic salt",
+        "input": "1 garlic clove, minced and mashed to a paste with 1/4 teaspoon salt",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>brine-cured</span><span class='name'>green olives</span><span class='comment'>such as</span>",
+        "comment": "brine-cured such as",
+        "unit": "cup",
+        "name": "green olives",
+        "input": "1/2 cup brine-cured green olives such as",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>,</span><span class='comment'>pitted and chopped</span>",
+        "comment": "pitted and chopped",
+        "input": ", pitted and chopped",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>finely chopped fresh</span><span class='name'>parsley leaves</span>",
+        "comment": "finely chopped fresh",
+        "unit": "tablespoon",
+        "name": "parsley leaves",
+        "input": "3 tablespoons finely chopped fresh parsley leaves",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='comment'>Garnish: fresh</span><span class='name'>parsley sprigs</span>",
+        "comment": "Garnish: fresh",
+        "input": "Garnish: fresh parsley sprigs",
+        "name": "parsley sprigs"
+    },
+    {
+        "display": "<span class='comment'>Accompaniment:</span><span class='qty'>2</span><span class='comment'>medium</span><span class='name'>fennel bulbs</span><span class='comment'>( sometimes called anise ) , stalks trimmed flush with bulbs and bulbs cut lengthwise into strips or triangles for dipping</span>",
+        "qty": "2",
+        "comment": "Accompaniment: medium (sometimes called anise), stalks trimmed flush with bulbs and bulbs cut lengthwise into strips or triangles for dipping",
+        "input": "Accompaniment: 2 medium fennel bulbs (sometimes called anise), stalks trimmed flush with bulbs and bulbs cut lengthwise into strips or triangles for dipping",
+        "name": "fennel bulbs"
+    }
+]

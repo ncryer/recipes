@@ -1,0 +1,64 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "name": "scallions",
+        "input": "2 scallions, chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>fresh serrano</span><span class='name'>chile</span><span class='comment'>, seeded and finely chopped</span>",
+        "qty": "1",
+        "comment": "fresh serrano, seeded and finely chopped",
+        "input": "1 fresh serrano chile, seeded and finely chopped",
+        "name": "chile"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>tangerine juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "tangerine juice",
+        "input": "5 tablespoons fresh tangerine juice",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>olive oil</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>Sherry vinegar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon Sherry vinegar",
+        "name": "Sherry vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>chayotes</span><span class='comment'>( 1 pound total ) , peeled</span><span class='other'>,</span><span class='comment'>halved lengthwise</span><span class='other'>,</span><span class='comment'>and seeded</span>",
+        "comment": "medium (1 pound total), peeled halved lengthwise and seeded",
+        "other": ", ,",
+        "name": "chayotes",
+        "input": "2 medium chayotes (1 pound total), peeled, halved lengthwise, and seeded",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>red bell peppers</span><span class='other'>(</span><span class='comment'>3/4 pound ) , quartered</span>",
+        "comment": "medium 3/4 pound), quartered",
+        "other": "(",
+        "name": "red bell peppers",
+        "input": "2 medium red bell peppers (3/4 pound), quartered",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>heads</span><span class='name'>Bibb lettuce</span><span class='other'>,</span><span class='comment'>torn into small pieces</span>",
+        "comment": "torn into small pieces",
+        "other": ",",
+        "unit": "head",
+        "name": "Bibb lettuce",
+        "input": "2 heads Bibb lettuce, torn into small pieces",
+        "qty": "2"
+    }
+]

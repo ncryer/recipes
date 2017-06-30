@@ -1,0 +1,55 @@
+[
+    {
+        "display": "<span class='other'>1/2 cup plus 2</span><span class='unit'>tablespoons</span><span class='comment'>Sauternes or Late Harvest Riesling</span>",
+        "unit": "tablespoon",
+        "comment": "Sauternes or Late Harvest Riesling",
+        "input": "1/2 cup plus 2 tablespoons Sauternes or Late Harvest Riesling",
+        "other": "1/2 cup plus 2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>whole</span><span class='name'>cloves</span>",
+        "qty": "6",
+        "comment": "whole",
+        "input": "6 whole cloves",
+        "name": "cloves"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>vanilla bean</span><span class='other'>,</span><span class='comment'>split</span>",
+        "comment": "split",
+        "other": ",",
+        "name": "vanilla bean",
+        "input": "1/2 vanilla bean, split",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='name'>kumquats</span><span class='comment'>, quartered lengthwise</span><span class='other'>,</span><span class='comment'>seeded</span>",
+        "comment": ", quartered lengthwise seeded",
+        "other": ",",
+        "unit": "pound",
+        "name": "kumquats",
+        "input": "1/2 pound kumquats, quartered lengthwise, seeded",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>finely chopped crystallized</span><span class='name'>ginger</span>",
+        "comment": "finely chopped crystallized",
+        "unit": "tablespoon",
+        "name": "ginger",
+        "input": "1 tablespoon finely chopped crystallized ginger",
+        "qty": "1"
+    }
+]

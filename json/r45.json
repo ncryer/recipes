@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 garlic cloves, thinly sliced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>crushed</span><span class='name'>red pepper flakes</span>",
+        "comment": "crushed",
+        "unit": "teaspoon",
+        "name": "red pepper flakes",
+        "input": "1/2 teaspoon crushed red pepper flakes",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span><span class='comment'>, plus more</span>",
+        "comment": "kosher, plus more",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/2 teaspoon kosher salt, plus more",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>large</span><span class='unit'>bunches</span><span class='name'>Swiss chard</span><span class='other'>or</span><span class='comment'>Tuscan kale</span><span class='other'>, or 1/2</span><span class='unit'>head</span><span class='name'>escarole</span><span class='other'>,</span><span class='comment'>leaves separated</span>",
+        "comment": "Tuscan kale leaves separated",
+        "other": "large or, or 1/2 ,",
+        "unit": "bunch head",
+        "name": "Swiss chard escarole",
+        "input": "2 large bunches Swiss chard or Tuscan kale, or 1/2 head escarole, leaves separated",
+        "qty": "2"
+    }
+]

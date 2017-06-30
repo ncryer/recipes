@@ -1,0 +1,32 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>tender young</span><span class='name'>rhubarb</span>",
+        "comment": "tender young",
+        "unit": "pound",
+        "name": "rhubarb",
+        "input": "2 pounds tender young rhubarb",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>grated rind</span><span class='other'>of</span><span class='qty'>2</span><span class='name'>lemons</span>",
+        "comment": "grated rind",
+        "other": "of",
+        "qty": "2",
+        "input": "grated rind of 2 lemons",
+        "name": "lemons"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "4",
+        "input": "4 cups sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='comment'>juice of</span><span class='qty'>2</span><span class='name'>lemons</span>",
+        "qty": "2",
+        "comment": "juice of",
+        "input": "juice of 2 lemons",
+        "name": "lemons"
+    }
+]

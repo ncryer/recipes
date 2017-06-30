@@ -1,0 +1,79 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>freshly squeezed</span><span class='name'>lime juice</span><span class='comment'>( from approximately 2 limes )</span>",
+        "comment": "freshly squeezed (from approximately 2 limes)",
+        "unit": "cup",
+        "name": "lime juice",
+        "input": "1/4 cup freshly squeezed lime juice (from approximately 2 limes)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>finely grated</span><span class='name'>lime</span><span class='comment'>zest</span>",
+        "comment": "finely grated zest",
+        "unit": "teaspoon",
+        "name": "lime",
+        "input": "1 teaspoon finely grated lime zest",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 1/2 teaspoons kosher salt",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "3/4 teaspoon freshly ground black pepper",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/2 cup extra-virgin olive oil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>small</span><span class='name'>j\u00edcama</span><span class='comment'>, peeled and cut into 1/4- by 1-inch matchsticks ( approximately 5 ounces )</span>",
+        "qty": "1/2",
+        "comment": "small, peeled and cut into 1/4- by 1-inch matchsticks (approximately 5 ounces)",
+        "input": "1/2 small j\u00edcama, peeled and cut into 1/4- by 1-inch matchsticks (approximately 5 ounces)",
+        "name": "j\u00edcama"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>large</span><span class='name'>oranges</span>",
+        "qty": "3",
+        "comment": "large",
+        "input": "3 large oranges",
+        "name": "oranges"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>bunches</span><span class='name'>watercress</span><span class='other'>,</span><span class='comment'>thick stems removed ( about 8 cups</span><span class='other'>,</span><span class='comment'>packed )</span>",
+        "comment": "thick stems removed (about 8 cups packed)",
+        "other": ", ,",
+        "unit": "bunch",
+        "name": "watercress",
+        "input": "3 bunches watercress, thick stems removed (about 8 cups, packed)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>raw green ( hulled )</span><span class='name'>pumpkin seeds</span><span class='comment'>( pepitas ) ,</span>",
+        "comment": "raw green (hulled) (pepitas) ,",
+        "unit": "cup",
+        "name": "pumpkin seeds",
+        "input": "3/4 cup raw green (hulled) pumpkin seeds (pepitas) ,",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='other'>(</span><span class='comment'>optional )</span>",
+        "comment": "optional)",
+        "input": "(optional)",
+        "other": "("
+    }
+]

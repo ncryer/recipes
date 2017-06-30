@@ -1,0 +1,46 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>clementines</span><span class='comment'>( 4 to 7</span><span class='other'>)</span>",
+        "comment": "(4 to 7",
+        "other": ")",
+        "unit": "pound",
+        "name": "clementines",
+        "input": "1 pound clementines (4 to 7)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>regular granulated</span><span class='name'>sugar</span>",
+        "comment": "regular granulated",
+        "unit": "cup",
+        "name": "sugar",
+        "input": "2 cups regular granulated sugar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='name'>Vegetable oil for greasing rack</span>",
+        "input": "Vegetable oil for greasing rack",
+        "name": "Vegetable oil for greasing rack"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>superfine granulated</span><span class='name'>sugar</span>",
+        "comment": "superfine granulated",
+        "unit": "cup",
+        "name": "sugar",
+        "input": "1 cup superfine granulated sugar",
+        "qty": "1"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>ripe</span><span class='name'>peaches</span><span class='comment'>( about 1 1/2 pounds total ) , pitted and coarsely chopped</span>",
+        "qty": "2",
+        "comment": "ripe (about 1 1/2 pounds total), pitted and coarsely chopped",
+        "input": "2 ripe peaches (about 1 1/2 pounds total), pitted and coarsely chopped",
+        "name": "peaches"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 1/2 tablespoons fresh lemon juice",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span><span class='other'>,</span><span class='comment'>or to taste</span>",
+        "comment": "or to taste",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "sugar",
+        "input": "1 1/2 tablespoons sugar, or to taste",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 750-ml ) chilled bottle Prosecco or other sparkling wine</span>",
+        "comment": "(750-ml) chilled bottle Prosecco or other sparkling wine",
+        "input": "1 (750-ml) chilled bottle Prosecco or other sparkling wine",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>About</span><span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>seltzer or club soda , chilled</span>",
+        "comment": "seltzer or club soda, chilled",
+        "other": "About",
+        "unit": "cup",
+        "input": "About 1 1/2 cups seltzer or club soda, chilled",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='comment'>Garnish:</span><span class='name'>mint</span><span class='unit'>sprigs</span>",
+        "unit": "sprig",
+        "comment": "Garnish:",
+        "input": "Garnish: mint sprigs",
+        "name": "mint"
+    }
+]

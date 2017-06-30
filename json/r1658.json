@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>finely chopped</span><span class='name'>shallot</span>",
+        "comment": "finely chopped",
+        "unit": "tablespoon",
+        "name": "shallot",
+        "input": "1 1/2 tablespoons finely chopped shallot",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "2 teaspoons fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>coarsely ground</span><span class='name'>black pepper</span>",
+        "comment": "coarsely ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/2 teaspoon coarsely ground black pepper",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>lb summer lettuces such as baby red oak</span><span class='other'>,</span><span class='comment'>Bibb</span><span class='other'>, and</span><span class='comment'>baby romaine ( 12 cups total</span><span class='other'>)</span>",
+        "qty": "1/2",
+        "comment": "lb summer lettuces such as baby red oak Bibb baby romaine (12 cups total",
+        "input": "1/2 lb summer lettuces such as baby red oak, Bibb, and baby romaine (12 cups total)",
+        "other": ",, and)"
+    }
+]

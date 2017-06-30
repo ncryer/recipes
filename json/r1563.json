@@ -1,0 +1,52 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>pounds</span><span class='comment'>assorted baby</span><span class='name'>potatoes</span><span class='comment'>( such as red-skinned</span><span class='other'>,</span><span class='comment'>White Rose</span><span class='other'>,</span><span class='comment'>and baby purple )</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "assorted baby (such as red-skinned White Rose and baby purple) halved",
+        "other": ",, ,",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "3 pounds assorted baby potatoes (such as red-skinned, White Rose, and baby purple), halved",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>sprigs</span><span class='comment'>fresh</span><span class='name'>rosemary</span><span class='comment'>, each broken into 4 pieces plus more for garnish</span>",
+        "comment": "fresh, each broken into 4 pieces plus more for garnish",
+        "unit": "sprig",
+        "name": "rosemary",
+        "input": "3 sprigs fresh rosemary, each broken into 4 pieces plus more for garnish",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "halved",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 large garlic cloves, halved",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>coarse kosher</span><span class='name'>salt</span>",
+        "comment": "coarse kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 1/2 teaspoons coarse kosher salt",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>drained</span><span class='name'>capers</span>",
+        "comment": "drained",
+        "unit": "tablespoon",
+        "name": "capers",
+        "input": "3 tablespoons drained capers",
+        "qty": "3"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>walnuts</span><span class='other'>,</span><span class='comment'>toasted lightly and chopped fine</span>",
+        "comment": "toasted lightly and chopped fine",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "walnuts",
+        "input": "2 tablespoons walnuts, toasted lightly and chopped fine",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>white-wine vinegar</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons white-wine vinegar",
+        "name": "white-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>pound</span><span class='name'>green beans</span><span class='comment'>, trimmed and cut into 3/4-inch pieces</span>",
+        "comment": ", trimmed and cut into 3/4-inch pieces",
+        "unit": "pound",
+        "name": "green beans",
+        "input": "3/4 pound green beans, trimmed and cut into 3/4-inch pieces",
+        "qty": "3/4"
+    }
+]

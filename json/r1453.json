@@ -1,0 +1,39 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>package</span><span class='comment'>extra-fine silken</span><span class='name'>tofu</span>",
+        "comment": "extra-fine silken",
+        "unit": "package",
+        "name": "tofu",
+        "input": "1/2 package extra-fine silken tofu",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>almond oil</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon almond oil",
+        "name": "almond oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>pure</span><span class='name'>maple syrup</span>",
+        "comment": "pure",
+        "unit": "cup",
+        "name": "maple syrup",
+        "input": "1/4 cup pure maple syrup",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>Splenda</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons Splenda",
+        "name": "Splenda"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>cinnamon</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon cinnamon",
+        "name": "cinnamon"
+    }
+]

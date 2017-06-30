@@ -1,0 +1,54 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='name'>carrot</span><span class='other'>,</span><span class='comment'>grated coarse</span>",
+        "comment": "grated coarse",
+        "other": ",",
+        "name": "carrot",
+        "input": "1 carrot, grated coarse",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "1 teaspoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='other'>1 cup plus 1</span><span class='unit'>tablespoon</span><span class='name'>water</span>",
+        "unit": "tablespoon",
+        "other": "1 cup plus 1",
+        "input": "1 cup plus 1 tablespoon water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>finely chopped fresh</span><span class='name'>thyme leaves</span><span class='comment'>or a pinch of crumbled dried</span><span class='name'>thyme</span>",
+        "comment": "finely chopped fresh or a pinch of crumbled dried",
+        "unit": "teaspoon",
+        "name": "thyme leaves thyme",
+        "input": "1/2 teaspoon finely chopped fresh thyme leaves or a pinch of crumbled dried thyme",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>couscous</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup couscous",
+        "name": "couscous"
+    }
+]

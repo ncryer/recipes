@@ -1,0 +1,63 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>pita</span><span class='name'>bread</span><span class='comment'>rounds , cut horizontally in half , then cut into wedges</span>",
+        "qty": "3",
+        "comment": "pita rounds, cut horizontally in half, then cut into wedges",
+        "input": "3 pita bread rounds, cut horizontally in half, then cut into wedges",
+        "name": "bread"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": ", divided",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "4 tablespoons olive oil, divided",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>1 1/4-pound</span><span class='name'>eggplant</span><span class='other'>,</span><span class='comment'>quartered lengthwise</span>",
+        "comment": "quartered lengthwise",
+        "other": "1 1/4-pound ,",
+        "name": "eggplant",
+        "input": "1 1 1/4-pound eggplant, quartered lengthwise",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>onions</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "onions",
+        "input": "2 1/2 cups chopped onions",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>unpeeled</span><span class='name'>garlic</span><span class='unit'>cloves</span>",
+        "unit": "unpeeled clove",
+        "qty": "2",
+        "input": "2 unpeeled garlic cloves",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>mint</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "mint",
+        "input": "2 tablespoons chopped fresh mint",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "2 tablespoons chopped fresh cilantro",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>garam masala</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon garam masala",
+        "name": "garam masala"
+    }
+]

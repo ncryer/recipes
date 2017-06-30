@@ -1,0 +1,88 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>white</span><span class='name'>onion</span><span class='comment'>, chopped</span>",
+        "qty": "1",
+        "comment": "white, chopped",
+        "input": "1 white onion, chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>veggies such as carrot</span><span class='other'>,</span><span class='name'>celery , bell pepper</span><span class='other'>, or</span><span class='comment'>zucchini</span><span class='other'>,</span><span class='comment'>diced</span>",
+        "comment": "veggies such as carrot zucchini diced",
+        "other": ",, or ,",
+        "unit": "cup",
+        "name": "celery, bell pepper",
+        "input": "3 cups veggies such as carrot, celery, bell pepper, or zucchini, diced",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='name'>vegan vegetable stock</span>",
+        "unit": "cup",
+        "qty": "6",
+        "input": "6 cups vegan vegetable stock",
+        "name": "vegan vegetable stock"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>14-ounce ) can chopped tomatoes or 2 diced fresh</span><span class='name'>tomatoes</span>",
+        "comment": "14-ounce) can chopped tomatoes or 2 diced fresh",
+        "other": "(",
+        "name": "tomatoes",
+        "input": "1 (14-ounce) can chopped tomatoes or 2 diced fresh tomatoes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>14-ounce ) can</span><span class='name'>beans</span><span class='other'>,</span><span class='comment'>preferably kidney</span><span class='other'>,</span><span class='comment'>white</span><span class='name'>beans</span><span class='comment'>, or pinto</span>",
+        "comment": "14-ounce) can preferably kidney white, or pinto",
+        "other": "(, ,",
+        "name": "beans beans",
+        "input": "1 (14-ounce) can beans, preferably kidney, white beans, or pinto",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='other'>each of</span><span class='name'>three different dried herbs</span><span class='other'>,</span><span class='comment'>such as basil</span><span class='other'>,</span><span class='comment'>sage</span><span class='other'>,</span><span class='comment'>thyme</span><span class='other'>,</span><span class='comment'>rosemary</span><span class='other'>,</span><span class='comment'>parsley</span><span class='other'>, or</span><span class='comment'>oregano</span>",
+        "comment": "such as basil sage thyme rosemary parsley oregano",
+        "other": "each of, ,, ,, , or",
+        "unit": "teaspoon",
+        "name": "three different dried herbs",
+        "input": "1/2 teaspoon each of three different dried herbs, such as basil, sage, thyme, rosemary, parsley, or oregano",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>bunch</span><span class='comment'>fresh</span><span class='name'>dill</span><span class='comment'>and 1 bunch parsley</span><span class='other'>,</span><span class='comment'>bound with string</span>",
+        "comment": "fresh and 1 bunch parsley bound with string",
+        "other": ",",
+        "unit": "bunch",
+        "name": "dill",
+        "input": "1/2 bunch fresh dill and 1 bunch parsley, bound with string",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='name'>Salt and</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "freshly ground",
+        "input": "Salt and freshly ground pepper",
+        "name": "Salt and pepper"
+    },
+    {
+        "display": "<span class='name'>Vegan crackers</span><span class='other'>,</span><span class='comment'>toasted</span><span class='name'>bread</span><span class='comment'>, croutons</span><span class='other'>,</span><span class='comment'>or 1/2 cooked rice or quinoa</span>",
+        "comment": "toasted, croutons or 1/2 cooked rice or quinoa",
+        "input": "Vegan crackers, toasted bread, croutons, or 1/2 cooked rice or quinoa",
+        "name": "Vegan crackers bread",
+        "other": ", ,"
+    }
+]

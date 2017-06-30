@@ -1,0 +1,72 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large extra-sweet</span><span class='name'>pineapple</span>",
+        "qty": "1",
+        "comment": "large extra-sweet",
+        "input": "1 large extra-sweet pineapple",
+        "name": "pineapple"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>vanilla bean</span><span class='other'>,</span><span class='comment'>split lengthwise</span>",
+        "comment": "split lengthwise",
+        "other": ",",
+        "name": "vanilla bean",
+        "input": "1 vanilla bean, split lengthwise",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>dry white wine</span>",
+        "unit": "cup",
+        "qty": "4",
+        "input": "4 cups dry white wine",
+        "name": "dry white wine"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>Grand Marnier</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup Grand Marnier",
+        "name": "Grand Marnier"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>packed light</span><span class='name'>brown sugar</span>",
+        "comment": "packed light",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup packed light brown sugar",
+        "name": "brown sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 2-to 3-inch ) piece of cinnamon stick</span>",
+        "comment": "(2-to 3-inch) piece of cinnamon stick",
+        "input": "1 (2-to 3-inch) piece of cinnamon stick",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>Turkish</span><span class='comment'>or 1/2</span><span class='name'>California bay leaf</span>",
+        "qty": "1",
+        "comment": "or 1/2",
+        "input": "1 Turkish or 1/2 California bay leaf",
+        "name": "Turkish California bay leaf"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>cloves</span>",
+        "qty": "2",
+        "input": "2 cloves",
+        "name": "cloves"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>granulated</span><span class='name'>sugar</span>",
+        "comment": "granulated",
+        "unit": "tablespoon",
+        "name": "sugar",
+        "input": "1 1/2 tablespoons granulated sugar",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='comment'>Accompaniment:</span><span class='name'>vanilla ice cream</span>",
+        "comment": "Accompaniment:",
+        "input": "Accompaniment: vanilla ice cream",
+        "name": "vanilla ice cream"
+    }
+]

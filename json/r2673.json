@@ -1,0 +1,70 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>( 7 ounces ) bleached all-purpose</span><span class='name'>flour</span>",
+        "comment": "(7 ounces) bleached all-purpose",
+        "unit": "cup",
+        "name": "flour",
+        "input": "1 1/2 cups (7 ounces) bleached all-purpose flour",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>( 0.75 ounce</span><span class='other'>)</span><span class='comment'>unsweetened , nonalkalized cocoa powder</span>",
+        "comment": "(0.75 ounce unsweetened, nonalkalized cocoa powder",
+        "other": ")",
+        "unit": "cup",
+        "input": "1/4 cup (0.75 ounce) unsweetened, nonalkalized cocoa powder",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>baking soda</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon baking soda",
+        "name": "baking soda"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>( 7.5 ounces</span><span class='other'>)</span><span class='name'>granulated sugar</span>",
+        "comment": "(7.5 ounces",
+        "other": ")",
+        "unit": "cup",
+        "name": "granulated sugar",
+        "input": "1 cup (7.5 ounces) granulated sugar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>vanilla extract</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon vanilla extract",
+        "name": "vanilla extract"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>white or cider</span><span class='name'>vinegar</span>",
+        "comment": "white or cider",
+        "unit": "tablespoon",
+        "name": "vinegar",
+        "input": "1 tablespoon white or cider vinegar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "6",
+        "input": "6 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    }
+]

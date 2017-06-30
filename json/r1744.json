@@ -1,0 +1,63 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>red bell peppers</span><span class='other'>,</span><span class='comment'>cut into 1/4-inch strips</span>",
+        "comment": "cut into 1/4-inch strips",
+        "other": ",",
+        "name": "red bell peppers",
+        "input": "2 red bell peppers, cut into 1/4-inch strips",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>yellow bell peppers</span><span class='other'>,</span><span class='comment'>cut into 1/4-inch strips</span>",
+        "comment": "cut into 1/4-inch strips",
+        "other": ",",
+        "name": "yellow bell peppers",
+        "input": "2 yellow bell peppers, cut into 1/4-inch strips",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>orange bell peppers</span><span class='other'>,</span><span class='comment'>cut into 1/4-inch strips</span>",
+        "comment": "cut into 1/4-inch strips",
+        "other": ",",
+        "name": "orange bell peppers",
+        "input": "2 orange bell peppers, cut into 1/4-inch strips",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>golden raisins</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup golden raisins",
+        "name": "golden raisins"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>fennel seeds</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon fennel seeds",
+        "name": "fennel seeds"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>balsamic vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons balsamic vinegar",
+        "name": "balsamic vinegar"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='name'>arugula</span><span class='other'>,</span><span class='comment'>plus additional for garnish</span>",
+        "comment": "plus additional for garnish",
+        "other": ",",
+        "unit": "cup",
+        "name": "arugula",
+        "input": "8 cups arugula, plus additional for garnish",
+        "qty": "8"
+    }
+]

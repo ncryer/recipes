@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>( 4-inch</span><span class='other'>)</span><span class='unit'>strips</span><span class='comment'>fresh</span><span class='name'>orange</span><span class='other'>zest</span>",
+        "comment": "(4-inch fresh",
+        "other": ") zest",
+        "unit": "strip",
+        "name": "orange",
+        "input": "2 (4-inch) strips fresh orange zest",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>Cognac</span><span class='comment'>or other</span><span class='name'>brandy</span>",
+        "comment": "or other",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup Cognac or other brandy",
+        "name": "Cognac brandy"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pound</span><span class='name'>haricots verts</span><span class='comment'>( thin French green</span><span class='name'>beans</span><span class='comment'>) , trimmed</span>",
+        "comment": "(thin French green), trimmed",
+        "unit": "pound",
+        "name": "haricots verts beans",
+        "input": "1 1/2 pound haricots verts (thin French green beans), trimmed",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>Dijon mustard</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>white-wine vinegar</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons white-wine vinegar",
+        "name": "white-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>shallot</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "name": "shallot",
+        "input": "1 shallot, minced",
+        "qty": "1"
+    }
+]

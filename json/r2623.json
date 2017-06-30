@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>8-pound</span><span class='name'>watermelon</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>cut into 1-inch pieces ( about 16 cups )</span>",
+        "comment": "peeled cut into 1-inch pieces (about 16 cups)",
+        "other": ", ,",
+        "unit": "8-pound",
+        "name": "watermelon",
+        "input": "1 8-pound watermelon, peeled, cut into 1-inch pieces (about 16 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1 cup fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>vodka</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup vodka",
+        "name": "vodka"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>cr\u00e8me de</span>",
+        "unit": "tablespoon",
+        "qty": "6",
+        "input": "6 tablespoons cr\u00e8me de",
+        "name": "cr\u00e8me de"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>mint</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "mint",
+        "input": "1/4 cup chopped fresh mint",
+        "qty": "1/4"
+    }
+]

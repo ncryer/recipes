@@ -1,0 +1,24 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>ounces</span><span class='comment'>high-quality bittersweet</span><span class='name'>chocolate</span><span class='comment'>, coarsely chopped</span>",
+        "comment": "high-quality bittersweet, coarsely chopped",
+        "unit": "ounce",
+        "name": "chocolate",
+        "input": "6 ounces high-quality bittersweet chocolate, coarsely chopped",
+        "qty": "6"
+    }
+]

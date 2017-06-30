@@ -1,0 +1,28 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>green beans</span><span class='other'>,</span><span class='comment'>trimmed</span>",
+        "comment": "trimmed",
+        "other": ",",
+        "unit": "pound",
+        "name": "green beans",
+        "input": "1 pound green beans, trimmed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, minced",
+        "qty": "2"
+    }
+]

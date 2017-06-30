@@ -1,0 +1,51 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>sliced</span>",
+        "comment": "sliced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, sliced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>escarole</span><span class='other'>,</span><span class='comment'>trimmed</span><span class='other'>,</span><span class='comment'>cut into bite-size pieces</span><span class='other'>,</span><span class='comment'>rinsed well</span><span class='other'>,</span><span class='comment'>and spun dry</span>",
+        "comment": "trimmed cut into bite-size pieces rinsed well and spun dry",
+        "other": ",, , ,",
+        "unit": "pound",
+        "name": "escarole",
+        "input": "1 pound escarole, trimmed, cut into bite-size pieces, rinsed well, and spun dry",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>dried Kalamata or other brine-cured</span><span class='name'>black olives</span>",
+        "comment": "dried Kalamata or other brine-cured",
+        "unit": "tablespoon",
+        "name": "black olives",
+        "input": "1 tablespoon dried Kalamata or other brine-cured black olives",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>golden raisins</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons golden raisins",
+        "name": "golden raisins"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>pine nuts</span><span class='other'>,</span><span class='comment'>toasted lightly</span>",
+        "comment": "toasted lightly",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "pine nuts",
+        "input": "2 teaspoons pine nuts, toasted lightly",
+        "qty": "2"
+    }
+]

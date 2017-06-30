@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>14-to 16-ounces ) block firm tofu , drained</span>",
+        "qty": "1",
+        "comment": "14-to 16-ounces) block firm tofu, drained",
+        "input": "1 (14-to 16-ounces) block firm tofu, drained",
+        "other": "("
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>red ( dark</span><span class='other'>)</span><span class='name'>miso</span><span class='comment'>( preferably Japanese; see Shopping List</span><span class='other'>,</span><span class='comment'>page 104 )</span>",
+        "comment": "red (dark (preferably Japanese; see Shopping List page 104)",
+        "other": "1/3) ,",
+        "unit": "cup",
+        "input": "1/3 cup red (dark) miso (preferably Japanese; see Shopping List, page 104)",
+        "name": "miso"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sake</span><span class='other'>,</span><span class='comment'>dry Sherry , or dry white wine</span>",
+        "comment": "dry Sherry, or dry white wine",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "sake",
+        "input": "2 tablespoons sake, dry Sherry, or dry white wine",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sesame seeds</span><span class='other'>,</span>",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "sesame seeds",
+        "input": "1 teaspoon sesame seeds ,",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Equipment:</span><span class='qty'>12</span><span class='comment'>two-pronged wooden picks or 24 ( 2 1/2-to 31/2-inch ) straight wooden picks</span>",
+        "comment": "Equipment: two-pronged wooden picks or 24 (2 1/2-to 31/2-inch) straight wooden picks",
+        "input": "Equipment: 12 two-pronged wooden picks or 24 (2 1/2-to 31/2-inch) straight wooden picks",
+        "qty": "12"
+    }
+]

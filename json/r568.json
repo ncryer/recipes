@@ -1,0 +1,60 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>whole</span><span class='name'>orange</span><span class='other'>,</span><span class='comment'>plus 1 orange cut into thin slices for garnish</span>",
+        "comment": "whole plus 1 orange cut into thin slices for garnish",
+        "other": ",",
+        "name": "orange",
+        "input": "1 whole orange, plus 1 orange cut into thin slices for garnish",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>lemon</span>",
+        "qty": "1",
+        "input": "1 lemon",
+        "name": "lemon"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>lemon juice</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup lemon juice",
+        "name": "lemon juice"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>pineapple juice</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup pineapple juice",
+        "name": "pineapple juice"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 750 milliliter ) bottle bourbon</span><span class='other'>,</span><span class='comment'>at least 100 proof</span>",
+        "qty": "1",
+        "comment": "(750 milliliter) bottle bourbon at least 100 proof",
+        "input": "1 (750 milliliter) bottle bourbon, at least 100 proof",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>Champagne</span><span class='comment'>or sparkling wine</span>",
+        "comment": "or sparkling wine",
+        "unit": "cup",
+        "name": "Champagne",
+        "input": "1 cup Champagne or sparkling wine",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>pineapple</span><span class='comment'>chunks</span>",
+        "comment": "fresh chunks",
+        "unit": "cup",
+        "name": "pineapple",
+        "input": "1 cup fresh pineapple chunks",
+        "qty": "1"
+    }
+]

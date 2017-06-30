@@ -1,0 +1,44 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>medium</span><span class='name'>red</span><span class='comment'>or white</span><span class='name'>onions</span><span class='comment'>( 3 1/2 lb )</span>",
+        "qty": "6",
+        "comment": "medium or white (3 1/2 lb)",
+        "input": "6 medium red or white onions (3 1/2 lb)",
+        "name": "red onions"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fine-quality extra-virgin</span><span class='name'>olive oil</span><span class='comment'>( preferably Tuscan )</span>",
+        "comment": "fine-quality extra-virgin (preferably Tuscan)",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons fine-quality extra-virgin olive oil (preferably Tuscan)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>10</span><span class='comment'>fresh</span><span class='name'>thyme</span><span class='comment'>sprigs or 1 teaspoon dried</span><span class='name'>thyme</span>",
+        "qty": "10",
+        "comment": "fresh sprigs or 1 teaspoon dried",
+        "input": "10 fresh thyme sprigs or 1 teaspoon dried thyme",
+        "name": "thyme thyme"
+    },
+    {
+        "display": "<span class='comment'>Fine sea</span><span class='name'>salt</span><span class='comment'>to taste</span>",
+        "comment": "Fine sea to taste",
+        "input": "Fine sea salt to taste",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>Chianti or other dry red wine</span>",
+        "unit": "cup",
+        "comment": "Chianti or other dry red wine",
+        "input": "1/2 cup Chianti or other dry red wine",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup water",
+        "name": "water"
+    }
+]

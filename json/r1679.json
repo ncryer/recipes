@@ -1,0 +1,58 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1 3/4</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1 3/4",
+        "input": "1 3/4 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>( 14-oz ) packages frozen guanabana ( soursop ) pur\u00e9e such as Goya brand</span><span class='other'>,</span><span class='comment'>thawed ( 3 cups )</span>",
+        "qty": "2",
+        "comment": "(14-oz) packages frozen guanabana (soursop) pur\u00e9e such as Goya brand thawed (3 cups)",
+        "input": "2 (14-oz) packages frozen guanabana (soursop) pur\u00e9e such as Goya brand, thawed (3 cups)",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>fresh mango pur\u00e9e</span><span class='other'>(</span><span class='comment'>from 1 1/2 lb mangoes</span><span class='other'>) or</span><span class='comment'>1 ( 14-oz ) package frozen mango pur\u00e9e</span><span class='other'>,</span><span class='comment'>thawed</span>",
+        "comment": "from 1 1/2 lb mangoes 1 (14-oz) package frozen mango pur\u00e9e thawed",
+        "other": "() or ,",
+        "unit": "cup",
+        "name": "fresh mango pur\u00e9e",
+        "input": "1 1/2 cups fresh mango pur\u00e9e (from 1 1/2 lb mangoes) or 1 (14-oz) package frozen mango pur\u00e9e, thawed",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span><span class='comment'>, or to taste</span>",
+        "comment": "fresh, or to taste",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "3 tablespoons fresh lime juice, or to taste",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>finely grated fresh</span><span class='name'>lime zest</span>",
+        "comment": "finely grated fresh",
+        "unit": "teaspoon",
+        "name": "lime zest",
+        "input": "1/2 teaspoon finely grated fresh lime zest",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='name'>Special equipment: an ice cream maker</span>",
+        "input": "Special equipment: an ice cream maker",
+        "name": "Special equipment: an ice cream maker"
+    },
+    {
+        "display": "<span class='name'>Garnish: lime zest</span>",
+        "input": "Garnish: lime zest",
+        "name": "Garnish: lime zest"
+    }
+]

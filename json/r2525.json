@@ -1,0 +1,55 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>long-grain white</span><span class='name'>rice</span>",
+        "comment": "long-grain white",
+        "unit": "cup",
+        "name": "rice",
+        "input": "2 cups long-grain white rice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped white</span><span class='name'>onion</span>",
+        "comment": "chopped white",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1/4 cup chopped white onion",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>coarsely chopped</span>",
+        "comment": "coarsely chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, coarsely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>boiling-hot water</span>",
+        "unit": "cup",
+        "qty": "4",
+        "input": "4 cups boiling-hot water",
+        "name": "boiling-hot water"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>20</span><span class='comment'>fresh</span><span class='name'>mint leaves</span>",
+        "qty": "20",
+        "comment": "fresh",
+        "input": "20 fresh mint leaves",
+        "name": "mint leaves"
+    }
+]

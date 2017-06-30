@@ -1,0 +1,36 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( 110g ) caster ( superfine</span><span class='other'>)</span><span class='name'>sugar</span>",
+        "comment": "(110g) caster (superfine",
+        "other": ")",
+        "unit": "cup",
+        "name": "sugar",
+        "input": "1/2 cup (110g) caster (superfine) sugar",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>( 180ml</span><span class='other'>)</span><span class='name'>water</span>",
+        "comment": "(180ml",
+        "other": ")",
+        "unit": "cup",
+        "name": "water",
+        "input": "1/4 cup (180ml) water",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='other'>1 1/3</span><span class='unit'>cups</span><span class='comment'>( 330ml</span><span class='other'>)</span><span class='name'>cranberry juice</span>",
+        "comment": "(330ml",
+        "other": "1 1/3)",
+        "unit": "cup",
+        "input": "1 1/3 cups (330ml) cranberry juice",
+        "name": "cranberry juice"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='name'>strawberries</span><span class='other'>,</span><span class='comment'>sliced</span>",
+        "comment": "sliced",
+        "other": ",",
+        "name": "strawberries",
+        "input": "8 strawberries, sliced",
+        "qty": "8"
+    }
+]

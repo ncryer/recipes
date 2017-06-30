@@ -1,0 +1,62 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>carrots</span><span class='other'>,</span><span class='comment'>cut diagonally into 1/4-inch-thick slices</span>",
+        "comment": "cut diagonally into 1/4-inch-thick slices",
+        "other": ",",
+        "unit": "pound",
+        "name": "carrots",
+        "input": "1 pound carrots, cut diagonally into 1/4-inch-thick slices",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>pomegranate juice</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup pomegranate juice",
+        "name": "pomegranate juice"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>3-inch</span><span class='other'>)</span><span class='name'>cinnamon stick</span>",
+        "comment": "3-inch",
+        "other": "()",
+        "name": "cinnamon stick",
+        "input": "1 (3-inch) cinnamon stick",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>coriander seeds</span><span class='comment'>,</span>",
+        "comment": ",",
+        "unit": "teaspoon",
+        "name": "coriander seeds",
+        "input": "3/4 teaspoon coriander seeds ,",
+        "qty": "3/4"
+    },
+    {
+        "other": "and",
+        "display": "<span class='other'>and</span><span class='comment'>lightly</span><span class='name'>crushed</span>",
+        "comment": "lightly",
+        "input": "and lightly crushed",
+        "name": "crushed"
+    }
+]

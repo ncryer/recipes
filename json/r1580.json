@@ -1,0 +1,64 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>onion</span><span class='comment'>( 1 small )</span>",
+        "comment": "finely chopped (1 small)",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1/2 cup finely chopped onion (1 small)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>whole</span><span class='name'>coriander seeds</span>",
+        "comment": "whole",
+        "unit": "teaspoon",
+        "name": "coriander seeds",
+        "input": "1 1/2 teaspoons whole coriander seeds",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>scant</span><span class='unit'>cup</span><span class='comment'>fine</span><span class='name'>bulgur</span><span class='comment'>( see cooks' note , below )</span>",
+        "comment": "fine (see cooks' note, below)",
+        "other": "scant",
+        "unit": "cup",
+        "name": "bulgur",
+        "input": "1 scant cup fine bulgur (see cooks' note, below)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>boiling-hot water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup boiling-hot water",
+        "name": "boiling-hot water"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>slivered</span><span class='name'>almonds</span><span class='comment'>,</span>",
+        "comment": "slivered ,",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup slivered almonds ,",
+        "name": "almonds"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    }
+]

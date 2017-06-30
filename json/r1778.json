@@ -1,0 +1,16 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>elderberry-flower syrup</span><span class='comment'>( available at some specialty food shops )</span>",
+        "comment": "(available at some specialty food shops)",
+        "unit": "cup",
+        "name": "elderberry-flower syrup",
+        "input": "1 cup elderberry-flower syrup (available at some specialty food shops)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>( 750-ml ) bottles chilled dry sparkling wine</span>",
+        "comment": "(750-ml) bottles chilled dry sparkling wine",
+        "input": "2 (750-ml) bottles chilled dry sparkling wine",
+        "qty": "2"
+    }
+]

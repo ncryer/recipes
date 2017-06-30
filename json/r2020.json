@@ -1,0 +1,72 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='comment'>10-ounce package ready-to-use fresh</span><span class='name'>spinach leaves</span>",
+        "qty": "3/4",
+        "comment": "10-ounce package ready-to-use fresh",
+        "input": "3/4 10-ounce package ready-to-use fresh spinach leaves",
+        "name": "spinach leaves"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>large</span><span class='unit'>heads</span><span class='name'>Belgian endive</span><span class='other'>,</span><span class='comment'>cut into 1/2-inch-wide slices</span>",
+        "comment": "cut into 1/2-inch-wide slices",
+        "other": "large ,",
+        "unit": "head",
+        "name": "Belgian endive",
+        "input": "2 large heads Belgian endive, cut into 1/2-inch-wide slices",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>radishes</span><span class='comment'>, trimmed , thinly sliced</span>",
+        "comment": ", trimmed, thinly sliced",
+        "unit": "bunch",
+        "name": "radishes",
+        "input": "1 bunch radishes, trimmed, thinly sliced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>balsamic vinegar</span><span class='comment'>or red wine</span><span class='name'>vinegar</span>",
+        "comment": "or red wine",
+        "unit": "tablespoon",
+        "name": "balsamic vinegar vinegar",
+        "input": "2 tablespoons balsamic vinegar or red wine vinegar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "6",
+        "input": "6 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>grated</span><span class='name'>orange peel</span>",
+        "comment": "grated",
+        "unit": "teaspoon",
+        "name": "orange peel",
+        "input": "1 1/2 teaspoons grated orange peel",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>oranges</span><span class='comment'>, peel and white pith removed , sliced into rounds</span><span class='other'>,</span><span class='comment'>slices halved</span>",
+        "comment": ", peel and white pith removed, sliced into rounds slices halved",
+        "other": ",",
+        "name": "oranges",
+        "input": "2 oranges, peel and white pith removed, sliced into rounds, slices halved",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>avocados</span><span class='comment'>, peeled</span><span class='other'>,</span><span class='comment'>pitted , sliced</span>",
+        "comment": ", peeled pitted, sliced",
+        "other": ",",
+        "name": "avocados",
+        "input": "2 avocados, peeled, pitted, sliced",
+        "qty": "2"
+    }
+]

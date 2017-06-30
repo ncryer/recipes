@@ -1,0 +1,24 @@
+[
+    {
+        "display": "<span class='comment'>1 ( 12-inch ) length thin baguette ( about 2 inches in diameter )</span>",
+        "comment": "1 (12-inch) length thin baguette (about 2 inches in diameter)",
+        "input": "1 (12-inch) length thin baguette (about 2 inches in diameter)"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 1/2 tablespoons extra-virgin olive oil",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>scant</span><span class='unit'>tablespoon</span><span class='name'>coarse sea salt</span><span class='other'>(</span><span class='comment'>preferably flaky )</span>",
+        "comment": "preferably flaky)",
+        "other": "scant (",
+        "unit": "tablespoon",
+        "name": "coarse sea salt",
+        "input": "1 scant tablespoon coarse sea salt (preferably flaky)",
+        "qty": "1"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>mixed berries</span><span class='comment'>( raspberries</span><span class='other'>,</span><span class='comment'>strawberries</span><span class='other'>,</span><span class='comment'>blueberries</span><span class='other'>,</span><span class='comment'>blackberries )</span>",
+        "comment": "(raspberries strawberries blueberries blackberries)",
+        "other": ",, ,",
+        "unit": "cup",
+        "name": "mixed berries",
+        "input": "4 cups mixed berries (raspberries, strawberries, blueberries, blackberries)",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>hemp hearts</span><span class='comment'>( available in the natural section of most supermarkets in a variety of brands )</span>",
+        "comment": "(available in the natural section of most supermarkets in a variety of brands)",
+        "unit": "tablespoon",
+        "name": "hemp hearts",
+        "input": "2 tablespoons hemp hearts (available in the natural section of most supermarkets in a variety of brands)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>20</span><span class='comment'>whole</span><span class='name'>almonds</span><span class='other'>,</span><span class='comment'>toasted and chopped</span>",
+        "comment": "whole toasted and chopped",
+        "other": ",",
+        "name": "almonds",
+        "input": "20 whole almonds, toasted and chopped",
+        "qty": "20"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>cooked</span><span class='name'>quinoa</span>",
+        "comment": "cooked",
+        "unit": "cup",
+        "name": "quinoa",
+        "input": "1/4 cup cooked quinoa",
+        "qty": "1/4"
+    }
+]

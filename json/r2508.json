@@ -1,0 +1,46 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>small</span><span class='name'>sweet potatoes</span><span class='comment'>( 3/4 pound total )</span>",
+        "qty": "2",
+        "comment": "small (3/4 pound total)",
+        "input": "2 small sweet potatoes (3/4 pound total)",
+        "name": "sweet potatoes"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>olive oil</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "other": "1/8",
+        "unit": "teaspoon",
+        "input": "1/8 teaspoon freshly ground black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>cayenne</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon cayenne",
+        "name": "cayenne"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>allspice</span>",
+        "comment": "ground",
+        "other": "1/8",
+        "unit": "teaspoon",
+        "input": "1/8 teaspoon ground allspice",
+        "name": "allspice"
+    }
+]

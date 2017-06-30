@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>unpeeled baby red</span><span class='name'>potatoes</span><span class='comment'>( 1- to 1 1/2-inch-diameter )</span>",
+        "comment": "unpeeled baby red (1- to 1 1/2-inch-diameter)",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "1 pound unpeeled baby red potatoes (1- to 1 1/2-inch-diameter)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>coarse</span><span class='name'>kosher</span>",
+        "comment": "coarse",
+        "unit": "teaspoon",
+        "name": "kosher",
+        "input": "1 teaspoon coarse kosher",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>large</span><span class='name'>rosemary</span><span class='unit'>sprigs</span>",
+        "comment": "large",
+        "unit": "sprig",
+        "name": "rosemary",
+        "input": "4 large rosemary sprigs",
+        "qty": "4"
+    }
+]

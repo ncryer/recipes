@@ -1,0 +1,46 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>ripe but firm</span><span class='name'>pineapple</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>and cut into 1/2-inch-thick slices</span>",
+        "comment": "ripe but firm peeled cored and cut into 1/2-inch-thick slices",
+        "other": ",, ,",
+        "name": "pineapple",
+        "input": "1/2 ripe but firm pineapple, peeled, cored, and cut into 1/2-inch-thick slices",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/4 cup chopped fresh cilantro",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>serrano</span><span class='name'>chile , stemmed , seeded , and diced</span>",
+        "qty": "1/2",
+        "comment": "serrano",
+        "input": "1/2 serrano chile, stemmed, seeded, and diced",
+        "name": "chile, stemmed, seeded, and diced"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "1 tablespoon fresh lime juice",
+        "qty": "1"
+    },
+    {
+        "other": "Pinch of ,",
+        "display": "<span class='other'>Pinch of</span><span class='name'>sugar</span><span class='other'>,</span><span class='comment'>or to taste</span>",
+        "comment": "or to taste",
+        "input": "Pinch of sugar, or to taste",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='name'>Salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "input": "Salt and freshly ground black pepper",
+        "name": "Salt and black pepper"
+    }
+]

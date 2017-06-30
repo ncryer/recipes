@@ -1,0 +1,53 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>onion</span><span class='comment'>, finely chopped</span>",
+        "qty": "1",
+        "comment": "small, finely chopped",
+        "input": "1 small onion, finely chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "6 tablespoons extra-virgin olive oil",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 28- to 32-oz ) can whole</span><span class='name'>tomatoes</span><span class='other'>in</span><span class='comment'>juice</span><span class='other'>,</span><span class='comment'>drained</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>and finely chopped</span>",
+        "comment": "(28- to 32-oz) can whole juice drained seeded and finely chopped",
+        "other": "in, , ,",
+        "name": "tomatoes",
+        "input": "1 (28- to 32-oz) can whole tomatoes in juice, drained, seeded, and finely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>sweet Spanish smoked paprika</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon sweet Spanish smoked paprika",
+        "name": "sweet Spanish smoked paprika"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 20-inch )</span><span class='name'>baguette</span><span class='comment'>( preferably sourdough ) , cut diagonally into 1/2-inch-thick slices</span>",
+        "qty": "1",
+        "comment": "(20-inch) (preferably sourdough), cut diagonally into 1/2-inch-thick slices",
+        "input": "1 (20-inch) baguette (preferably sourdough), cut diagonally into 1/2-inch-thick slices",
+        "name": "baguette"
+    }
+]

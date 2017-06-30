@@ -1,0 +1,51 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lime juice",
+        "input": "1/4 cup fresh lime juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>minced canned</span><span class='name'>chipotle chilies</span><span class='comment'>in adobo sauce</span>",
+        "comment": "minced canned in adobo sauce",
+        "unit": "teaspoon",
+        "name": "chipotle chilies",
+        "input": "2 teaspoons minced canned chipotle chilies in adobo sauce",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 garlic cloves, minced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>chopped seed</span><span class='name'>tomatoes</span>",
+        "comment": "chopped seed",
+        "unit": "cup",
+        "name": "tomatoes",
+        "input": "2 cups chopped seed tomatoes",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>onion</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1 cup chopped onion",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/2 cup chopped fresh cilantro",
+        "qty": "1/2"
+    }
+]

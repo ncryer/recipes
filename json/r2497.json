@@ -1,0 +1,44 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>lb strawberries</span><span class='other'>(</span><span class='comment'>3 cups ) , trimmed and halved</span>",
+        "comment": "3 cups), trimmed and halved",
+        "other": "(",
+        "name": "lb strawberries",
+        "input": "1 lb strawberries (3 cups), trimmed and halved",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>Sambuca</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons Sambuca",
+        "name": "Sambuca"
+    },
+    {
+        "display": "<span class='name'>Special equipment: an ice-cream maker</span>",
+        "input": "Special equipment: an ice-cream maker",
+        "name": "Special equipment: an ice-cream maker"
+    }
+]

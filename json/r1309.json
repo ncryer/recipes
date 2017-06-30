@@ -1,0 +1,28 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='name'>arugula</span>",
+        "unit": "cup",
+        "qty": "8",
+        "input": "8 cups arugula",
+        "name": "arugula"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>sliced heirloom</span><span class='name'>tomatoes</span><span class='comment'>( we like using a mix of colors )</span>",
+        "qty": "4",
+        "comment": "sliced heirloom (we like using a mix of colors)",
+        "input": "4 sliced heirloom tomatoes (we like using a mix of colors)",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>small</span><span class='name'>red onion</span><span class='comment'>, thinly sliced</span>",
+        "qty": "1/2",
+        "comment": "small, thinly sliced",
+        "input": "1/2 small red onion, thinly sliced",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='name'>Vinaigrette</span>",
+        "input": "Vinaigrette",
+        "name": "Vinaigrette"
+    }
+]

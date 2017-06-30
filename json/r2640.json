@@ -1,0 +1,82 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>medium</span><span class='name'>beets</span><span class='comment'>, trimmed</span>",
+        "qty": "6",
+        "comment": "medium, trimmed",
+        "input": "6 medium beets, trimmed",
+        "name": "beets"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>apple cider vinegar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup apple cider vinegar",
+        "name": "apple cider vinegar"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>whole grain</span><span class='name'>Dijon mustard</span>",
+        "comment": "whole grain",
+        "unit": "tablespoon",
+        "name": "Dijon mustard",
+        "input": "2 tablespoons whole grain Dijon mustard",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>caraway seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons caraway seeds",
+        "name": "caraway seeds"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>corn oil</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup corn oil",
+        "name": "corn oil"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='comment'>thinly sliced red</span><span class='name'>cabbage</span><span class='comment'>( about half of large head )</span>",
+        "comment": "thinly sliced red (about half of large head)",
+        "unit": "cup",
+        "name": "cabbage",
+        "input": "8 cups thinly sliced red cabbage (about half of large head)",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>onion</span>",
+        "comment": "chopped",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup chopped onion",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>( packed ) chopped fresh</span><span class='name'>dill</span>",
+        "comment": "(packed) chopped fresh",
+        "unit": "cup",
+        "name": "dill",
+        "input": "1/4 cup (packed) chopped fresh dill",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='name'>Lettuce leaves</span>",
+        "input": "Lettuce leaves",
+        "name": "Lettuce leaves"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>large</span><span class='name'>carrots</span><span class='comment'>, peeled</span><span class='other'>,</span><span class='comment'>coarsely grated ( about 3 cups )</span>",
+        "comment": "large, peeled coarsely grated (about 3 cups)",
+        "other": ",",
+        "name": "carrots",
+        "input": "3 large carrots, peeled, coarsely grated (about 3 cups)",
+        "qty": "3"
+    }
+]

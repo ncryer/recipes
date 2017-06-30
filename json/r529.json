@@ -1,0 +1,69 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>minced</span><span class='name'>shallots</span>",
+        "comment": "minced",
+        "unit": "tablespoon",
+        "name": "shallots",
+        "input": "3 tablespoons minced shallots",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>red wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span><span class='comment'>plus more</span>",
+        "comment": "kosher plus more",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/2 teaspoon kosher salt plus more",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/2 cup extra-virgin olive oil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='comment'>large ripe beefsteak or heirloom</span><span class='name'>tomatoes</span><span class='comment'>, cut into 1/2\" slices</span>",
+        "qty": "5",
+        "comment": "large ripe beefsteak or heirloom, cut into 1/2\" slices",
+        "input": "5 large ripe beefsteak or heirloom tomatoes, cut into 1/2\" slices",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>rinsed salt-packed</span><span class='name'>capers</span>",
+        "comment": "rinsed salt-packed",
+        "unit": "tablespoon",
+        "name": "capers",
+        "input": "2 tablespoons rinsed salt-packed capers",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>10</span><span class='comment'>fresh medium</span><span class='name'>basil leaves</span><span class='other'>,</span><span class='comment'>torn into approx. 1/2\" pieces</span>",
+        "comment": "fresh medium torn into approx. 1/2\" pieces",
+        "other": ",",
+        "name": "basil leaves",
+        "input": "10 fresh medium basil leaves, torn into approx. 1/2\" pieces",
+        "qty": "10"
+    }
+]

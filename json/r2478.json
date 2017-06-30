@@ -1,0 +1,41 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>dried</span><span class='name'>wakame</span><span class='comment'>( a type of seaweed )</span>",
+        "comment": "dried (a type of seaweed)",
+        "unit": "cup",
+        "name": "wakame",
+        "input": "1/2 cup dried wakame (a type of seaweed)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>shiro miso</span><span class='other'>(</span><span class='comment'>white fermented-soybean paste )</span>",
+        "comment": "white fermented-soybean paste)",
+        "other": "(",
+        "unit": "cup",
+        "name": "shiro miso",
+        "input": "1/4 cup shiro miso (white fermented-soybean paste)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span>",
+        "unit": "cup",
+        "input": "6 cups",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='comment'>soft</span><span class='name'>tofu</span><span class='comment'>, drained and cut into 1/2-inch cubes</span>",
+        "comment": "soft, drained and cut into 1/2-inch cubes",
+        "unit": "pound",
+        "name": "tofu",
+        "input": "1/2 pound soft tofu, drained and cut into 1/2-inch cubes",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>thinly sliced</span><span class='name'>scallion greens</span>",
+        "comment": "thinly sliced",
+        "unit": "cup",
+        "name": "scallion greens",
+        "input": "1/4 cup thinly sliced scallion greens",
+        "qty": "1/4"
+    }
+]

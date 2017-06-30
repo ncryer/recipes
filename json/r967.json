@@ -1,0 +1,90 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>red onion</span><span class='comment'>, diced</span>",
+        "qty": "1",
+        "comment": "small, diced",
+        "input": "1 small red onion, diced",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>cumin</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon cumin",
+        "name": "cumin"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>cayenne</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon cayenne",
+        "name": "cayenne"
+    },
+    {
+        "display": "<span class='comment'>Coarse sea</span><span class='name'>salt</span>",
+        "comment": "Coarse sea",
+        "input": "Coarse sea salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='unit'>clove</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 large clove garlic, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>habanero</span><span class='name'>chile</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "habanero minced",
+        "other": ",",
+        "name": "chile",
+        "input": "1 habanero chile, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>tomato paste</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup tomato paste",
+        "name": "tomato paste"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>tomato sauce</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup tomato sauce",
+        "name": "tomato sauce"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>apple cider vinegar</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons apple cider vinegar",
+        "name": "apple cider vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>white pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "white pepper",
+        "input": "1/4 teaspoon freshly ground white pepper",
+        "qty": "1/4"
+    }
+]

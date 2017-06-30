@@ -1,0 +1,94 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>bulgur</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup bulgur",
+        "name": "bulgur"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>minced</span><span class='name'>onion</span>",
+        "comment": "minced",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup minced onion",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1 1/2 teaspoons ground cumin",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='comment'>medium vine-ripened</span><span class='name'>tomatoes</span><span class='comment'>( about 2 1/4 pounds )</span>",
+        "qty": "12",
+        "comment": "medium vine-ripened (about 2 1/4 pounds)",
+        "input": "12 medium vine-ripened tomatoes (about 2 1/4 pounds)",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>packed fresh flat-leafed</span><span class='name'>parsley leaves</span>",
+        "comment": "packed fresh flat-leafed",
+        "unit": "cup",
+        "name": "parsley leaves",
+        "input": "2 cups packed fresh flat-leafed parsley leaves",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>packed fresh</span><span class='name'>mint leaves</span>",
+        "comment": "packed fresh",
+        "unit": "cup",
+        "name": "mint leaves",
+        "input": "1 cup packed fresh mint leaves",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>clove</span>",
+        "other": "large",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 large garlic clove",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>ears</span><span class='comment'>fresh</span><span class='name'>corn</span>",
+        "comment": "fresh",
+        "unit": "ear",
+        "name": "corn",
+        "input": "2 ears fresh corn",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "3 tablespoons fresh lemon juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "1 tablespoon extra-virgin olive oil",
+        "qty": "1"
+    }
+]

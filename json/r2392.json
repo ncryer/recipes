@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='other'>1 cup plus 2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "other": "1 cup plus 2",
+        "input": "1 cup plus 2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "3 tablespoons fresh lemon juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>fresh rhubarb or frozen , thawed</span><span class='other'>,</span><span class='comment'>drained</span><span class='other'>,</span><span class='comment'>cut into 1-inch pieces</span>",
+        "comment": "fresh rhubarb or frozen, thawed drained cut into 1-inch pieces",
+        "other": ", ,",
+        "unit": "pound",
+        "input": "1 pound fresh rhubarb or frozen, thawed, drained, cut into 1-inch pieces",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>light</span><span class='name'>corn syrup</span>",
+        "comment": "light",
+        "unit": "tablespoon",
+        "name": "corn syrup",
+        "input": "2 tablespoons light corn syrup",
+        "qty": "2"
+    }
+]

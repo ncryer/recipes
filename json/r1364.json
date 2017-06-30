@@ -1,0 +1,69 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>walnuts</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup walnuts",
+        "name": "walnuts"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>( packed ) dark</span><span class='name'>brown sugar</span>",
+        "comment": "(packed) dark",
+        "unit": "cup",
+        "name": "brown sugar",
+        "input": "1/4 cup (packed) dark brown sugar",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='other'>plus 1/4</span><span class='unit'>cup</span><span class='name'>walnut oil</span>",
+        "other": "plus 1/4",
+        "unit": "teaspoon cup",
+        "name": "walnut oil",
+        "input": "2 teaspoons plus 1/4 cup walnut oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3 1/2</span><span class='unit'>tablespoons</span><span class='name'>seasoned rice vinegar</span><span class='other'>, divided</span>",
+        "other": ", divided",
+        "unit": "tablespoon",
+        "name": "seasoned rice vinegar",
+        "input": "3 1/2 tablespoons seasoned rice vinegar, divided",
+        "qty": "3 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>pressed</span>",
+        "comment": "pressed",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, pressed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>head</span><span class='other'>of</span><span class='name'>Bibb lettuce</span><span class='comment'>, coarsely torn</span>",
+        "comment": ", coarsely torn",
+        "other": "of",
+        "unit": "head",
+        "name": "Bibb lettuce",
+        "input": "1 head of Bibb lettuce, coarsely torn",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='other'>large</span><span class='unit'>head</span><span class='comment'>of</span><span class='name'>radicchio</span><span class='comment'>, thickly sliced</span>",
+        "comment": "of, thickly sliced",
+        "other": "large",
+        "unit": "head",
+        "name": "radicchio",
+        "input": "1/2 large head of radicchio, thickly sliced",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>frozen haricots verts or small slender</span><span class='name'>green beans</span><span class='other'>,</span><span class='comment'>thawed</span>",
+        "comment": "frozen haricots verts or small slender thawed",
+        "other": ",",
+        "unit": "cup",
+        "name": "green beans",
+        "input": "2 cups frozen haricots verts or small slender green beans, thawed",
+        "qty": "2"
+    }
+]

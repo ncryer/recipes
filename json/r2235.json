@@ -1,0 +1,71 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>packed fresh</span><span class='name'>mint leaves</span>",
+        "comment": "packed fresh",
+        "unit": "cup",
+        "name": "mint leaves",
+        "input": "1 cup packed fresh mint leaves",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1 tablespoon plus 1</span><span class='unit'>teaspoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "other": "1 tablespoon plus 1",
+        "unit": "teaspoon",
+        "input": "1 tablespoon plus 1 teaspoon fresh lemon juice",
+        "name": "lemon juice"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>watermelon</span><span class='other'>,</span><span class='comment'>cut into wedges</span>",
+        "comment": "small cut into wedges",
+        "other": ",",
+        "name": "watermelon",
+        "input": "1 small watermelon, cut into wedges",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>cantaloupe</span><span class='other'>,</span><span class='comment'>seeded and cut into wedges</span>",
+        "comment": "seeded and cut into wedges",
+        "other": ",",
+        "name": "cantaloupe",
+        "input": "1 cantaloupe, seeded and cut into wedges",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>honeydew melon</span><span class='other'>,</span><span class='comment'>cut into wedges</span>",
+        "comment": "cut into wedges",
+        "other": ",",
+        "name": "honeydew melon",
+        "input": "1/2 honeydew melon, cut into wedges",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>pineapple</span><span class='other'>,</span><span class='comment'>cut lengthwise into 1/2-inch wedges</span>",
+        "comment": "cut lengthwise into 1/2-inch wedges",
+        "other": ",",
+        "name": "pineapple",
+        "input": "1/2 pineapple, cut lengthwise into 1/2-inch wedges",
+        "qty": "1/2"
+    },
+    {
+        "other": "Garnish:",
+        "display": "<span class='other'>Garnish:</span><span class='comment'>fresh</span><span class='name'>mint sprigs</span>",
+        "comment": "fresh",
+        "input": "Garnish: fresh mint sprigs",
+        "name": "mint sprigs"
+    }
+]

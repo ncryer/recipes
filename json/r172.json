@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>heirloom tomatoes</span><span class='other'>,</span><span class='comment'>seeded and chopped ( about 4 medium tomatoes )</span>",
+        "comment": "seeded and chopped (about 4 medium tomatoes)",
+        "other": ",",
+        "unit": "cup",
+        "name": "heirloom tomatoes",
+        "input": "2 cups heirloom tomatoes, seeded and chopped (about 4 medium tomatoes)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>red onion</span>",
+        "qty": "1",
+        "comment": "small",
+        "input": "1 small red onion",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>chili pepper seeds</span><span class='comment'>removed and minced</span>",
+        "qty": "1",
+        "comment": "removed and minced",
+        "input": "1 chili pepper seeds removed and minced",
+        "name": "chili pepper seeds"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>cilantro</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/4 cup chopped cilantro",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='comment'>juice of</span><span class='qty'>2</span><span class='name'>limes</span>",
+        "qty": "2",
+        "comment": "juice of",
+        "input": "juice of 2 limes",
+        "name": "limes"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/2 teaspoon kosher salt",
+        "qty": "1/2"
+    }
+]

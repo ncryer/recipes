@@ -1,0 +1,70 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>pound</span><span class='name'>butternut squash</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>and cut into 1-inch pieces ( 2 cups )</span>",
+        "comment": "peeled seeded and cut into 1-inch pieces (2 cups)",
+        "other": ",, ,",
+        "unit": "pound",
+        "name": "butternut squash",
+        "input": "3/4 pound butternut squash, peeled, seeded, and cut into 1-inch pieces (2 cups)",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>red bell pepper</span><span class='comment'>, cut into 1/2-inch pieces ( 1 cup )</span>",
+        "qty": "1",
+        "comment": ", cut into 1/2-inch pieces (1 cup)",
+        "input": "1 red bell pepper, cut into 1/2-inch pieces (1 cup)",
+        "name": "red bell pepper"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>coarsely chopped</span><span class='name'>onion</span>",
+        "comment": "coarsely chopped",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1 1/2 cups coarsely chopped onion",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>Turkish</span><span class='comment'>or 1/2</span><span class='name'>California bay leaf</span>",
+        "qty": "1",
+        "comment": "or 1/2",
+        "input": "1 Turkish or 1/2 California bay leaf",
+        "name": "Turkish California bay leaf"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>long-grain white</span><span class='name'>rice</span>",
+        "comment": "long-grain white",
+        "unit": "cup",
+        "name": "rice",
+        "input": "1 cup long-grain white rice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>raw green ( hulled )</span><span class='name'>pumpkin seeds</span><span class='other'>(</span>",
+        "comment": "raw green (hulled)",
+        "other": "(",
+        "unit": "cup",
+        "name": "pumpkin seeds",
+        "input": "1/4 cup raw green (hulled) pumpkin seeds (",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='other'>) ,</span>",
+        "input": ") ,",
+        "other": ") ,"
+    }
+]

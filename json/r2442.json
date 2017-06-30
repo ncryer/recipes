@@ -1,0 +1,39 @@
+[
+    {
+        "display": "<span class='qty'>3 1/2</span><span class='unit'>pounds</span>",
+        "unit": "pound",
+        "input": "3 1/2 pounds",
+        "qty": "3 1/2"
+    },
+    {
+        "display": "<span class='comment'>( available at Hispanic markets ) or butternut squash</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>and cut into 2-inch chunks</span>",
+        "comment": "(available at Hispanic markets) or butternut squash peeled seeded and cut into 2-inch chunks",
+        "input": "(available at Hispanic markets) or butternut squash, peeled, seeded, and cut into 2-inch chunks",
+        "other": ",, ,"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span><span class='other'>(</span><span class='comment'>preferably extra-virgin</span><span class='other'>)</span>",
+        "comment": "preferably extra-virgin",
+        "other": "()",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup olive oil (preferably extra-virgin)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>to</span><span class='range_end'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span><span class='comment'>, or to taste</span>",
+        "comment": "fresh, or to taste",
+        "other": "to",
+        "unit": "tablespoon",
+        "qty": "2",
+        "range_end": "3",
+        "input": "2 to 3 tablespoons fresh lime juice, or to taste",
+        "name": "lime juice"
+    },
+    {
+        "display": "<span class='comment'>freshly grated</span><span class='name'>nutmeg</span><span class='comment'>to taste</span>",
+        "comment": "freshly grated to taste",
+        "input": "freshly grated nutmeg to taste",
+        "name": "nutmeg"
+    }
+]

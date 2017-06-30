@@ -1,0 +1,77 @@
+[
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>cashews</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup cashews",
+        "name": "cashews"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='name'>bananas</span>",
+        "qty": "1 1/2",
+        "input": "1 1/2 bananas",
+        "name": "bananas"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>lemon juice</span><span class='other'>(</span><span class='comment'>from</span><span class='qty'>1</span><span class='comment'>to 2 lemons )</span>",
+        "comment": "from to 2 lemons)",
+        "other": "(",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/4 cup lemon juice (from 1 to 2 lemons)",
+        "qty": "1/4 1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>agave syrup</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons agave syrup",
+        "name": "agave syrup"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>cups</span><span class='name'>dry pecans</span>",
+        "unit": "cup",
+        "qty": "2 1/2",
+        "input": "2 1/2 cups dry pecans",
+        "name": "dry pecans"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>shredded</span><span class='name'>coconut</span>",
+        "comment": "shredded",
+        "unit": "cup",
+        "name": "coconut",
+        "input": "1/2 cup shredded coconut",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>sea salt</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon sea salt",
+        "name": "sea salt"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>firmly packed pitted</span><span class='name'>Medjool dates</span>",
+        "comment": "firmly packed pitted",
+        "unit": "cup",
+        "name": "Medjool dates",
+        "input": "3/4 cup firmly packed pitted Medjool dates",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>alcohol-free</span><span class='name'>vanilla extract</span>",
+        "comment": "alcohol-free",
+        "unit": "tablespoon",
+        "name": "vanilla extract",
+        "input": "3 tablespoons alcohol-free vanilla extract",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>shaved or shredded</span><span class='name'>coconut</span>",
+        "comment": "shaved or shredded",
+        "unit": "cup",
+        "name": "coconut",
+        "input": "1/2 cup shaved or shredded coconut",
+        "qty": "1/2"
+    }
+]

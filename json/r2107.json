@@ -1,0 +1,77 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>red</span><span class='name'>apples</span><span class='comment'>such as Gala or Idared</span>",
+        "qty": "2",
+        "comment": "red such as Gala or Idared",
+        "input": "2 red apples such as Gala or Idared",
+        "name": "apples"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>cider vinegar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup cider vinegar",
+        "name": "cider vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>pickling spice</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon pickling spice",
+        "name": "pickling spice"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>walnut</span><span class='comment'>halves ( 3 ounces</span><span class='other'>)</span>",
+        "comment": "halves (3 ounces",
+        "other": ")",
+        "unit": "cup",
+        "name": "walnut",
+        "input": "1/2 cup walnut halves (3 ounces)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>collard greens</span><span class='other'>(</span><span class='comment'>1 pound</span><span class='other'>)</span>",
+        "comment": "1 pound",
+        "other": "()",
+        "unit": "bunch",
+        "name": "collard greens",
+        "input": "1 bunch collard greens (1 pound)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/2 teaspoon kosher salt",
+        "qty": "1/2"
+    }
+]

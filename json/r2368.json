@@ -1,0 +1,71 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>large</span><span class='name'>avocado</span><span class='comment'>, peeled</span>",
+        "qty": "1/2",
+        "comment": "large, peeled",
+        "input": "1/2 large avocado, peeled",
+        "name": "avocado"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "1 tablespoon fresh lime juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>pressed</span>",
+        "comment": "pressed",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, pressed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>minced</span><span class='name'>jalape&;ntilde;o chili</span>",
+        "comment": "minced",
+        "unit": "teaspoon",
+        "name": "jalape&;ntilde;o chili",
+        "input": "1 teaspoon minced jalape&;ntilde;o chili",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>slices</span><span class='comment'>good-quality whole</span><span class='name'>wheat bread</span><span class='comment'>( each about 4x4 inches and 1/2 inch thick )</span>",
+        "comment": "good-quality whole (each about 4x4 inches and 1/2 inch thick)",
+        "unit": "slice",
+        "name": "wheat bread",
+        "input": "8 slices good-quality whole wheat bread (each about 4x4 inches and 1/2 inch thick)",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>20</span><span class='comment'>thin</span><span class='name'>tomato</span><span class='comment'>slices</span>",
+        "qty": "20",
+        "comment": "thin slices",
+        "input": "20 thin tomato slices",
+        "name": "tomato"
+    },
+    {
+        "display": "<span class='qty'>16</span><span class='comment'>thin peeled</span><span class='name'>cucumber slices</span>",
+        "qty": "16",
+        "comment": "thin peeled",
+        "input": "16 thin peeled cucumber slices",
+        "name": "cucumber slices"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='comment'>thin red</span><span class='name'>onion</span><span class='comment'>slices</span>",
+        "qty": "8",
+        "comment": "thin red slices",
+        "input": "8 thin red onion slices",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>lightly packed fresh</span><span class='name'>cilantro sprigs</span>",
+        "comment": "lightly packed fresh",
+        "unit": "cup",
+        "name": "cilantro sprigs",
+        "input": "1 cup lightly packed fresh cilantro sprigs",
+        "qty": "1"
+    }
+]

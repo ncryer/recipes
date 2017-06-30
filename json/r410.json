@@ -1,0 +1,75 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>dried</span><span class='name'>chickpeas</span><span class='comment'>, or 3 15-ounce cans</span><span class='name'>chickpeas</span><span class='comment'>, rinsed</span>",
+        "comment": "dried, or 3 15-ounce cans, rinsed",
+        "unit": "cup",
+        "name": "chickpeas chickpeas",
+        "input": "1 1/2 cups dried chickpeas, or 3 15-ounce cans chickpeas, rinsed",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>onions</span><span class='comment'>, coarsely chopped</span>",
+        "qty": "2",
+        "comment": "large, coarsely chopped",
+        "input": "2 large onions, coarsely chopped",
+        "name": "onions"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 garlic cloves, chopped",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>sprig</span><span class='name'>thyme</span>",
+        "unit": "sprig",
+        "qty": "1",
+        "input": "1 sprig thyme",
+        "name": "thyme"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>dry white wine</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup dry white wine",
+        "name": "dry white wine"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>vegetable broth</span>",
+        "unit": "cup",
+        "qty": "4",
+        "input": "4 cups vegetable broth",
+        "name": "vegetable broth"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>broccoli</span><span class='other'>,</span><span class='comment'>stems reserved for another use , cut into small florets</span>",
+        "comment": "stems reserved for another use, cut into small florets",
+        "other": ",",
+        "unit": "bunch",
+        "name": "broccoli",
+        "input": "1 bunch broccoli, stems reserved for another use, cut into small florets",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Flat-leaf parsley and fresh tarragon leaves</span><span class='comment'>( for garnish )</span>",
+        "comment": "(for garnish)",
+        "input": "Flat-leaf parsley and fresh tarragon leaves (for garnish)",
+        "name": "Flat-leaf parsley and fresh tarragon leaves"
+    }
+]

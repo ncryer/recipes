@@ -1,0 +1,78 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='comment'>assorted cooked</span><span class='name'>leftover vegetables</span><span class='comment'>( such as carrots</span><span class='other'>,</span><span class='comment'>green</span><span class='name'>beans</span><span class='other'>,</span><span class='comment'>cauliflower</span><span class='other'>,</span><span class='comment'>and broccoli )</span>",
+        "comment": "assorted cooked (such as carrots green cauliflower and broccoli)",
+        "other": ",, ,",
+        "unit": "cup",
+        "name": "leftover vegetables beans",
+        "input": "8 cups assorted cooked leftover vegetables (such as carrots, green beans, cauliflower, and broccoli)",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>grape</span><span class='name'>tomatoes</span><span class='comment'>, halved lengthwise ( about 1 pound )</span>",
+        "comment": "grape, halved lengthwise (about 1 pound)",
+        "unit": "cup",
+        "name": "tomatoes",
+        "input": "2 cups grape tomatoes, halved lengthwise (about 1 pound)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>red wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>water</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>pressed</span>",
+        "comment": "pressed",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, pressed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>thyme leaves</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "thyme leaves",
+        "input": "1 teaspoon dried thyme leaves",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>hot pepper sauce</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon hot pepper sauce",
+        "name": "hot pepper sauce"
+    }
+]

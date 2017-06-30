@@ -1,0 +1,61 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>( 12-ounce ) bags frozen</span><span class='name'>pearl onions</span><span class='other'>,</span><span class='comment'>thawed</span>",
+        "comment": "(12-ounce) bags frozen thawed",
+        "other": ",",
+        "name": "pearl onions",
+        "input": "2 (12-ounce) bags frozen pearl onions, thawed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>coriander seeds</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons coriander seeds",
+        "name": "coriander seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>fennel seeds</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon fennel seeds",
+        "name": "fennel seeds"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>whole</span><span class='name'>black peppercorns</span>",
+        "comment": "whole",
+        "unit": "teaspoon",
+        "name": "black peppercorns",
+        "input": "2 teaspoons whole black peppercorns",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>whole dried</span><span class='name'>chile</span><span class='comment'>de \u00e1rbol or</span><span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>red pepper flakes</span>",
+        "comment": "whole dried de \u00e1rbol or",
+        "unit": "teaspoon",
+        "name": "chile red pepper flakes",
+        "input": "1 whole dried chile de \u00e1rbol or 1/2 teaspoon red pepper flakes",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>sprigs</span><span class='name'>thyme</span>",
+        "unit": "sprig",
+        "qty": "5",
+        "input": "5 sprigs thyme",
+        "name": "thyme"
+    },
+    {
+        "display": "<span class='other'>2 2/3</span><span class='unit'>cups</span><span class='name'>red wine vinegar</span>",
+        "unit": "cup",
+        "other": "2 2/3",
+        "input": "2 2/3 cups red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='other'>1 1/3</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "1 1/3",
+        "input": "1 1/3 cups sugar",
+        "name": "sugar"
+    }
+]

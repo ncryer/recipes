@@ -1,0 +1,81 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='comment'>whole</span><span class='name'>allspice</span>",
+        "qty": "8",
+        "comment": "whole",
+        "input": "8 whole allspice",
+        "name": "allspice"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>pink peppercorns</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon pink peppercorns",
+        "name": "pink peppercorns"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 2-inch )</span><span class='unit'>piece</span><span class='comment'>fresh</span><span class='name'>ginger</span><span class='comment'>, cut crosswise into 1/4-inch-thick slices</span>",
+        "comment": "(2-inch) fresh, cut crosswise into 1/4-inch-thick slices",
+        "unit": "piece",
+        "name": "ginger",
+        "input": "1 (2-inch) piece fresh ginger, cut crosswise into 1/4-inch-thick slices",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>2-inch )</span><span class='name'>cinnamon stick</span>",
+        "comment": "2-inch)",
+        "other": "(",
+        "name": "cinnamon stick",
+        "input": "1 (2-inch) cinnamon stick",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>4- by 1-inch</span><span class='other'>)</span><span class='comment'>strip of zest from a navel</span><span class='name'>orange</span><span class='other'>,</span><span class='comment'>removed with a vegetable peeler</span>",
+        "comment": "4- by 1-inch strip of zest from a navel removed with a vegetable peeler",
+        "other": "() ,",
+        "name": "orange",
+        "input": "1 (4- by 1-inch) strip of zest from a navel orange, removed with a vegetable peeler",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>cranberry juice cocktail</span>",
+        "unit": "cup",
+        "qty": "3",
+        "input": "3 cups cranberry juice cocktail",
+        "name": "cranberry juice cocktail"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>Tawny Port</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups Tawny Port",
+        "name": "Tawny Port"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>dried</span><span class='name'>cranberries</span>",
+        "comment": "dried",
+        "unit": "cup",
+        "name": "cranberries",
+        "input": "1/2 cup dried cranberries",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>firm-ripe Bosc</span><span class='comment'>or Anjou</span><span class='name'>pears</span><span class='comment'>with stems</span>",
+        "qty": "4",
+        "comment": "or Anjou with stems",
+        "input": "4 firm-ripe Bosc or Anjou pears with stems",
+        "name": "firm-ripe Bosc pears"
+    },
+    {
+        "display": "<span class='name'>Special equipment: an 8-inch square of cheesecloth</span>",
+        "input": "Special equipment: an 8-inch square of cheesecloth",
+        "name": "Special equipment: an 8-inch square of cheesecloth"
+    }
+]

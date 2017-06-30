@@ -1,0 +1,72 @@
+[
+    {
+        "display": "<span class='qty'>2 1/4</span><span class='unit'>cups</span><span class='comment'>organic</span><span class='name'>all-purpose flour</span>",
+        "comment": "organic",
+        "unit": "cup",
+        "name": "all-purpose flour",
+        "input": "2 1/4 cups organic all-purpose flour",
+        "qty": "2 1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>organic</span><span class='name'>cane sugar</span>",
+        "comment": "organic",
+        "unit": "cup",
+        "name": "cane sugar",
+        "input": "2 cups organic cane sugar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>organic unsweetened</span><span class='name'>cocoa powder</span>",
+        "comment": "organic unsweetened",
+        "unit": "cup",
+        "name": "cocoa powder",
+        "input": "1 cup organic unsweetened cocoa powder",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>baking soda</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons baking soda",
+        "name": "baking soda"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>organic</span><span class='name'>vanilla extract</span>",
+        "comment": "organic",
+        "unit": "tablespoon",
+        "name": "vanilla extract",
+        "input": "1 tablespoon organic vanilla extract",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>organic</span><span class='name'>canola oil</span>",
+        "comment": "organic",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup organic canola oil",
+        "name": "canola oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>organic</span><span class='name'>white vinegar</span>",
+        "comment": "organic",
+        "unit": "teaspoon",
+        "name": "white vinegar",
+        "input": "2 teaspoons organic white vinegar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>cold</span><span class='name'>water</span>",
+        "comment": "cold",
+        "unit": "cup",
+        "name": "water",
+        "input": "2 cups cold water",
+        "qty": "2"
+    }
+]

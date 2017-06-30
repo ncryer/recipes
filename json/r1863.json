@@ -1,0 +1,27 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>orzo</span><span class='other'>(</span><span class='comment'>rice-shaped pasta</span><span class='other'>)</span>",
+        "comment": "rice-shaped pasta",
+        "other": "()",
+        "unit": "pound",
+        "name": "orzo",
+        "input": "1 pound orzo (rice-shaped pasta)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>finely chopped fresh</span><span class='name'>rosemary leaves</span>",
+        "comment": "finely chopped fresh",
+        "unit": "tablespoon",
+        "name": "rosemary leaves",
+        "input": "1 tablespoon finely chopped fresh rosemary leaves",
+        "qty": "1"
+    }
+]

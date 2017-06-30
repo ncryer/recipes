@@ -1,0 +1,72 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>lb</span><span class='comment'>medium</span><span class='name'>carrots</span>",
+        "comment": "medium",
+        "unit": "lb",
+        "name": "carrots",
+        "input": "1 lb medium carrots",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/2 cup chopped fresh cilantro",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>onion</span>",
+        "comment": "finely chopped",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1/4 cup finely chopped onion",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>small</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": "small ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 small garlic clove, finely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>firm-ripe</span><span class='name'>California avocado</span>",
+        "qty": "1",
+        "comment": "firm-ripe",
+        "input": "1 firm-ripe California avocado",
+        "name": "California avocado"
+    }
+]

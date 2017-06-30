@@ -1,0 +1,109 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>( 8-ounce ) cans</span><span class='name'>tomato sauce</span>",
+        "qty": "2",
+        "comment": "(8-ounce) cans",
+        "input": "2 (8-ounce) cans tomato sauce",
+        "name": "tomato sauce"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3",
+        "input": "3 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='name'>cornstarch</span>",
+        "unit": "tablespoon",
+        "qty": "4",
+        "input": "4 tablespoons cornstarch",
+        "name": "cornstarch"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>chili powder</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons chili powder",
+        "name": "chili powder"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>onion powder</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon onion powder",
+        "name": "onion powder"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>garlic powder</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon garlic powder",
+        "name": "garlic powder"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='name'>corn tortillas</span>",
+        "qty": "12",
+        "input": "12 corn tortillas",
+        "name": "corn tortillas"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='other'>of</span><span class='name'>cooked mashed pinto beans</span>",
+        "other": "of",
+        "unit": "cup",
+        "name": "cooked mashed pinto beans",
+        "input": "4 cups of cooked mashed pinto beans",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>green onions</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "green onions",
+        "input": "1 cup chopped green onions",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>frozen</span><span class='name'>corn kernels</span><span class='comment'>, thawed</span>",
+        "comment": "frozen, thawed",
+        "unit": "cup",
+        "name": "corn kernels",
+        "input": "1 1/2 cups frozen corn kernels, thawed",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>2.25-ounce ) can sliced ripe</span><span class='name'>olives</span><span class='comment'>, drained</span>",
+        "comment": "2.25-ounce) can sliced ripe, drained",
+        "other": "(",
+        "name": "olives",
+        "input": "1 (2.25-ounce) can sliced ripe olives, drained",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1\u20132</span><span class='unit'>tablespoons</span><span class='comment'>chopped</span><span class='name'>green chilies</span><span class='comment'>( optional )</span>",
+        "comment": "chopped (optional)",
+        "unit": "tablespoon",
+        "name": "green chilies",
+        "input": "1\u20132 tablespoons chopped green chilies (optional)",
+        "qty": "1\u20132"
+    },
+    {
+        "display": "<span class='name'>Salsa</span><span class='other'>(</span><span class='comment'>optional )</span>",
+        "comment": "optional)",
+        "input": "Salsa (optional)",
+        "name": "Salsa",
+        "other": "("
+    },
+    {
+        "display": "<span class='comment'>Tofu</span><span class='name'>sour cream</span><span class='other'>(</span><span class='comment'>optional; recipe available at</span>",
+        "comment": "Tofu optional; recipe available at",
+        "input": "Tofu sour cream (optional; recipe available at",
+        "name": "sour cream",
+        "other": "("
+    },
+    {
+        "display": "<span class='comment'>)</span>",
+        "comment": ")",
+        "input": ")"
+    }
+]

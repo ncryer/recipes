@@ -1,0 +1,63 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>large</span><span class='name'>red bell peppers</span>",
+        "qty": "4",
+        "comment": "large",
+        "input": "4 large red bell peppers",
+        "name": "red bell peppers"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>large yellow or</span><span class='name'>orange bell peppers</span>",
+        "qty": "4",
+        "comment": "large yellow or",
+        "input": "4 large yellow or orange bell peppers",
+        "name": "orange bell peppers"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>large fresh</span><span class='name'>Anaheim chiles*</span>",
+        "qty": "4",
+        "comment": "large fresh",
+        "input": "4 large fresh Anaheim chiles*",
+        "name": "Anaheim chiles*"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>drained</span><span class='name'>capers</span>",
+        "comment": "drained",
+        "unit": "tablespoon",
+        "name": "capers",
+        "input": "3 tablespoons drained capers",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>marjoram</span><span class='comment'>plus leaves for garnish</span>",
+        "comment": "chopped fresh plus leaves for garnish",
+        "unit": "tablespoon",
+        "name": "marjoram",
+        "input": "2 tablespoons chopped fresh marjoram plus leaves for garnish",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, minced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>white wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon white wine vinegar",
+        "name": "white wine vinegar"
+    }
+]

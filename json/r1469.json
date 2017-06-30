@@ -1,0 +1,30 @@
+[
+    {
+        "display": "<span class='comment'>1 ( 12-oz ) bag fresh or frozen</span><span class='name'>cranberries</span>",
+        "comment": "1 (12-oz) bag fresh or frozen",
+        "input": "1 (12-oz) bag fresh or frozen cranberries",
+        "name": "cranberries"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 6-oz ) jar</span><span class='name'>prepared horseradish</span><span class='other'>,</span><span class='comment'>including juice</span><span class='other'>, or</span><span class='comment'>1/4 cup firmly packed finely grated peeled fresh</span><span class='name'>horseradish</span>",
+        "comment": "(6-oz) jar including juice 1/4 cup firmly packed finely grated peeled fresh",
+        "other": ",, or",
+        "name": "prepared horseradish horseradish",
+        "input": "1 (6-oz) jar prepared horseradish, including juice, or 1/4 cup firmly packed finely grated peeled fresh horseradish",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup water",
+        "name": "water"
+    }
+]

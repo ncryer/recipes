@@ -1,0 +1,30 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>carrots</span>",
+        "qty": "2",
+        "comment": "medium",
+        "input": "2 medium carrots",
+        "name": "carrots"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>yellow squash</span>",
+        "qty": "2",
+        "comment": "medium",
+        "input": "2 medium yellow squash",
+        "name": "yellow squash"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>zucchini</span>",
+        "qty": "2",
+        "comment": "medium",
+        "input": "2 medium zucchini",
+        "name": "zucchini"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    }
+]

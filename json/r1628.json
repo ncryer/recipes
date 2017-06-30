@@ -1,0 +1,35 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='other'>to</span><span class='range_end'>5</span><span class='unit'>pounds</span><span class='name'>Granny Smith apples</span>",
+        "other": "to",
+        "unit": "pound",
+        "name": "Granny Smith apples",
+        "range_end": "5",
+        "input": "4 to 5 pounds Granny Smith apples",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='other'>to</span><span class='range_end'>4</span><span class='unit'>pounds</span><span class='name'>carrots</span><span class='comment'>, peeled and trimmed</span>",
+        "comment": ", peeled and trimmed",
+        "other": "to",
+        "unit": "pound",
+        "name": "carrots",
+        "range_end": "4",
+        "input": "3 to 4 pounds carrots, peeled and trimmed",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 6-inch ) piece peeled fresh</span><span class='name'>ginger</span>",
+        "qty": "1",
+        "comment": "(6-inch) piece peeled fresh",
+        "input": "1 (6-inch) piece peeled fresh ginger",
+        "name": "ginger"
+    },
+    {
+        "display": "<span class='name'>Special equipment: a juicer</span><span class='other'>(</span><span class='comment'>see cooks' note , below )</span>",
+        "comment": "see cooks' note, below)",
+        "input": "Special equipment: a juicer (see cooks' note, below)",
+        "name": "Special equipment: a juicer",
+        "other": "("
+    }
+]

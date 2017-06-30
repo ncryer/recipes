@@ -1,0 +1,80 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='comment'>medium</span><span class='name'>beets</span><span class='comment'>, trimmed , greens reserved</span>",
+        "qty": "8",
+        "comment": "medium, trimmed, greens reserved",
+        "input": "8 medium beets, trimmed, greens reserved",
+        "name": "beets"
+    },
+    {
+        "display": "<span class='qty'>7</span><span class='other'>to</span><span class='range_end'>8</span><span class='unit'>tablespoons</span><span class='name'>water</span>",
+        "other": "to",
+        "unit": "tablespoon",
+        "name": "water",
+        "range_end": "8",
+        "input": "7 to 8 tablespoons water",
+        "qty": "7"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large russet</span><span class='name'>potato</span><span class='comment'>, peeled , cut into 1 1/2-inch pieces</span>",
+        "qty": "1",
+        "comment": "large russet, peeled, cut into 1 1/2-inch pieces",
+        "input": "1 large russet potato, peeled, cut into 1 1/2-inch pieces",
+        "name": "potato"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>walnuts</span><span class='other'>,</span><span class='comment'>toasted , cooled</span>",
+        "comment": "toasted, cooled",
+        "other": ",",
+        "unit": "cup",
+        "name": "walnuts",
+        "input": "1/2 cup walnuts, toasted, cooled",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>breadcrumbs made from crustless French bread</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "breadcrumbs made from crustless French bread",
+        "input": "1/2 cup fresh breadcrumbs made from crustless French bread",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "3 tablespoons fresh lemon juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='name'>garlic</span><span class='unit'>cloves</span>",
+        "unit": "clove",
+        "qty": "5",
+        "input": "5 garlic cloves",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='other'>1/4 cup plus 2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin olive</span><span class='name'>oil</span>",
+        "comment": "extra-virgin olive",
+        "other": "1/4 cup plus 2",
+        "unit": "tablespoon",
+        "input": "1/4 cup plus 2 tablespoons extra-virgin olive oil",
+        "name": "oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>red wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>drained</span><span class='name'>capers</span>",
+        "comment": "drained",
+        "unit": "tablespoon",
+        "name": "capers",
+        "input": "2 tablespoons drained capers",
+        "qty": "2"
+    }
+]

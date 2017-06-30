@@ -1,0 +1,15 @@
+[
+    {
+        "display": "<span class='name'>olive oil</span>",
+        "input": "olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>russet</span><span class='comment'>( baking</span><span class='other'>)</span><span class='name'>potato</span>",
+        "comment": "large (baking",
+        "other": ")",
+        "name": "russet potato",
+        "input": "1 large russet (baking) potato",
+        "qty": "1"
+    }
+]

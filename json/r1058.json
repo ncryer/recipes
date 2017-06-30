@@ -1,0 +1,61 @@
+[
+    {
+        "display": "<span class='comment'>About</span><span class='qty'>2</span><span class='unit'>quarts</span><span class='name'>olive oil</span><span class='comment'>( not extra-virgin ) or vegetable oil</span>",
+        "comment": "About (not extra-virgin) or vegetable oil",
+        "unit": "quart",
+        "name": "olive oil",
+        "input": "About 2 quarts olive oil (not extra-virgin) or vegetable oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>1 ( 1-inch-wide ) strip</span><span class='name'>orange</span><span class='comment'>or lemon</span><span class='other'>zest</span>",
+        "comment": "1 (1-inch-wide) strip or lemon",
+        "input": "1 (1-inch-wide) strip orange or lemon zest",
+        "name": "orange",
+        "other": "zest"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>all-purpose flour</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups all-purpose flour",
+        "name": "all-purpose flour"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>coarse</span><span class='name'>sugar</span><span class='comment'>crystals</span><span class='other'>or</span><span class='comment'>granulated sugar or cinnamon sugar</span><span class='other'>( 1/2 cup sugar with 1 tablespoon</span><span class='comment'>cinnamon</span><span class='other'>)</span>",
+        "comment": "coarse crystals granulated sugar or cinnamon sugar cinnamon",
+        "other": "or (1/2 cup sugar with 1 tablespoon)",
+        "unit": "cup",
+        "name": "sugar",
+        "input": "1/2 cup coarse sugar crystals or granulated sugar or cinnamon sugar (1/2 cup sugar with 1 tablespoon cinnamon)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='name'>Warm chocolate sauce</span><span class='other'>(</span><span class='comment'>see cooks' note below )</span>",
+        "comment": "see cooks' note below)",
+        "input": "Warm chocolate sauce (see cooks' note below)",
+        "name": "Warm chocolate sauce",
+        "other": "("
+    },
+    {
+        "other": "Equipment: a",
+        "display": "<span class='other'>Equipment: a</span><span class='name'>deep-fat</span><span class='comment'>thermometer; a metal or plastic churro-maker fitted with a 5/8-inch star opening</span>",
+        "comment": "thermometer; a metal or plastic churro-maker fitted with a 5/8-inch star opening",
+        "input": "Equipment: a deep-fat thermometer; a metal or plastic churro-maker fitted with a 5/8-inch star opening",
+        "name": "deep-fat"
+    }
+]

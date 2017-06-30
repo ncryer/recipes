@@ -1,0 +1,66 @@
+[
+    {
+        "display": "<span class='other'>2 2/3</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "other": "2 2/3",
+        "input": "2 2/3 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='other'>1 1/3</span><span class='unit'>cups</span><span class='comment'>Texmati rice* ( American basmati ) or brown basmati rice**</span>",
+        "unit": "cup",
+        "comment": "Texmati rice* (American basmati) or brown basmati rice**",
+        "input": "1 1/3 cups Texmati rice* (American basmati) or brown basmati rice**",
+        "other": "1 1/3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>golden</span><span class='name'>raisins</span>",
+        "comment": "golden",
+        "unit": "cup",
+        "name": "raisins",
+        "input": "1/4 cup golden raisins",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>cinnamon</span><span class='unit'>stick</span>",
+        "unit": "stick",
+        "qty": "1",
+        "input": "1 cinnamon stick",
+        "name": "cinnamon"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>mustard seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon mustard seeds",
+        "name": "mustard seeds"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>thinly sliced</span><span class='name'>scallion greens</span>",
+        "comment": "thinly sliced",
+        "unit": "cup",
+        "name": "scallion greens",
+        "input": "1/2 cup thinly sliced scallion greens",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>*available</span><span class='comment'>at specialty foods shops and some supermarkets</span>",
+        "comment": "at specialty foods shops and some supermarkets",
+        "input": "*available at specialty foods shops and some supermarkets",
+        "qty": "*available"
+    },
+    {
+        "display": "<span class='qty'>**available</span><span class='comment'>at Indian markets</span><span class='other'>,</span><span class='comment'>natural foods stores , and some specialty foods shops</span>",
+        "qty": "**available",
+        "comment": "at Indian markets natural foods stores, and some specialty foods shops",
+        "input": "**available at Indian markets, natural foods stores, and some specialty foods shops",
+        "other": ","
+    }
+]

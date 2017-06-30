@@ -1,0 +1,83 @@
+[
+    {
+        "display": "<span class='name'>Nonstick vegetable oil spray</span>",
+        "input": "Nonstick vegetable oil spray",
+        "name": "Nonstick vegetable oil spray"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>large</span><span class='name'>pecan</span><span class='comment'>halves</span>",
+        "comment": "large halves",
+        "unit": "cup",
+        "name": "pecan",
+        "input": "1 cup large pecan halves",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>pure</span><span class='name'>maple syrup</span>",
+        "comment": "pure",
+        "unit": "cup",
+        "name": "maple syrup",
+        "input": "1/4 cup pure maple syrup",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='other'>1/2 teaspoon plus 1</span><span class='comment'>tablespoon coarse kosher salt plus additional for seasoning</span>",
+        "comment": "tablespoon coarse kosher salt plus additional for seasoning",
+        "input": "1/2 teaspoon plus 1 tablespoon coarse kosher salt plus additional for seasoning",
+        "other": "1/2 teaspoon plus 1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/4 teaspoon freshly ground black pepper",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>whole grain</span><span class='name'>Dijon mustard</span>",
+        "comment": "whole grain",
+        "unit": "cup",
+        "name": "Dijon mustard",
+        "input": "1/4 cup whole grain Dijon mustard",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>apple cider vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons apple cider vinegar",
+        "name": "apple cider vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>vegetable oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='name'>brussels sprouts</span><span class='other'>,</span><span class='comment'>trimmed</span>",
+        "comment": "trimmed",
+        "other": ",",
+        "unit": "pound",
+        "name": "brussels sprouts",
+        "input": "1 1/2 pounds brussels sprouts, trimmed",
+        "qty": "1 1/2"
+    }
+]

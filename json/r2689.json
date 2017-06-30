@@ -1,0 +1,69 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>canned</span><span class='name'>chickpeas</span><span class='other'>,</span><span class='comment'>rinsed</span><span class='other'>,</span><span class='comment'>drained</span><span class='other'>,</span><span class='comment'>and patted dry</span>",
+        "comment": "canned rinsed drained and patted dry",
+        "other": ",, ,",
+        "unit": "cup",
+        "name": "chickpeas",
+        "input": "1 cup canned chickpeas, rinsed, drained, and patted dry",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>vegetable oil</span>",
+        "unit": "cup",
+        "qty": "4",
+        "input": "4 cups vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>sweet potato</span>",
+        "qty": "1",
+        "comment": "small",
+        "input": "1 small sweet potato",
+        "name": "sweet potato"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>hulled ( green )</span><span class='name'>pumpkin seeds</span>",
+        "comment": "hulled (green)",
+        "unit": "cup",
+        "name": "pumpkin seeds",
+        "input": "1/2 cup hulled (green) pumpkin seeds",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>( 4-inch-long ) fresh hot</span><span class='name'>red chiles</span><span class='other'>,</span><span class='comment'>cut crosswise into 3/4-inch-thick slices</span>",
+        "comment": "(4-inch-long) fresh hot cut crosswise into 3/4-inch-thick slices",
+        "other": ",",
+        "name": "red chiles",
+        "input": "3 (4-inch-long) fresh hot red chiles, cut crosswise into 3/4-inch-thick slices",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>raisins</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup raisins",
+        "name": "raisins"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>cayenne</span><span class='other'>(</span><span class='comment'>optional</span><span class='other'>)</span>",
+        "comment": "optional",
+        "other": "()",
+        "unit": "teaspoon",
+        "name": "cayenne",
+        "input": "3/4 teaspoon cayenne (optional)",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='name'>Special equipment: a deep-fat thermometer</span>",
+        "input": "Special equipment: a deep-fat thermometer",
+        "name": "Special equipment: a deep-fat thermometer"
+    }
+]

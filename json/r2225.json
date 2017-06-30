@@ -1,0 +1,54 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='name'>onions</span><span class='comment'>, halved lengthwise and cut crosswise into 1/4-inch slices</span>",
+        "comment": ", halved lengthwise and cut crosswise into 1/4-inch slices",
+        "unit": "pound",
+        "name": "onions",
+        "input": "1 1/2 pounds onions, halved lengthwise and cut crosswise into 1/4-inch slices",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>golden raisins</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup golden raisins",
+        "name": "golden raisins"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>red-wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons red-wine vinegar",
+        "name": "red-wine vinegar"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cloves</span>",
+        "comment": "ground",
+        "other": "1/8",
+        "unit": "teaspoon",
+        "input": "1/8 teaspoon ground cloves",
+        "name": "cloves"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>rhubarb</span><span class='comment'>, trimmed and cut into 1/2-inch pieces ( about 3 cups )</span>",
+        "comment": ", trimmed and cut into 1/2-inch pieces (about 3 cups)",
+        "unit": "pound",
+        "name": "rhubarb",
+        "input": "1 pound rhubarb, trimmed and cut into 1/2-inch pieces (about 3 cups)",
+        "qty": "1"
+    }
+]

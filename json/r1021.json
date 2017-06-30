@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>green beans</span><span class='comment'>, trimmed and halved</span>",
+        "comment": ", trimmed and halved",
+        "unit": "pound",
+        "name": "green beans",
+        "input": "2 pounds green beans, trimmed and halved",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>salted roasted cashews ( 3 ounces ) , chopped</span>",
+        "unit": "cup",
+        "comment": "salted roasted cashews (3 ounces), chopped",
+        "input": "3/4 cup salted roasted cashews (3 ounces), chopped",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>shallots</span><span class='comment'>( about 4 medium )</span>",
+        "comment": "chopped (about 4 medium)",
+        "unit": "cup",
+        "name": "shallots",
+        "input": "1/2 cup chopped shallots (about 4 medium)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoon</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoon extra-virgin olive oil",
+        "qty": "2"
+    }
+]

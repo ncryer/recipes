@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>medium to large Greek or Mediterranean-style green</span><span class='name'>olives</span>",
+        "comment": "medium to large Greek or Mediterranean-style green",
+        "unit": "pound",
+        "name": "olives",
+        "input": "1 pound medium to large Greek or Mediterranean-style green olives",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>tablespoons</span><span class='name'>pomegranate molasses*</span>",
+        "unit": "tablespoon",
+        "qty": "5",
+        "input": "5 tablespoons pomegranate molasses*",
+        "name": "pomegranate molasses*"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>oregano</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "oregano",
+        "input": "1/4 cup chopped fresh oregano",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>lemon</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "name": "lemon",
+        "input": "1 lemon, thinly sliced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='comment'>dried crushed</span><span class='name'>red pepper</span>",
+        "comment": "dried crushed",
+        "other": "1/8",
+        "unit": "teaspoon",
+        "input": "1/8 teaspoon dried crushed red pepper",
+        "name": "red pepper"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>large</span><span class='name'>red bell peppers</span>",
+        "qty": "3",
+        "comment": "large",
+        "input": "3 large red bell peppers",
+        "name": "red bell peppers"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>small Italian</span><span class='name'>eggplants</span><span class='comment'>( 1 lb total ) , halved lengthwise</span>",
+        "qty": "3",
+        "comment": "small Italian (1 lb total), halved lengthwise",
+        "input": "3 small Italian eggplants (1 lb total), halved lengthwise",
+        "name": "eggplants"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 1/2 tablespoons extra-virgin olive oil",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large sweet</span><span class='name'>onion</span><span class='comment'>, halved through root end and cut into 1/2-inch wedges</span>",
+        "qty": "1",
+        "comment": "large sweet, halved through root end and cut into 1/2-inch wedges",
+        "input": "1 large sweet onion, halved through root end and cut into 1/2-inch wedges",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='name'>Sea salt</span>",
+        "input": "Sea salt",
+        "name": "Sea salt"
+    }
+]

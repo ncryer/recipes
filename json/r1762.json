@@ -1,0 +1,30 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span>",
+        "unit": "teaspoon",
+        "input": "1 teaspoon",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>or other</span><span class='name'>pear</span>",
+        "comment": "or other",
+        "input": "or other pear",
+        "name": "pear"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>oz demi-sec Champagne</span><span class='comment'>or sparkling wine</span><span class='other'>,</span><span class='comment'>chilled</span>",
+        "comment": "or sparkling wine chilled",
+        "other": ",",
+        "name": "oz demi-sec Champagne",
+        "input": "6 oz demi-sec Champagne or sparkling wine, chilled",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='comment'>Garnish:</span><span class='other'>thin</span><span class='unit'>slices</span><span class='other'>of</span><span class='name'>pear</span>",
+        "comment": "Garnish:",
+        "other": "thin of",
+        "unit": "slice",
+        "input": "Garnish: thin slices of pear",
+        "name": "pear"
+    }
+]

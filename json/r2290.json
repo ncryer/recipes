@@ -1,0 +1,50 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>Kalamata or other brine-cured</span><span class='name'>black olives</span><span class='comment'>, drained and patted dry</span>",
+        "comment": "Kalamata or other brine-cured, drained and patted dry",
+        "unit": "pound",
+        "name": "black olives",
+        "input": "1 pound Kalamata or other brine-cured black olives, drained and patted dry",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>dried</span><span class='name'>rosemary</span><span class='comment'>, crumbled</span>",
+        "comment": "dried, crumbled",
+        "unit": "teaspoon",
+        "name": "rosemary",
+        "input": "2 teaspoons dried rosemary, crumbled",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>dried</span><span class='name'>thyme</span><span class='comment'>, crumbled</span>",
+        "comment": "dried, crumbled",
+        "unit": "teaspoon",
+        "name": "thyme",
+        "input": "2 teaspoons dried thyme, crumbled",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>five</span><span class='comment'>2-inch</span><span class='unit'>strips</span><span class='comment'>of</span><span class='name'>lemon</span><span class='comment'>zest , removed with a vegetable peeler</span>",
+        "comment": "2-inch of zest, removed with a vegetable peeler",
+        "unit": "strip",
+        "name": "lemon",
+        "input": "five 2-inch strips of lemon zest, removed with a vegetable peeler",
+        "qty": "five"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "3/4 cup extra-virgin olive oil",
+        "qty": "3/4"
+    }
+]

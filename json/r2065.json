@@ -1,0 +1,59 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='other'>to</span><span class='range_end'>2 1/2</span><span class='unit'>cups</span><span class='comment'>dried</span><span class='name'>cranberries</span><span class='comment'>( available at specialty foods shops and some supermarkets )</span>",
+        "comment": "dried (available at specialty foods shops and some supermarkets)",
+        "other": "to",
+        "unit": "cup",
+        "qty": "2",
+        "range_end": "2 1/2",
+        "input": "2 to 2 1/2 cups dried cranberries (available at specialty foods shops and some supermarkets)",
+        "name": "cranberries"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>fresh</span><span class='name'>orange juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "2 cups fresh orange juice",
+        "qty": "2"
+    },
+    {
+        "other": "a 10 1/2-ounce",
+        "display": "<span class='other'>a 10 1/2-ounce</span><span class='comment'>jar preserved</span><span class='name'>ginger</span><span class='comment'>in syrup</span>",
+        "comment": "jar preserved in syrup",
+        "input": "a 10 1/2-ounce jar preserved ginger in syrup",
+        "name": "ginger"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>seedless</span><span class='name'>green grapes</span><span class='comment'>, halved</span>",
+        "comment": "seedless, halved",
+        "unit": "cup",
+        "name": "green grapes",
+        "input": "3 cups seedless green grapes, halved",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>large</span><span class='name'>pink grapefruit</span><span class='other'>,</span><span class='comment'>the rind and pith cut away with a serrated knife and the flesh sectioned</span>",
+        "comment": "large the rind and pith cut away with a serrated knife and the flesh sectioned",
+        "other": ",",
+        "name": "pink grapefruit",
+        "input": "3 large pink grapefruit, the rind and pith cut away with a serrated knife and the flesh sectioned",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>pineapple</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>and cut into 1/2-inch pieces</span>",
+        "comment": "peeled cored and cut into 1/2-inch pieces",
+        "other": ",, ,",
+        "name": "pineapple",
+        "input": "1/2 pineapple, peeled, cored, and cut into 1/2-inch pieces",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large navel</span><span class='name'>orange</span><span class='other'>,</span><span class='comment'>the rind and pith cut away with a serrated knife and the flesh sectioned.</span>",
+        "comment": "large navel the rind and pith cut away with a serrated knife and the flesh sectioned.",
+        "other": ",",
+        "name": "orange",
+        "input": "1 large navel orange, the rind and pith cut away with a serrated knife and the flesh sectioned.",
+        "qty": "1"
+    }
+]

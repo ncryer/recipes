@@ -1,0 +1,66 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>dried lima</span><span class='name'>beans</span>",
+        "comment": "dried lima",
+        "unit": "pound",
+        "name": "beans",
+        "input": "1 pound dried lima beans",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>1 1/2-ounce</span><span class='comment'>packages</span><span class='other'>assorted</span><span class='comment'>dried wild</span><span class='name'>mushrooms</span>",
+        "comment": "packages dried wild",
+        "other": "assorted",
+        "name": "1 1/2-ounce mushrooms",
+        "input": "3 1 1/2-ounce packages assorted dried wild mushrooms",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>onion</span><span class='comment'>, chopped</span>",
+        "qty": "1",
+        "comment": "large, chopped",
+        "input": "1 large onion, chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 garlic cloves, chopped",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>dried crushed</span><span class='name'>red pepper</span>",
+        "comment": "dried crushed",
+        "unit": "teaspoon",
+        "name": "red pepper",
+        "input": "1/4 teaspoon dried crushed red pepper",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>thyme</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "thyme",
+        "input": "1/4 teaspoon dried thyme",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='other'>(</span><span class='comment'>lightly packed ) sliced stemmed Swiss chard</span>",
+        "comment": "lightly packed) sliced stemmed Swiss chard",
+        "other": "(",
+        "unit": "cup",
+        "input": "6 cups (lightly packed) sliced stemmed Swiss chard",
+        "qty": "6"
+    }
+]

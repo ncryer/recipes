@@ -1,0 +1,73 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>avocados</span><span class='comment'>, pits removed</span>",
+        "qty": "2",
+        "comment": "large, pits removed",
+        "input": "2 large avocados, pits removed",
+        "name": "avocados"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>vanilla bean</span><span class='other'>,</span><span class='comment'>split lengthwise</span>",
+        "comment": "split lengthwise",
+        "other": ",",
+        "name": "vanilla bean",
+        "input": "1 vanilla bean, split lengthwise",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>unsweetened</span><span class='name'>cocoa powder</span>",
+        "comment": "unsweetened",
+        "unit": "cup",
+        "name": "cocoa powder",
+        "input": "3/4 cup unsweetened cocoa powder",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>pure</span><span class='name'>maple syrup</span>",
+        "comment": "pure",
+        "unit": "cup",
+        "name": "maple syrup",
+        "input": "1/2 cup pure maple syrup",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>agave nectar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup agave nectar",
+        "name": "agave nectar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>( or more ) fresh</span><span class='name'>orange juice</span>",
+        "comment": "(or more) fresh",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "1/4 cup (or more) fresh orange juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/2 teaspoon kosher salt",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>heavy cream</span><span class='other'>(</span><span class='comment'>optional )</span>",
+        "comment": "optional)",
+        "other": "(",
+        "unit": "cup",
+        "name": "heavy cream",
+        "input": "1 1/2 cups heavy cream (optional)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>cocoa nibs</span><span class='comment'>and/or chopped</span><span class='name'>hazelnuts</span>",
+        "comment": "and/or chopped",
+        "unit": "cup",
+        "name": "cocoa nibs hazelnuts",
+        "input": "1/4 cup cocoa nibs and/or chopped hazelnuts",
+        "qty": "1/4"
+    }
+]

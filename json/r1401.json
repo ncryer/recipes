@@ -1,0 +1,54 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>cider vinegar</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups cider vinegar",
+        "name": "cider vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>dry mustard</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup dry mustard",
+        "name": "dry mustard"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>yellow mustard seeds</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup yellow mustard seeds",
+        "name": "yellow mustard seeds"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 cloves garlic, minced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>prepared</span><span class='name'>white horseradish</span><span class='comment'>, drained</span>",
+        "comment": "prepared, drained",
+        "unit": "tablespoon",
+        "name": "white horseradish",
+        "input": "2 tablespoons prepared white horseradish, drained",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>packed light-brown sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon packed light-brown sugar",
+        "name": "packed light-brown sugar"
+    }
+]

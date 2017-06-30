@@ -1,0 +1,93 @@
+[
+    {
+        "display": "<span class='comment'>35-ounce can</span><span class='name'>Italian plum tomatoes</span><span class='comment'>, drained</span>",
+        "comment": "35-ounce can, drained",
+        "input": "35-ounce can Italian plum tomatoes, drained",
+        "name": "Italian plum tomatoes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span>",
+        "unit": "clove",
+        "qty": "2",
+        "input": "2 garlic cloves",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>basil</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "basil",
+        "input": "1/2 teaspoon dried basil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>ounce</span><span class='comment'>large green</span><span class='name'>olives</span><span class='comment'>with pits ( 20 )</span>",
+        "comment": "large green with pits (20)",
+        "unit": "ounce",
+        "name": "olives",
+        "input": "6 ounce large green olives with pits (20)",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>lemons</span>",
+        "qty": "3",
+        "input": "3 lemons",
+        "name": "lemons"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>baby artichokes</span><span class='comment'>, about 2 1/2 by 1 1/2</span><span class='other'>inches</span><span class='comment'>( 20 )</span>",
+        "comment": ", about 2 1/2 by 1 1/2 (20)",
+        "other": "inches",
+        "unit": "pound",
+        "name": "baby artichokes",
+        "input": "2 pounds baby artichokes, about 2 1/2 by 1 1/2 inches (20)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup extra-virgin olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>celery</span><span class='other'>ribs ,</span><span class='comment'>halved crosswise</span>",
+        "comment": "halved crosswise",
+        "other": "ribs ,",
+        "name": "celery",
+        "input": "4 celery ribs, halved crosswise",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>capers</span><span class='other'>,</span><span class='comment'>rinsed</span>",
+        "comment": "rinsed",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "capers",
+        "input": "2 tablespoons capers, rinsed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>red-wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup red-wine vinegar",
+        "name": "red-wine vinegar"
+    }
+]

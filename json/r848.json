@@ -1,0 +1,37 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>cider vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup cider vinegar",
+        "name": "cider vinegar"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>teaspoons</span><span class='name'>grainy mustard</span>",
+        "unit": "teaspoon",
+        "qty": "4",
+        "input": "4 teaspoons grainy mustard",
+        "name": "grainy mustard"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>vegetable oil</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='comment'>mixed greens such as mesclun or a mix of romaine and Boston and Bibb lettuces</span>",
+        "unit": "cup",
+        "comment": "mixed greens such as mesclun or a mix of romaine and Boston and Bibb lettuces",
+        "input": "8 cups mixed greens such as mesclun or a mix of romaine and Boston and Bibb lettuces",
+        "qty": "8"
+    }
+]

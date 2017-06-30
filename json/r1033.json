@@ -1,0 +1,43 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>sugar</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "unit": "cup",
+        "name": "sugar",
+        "input": "2 cups sugar, divided",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>water</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "unit": "cup",
+        "name": "water",
+        "input": "1 1/2 cups water, divided",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>blood orange</span><span class='other'>or</span><span class='comment'>regular</span><span class='name'>orange</span><span class='other'>,</span><span class='comment'>thinly sliced with peel into rounds</span><span class='other'>,</span><span class='comment'>seeded if necessary</span>",
+        "comment": "regular thinly sliced with peel into rounds seeded if necessary",
+        "other": "or, ,",
+        "name": "blood orange orange",
+        "input": "1 blood orange or regular orange, thinly sliced with peel into rounds, seeded if necessary",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 1/2 tablespoons fresh lemon juice",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>Campari</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons Campari",
+        "name": "Campari"
+    }
+]

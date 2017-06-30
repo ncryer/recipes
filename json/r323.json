@@ -1,0 +1,75 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>cherry or grape</span><span class='name'>tomatoes</span><span class='comment'>( about 40 tomatoes )</span>",
+        "comment": "cherry or grape (about 40 tomatoes)",
+        "unit": "cup",
+        "name": "tomatoes",
+        "input": "4 cups cherry or grape tomatoes (about 40 tomatoes)",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span><span class='other'>,</span><span class='comment'>plus more to finish</span>",
+        "comment": "plus more to finish",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons olive oil, plus more to finish",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='name'>Salt</span>",
+        "input": "Salt",
+        "name": "Salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>red chile flakes</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon red chile flakes",
+        "name": "red chile flakes"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>oregano</span><span class='comment'>, or a pinch dried</span>",
+        "comment": "chopped fresh, or a pinch dried",
+        "unit": "tablespoon",
+        "name": "oregano",
+        "input": "1 tablespoon chopped fresh oregano, or a pinch dried",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>spaghetti</span>",
+        "unit": "pound",
+        "qty": "1",
+        "input": "1 pound spaghetti",
+        "name": "spaghetti"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground pepper",
+        "name": "pepper"
+    },
+    {
+        "display": "<span class='comment'>Grated</span><span class='name'>Parmigiano-Reggiano</span><span class='comment'>( optional</span><span class='other'>)</span>",
+        "comment": "Grated (optional",
+        "input": "Grated Parmigiano-Reggiano (optional)",
+        "name": "Parmigiano-Reggiano",
+        "other": ")"
+    }
+]

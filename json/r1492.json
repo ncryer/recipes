@@ -1,0 +1,34 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>large</span><span class='name'>celery</span><span class='unit'>stalks</span><span class='comment'>, very thinly sliced on diagonal</span>",
+        "comment": "large, very thinly sliced on diagonal",
+        "unit": "stalk",
+        "name": "celery",
+        "input": "4 large celery stalks, very thinly sliced on diagonal",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>ounces</span><span class='comment'>baby</span><span class='name'>spinach leaves</span><span class='comment'>( about 10 cups loosely packed )</span>",
+        "comment": "baby (about 10 cups loosely packed)",
+        "unit": "ounce",
+        "name": "spinach leaves",
+        "input": "6 ounces baby spinach leaves (about 10 cups loosely packed)",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh Meyer</span><span class='name'>lemon juice</span><span class='comment'>or regular lemon juice</span>",
+        "comment": "fresh Meyer or regular lemon juice",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "3 tablespoons fresh Meyer lemon juice or regular lemon juice",
+        "qty": "3"
+    }
+]

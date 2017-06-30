@@ -1,0 +1,31 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>ounces</span><span class='name'>gin</span>",
+        "unit": "ounce",
+        "qty": "1 1/2",
+        "input": "1 1/2 ounces gin",
+        "name": "gin"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>orange juice</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons orange juice",
+        "name": "orange juice"
+    },
+    {
+        "other": "Pinch ()",
+        "display": "<span class='other'>Pinch</span><span class='comment'>superfine</span><span class='name'>sugar</span><span class='other'>(</span><span class='comment'>optional</span><span class='other'>)</span>",
+        "comment": "superfine optional",
+        "input": "Pinch superfine sugar (optional)",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='other'>or</span><span class='range_end'>4</span><span class='comment'>ice cubes</span>",
+        "comment": "ice cubes",
+        "other": "or",
+        "range_end": "4",
+        "input": "3 or 4 ice cubes",
+        "qty": "3"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>baby carrots</span><span class='other'>,</span><span class='comment'>peeled and green tops trimmed to 1 1/2 inches</span>",
+        "comment": "peeled and green tops trimmed to 1 1/2 inches",
+        "other": ",",
+        "unit": "pound",
+        "name": "baby carrots",
+        "input": "2 pounds baby carrots, peeled and green tops trimmed to 1 1/2 inches",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "1 tablespoon extra-virgin olive oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>red-wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup red-wine vinegar",
+        "name": "red-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons sugar",
+        "name": "sugar"
+    }
+]

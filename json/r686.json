@@ -1,0 +1,25 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='name'>6</span><span class='unit'>ounce</span><span class='comment'>containers fresh</span><span class='name'>raspberries</span>",
+        "comment": "containers fresh",
+        "unit": "ounce",
+        "name": "6 raspberries",
+        "input": "3 6 ounce containers fresh raspberries",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons fresh lemon juice",
+        "qty": "2"
+    }
+]

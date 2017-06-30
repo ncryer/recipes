@@ -1,0 +1,60 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>orzo</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup orzo",
+        "name": "orzo"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "teaspoon",
+        "name": "olive oil",
+        "input": "1 1/2 teaspoons extra-virgin olive oil",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>balsamic vinegar</span><span class='comment'>plus additional to taste</span>",
+        "comment": "plus additional to taste",
+        "unit": "teaspoon",
+        "name": "balsamic vinegar",
+        "input": "1/2 teaspoon balsamic vinegar plus additional to taste",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>tomato , seeded and cut into 1/4-inch dice</span>",
+        "qty": "1",
+        "comment": "small",
+        "input": "1 small tomato, seeded and cut into 1/4-inch dice",
+        "name": "tomato, seeded and cut into 1/4-inch dice"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>coarsely chopped</span><span class='name'>arugula</span>",
+        "comment": "coarsely chopped",
+        "unit": "cup",
+        "name": "arugula",
+        "input": "1/2 cup coarsely chopped arugula",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>thinly sliced fresh</span><span class='name'>basil</span>",
+        "comment": "thinly sliced fresh",
+        "unit": "tablespoon",
+        "name": "basil",
+        "input": "1 tablespoon thinly sliced fresh basil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span>",
+        "unit": "tablespoon",
+        "input": "1 tablespoon",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>(</span><span class='comment'>optional )</span>",
+        "comment": "optional)",
+        "input": "(optional)",
+        "other": "("
+    }
+]

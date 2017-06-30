@@ -1,0 +1,64 @@
+[
+    {
+        "display": "<span class='other'>3/4 cup plus 2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "other": "3/4 cup plus 2",
+        "input": "3/4 cup plus 2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>mint leaves</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "mint leaves",
+        "input": "3/4 cup chopped fresh mint leaves",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>basil leaves</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "basil leaves",
+        "input": "3/4 cup chopped fresh basil leaves",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>grated</span><span class='name'>lime peel</span>",
+        "comment": "grated",
+        "unit": "tablespoon",
+        "name": "lime peel",
+        "input": "2 tablespoons grated lime peel",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lime juice",
+        "input": "1 1/2 cups fresh lime juice",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1 1/4",
+        "input": "1 1/4 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>small melons</span><span class='other'>,</span><span class='comment'>halved lengthwise</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>each half cut into 8 wedges ( about 3/4 inch wide )</span><span class='other'>,</span><span class='comment'>peeled</span>",
+        "comment": "halved lengthwise seeded each half cut into 8 wedges (about 3/4 inch wide) peeled",
+        "other": ",, , ,",
+        "name": "small melons",
+        "input": "3 small melons, halved lengthwise, seeded, each half cut into 8 wedges (about 3/4 inch wide), peeled",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>thinly sliced fresh</span><span class='name'>mint</span><span class='comment'>leaves plus 8 fresh sprigs for garnish</span>",
+        "comment": "thinly sliced fresh leaves plus 8 fresh sprigs for garnish",
+        "unit": "tablespoon",
+        "name": "mint",
+        "input": "2 tablespoons thinly sliced fresh mint leaves plus 8 fresh sprigs for garnish",
+        "qty": "2"
+    }
+]

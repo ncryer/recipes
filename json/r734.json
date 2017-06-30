@@ -1,0 +1,62 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>granulated or packed light brown</span><span class='name'>sugar</span>",
+        "comment": "granulated or packed light brown",
+        "unit": "cup",
+        "name": "sugar",
+        "input": "1/4 cup granulated or packed light brown sugar",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>vegetable oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>water</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>soy sauce</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>rice vinegar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon rice vinegar",
+        "name": "rice vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large Japanese-style</span><span class='name'>sweet potatoes</span><span class='other'>,</span><span class='comment'>about 1 pound total weight</span><span class='other'>,</span><span class='comment'>unpeeled</span><span class='other'>, cut</span><span class='comment'>ran-giri style into chunks</span>",
+        "comment": "large Japanese-style about 1 pound total weight unpeeled ran-giri style into chunks",
+        "other": ",, , cut",
+        "name": "sweet potatoes",
+        "input": "2 large Japanese-style sweet potatoes, about 1 pound total weight, unpeeled, cut ran-giri style into chunks",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>to</span><span class='range_end'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>black sesame seeds , freshly dry-roasted</span>",
+        "other": "to",
+        "unit": "tablespoon",
+        "name": "black sesame seeds, freshly dry-roasted",
+        "range_end": "1 1/2",
+        "input": "1 to 1 1/2 tablespoons black sesame seeds, freshly dry-roasted",
+        "qty": "1"
+    }
+]

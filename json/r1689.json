@@ -1,0 +1,63 @@
+[
+    {
+        "display": "<span class='qty'>15</span><span class='comment'>dried</span><span class='name'>corn husks</span><span class='comment'>( 2 oz , or 1/4 package )</span>",
+        "qty": "15",
+        "comment": "dried (2 oz, or 1/4 package)",
+        "input": "15 dried corn husks (2 oz, or 1/4 package)",
+        "name": "corn husks"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>masa harina</span><span class='comment'>for tamales ( see Tips , below )</span>",
+        "comment": "for tamales (see Tips, below)",
+        "unit": "cup",
+        "name": "masa harina",
+        "input": "2 cups masa harina for tamales (see Tips, below)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='name'>vanilla bean</span><span class='other'>,</span><span class='comment'>or 3/4 teaspoon pure nonalcoholic vanilla flavoring ( see Tips</span><span class='other'>,</span><span class='comment'>below ) or vanilla extract</span>",
+        "comment": "or 3/4 teaspoon pure nonalcoholic vanilla flavoring (see Tips below) or vanilla extract",
+        "other": ", ,",
+        "name": "vanilla bean",
+        "input": "1/4 vanilla bean, or 3/4 teaspoon pure nonalcoholic vanilla flavoring (see Tips, below) or vanilla extract",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>unsweetened shredded</span><span class='name'>coconut</span>",
+        "comment": "unsweetened shredded",
+        "unit": "cup",
+        "name": "coconut",
+        "input": "1 cup unsweetened shredded coconut",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>vegetable shortening or butter</span><span class='other'>,</span><span class='comment'>softened</span>",
+        "comment": "softened",
+        "other": "1/3 ,",
+        "unit": "cup",
+        "input": "1/3 cup vegetable shortening or butter, softened",
+        "name": "vegetable shortening or butter"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>baking powder</span><span class='comment'>( optional , see Tips , below )</span>",
+        "comment": "(optional, see Tips, below)",
+        "unit": "teaspoon",
+        "name": "baking powder",
+        "input": "1/4 teaspoon baking powder (optional, see Tips, below)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>raisins</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup raisins",
+        "name": "raisins"
+    }
+]

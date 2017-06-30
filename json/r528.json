@@ -1,0 +1,56 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>tomatillos</span><span class='other'>,</span><span class='comment'>husked and rinsed</span>",
+        "comment": "husked and rinsed",
+        "other": ",",
+        "unit": "pound",
+        "name": "tomatillos",
+        "input": "1 pound tomatillos, husked and rinsed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>green apples</span><span class='other'>,</span><span class='comment'>such as Granny Smith , quartered</span>",
+        "comment": "such as Granny Smith, quartered",
+        "other": ",",
+        "name": "green apples",
+        "input": "3 green apples, such as Granny Smith, quartered",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>medium</span><span class='name'>white onion</span>",
+        "qty": "1/2",
+        "comment": "medium",
+        "input": "1/2 medium white onion",
+        "name": "white onion"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>unpeeled</span>",
+        "comment": "unpeeled",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 garlic cloves, unpeeled",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>jalape\u00f1o</span><span class='name'>chile</span><span class='other'>,</span><span class='comment'>stemmed</span>",
+        "comment": "jalape\u00f1o stemmed",
+        "other": ",",
+        "name": "chile",
+        "input": "1 jalape\u00f1o chile, stemmed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='name'>Salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "input": "Salt and freshly ground black pepper",
+        "name": "Salt and black pepper"
+    }
+]

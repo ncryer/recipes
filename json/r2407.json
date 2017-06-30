@@ -1,0 +1,59 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1 teaspoon ground cumin",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>Hungarian</span><span class='name'>sweet paprika</span>",
+        "comment": "Hungarian",
+        "unit": "teaspoon",
+        "name": "sweet paprika",
+        "input": "1 teaspoon Hungarian sweet paprika",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 3/4</span><span class='unit'>pounds</span><span class='name'>tomatoes</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>chopped ( about 3 cups )</span>",
+        "comment": "seeded chopped (about 3 cups)",
+        "other": ", ,",
+        "unit": "pound",
+        "name": "tomatoes",
+        "input": "1 3/4 pounds tomatoes, seeded, chopped (about 3 cups)",
+        "qty": "1 3/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/4 cup chopped fresh cilantro",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/4 cup chopped fresh parsley",
+        "qty": "1/4"
+    }
+]

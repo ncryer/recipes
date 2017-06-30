@@ -1,0 +1,45 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>( packed ) finely grated tangerine peel</span>",
+        "unit": "teaspoon",
+        "comment": "(packed) finely grated tangerine peel",
+        "input": "2 teaspoons (packed) finely grated tangerine peel",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>purchased fresh</span><span class='name'>tangerine juice</span>",
+        "comment": "purchased fresh",
+        "unit": "cup",
+        "name": "tangerine juice",
+        "input": "4 cups purchased fresh tangerine juice",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>strained fresh</span><span class='name'>lemon juice</span>",
+        "comment": "strained fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/4 cup strained fresh lemon juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='other'>Pinch of</span><span class='name'>salt</span>",
+        "other": "Pinch of",
+        "input": "Pinch of salt",
+        "name": "salt"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>red onion</span><span class='comment'>, chopped</span>",
+        "qty": "1",
+        "comment": "small, chopped",
+        "input": "1 small red onion, chopped",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='comment'>Juice of</span><span class='qty'>2</span><span class='name'>limes</span>",
+        "qty": "2",
+        "comment": "Juice of",
+        "input": "Juice of 2 limes",
+        "name": "limes"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>red or green jalape\u00f1o chiles</span><span class='other'>,</span><span class='comment'>seeded and finely chopped</span>",
+        "qty": "4",
+        "comment": "red or green jalape\u00f1o chiles seeded and finely chopped",
+        "input": "4 red or green jalape\u00f1o chiles, seeded and finely chopped",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>medium</span><span class='name'>tomatoes</span><span class='comment'>, chopped</span>",
+        "qty": "4",
+        "comment": "medium, chopped",
+        "input": "4 medium tomatoes, chopped",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh or frozen ( thawed )</span><span class='name'>corn kernels</span>",
+        "comment": "fresh or frozen (thawed)",
+        "unit": "cup",
+        "name": "corn kernels",
+        "input": "1 cup fresh or frozen (thawed) corn kernels",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>cilantro</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1 cup chopped cilantro",
+        "qty": "1"
+    }
+]

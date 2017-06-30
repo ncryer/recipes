@@ -1,0 +1,75 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>asparagus</span><span class='other'>,</span><span class='comment'>trimmed</span><span class='other'>,</span><span class='comment'>thinly sliced crosswise ( about 2 cups )</span>",
+        "comment": "trimmed thinly sliced crosswise (about 2 cups)",
+        "other": ", ,",
+        "unit": "pound",
+        "name": "asparagus",
+        "input": "1 pound asparagus, trimmed, thinly sliced crosswise (about 2 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>scallions</span><span class='comment'>, white and pale-green parts only</span><span class='other'>,</span><span class='comment'>thinly sliced on a diagonal</span>",
+        "comment": ", white and pale-green parts only thinly sliced on a diagonal",
+        "other": ",",
+        "name": "scallions",
+        "input": "2 scallions, white and pale-green parts only, thinly sliced on a diagonal",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>( 2x1-inch ) strips</span><span class='name'>lemon</span><span class='other'>zest</span><span class='comment'>, thinly sliced lengthwise</span>",
+        "comment": "(2x1-inch) strips, thinly sliced lengthwise",
+        "other": "zest",
+        "name": "lemon",
+        "input": "2 (2x1-inch) strips lemon zest, thinly sliced lengthwise",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>finely grated</span>",
+        "comment": "finely grated",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, finely grated",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>coarsely chopped</span><span class='name'>cilantro</span>",
+        "comment": "coarsely chopped",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "2 tablespoons coarsely chopped cilantro",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>unseasoned</span><span class='name'>rice vinegar</span>",
+        "comment": "unseasoned",
+        "unit": "tablespoon",
+        "name": "rice vinegar",
+        "input": "2 tablespoons unseasoned rice vinegar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>finely grated green</span><span class='name'>chile</span><span class='comment'>( such as serrano</span><span class='other'>or</span><span class='comment'>jalape\u00f1o )</span>",
+        "comment": "finely grated green (such as serrano jalape\u00f1o)",
+        "other": "or",
+        "unit": "teaspoon",
+        "name": "chile",
+        "input": "1 teaspoon finely grated green chile (such as serrano or jalape\u00f1o)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Generous</span><span class='unit'>pinch</span><span class='other'>of</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "Generous kosher",
+        "other": "of",
+        "unit": "pinch",
+        "input": "Generous pinch of kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='other'>Pinch of</span><span class='name'>sugar</span>",
+        "other": "Pinch of",
+        "input": "Pinch of sugar",
+        "name": "sugar"
+    }
+]

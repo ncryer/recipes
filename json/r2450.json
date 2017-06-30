@@ -1,0 +1,45 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>oranges</span>",
+        "qty": "2",
+        "input": "2 oranges",
+        "name": "oranges"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>lemon juice</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons lemon juice",
+        "name": "lemon juice"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>ginger</span><span class='comment'>, cut in fine julienne</span>",
+        "comment": "fresh, cut in fine julienne",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "2 teaspoons fresh ginger, cut in fine julienne",
+        "qty": "2"
+    },
+    {
+        "other": "(",
+        "display": "<span class='comment'>1 bag</span><span class='other'>(</span><span class='comment'>12 ounces ) fresh or frozen</span><span class='name'>cranberries</span>",
+        "comment": "1 bag 12 ounces) fresh or frozen",
+        "input": "1 bag (12 ounces) fresh or frozen cranberries",
+        "name": "cranberries"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>white pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "white pepper",
+        "input": "1/2 teaspoon freshly ground white pepper",
+        "qty": "1/2"
+    }
+]

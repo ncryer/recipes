@@ -1,0 +1,79 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>red wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "3/4 cup extra-virgin olive oil",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>ears</span><span class='other'>of</span><span class='name'>corn</span><span class='comment'>, husked</span>",
+        "comment": ", husked",
+        "other": "of",
+        "unit": "ear",
+        "name": "corn",
+        "input": "4 ears of corn, husked",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>large fresh</span><span class='name'>poblano chiles</span><span class='comment'>or Anaheim chiles*</span>",
+        "qty": "3",
+        "comment": "large fresh or Anaheim chiles*",
+        "input": "3 large fresh poblano chiles or Anaheim chiles*",
+        "name": "poblano chiles"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>red bell peppers</span>",
+        "qty": "2",
+        "comment": "large",
+        "input": "2 large red bell peppers",
+        "name": "red bell peppers"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>cumin seeds</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons cumin seeds",
+        "name": "cumin seeds"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>pounds</span><span class='comment'>unpeeled baby Yukon Gold</span><span class='name'>potatoes</span><span class='comment'>or baby Dutch yellow</span><span class='name'>potatoes</span>",
+        "comment": "unpeeled baby Yukon Gold or baby Dutch yellow",
+        "unit": "pound",
+        "name": "potatoes potatoes",
+        "input": "3 pounds unpeeled baby Yukon Gold potatoes or baby Dutch yellow potatoes",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>green</span><span class='name'>onions</span><span class='comment'>, chopped</span>",
+        "qty": "6",
+        "comment": "green, chopped",
+        "input": "6 green onions, chopped",
+        "name": "onions"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup chopped fresh cilantro",
+        "name": "cilantro"
+    }
+]

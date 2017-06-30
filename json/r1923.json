@@ -1,0 +1,69 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>cumin seeds</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon cumin seeds",
+        "name": "cumin seeds"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>coriander seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon coriander seeds",
+        "name": "coriander seeds"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black peppercorns</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black peppercorns",
+        "name": "black peppercorns"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>fine sea</span><span class='name'>salt</span>",
+        "comment": "fine sea",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/2 teaspoon fine sea salt",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>( 1/2-inch-thick</span><span class='other'>)</span><span class='unit'>slices</span><span class='comment'>crusty country-style</span><span class='name'>bread</span><span class='comment'>( each about 5 by 2 1/2 inches )</span>",
+        "comment": "(1/2-inch-thick crusty country-style (each about 5 by 2 1/2 inches)",
+        "other": ")",
+        "unit": "slice",
+        "name": "bread",
+        "input": "6 (1/2-inch-thick) slices crusty country-style bread (each about 5 by 2 1/2 inches)",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='name'>lb beefsteak tomatoes</span><span class='other'>,</span><span class='comment'>halved lengthwise and sliced crosswise 1/4 inch thick</span>",
+        "comment": "halved lengthwise and sliced crosswise 1/4 inch thick",
+        "other": ",",
+        "name": "lb beefsteak tomatoes",
+        "input": "1 1/4 lb beefsteak tomatoes, halved lengthwise and sliced crosswise 1/4 inch thick",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='name'>Special equipment: an electric coffee/spice grinder</span>",
+        "input": "Special equipment: an electric coffee/spice grinder",
+        "name": "Special equipment: an electric coffee/spice grinder"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>lb dandelion greens</span><span class='other'>,</span><span class='comment'>tough stems removed and leaves cut crosswise into 4-inch pieces</span>",
+        "comment": "tough stems removed and leaves cut crosswise into 4-inch pieces",
+        "other": ",",
+        "name": "lb dandelion greens",
+        "input": "2 lb dandelion greens, tough stems removed and leaves cut crosswise into 4-inch pieces",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>smashed</span>",
+        "comment": "smashed",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 large garlic cloves, smashed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>dried hot</span><span class='name'>red pepper flakes</span>",
+        "comment": "dried hot",
+        "unit": "teaspoon",
+        "name": "red pepper flakes",
+        "input": "1/2 teaspoon dried hot red pepper flakes",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    }
+]

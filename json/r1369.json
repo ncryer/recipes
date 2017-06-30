@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>jasmine rice</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups jasmine rice",
+        "name": "jasmine rice"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='other'>thick</span><span class='unit'>stalks</span><span class='comment'>of fresh</span><span class='name'>lemongrass</span><span class='comment'>, bruised and tied into knots</span>",
+        "comment": "of fresh, bruised and tied into knots",
+        "other": "thick",
+        "unit": "stalk",
+        "name": "lemongrass",
+        "input": "3 thick stalks of fresh lemongrass, bruised and tied into knots",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1-1/2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1-1/2",
+        "input": "1-1/2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>canned unsweetened</span><span class='name'>coconut milk</span>",
+        "comment": "canned unsweetened",
+        "unit": "cup",
+        "name": "coconut milk",
+        "input": "1 cup canned unsweetened coconut milk",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 teaspoon kosher salt",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>10</span><span class='comment'>fresh</span><span class='other'>or</span><span class='comment'>dried whole daun salam leaves ( optional; see Cook's Note</span><span class='other'>,</span><span class='comment'>below )</span>",
+        "qty": "10",
+        "comment": "fresh dried whole daun salam leaves (optional; see Cook's Note below)",
+        "input": "10 fresh or dried whole daun salam leaves (optional; see Cook's Note, below)",
+        "other": "or ,"
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "other": "15-ounce ,",
+        "display": "<span class='comment'>1</span><span class='other'>15-ounce</span><span class='comment'>( 430-g ) can</span><span class='name'>cannellini beans</span><span class='other'>,</span><span class='comment'>rinsed and well drained</span>",
+        "comment": "1 (430-g) can rinsed and well drained",
+        "input": "1 15-ounce (430-g) can cannellini beans, rinsed and well drained",
+        "name": "cannellini beans"
+    },
+    {
+        "other": "15-ounce",
+        "display": "<span class='comment'>1</span><span class='other'>15-ounce</span><span class='comment'>( 430-g ) can</span><span class='name'>kidney beans</span><span class='comment'>, rinsed and well drained</span>",
+        "comment": "1 (430-g) can, rinsed and well drained",
+        "input": "1 15-ounce (430-g) can kidney beans, rinsed and well drained",
+        "name": "kidney beans"
+    },
+    {
+        "other": "15-ounce ,",
+        "display": "<span class='comment'>1</span><span class='other'>15-ounce</span><span class='comment'>( 430-g ) can</span><span class='name'>garbanzo beans</span><span class='other'>,</span><span class='comment'>rinsed and well drained</span>",
+        "comment": "1 (430-g) can rinsed and well drained",
+        "input": "1 15-ounce (430-g) can garbanzo beans, rinsed and well drained",
+        "name": "garbanzo beans"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>celery</span><span class='unit'>stalks</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "unit": "stalk",
+        "name": "celery",
+        "input": "2 celery stalks, chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( 70 g ) chopped</span><span class='name'>red onion</span>",
+        "comment": "(70 g) chopped",
+        "unit": "cup",
+        "name": "red onion",
+        "input": "1/2 cup (70 g) chopped red onion",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>green bell pepper</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "name": "green bell pepper",
+        "input": "1 green bell pepper, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( 20 g ) finely chopped</span><span class='name'>parsley</span>",
+        "comment": "(20 g) finely chopped",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/2 cup (20 g) finely chopped parsley",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>( 240 ml ) store-bought light vinaigrette dressing</span>",
+        "unit": "cup",
+        "comment": "(240 ml) store-bought light vinaigrette dressing",
+        "input": "1 cup (240 ml) store-bought light vinaigrette dressing",
+        "qty": "1"
+    }
+]

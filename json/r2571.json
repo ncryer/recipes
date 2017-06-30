@@ -1,0 +1,95 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>poblano chilies*</span>",
+        "qty": "2",
+        "comment": "medium",
+        "input": "2 medium poblano chilies*",
+        "name": "poblano chilies*"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>yellow bell pepper</span>",
+        "qty": "1",
+        "input": "1 yellow bell pepper",
+        "name": "yellow bell pepper"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>fresh or frozen</span><span class='name'>corn kernels</span>",
+        "comment": "fresh or frozen",
+        "unit": "cup",
+        "name": "corn kernels",
+        "input": "1 1/2 cups fresh or frozen corn kernels",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>diced seeded</span><span class='name'>tomatoes</span>",
+        "comment": "diced seeded",
+        "unit": "cup",
+        "name": "tomatoes",
+        "input": "2 cups diced seeded tomatoes",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>green onions</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "name": "green onions",
+        "input": "3 green onions, thinly sliced",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/4 cup chopped fresh cilantro",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>minced seeded</span><span class='name'>jalape\u00f1o chili</span>",
+        "comment": "minced seeded",
+        "unit": "teaspoon",
+        "name": "jalape\u00f1o chili",
+        "input": "1 teaspoon minced seeded jalape\u00f1o chili",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='comment'>small red-skinned</span><span class='name'>potatoes</span><span class='comment'>, cut in half</span><span class='other'>,</span><span class='comment'>halves cut into 1/4-inch-thick slices</span>",
+        "comment": "small red-skinned, cut in half halves cut into 1/4-inch-thick slices",
+        "other": ",",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "1 1/2 pounds small red-skinned potatoes, cut in half, halves cut into 1/4-inch-thick slices",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span>",
+        "unit": "clove",
+        "qty": "2",
+        "input": "2 garlic cloves",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "3 tablespoons fresh lime juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>watercress</span><span class='other'>,</span><span class='comment'>thick</span><span class='name'>stems</span><span class='comment'>trimmed</span>",
+        "comment": "thick trimmed",
+        "other": ",",
+        "unit": "bunch",
+        "name": "watercress stems",
+        "input": "1 bunch watercress, thick stems trimmed",
+        "qty": "1"
+    }
+]

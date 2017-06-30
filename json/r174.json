@@ -1,0 +1,36 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>lemon juice</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup lemon juice",
+        "name": "lemon juice"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>agave or honey</span>",
+        "unit": "cup",
+        "comment": "agave or honey",
+        "input": "1/4 cup agave or honey",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='name'>kiwi</span><span class='unit'>slices</span>",
+        "unit": "slice",
+        "qty": "8",
+        "input": "8 kiwi slices",
+        "name": "kiwi"
+    },
+    {
+        "display": "<span class='qty'>16</span><span class='name'>blueberries</span>",
+        "qty": "16",
+        "input": "16 blueberries",
+        "name": "blueberries"
+    }
+]

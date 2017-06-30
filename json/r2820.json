@@ -1,0 +1,53 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>thinly sliced fresh</span><span class='name'>ginger</span>",
+        "comment": "thinly sliced fresh",
+        "unit": "cup",
+        "name": "ginger",
+        "input": "1/4 cup thinly sliced fresh ginger",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>whole</span><span class='name'>star anise*</span>",
+        "qty": "6",
+        "comment": "whole",
+        "input": "6 whole star anise*",
+        "name": "star anise*"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>tablespoon</span><span class='comment'>grated</span><span class='name'>grapefruit peel</span>",
+        "comment": "grated",
+        "unit": "tablespoon",
+        "name": "grapefruit peel",
+        "input": "1/2 tablespoon grated grapefruit peel",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium-size</span><span class='name'>pink grapefruits</span><span class='comment'>, sectioned</span>",
+        "qty": "3",
+        "comment": "medium-size, sectioned",
+        "input": "3 medium-size pink grapefruits, sectioned",
+        "name": "pink grapefruits"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium-size</span><span class='name'>white grapefruits</span><span class='comment'>, sectioned</span>",
+        "qty": "3",
+        "comment": "medium-size, sectioned",
+        "input": "3 medium-size white grapefruits, sectioned",
+        "name": "white grapefruits"
+    }
+]

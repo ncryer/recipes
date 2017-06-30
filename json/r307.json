@@ -1,0 +1,114 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "2 tablespoons fresh lime juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>minced or crushed</span><span class='name'>garlic</span>",
+        "comment": "minced or crushed",
+        "unit": "teaspoon",
+        "name": "garlic",
+        "input": "1/4 teaspoon minced or crushed garlic",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='other'>Up to</span><span class='range_end'>2</span><span class='unit'>teaspoons</span><span class='name'>agave nectar or sugar</span>",
+        "other": "Up to",
+        "unit": "teaspoon",
+        "range_end": "2",
+        "input": "Up to 2 teaspoons agave nectar or sugar",
+        "name": "agave nectar or sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>grapeseed or peanut</span><span class='name'>oil</span>",
+        "comment": "grapeseed or peanut",
+        "unit": "tablespoon",
+        "name": "oil",
+        "input": "2 tablespoons grapeseed or peanut oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>reduced-fat</span><span class='name'>coconut milk</span><span class='comment'>( half a 14- to 15-ounce can )</span>",
+        "comment": "reduced-fat (half a 14- to 15-ounce can)",
+        "unit": "cup",
+        "name": "coconut milk",
+        "input": "3/4 cup reduced-fat coconut milk (half a 14- to 15-ounce can)",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3",
+        "input": "3 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>ounces</span><span class='name'>medium-thin rice noodles</span>",
+        "unit": "ounce",
+        "qty": "4",
+        "input": "4 ounces medium-thin rice noodles",
+        "name": "medium-thin rice noodles"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>pound</span><span class='comment'>slender</span><span class='name'>green beans</span><span class='comment'>, trimmed and halved either lengthwise or crosswise</span>",
+        "comment": "slender, trimmed and halved either lengthwise or crosswise",
+        "other": "1/3",
+        "unit": "pound",
+        "input": "1/3 pound slender green beans, trimmed and halved either lengthwise or crosswise",
+        "name": "green beans"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span>",
+        "unit": "cup",
+        "input": "1/2 cup",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small ( 6-inch</span><span class='other'>)</span><span class='name'>cucumber</span><span class='comment'>( peeled if the skin is bitter ) , diced</span>",
+        "comment": "small (6-inch (peeled if the skin is bitter), diced",
+        "other": ")",
+        "name": "cucumber",
+        "input": "1 small (6-inch) cucumber (peeled if the skin is bitter), diced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>carrot</span><span class='comment'>, coarsely grated</span>",
+        "qty": "1",
+        "comment": "medium, coarsely grated",
+        "input": "1 medium carrot, coarsely grated",
+        "name": "carrot"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>ripe</span><span class='other'>,</span><span class='name'>sweet mango</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>pitted</span><span class='other'>,</span><span class='comment'>and cut into 1/2-inch dice</span><span class='other'>, or</span><span class='comment'>1 heaping cup diced defrosted frozen mango</span>",
+        "comment": "ripe peeled pitted and cut into 1/2-inch dice 1 heaping cup diced defrosted frozen mango",
+        "other": ",, ,, , or",
+        "name": "sweet mango",
+        "input": "1 ripe, sweet mango, peeled, pitted, and cut into 1/2-inch dice, or 1 heaping cup diced defrosted frozen mango",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>About</span><span class='qty'>10</span><span class='comment'>fresh</span><span class='name'>mint leaves</span><span class='comment'>, cut into thin strips</span>",
+        "qty": "10",
+        "comment": "About fresh, cut into thin strips",
+        "input": "About 10 fresh mint leaves, cut into thin strips",
+        "name": "mint leaves"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>lightly toasted cashews , chopped or whole</span>",
+        "unit": "cup",
+        "comment": "lightly toasted cashews, chopped or whole",
+        "input": "1 cup lightly toasted cashews, chopped or whole",
+        "qty": "1"
+    }
+]

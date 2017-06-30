@@ -1,0 +1,31 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>passion-fruit nectar</span><span class='comment'>( 24 fl oz ) , chilled</span>",
+        "comment": "(24 fl oz), chilled",
+        "unit": "cup",
+        "name": "passion-fruit nectar",
+        "input": "3 cups passion-fruit nectar (24 fl oz), chilled",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>light</span><span class='name'>corn syrup</span>",
+        "comment": "light",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup light corn syrup",
+        "name": "corn syrup"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "2 tablespoons fresh lime juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='name'>Special equipment: an ice cream maker</span>",
+        "input": "Special equipment: an ice cream maker",
+        "name": "Special equipment: an ice cream maker"
+    }
+]

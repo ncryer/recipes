@@ -1,0 +1,89 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>large heirloom</span><span class='name'>tomatoes</span><span class='other'>,</span><span class='comment'>all varieties</span><span class='other'>and</span><span class='comment'>colors</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>and</span><span class='comment'>diced into 1/4-inch cubes ( reserve seeds and juices )</span>",
+        "comment": "large heirloom all varieties colors seeded diced into 1/4-inch cubes (reserve seeds and juices)",
+        "other": ", and, and",
+        "name": "tomatoes",
+        "input": "6 large heirloom tomatoes, all varieties and colors, seeded and diced into 1/4-inch cubes (reserve seeds and juices)",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>red onion</span><span class='comment'>, cut into 1/4-inch cubes</span>",
+        "qty": "1",
+        "comment": "medium, cut into 1/4-inch cubes",
+        "input": "1 medium red onion, cut into 1/4-inch cubes",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='name'>English</span><span class='comment'>or hothouse</span><span class='name'>cucumber</span><span class='comment'>, peeled and cut into 1/4-inch cubes</span>",
+        "qty": "3/4",
+        "comment": "or hothouse, peeled and cut into 1/4-inch cubes",
+        "input": "3/4 English or hothouse cucumber, peeled and cut into 1/4-inch cubes",
+        "name": "English cucumber"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='name'>red bell peppers</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>seeded and cut into 1/4-inch cubes</span>",
+        "comment": "cored seeded and cut into 1/4-inch cubes",
+        "other": ", ,",
+        "name": "red bell peppers",
+        "input": "1 1/2 red bell peppers, cored, seeded and cut into 1/4-inch cubes",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='name'>yellow bell peppers</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>seeded and cut into 1/4-inch cubes</span>",
+        "comment": "cored seeded and cut into 1/4-inch cubes",
+        "other": ", ,",
+        "name": "yellow bell peppers",
+        "input": "1 1/2 yellow bell peppers, cored, seeded and cut into 1/4-inch cubes",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>cilantro</span><span class='comment'>, roughly chopped</span>",
+        "comment": "fresh, roughly chopped",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/4 cup fresh cilantro, roughly chopped",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>tbsp red wine vinegar</span>",
+        "qty": "2",
+        "input": "2 tbsp red wine vinegar",
+        "name": "tbsp red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>lemon</span><span class='other'>,</span><span class='comment'>juiced</span>",
+        "comment": "juiced",
+        "other": ",",
+        "name": "lemon",
+        "input": "1 lemon, juiced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>tbsp</span><span class='name'>Tabasco</span>",
+        "qty": "1/2",
+        "comment": "tbsp",
+        "input": "1/2 tbsp Tabasco",
+        "name": "Tabasco"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt and freshly ground black pepper",
+        "name": "salt and black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='name'>tbsp aged balsamic vinegar</span>",
+        "qty": "8",
+        "input": "8 tbsp aged balsamic vinegar",
+        "name": "tbsp aged balsamic vinegar"
+    }
+]

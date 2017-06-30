@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>bok choy</span>",
+        "unit": "pound",
+        "qty": "1",
+        "input": "1 pound bok choy",
+        "name": "bok choy"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 garlic cloves, finely chopped",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>Savoy or Napa</span><span class='name'>cabbage</span><span class='comment'>, cored and thinly sliced</span>",
+        "comment": "Savoy or Napa, cored and thinly sliced",
+        "unit": "pound",
+        "name": "cabbage",
+        "input": "1 pound Savoy or Napa cabbage, cored and thinly sliced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>Asian sesame oil</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon Asian sesame oil",
+        "name": "Asian sesame oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sesame seeds</span><span class='other'>,</span>",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "sesame seeds",
+        "input": "1 teaspoon sesame seeds ,",
+        "qty": "1"
+    }
+]

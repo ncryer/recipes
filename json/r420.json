@@ -1,0 +1,26 @@
+[
+    {
+        "display": "<span class='qty'>5</span><span class='comment'>pitted</span><span class='name'>Medjool dates</span>",
+        "qty": "5",
+        "comment": "pitted",
+        "input": "5 pitted Medjool dates",
+        "name": "Medjool dates"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>gochujang</span><span class='other'>(</span><span class='comment'>Korean hot pepper paste )</span>",
+        "comment": "Korean hot pepper paste)",
+        "other": "(",
+        "unit": "cup",
+        "name": "gochujang",
+        "input": "1 cup gochujang (Korean hot pepper paste)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>toasted</span><span class='name'>sesame oil</span>",
+        "comment": "toasted",
+        "unit": "tablespoon",
+        "name": "sesame oil",
+        "input": "2 tablespoons toasted sesame oil",
+        "qty": "2"
+    }
+]

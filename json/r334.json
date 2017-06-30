@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>finely chopped</span><span class='name'>shallots</span>",
+        "comment": "finely chopped",
+        "unit": "tablespoon",
+        "name": "shallots",
+        "input": "2 tablespoons finely chopped shallots",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>red- or white-wine</span><span class='name'>vinegar</span>",
+        "comment": "red- or white-wine",
+        "unit": "tablespoon",
+        "name": "vinegar",
+        "input": "2 tablespoons red- or white-wine vinegar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>fine sea</span><span class='name'>salt</span><span class='comment'>, or to taste</span>",
+        "comment": "fine sea, or to taste",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/4 teaspoon fine sea salt, or to taste",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>Dijon mustard</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='other'>to</span><span class='range_end'>6</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "other": "to",
+        "unit": "tablespoon",
+        "qty": "4",
+        "range_end": "6",
+        "input": "4 to 6 tablespoons extra-virgin olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span><span class='comment'>to taste</span>",
+        "comment": "Freshly ground to taste",
+        "input": "Freshly ground black pepper to taste",
+        "name": "black pepper"
+    }
+]

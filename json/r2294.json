@@ -1,0 +1,81 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>onion</span>",
+        "qty": "1",
+        "comment": "large",
+        "input": "1 large onion",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span>",
+        "unit": "clove",
+        "qty": "1",
+        "input": "1 garlic clove",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>fennel bulb</span><span class='comment'>( sometimes called anise; about 1/2 pound )</span>",
+        "qty": "1",
+        "comment": "medium (sometimes called anise; about 1/2 pound)",
+        "input": "1 medium fennel bulb (sometimes called anise; about 1/2 pound)",
+        "name": "fennel bulb"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>zucchini</span>",
+        "qty": "1",
+        "comment": "large",
+        "input": "1 large zucchini",
+        "name": "zucchini"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>small</span><span class='name'>carrots</span>",
+        "qty": "2",
+        "comment": "small",
+        "input": "2 small carrots",
+        "name": "carrots"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large vine-ripened</span><span class='name'>tomato</span>",
+        "qty": "1",
+        "comment": "large vine-ripened",
+        "input": "1 large vine-ripened tomato",
+        "name": "tomato"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>turmeric</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon turmeric",
+        "name": "turmeric"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1/2 teaspoon ground cumin",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>ginger</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "1/4 teaspoon ground ginger",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "input": "freshly ground black pepper",
+        "name": "black pepper"
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>lb small</span><span class='name'>potatoes</span><span class='comment'>such as fingerling</span><span class='other'>,</span><span class='comment'>red</span><span class='other'>, or</span><span class='comment'>yellow-fleshed</span>",
+        "comment": "lb small such as fingerling red yellow-fleshed",
+        "other": ",, or",
+        "name": "potatoes",
+        "input": "2 lb small potatoes such as fingerling, red, or yellow-fleshed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='unit'>bunch</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>white parts halved lengthwise and remainder reserved for another use</span>",
+        "comment": "white parts halved lengthwise and remainder reserved for another use",
+        "other": "large ,",
+        "unit": "bunch",
+        "name": "scallions",
+        "input": "1 large bunch scallions, white parts halved lengthwise and remainder reserved for another use",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large fresh</span><span class='name'>rosemary</span><span class='comment'>sprigs , plus</span><span class='other'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>chopped</span>",
+        "comment": "large fresh sprigs, plus chopped",
+        "other": "1/2",
+        "unit": "teaspoon",
+        "name": "rosemary",
+        "input": "2 large fresh rosemary sprigs, plus 1/2 teaspoon chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2 1/4</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "2 1/4",
+        "input": "2 1/4 teaspoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='name'>lb</span><span class='comment'>small ( 2- to 3-inch )</span><span class='name'>okra</span>",
+        "qty": "3/4",
+        "comment": "small (2- to 3-inch)",
+        "input": "3/4 lb small (2- to 3-inch) okra",
+        "name": "lb okra"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>shelled fresh fava</span><span class='name'>beans</span><span class='comment'>( 2 1/2 lb in pods</span><span class='other'>) or</span><span class='comment'>shelled fresh</span><span class='other'>or</span><span class='comment'>frozen edamame ( soybeans; 1 1/2 lb in pods if fresh</span><span class='other'>)</span>",
+        "comment": "shelled fresh fava (2 1/2 lb in pods shelled fresh frozen edamame (soybeans; 1 1/2 lb in pods if fresh",
+        "other": ") or or)",
+        "unit": "cup",
+        "name": "beans",
+        "input": "2 cups shelled fresh fava beans (2 1/2 lb in pods) or shelled fresh or frozen edamame (soybeans; 1 1/2 lb in pods if fresh)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>corn</span><span class='comment'>( from</span><span class='qty'>1</span><span class='comment'>to 2 ears )</span>",
+        "comment": "fresh (from to 2 ears)",
+        "unit": "cup",
+        "name": "corn",
+        "input": "1 cup fresh corn (from 1 to 2 ears)",
+        "qty": "1 1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 1/2 tablespoons fresh lemon juice",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>finely chopped</span><span class='name'>shallot</span>",
+        "comment": "finely chopped",
+        "unit": "tablespoon",
+        "name": "shallot",
+        "input": "1 tablespoon finely chopped shallot",
+        "qty": "1"
+    }
+]

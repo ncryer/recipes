@@ -1,0 +1,55 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='comment'>sweet</span><span class='name'>potatoes</span><span class='comment'>( about 3 )</span>",
+        "comment": "sweet (about 3)",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "1 1/2 pounds sweet potatoes (about 3)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>quinoa*</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup quinoa*",
+        "name": "quinoa*"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "4",
+        "input": "4 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>coarse fresh</span><span class='name'>breadcrumbs</span>",
+        "comment": "coarse fresh",
+        "unit": "cup",
+        "name": "breadcrumbs",
+        "input": "2 cups coarse fresh breadcrumbs",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>pounds</span><span class='name'>Swiss chard</span><span class='other'>,</span><span class='comment'>washed well and stems trimmed</span><span class='other'>,</span><span class='comment'>removed</span><span class='other'>,</span><span class='comment'>and reserved</span>",
+        "comment": "washed well and stems trimmed removed and reserved",
+        "other": ",, ,",
+        "unit": "pound",
+        "name": "Swiss chard",
+        "input": "2 1/2 pounds Swiss chard, washed well and stems trimmed, removed, and reserved",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>minced</span><span class='name'>garlic</span><span class='comment'>( about 6 cloves ) , or to taste</span>",
+        "comment": "minced (about 6 cloves), or to taste",
+        "unit": "tablespoon",
+        "name": "garlic",
+        "input": "3 tablespoons minced garlic (about 6 cloves), or to taste",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>*available</span><span class='comment'>at natural foods stores and specialty foods shops</span>",
+        "comment": "at natural foods stores and specialty foods shops",
+        "input": "*available at natural foods stores and specialty foods shops",
+        "qty": "*available"
+    }
+]

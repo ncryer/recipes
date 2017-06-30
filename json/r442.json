@@ -1,0 +1,94 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>dried red lentils</span><span class='comment'>, rinsed</span>",
+        "comment": ", rinsed",
+        "unit": "cup",
+        "name": "dried red lentils",
+        "input": "1 cup dried red lentils, rinsed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span>",
+        "unit": "cup",
+        "input": "4 cups",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 cloves garlic, chopped",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>sweet</span><span class='name'>potato</span><span class='comment'>, peeled and chopped</span>",
+        "qty": "1",
+        "comment": "sweet, peeled and chopped",
+        "input": "1 sweet potato, peeled and chopped",
+        "name": "potato"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>celery</span><span class='unit'>stalks</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "unit": "stalk",
+        "name": "celery",
+        "input": "2 celery stalks, chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>yellow onion</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "name": "yellow onion",
+        "input": "1 yellow onion, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>Roma tomatoes</span><span class='comment'>, chopped</span>",
+        "comment": ", chopped",
+        "unit": "cup",
+        "name": "Roma tomatoes",
+        "input": "2 cups Roma tomatoes, chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>white miso</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon white miso",
+        "name": "white miso"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>kale</span><span class='other'>,</span><span class='comment'>stemmed and chopped</span>",
+        "comment": "stemmed and chopped",
+        "other": ",",
+        "unit": "bunch",
+        "name": "kale",
+        "input": "1 bunch kale, stemmed and chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "input": "Salt and freshly ground black pepper",
+        "name": "Salt and black pepper"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>fresh</span><span class='name'>sage leaves</span><span class='comment'>, finely chopped , plus extra for garnish</span>",
+        "qty": "6",
+        "comment": "fresh, finely chopped, plus extra for garnish",
+        "input": "6 fresh sage leaves, finely chopped, plus extra for garnish",
+        "name": "sage leaves"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>sheet nori</span><span class='other'>,</span><span class='comment'>julienned</span><span class='other'>,</span><span class='comment'>for garnish</span>",
+        "comment": "julienned for garnish",
+        "other": ", ,",
+        "name": "sheet nori",
+        "input": "1 sheet nori, julienned, for garnish",
+        "qty": "1"
+    }
+]

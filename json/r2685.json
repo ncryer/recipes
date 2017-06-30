@@ -1,0 +1,44 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>8-inch )</span><span class='name'>sourdough round</span><span class='comment'>or a 20-inch-long sourdough baguette</span>",
+        "comment": "8-inch) or a 20-inch-long sourdough baguette",
+        "other": "(",
+        "name": "sourdough round",
+        "input": "1 (8-inch) sourdough round or a 20-inch-long sourdough baguette",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='comment'>, halved crosswise</span>",
+        "comment": ", halved crosswise",
+        "other": "large",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 large garlic cloves, halved crosswise",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='other'>to</span><span class='range_end'>4</span><span class='comment'>ripe small</span><span class='name'>tomatoes</span><span class='comment'>, halved crosswise</span>",
+        "comment": "ripe small, halved crosswise",
+        "other": "to",
+        "name": "tomatoes",
+        "range_end": "4",
+        "input": "3 to 4 ripe small tomatoes, halved crosswise",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='other'>to</span><span class='range_end'>4</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "other": "to",
+        "unit": "tablespoon",
+        "qty": "3",
+        "range_end": "4",
+        "input": "3 to 4 tablespoons extra-virgin olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='comment'>Coarse</span><span class='name'>salt</span><span class='comment'>to taste</span>",
+        "comment": "Coarse to taste",
+        "input": "Coarse salt to taste",
+        "name": "salt"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>pound</span><span class='comment'>small</span><span class='name'>potatoes</span><span class='comment'>( about 1 1/2 inches in diameter ) , halved</span>",
+        "comment": "small (about 1 1/2 inches in diameter), halved",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "3/4 pound small potatoes (about 1 1/2 inches in diameter), halved",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "1 1/2 tablespoons extra-virgin olive oil",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>packed fresh</span><span class='name'>basil leaves</span><span class='other'>,</span><span class='comment'>washed well</span><span class='other'>,</span><span class='comment'>spun dry</span><span class='other'>,</span><span class='comment'>and chopped fine</span>",
+        "comment": "packed fresh washed well spun dry and chopped fine",
+        "other": ",, ,",
+        "unit": "cup",
+        "name": "basil leaves",
+        "input": "1/4 cup packed fresh basil leaves, washed well, spun dry, and chopped fine",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lime juice",
+        "input": "1 1/2 teaspoons fresh lime juice",
+        "qty": "1 1/2"
+    }
+]

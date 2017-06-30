@@ -1,0 +1,54 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>hothouse</span><span class='name'>cucumber</span><span class='comment'>, peeled and cut into strips 3 inches long and 1/4 inch wide</span>",
+        "qty": "1",
+        "comment": "hothouse, peeled and cut into strips 3 inches long and 1/4 inch wide",
+        "input": "1 hothouse cucumber, peeled and cut into strips 3 inches long and 1/4 inch wide",
+        "name": "cucumber"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>celery ribs</span><span class='comment'>, cut into strips 3 inches long and 1/4 inch wide</span>",
+        "qty": "2",
+        "comment": ", cut into strips 3 inches long and 1/4 inch wide",
+        "input": "2 celery ribs, cut into strips 3 inches long and 1/4 inch wide",
+        "name": "celery ribs"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>carrots</span><span class='other'>,</span><span class='comment'>peeled and cut into strips 3 inches long and 1/4 inch wide</span>",
+        "comment": "peeled and cut into strips 3 inches long and 1/4 inch wide",
+        "other": ",",
+        "name": "carrots",
+        "input": "2 carrots, peeled and cut into strips 3 inches long and 1/4 inch wide",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>red bell peppers</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>and cut into strips 3 inches long and 1/4 inch wide</span>",
+        "comment": "cored seeded and cut into strips 3 inches long and 1/4 inch wide",
+        "other": ",, ,",
+        "name": "red bell peppers",
+        "input": "2 red bell peppers, cored, seeded, and cut into strips 3 inches long and 1/4 inch wide",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>Asian sesame oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon Asian sesame oil",
+        "name": "Asian sesame oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>mung bean sprouts</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup mung bean sprouts",
+        "name": "mung bean sprouts"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>drained</span><span class='name'>bamboo shoots</span>",
+        "comment": "drained",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup drained bamboo shoots",
+        "name": "bamboo shoots"
+    }
+]

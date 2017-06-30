@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>red onion</span><span class='comment'>( 3/4 pound</span><span class='other'>)</span>",
+        "comment": "large (3/4 pound",
+        "other": ")",
+        "name": "red onion",
+        "input": "1 large red onion (3/4 pound)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>vinegar</span><span class='comment'>( cider</span><span class='other'>,</span><span class='comment'>red</span><span class='other'>or</span><span class='comment'>white wine</span><span class='other'>, or</span><span class='comment'>balsamic )</span>",
+        "comment": "(cider red white wine balsamic)",
+        "other": ", or, or",
+        "unit": "tablespoon",
+        "name": "vinegar",
+        "input": "3 tablespoons vinegar (cider, red or white wine, or balsamic)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1-2</span><span class='unit'>teaspoons</span><span class='name'>agave nectar , light-colored honey , or sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1-2",
+        "input": "1-2 teaspoons agave nectar, light-colored honey, or sugar",
+        "name": "agave nectar, light-colored honey, or sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    }
+]

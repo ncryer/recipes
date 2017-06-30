@@ -1,0 +1,31 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>broccoli</span>",
+        "unit": "pound",
+        "qty": "2",
+        "input": "2 pounds broccoli",
+        "name": "broccoli"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>minced peeled fresh</span><span class='name'>ginger</span>",
+        "comment": "minced peeled fresh",
+        "unit": "tablespoon",
+        "name": "ginger",
+        "input": "1 tablespoon minced peeled fresh ginger",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    }
+]

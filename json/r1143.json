@@ -1,0 +1,74 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>pounds</span><span class='comment'>large</span><span class='name'>unripe</span><span class='comment'>( green )</span><span class='name'>tomatoes</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>cut into 1/4-inch dice</span>",
+        "comment": "large (green) cored cut into 1/4-inch dice",
+        "other": ", ,",
+        "unit": "pound",
+        "name": "unripe tomatoes",
+        "input": "2 1/2 pounds large unripe (green) tomatoes, cored, cut into 1/4-inch dice",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>red</span><span class='name'>onions</span><span class='comment'>( 1 pound total ) , cut into 1/4-inch dice ( about 3 cups )</span>",
+        "qty": "2",
+        "comment": "red (1 pound total), cut into 1/4-inch dice (about 3 cups)",
+        "input": "2 red onions (1 pound total), cut into 1/4-inch dice (about 3 cups)",
+        "name": "onions"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>red bell peppers</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>cut into 1/4-inch dice ( about 2 1/2 cups )</span>",
+        "comment": "seeded cut into 1/4-inch dice (about 2 1/2 cups)",
+        "other": ", ,",
+        "name": "red bell peppers",
+        "input": "2 red bell peppers, seeded, cut into 1/4-inch dice (about 2 1/2 cups)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>1/4 cup plus 1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>coarse kosher</span><span class='name'>salt</span>",
+        "comment": "coarse kosher",
+        "other": "1/4 cup plus 1 1/2",
+        "unit": "teaspoon",
+        "input": "1/4 cup plus 1 1/2 teaspoons coarse kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>distilled</span><span class='name'>white vinegar</span>",
+        "comment": "distilled",
+        "unit": "cup",
+        "name": "white vinegar",
+        "input": "2 cups distilled white vinegar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>( packed )</span><span class='name'>golden brown sugar</span>",
+        "comment": "(packed)",
+        "unit": "cup",
+        "name": "golden brown sugar",
+        "input": "1 1/2 cups (packed) golden brown sugar",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, minced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>whole</span><span class='name'>coriander seeds</span>",
+        "comment": "whole",
+        "unit": "teaspoon",
+        "name": "coriander seeds",
+        "input": "1 teaspoon whole coriander seeds",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>whole aniseed</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon whole aniseed",
+        "name": "whole aniseed"
+    }
+]

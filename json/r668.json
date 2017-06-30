@@ -1,0 +1,32 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>sliced</span><span class='other'>,</span><span class='comment'>hulled</span><span class='name'>strawberries</span><span class='comment'>( from about 1 pound berries )</span>",
+        "comment": "sliced hulled (from about 1 pound berries)",
+        "other": ",",
+        "unit": "cup",
+        "name": "strawberries",
+        "input": "2 cups sliced, hulled strawberries (from about 1 pound berries)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>tablespoons</span><span class='comment'>good-quality</span><span class='name'>balsamic vinegar</span>",
+        "comment": "good-quality",
+        "unit": "tablespoon",
+        "name": "balsamic vinegar",
+        "input": "2 1/2 tablespoons good-quality balsamic vinegar",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground black pepper",
+        "name": "black pepper"
+    }
+]

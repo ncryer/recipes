@@ -1,0 +1,80 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>clove</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>peeled</span>",
+        "comment": "peeled",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 clove garlic, peeled",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span>",
+        "unit": "cup",
+        "input": "1 1/2 cups",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='comment'>or 1 can ( 15 ounces ) organic black soybeans</span><span class='other'>,</span><span class='comment'>drained ( reserve liquid )</span>",
+        "comment": "or 1 can (15 ounces) organic black soybeans drained (reserve liquid)",
+        "input": "or 1 can (15 ounces) organic black soybeans, drained (reserve liquid)",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>to</span><span class='range_end'>4</span><span class='unit'>tablespoons</span><span class='comment'>freshly squeezed</span><span class='name'>lemon juice</span>",
+        "comment": "freshly squeezed",
+        "other": "to",
+        "unit": "tablespoon",
+        "qty": "2",
+        "range_end": "4",
+        "input": "2 to 4 tablespoons freshly squeezed lemon juice",
+        "name": "lemon juice"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>to</span><span class='range_end'>3</span><span class='unit'>tablespoons</span><span class='comment'>soybean cooking or canning liquid or water</span>",
+        "comment": "soybean cooking or canning liquid or water",
+        "other": "to",
+        "unit": "tablespoon",
+        "range_end": "3",
+        "input": "2 to 3 tablespoons soybean cooking or canning liquid or water",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>tahini</span><span class='other'>(</span><span class='comment'>sesame-seed paste</span><span class='other'>)</span>",
+        "comment": "sesame-seed paste",
+        "other": "()",
+        "unit": "tablespoon",
+        "name": "tahini",
+        "input": "1 1/2 tablespoons tahini (sesame-seed paste)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='other'>to</span><span class='range_end'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "other": "to",
+        "unit": "teaspoon",
+        "name": "salt",
+        "range_end": "3/4",
+        "input": "1/2 to 3/4 teaspoon salt",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='other'>to</span><span class='range_end'>1</span><span class='unit'>teaspoon</span>",
+        "other": "to",
+        "unit": "teaspoon",
+        "range_end": "1",
+        "input": "1/2 to 1 teaspoon",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>or 1/8 to 1/4 teaspoon ground</span><span class='name'>cayenne pepper</span><span class='comment'>( optional )</span>",
+        "comment": "or 1/8 to 1/4 teaspoon ground (optional)",
+        "input": "or 1/8 to 1/4 teaspoon ground cayenne pepper (optional)",
+        "name": "cayenne pepper"
+    },
+    {
+        "display": "<span class='name'>Sweet paprika and oil-cured olives</span><span class='comment'>, for garnish</span>",
+        "comment": ", for garnish",
+        "input": "Sweet paprika and oil-cured olives, for garnish",
+        "name": "Sweet paprika and oil-cured olives"
+    }
+]

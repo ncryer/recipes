@@ -1,0 +1,130 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>spelt white</span><span class='name'>flour</span>",
+        "comment": "spelt white",
+        "unit": "cup",
+        "name": "flour",
+        "input": "2 cups spelt white flour",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>sea salt</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "sea salt",
+        "input": "3/4 teaspoon sea salt, divided",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='other'>1/3 cup plus 1</span><span class='unit'>tablespoon</span><span class='comment'>extra-virgin olive</span><span class='name'>oil</span>",
+        "comment": "extra-virgin olive",
+        "other": "1/3 cup plus 1",
+        "unit": "tablespoon",
+        "input": "1/3 cup plus 1 tablespoon extra-virgin olive oil",
+        "name": "oil"
+    },
+    {
+        "display": "<span class='qty'>1\u20132</span><span class='unit'>tablespoons</span><span class='name'>water</span>",
+        "unit": "tablespoon",
+        "qty": "1\u20132",
+        "input": "1\u20132 tablespoons water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped yellow</span><span class='name'>onion</span>",
+        "comment": "chopped yellow",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1/2 cup chopped yellow onion",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>finely shredded</span><span class='name'>red cabbage</span>",
+        "comment": "finely shredded",
+        "unit": "cup",
+        "name": "red cabbage",
+        "input": "1/2 cup finely shredded red cabbage",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>zucchini</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "zucchini",
+        "input": "1/2 cup chopped zucchini",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='comment'>( 16 ounces ) fresh</span><span class='name'>baby spinach</span><span class='other'>,</span><span class='comment'>washed and dried</span>",
+        "comment": "(16 ounces) fresh washed and dried",
+        "other": ",",
+        "unit": "cup",
+        "name": "baby spinach",
+        "input": "8 cups (16 ounces) fresh baby spinach, washed and dried",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>clove</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 clove garlic, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>marjoram</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "marjoram",
+        "input": "1/2 teaspoon dried marjoram",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>basil</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "basil",
+        "input": "1/2 teaspoon dried basil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>thyme</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "thyme",
+        "input": "1/2 teaspoon dried thyme",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>mustard powder</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "mustard powder",
+        "input": "1 teaspoon dried mustard powder",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>paprika</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon paprika",
+        "name": "paprika"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>red pepper</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "red pepper",
+        "input": "1/4 teaspoon ground red pepper",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>tomato</span><span class='comment'>, cut into 8 half-moon slices</span>",
+        "qty": "1",
+        "comment": "large, cut into 8 half-moon slices",
+        "input": "1 large tomato, cut into 8 half-moon slices",
+        "name": "tomato"
+    }
+]

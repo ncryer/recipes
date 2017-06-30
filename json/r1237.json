@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>11 1/2-ounce</span><span class='unit'>bag</span><span class='name'>bittersweet</span><span class='comment'>( 60% cocoa )</span><span class='name'>chocolate chips</span><span class='comment'>( about 2 cups )</span>",
+        "comment": "11 1/2-ounce (60% cocoa) (about 2 cups)",
+        "unit": "bag",
+        "name": "bittersweet chocolate chips",
+        "input": "1 11 1/2-ounce bag bittersweet (60% cocoa) chocolate chips (about 2 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>mixed toasted nuts ( such as walnuts</span><span class='other'>,</span><span class='comment'>pistachios</span><span class='other'>,</span><span class='comment'>pecans</span><span class='other'>,</span><span class='comment'>and almonds )</span>",
+        "unit": "cup",
+        "comment": "mixed toasted nuts (such as walnuts pistachios pecans and almonds)",
+        "input": "2/3 cup mixed toasted nuts (such as walnuts, pistachios, pecans, and almonds)",
+        "other": "2/3, , ,"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>mixed dried</span><span class='name'>fruit</span><span class='other'>(</span><span class='comment'>such as raisins</span><span class='other'>,</span><span class='comment'>cranberries</span><span class='other'>,</span><span class='comment'>cherries</span><span class='other'>,</span><span class='comment'>quartered figs</span><span class='other'>,</span><span class='comment'>and quartered apricots )</span>",
+        "comment": "mixed dried such as raisins cranberries cherries quartered figs and quartered apricots)",
+        "other": "2/3 (, ,, ,",
+        "unit": "cup",
+        "input": "2/3 cup mixed dried fruit (such as raisins, cranberries, cherries, quartered figs, and quartered apricots)",
+        "name": "fruit"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>quarter-size</span><span class='comment'>rounds crystallized</span><span class='name'>ginger</span><span class='comment'>, thinly sliced</span>",
+        "qty": "6",
+        "comment": "rounds crystallized, thinly sliced",
+        "input": "6 quarter-size rounds crystallized ginger, thinly sliced",
+        "name": "quarter-size ginger"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='comment'>fleur de sel or coarse kosher</span><span class='name'>salt</span>",
+        "comment": "fleur de sel or coarse kosher",
+        "other": "1/8",
+        "unit": "teaspoon",
+        "input": "1/8 teaspoon fleur de sel or coarse kosher salt",
+        "name": "salt"
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span>",
+        "unit": "clove",
+        "qty": "4",
+        "input": "4 garlic cloves",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>coriander seeds</span><span class='other'>,</span><span class='comment'>crushed</span>",
+        "comment": "crushed",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "coriander seeds",
+        "input": "3/4 teaspoon coriander seeds, crushed",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>cumin seeds</span><span class='other'>,</span><span class='comment'>crushed</span>",
+        "comment": "crushed",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "cumin seeds",
+        "input": "3/4 teaspoon cumin seeds, crushed",
+        "qty": "3/4"
+    },
+    {
+        "other": "Pinch of)",
+        "display": "<span class='other'>Pinch of</span><span class='name'>saffron threads</span><span class='comment'>( optional</span><span class='other'>)</span>",
+        "comment": "(optional",
+        "input": "Pinch of saffron threads (optional)",
+        "name": "saffron threads"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>sweet peppers</span><span class='comment'>, any</span><span class='name'>color</span><span class='comment'>( about 1 pound ) , cut into 2\" strips</span>",
+        "qty": "4",
+        "comment": ", any (about 1 pound), cut into 2\" strips",
+        "input": "4 sweet peppers, any color (about 1 pound), cut into 2\" strips",
+        "name": "sweet peppers color"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>baby eggplants ( about 1/2 pound</span><span class='other'>) ,</span><span class='comment'>quartered lengthwise</span><span class='other'>, or</span><span class='comment'>1/2 large</span><span class='name'>eggplant</span><span class='other'>,</span><span class='comment'>cut into 2x1\" pieces</span>",
+        "comment": "quartered lengthwise 1/2 large cut into 2x1\" pieces",
+        "other": "), , or ,",
+        "name": "baby eggplants (about 1/2 pound eggplant",
+        "input": "2 baby eggplants (about 1/2 pound), quartered lengthwise, or 1/2 large eggplant, cut into 2x1\" pieces",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground pepper",
+        "name": "salt pepper",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>red wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>torn fresh</span><span class='name'>basil leaves</span>",
+        "comment": "torn fresh",
+        "unit": "cup",
+        "name": "basil leaves",
+        "input": "1 cup torn fresh basil leaves",
+        "qty": "1"
+    }
+]

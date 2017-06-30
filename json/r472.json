@@ -1,0 +1,51 @@
+[
+    {
+        "display": "<span class='qty'>10</span><span class='comment'>fresh</span><span class='name'>tomatillos</span><span class='comment'>, husked and rinsed</span>",
+        "qty": "10",
+        "comment": "fresh, husked and rinsed",
+        "input": "10 fresh tomatillos, husked and rinsed",
+        "name": "tomatillos"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>fresh</span><span class='name'>jalape\u00f1os</span><span class='comment'>, stems removed</span>",
+        "qty": "2",
+        "comment": "fresh, stems removed",
+        "input": "2 fresh jalape\u00f1os, stems removed",
+        "name": "jalape\u00f1os"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='comment'>small</span><span class='name'>onion</span>",
+        "qty": "1/4",
+        "comment": "small",
+        "input": "1/4 small onion",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>clove</span><span class='name'>garlic</span>",
+        "unit": "clove",
+        "qty": "1",
+        "input": "1 clove garlic",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>bunch</span><span class='comment'>fresh</span><span class='name'>cilantro leaves</span><span class='comment'>, finely chopped</span>",
+        "comment": "fresh, finely chopped",
+        "unit": "bunch",
+        "name": "cilantro leaves",
+        "input": "1/4 bunch fresh cilantro leaves, finely chopped",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>canola oil</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon canola oil",
+        "name": "canola oil"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    }
+]

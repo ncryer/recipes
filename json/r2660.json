@@ -1,0 +1,65 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>fresh shelled</span><span class='name'>peas</span><span class='comment'>( from 3 pounds peas in pods )</span>",
+        "comment": "fresh shelled (from 3 pounds peas in pods)",
+        "unit": "cup",
+        "name": "peas",
+        "input": "3 cups fresh shelled peas (from 3 pounds peas in pods)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='unit'>ounces</span><span class='name'>sugar snap peas</span><span class='other'>,</span><span class='comment'>trimmed</span>",
+        "comment": "trimmed",
+        "other": ",",
+        "unit": "ounce",
+        "name": "sugar snap peas",
+        "input": "12 ounces sugar snap peas, trimmed",
+        "qty": "12"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>unseasoned</span><span class='name'>rice vinegar</span>",
+        "comment": "unseasoned",
+        "unit": "tablespoon",
+        "name": "rice vinegar",
+        "input": "2 tablespoons unseasoned rice vinegar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>soy sauce</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>oriental sesame oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon oriental sesame oil",
+        "name": "oriental sesame oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>( packed )</span><span class='name'>golden brown sugar</span>",
+        "comment": "(packed)",
+        "unit": "tablespoon",
+        "name": "golden brown sugar",
+        "input": "1 tablespoon (packed) golden brown sugar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>coarse kosher</span><span class='name'>salt</span>",
+        "comment": "coarse kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 teaspoon coarse kosher salt",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/2 teaspoon freshly ground black pepper",
+        "qty": "1/2"
+    }
+]

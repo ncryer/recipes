@@ -1,0 +1,18 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>short- or medium-grain Asian</span><span class='name'>white rice</span><span class='comment'>( sometimes labeled \"sushi rice\"; preferably Korean</span><span class='other'>or</span><span class='comment'>Japanese; not sweet or glutinous )</span>",
+        "comment": "short- or medium-grain Asian (sometimes labeled \"sushi rice\"; preferably Korean Japanese; not sweet or glutinous)",
+        "other": "or",
+        "unit": "cup",
+        "name": "white rice",
+        "input": "3 cups short- or medium-grain Asian white rice (sometimes labeled \"sushi rice\"; preferably Korean or Japanese; not sweet or glutinous)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3 1/2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3 1/2",
+        "input": "3 1/2 cups water",
+        "name": "water"
+    }
+]

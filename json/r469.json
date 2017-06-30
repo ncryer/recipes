@@ -1,0 +1,54 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='name'>Roma tomatoes</span><span class='other'>,</span><span class='comment'>diced</span>",
+        "comment": "diced",
+        "other": ",",
+        "name": "Roma tomatoes",
+        "input": "3 Roma tomatoes, diced",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>fresh</span><span class='name'>serrano</span><span class='comment'>chiles with seeds , diced</span>",
+        "qty": "2",
+        "comment": "fresh chiles with seeds, diced",
+        "input": "2 fresh serrano chiles with seeds, diced",
+        "name": "serrano"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, diced</span>",
+        "qty": "1/2",
+        "comment": "medium, diced",
+        "input": "1/2 medium onion, diced",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>bunch</span><span class='comment'>fresh</span><span class='name'>cilantro</span><span class='comment'>leaves and stems , coarsely chopped</span>",
+        "comment": "fresh leaves and stems, coarsely chopped",
+        "unit": "bunch",
+        "name": "cilantro",
+        "input": "1/2 bunch fresh cilantro leaves and stems, coarsely chopped",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>freshly squeezed</span><span class='name'>lime juice</span>",
+        "comment": "freshly squeezed",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "1 tablespoon freshly squeezed lime juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>tablespoon</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "1/2 tablespoon extra-virgin olive oil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    }
+]

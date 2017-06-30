@@ -1,0 +1,15 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='name'>recipe</span>",
+        "qty": "1",
+        "input": "1 recipe",
+        "name": "recipe"
+    },
+    {
+        "display": "<span class='name'>Special equipment: a ruler</span><span class='other'>, a</span><span class='comment'>pastry brush</span><span class='other'>,</span><span class='comment'>parchment paper</span><span class='other'>,</span><span class='comment'>2 or 3 garbage bags ( unscented )</span><span class='other'>, a</span><span class='comment'>spray bottle with water</span>",
+        "comment": "pastry brush parchment paper 2 or 3 garbage bags (unscented) spray bottle with water",
+        "input": "Special equipment: a ruler, a pastry brush, parchment paper, 2 or 3 garbage bags (unscented), a spray bottle with water",
+        "name": "Special equipment: a ruler",
+        "other": ", a, ,, a"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>lb Gala or McIntosh</span><span class='name'>apples</span><span class='comment'>, quartered and seeded ( left unpeeled</span><span class='other'>)</span>",
+        "comment": "lb Gala or McIntosh, quartered and seeded (left unpeeled",
+        "other": ")",
+        "name": "apples",
+        "input": "2 lb Gala or McIntosh apples, quartered and seeded (left unpeeled)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>lb red</span><span class='other'>or</span><span class='comment'>black</span><span class='name'>plums</span><span class='comment'>, quartered and pitted</span>",
+        "comment": "black, quartered and pitted",
+        "other": "or",
+        "name": "lb red plums",
+        "input": "2 lb red or black plums, quartered and pitted",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    }
+]

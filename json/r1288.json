@@ -1,0 +1,59 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>fennel seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon fennel seeds",
+        "name": "fennel seeds"
+    },
+    {
+        "display": "<span class='qty'>1 3/4</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1 3/4",
+        "input": "1 3/4 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>basmati rice</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup basmati rice",
+        "name": "basmati rice"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>navel orange</span>",
+        "qty": "1",
+        "comment": "large",
+        "input": "1 large navel orange",
+        "name": "navel orange"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>white-wine vinegar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon white-wine vinegar",
+        "name": "white-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>fennel bupound</span><span class='comment'>( anise ) with fronds</span>",
+        "qty": "1",
+        "comment": "medium (anise) with fronds",
+        "input": "1 medium fennel bupound (anise) with fronds",
+        "name": "fennel bupound"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>scallions</span><span class='comment'>, thinly sliced</span>",
+        "qty": "2",
+        "comment": "large, thinly sliced",
+        "input": "2 large scallions, thinly sliced",
+        "name": "scallions"
+    }
+]

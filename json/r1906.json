@@ -1,0 +1,139 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2 1/2",
+        "input": "2 1/2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>onion</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "onion",
+        "input": "2 cups chopped onion",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>red bell pepper</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "red bell pepper",
+        "input": "1 cup chopped red bell pepper",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>green bell pepper</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "green bell pepper",
+        "input": "1 cup chopped green bell pepper",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped</span><span class='name'>garlic</span>",
+        "comment": "chopped",
+        "unit": "tablespoon",
+        "name": "garlic",
+        "input": "1 tablespoon chopped garlic",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>paprika</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons paprika",
+        "name": "paprika"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>canned</span><span class='name'>vegetable broth</span>",
+        "comment": "canned",
+        "unit": "cup",
+        "name": "vegetable broth",
+        "input": "2 cups canned vegetable broth",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>large plum</span><span class='name'>tomatoes</span><span class='comment'>( about 10 ounces ) , seeded</span><span class='other'>,</span><span class='comment'>coarsely chopped</span>",
+        "comment": "large plum (about 10 ounces), seeded coarsely chopped",
+        "other": ",",
+        "name": "tomatoes",
+        "input": "3 large plum tomatoes (about 10 ounces), seeded, coarsely chopped",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>frozen</span><span class='name'>peas</span>",
+        "comment": "frozen",
+        "unit": "cup",
+        "name": "peas",
+        "input": "1 cup frozen peas",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>drained canned</span><span class='name'>garbanzo beans</span><span class='comment'>( chickpeas )</span>",
+        "comment": "drained canned (chickpeas)",
+        "unit": "cup",
+        "name": "garbanzo beans",
+        "input": "1 cup drained canned garbanzo beans (chickpeas)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped peeled</span><span class='name'>carrot</span>",
+        "comment": "chopped peeled",
+        "unit": "cup",
+        "name": "carrot",
+        "input": "1/2 cup chopped peeled carrot",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>crushed</span><span class='name'>saffron</span><span class='comment'>threads</span>",
+        "comment": "crushed threads",
+        "unit": "teaspoon",
+        "name": "saffron",
+        "input": "1/4 teaspoon crushed saffron threads",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>cayenne pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon cayenne pepper",
+        "name": "cayenne pepper"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>( about 9 1/2 ounces</span><span class='other'>)</span><span class='name'>couscous</span>",
+        "comment": "(about 9 1/2 ounces",
+        "other": ")",
+        "unit": "cup",
+        "name": "couscous",
+        "input": "1 1/2 cups (about 9 1/2 ounces) couscous",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>canned</span><span class='name'>artichoke hearts</span><span class='comment'>, quartered</span>",
+        "qty": "6",
+        "comment": "canned, quartered",
+        "input": "6 canned artichoke hearts, quartered",
+        "name": "artichoke hearts"
+    },
+    {
+        "display": "<span class='comment'>Sliced</span><span class='name'>red bell pepper rings</span>",
+        "comment": "Sliced",
+        "input": "Sliced red bell pepper rings",
+        "name": "red bell pepper rings"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>lemon</span><span class='other'>,</span><span class='comment'>cut into 8 wedges</span>",
+        "comment": "cut into 8 wedges",
+        "other": ",",
+        "name": "lemon",
+        "input": "1 lemon, cut into 8 wedges",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Chopped fresh</span><span class='name'>parsley</span>",
+        "comment": "Chopped fresh",
+        "input": "Chopped fresh parsley",
+        "name": "parsley"
+    }
+]

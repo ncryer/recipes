@@ -1,0 +1,38 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>brewed</span><span class='name'>coffee</span>",
+        "comment": "brewed",
+        "unit": "tablespoon",
+        "name": "coffee",
+        "input": "2 tablespoons brewed coffee",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>ounce</span><span class='comment'>semisweet</span><span class='name'>chocolate</span><span class='comment'>, chopped</span>",
+        "comment": "semisweet, chopped",
+        "unit": "ounce",
+        "name": "chocolate",
+        "input": "1 ounce semisweet chocolate, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>vanilla</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon vanilla",
+        "name": "vanilla"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>cornstarch</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon cornstarch",
+        "name": "cornstarch"
+    },
+    {
+        "display": "<span class='other'>Pinch</span><span class='name'>cinnamon</span>",
+        "other": "Pinch",
+        "input": "Pinch cinnamon",
+        "name": "cinnamon"
+    }
+]

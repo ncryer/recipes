@@ -1,0 +1,31 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>quart</span><span class='other'>pur\u00e9e of</span><span class='comment'>fresh</span><span class='name'>peaches</span>",
+        "comment": "fresh",
+        "other": "pur\u00e9e of",
+        "unit": "quart",
+        "name": "peaches",
+        "input": "1 quart pur\u00e9e of fresh peaches",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Sugar</span><span class='comment'>to taste</span>",
+        "comment": "to taste",
+        "input": "Sugar to taste",
+        "name": "Sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>lemon juice</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon lemon juice",
+        "name": "lemon juice"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>quarts</span><span class='name'>chilled champagne</span>",
+        "unit": "quart",
+        "qty": "3",
+        "input": "3 quarts chilled champagne",
+        "name": "chilled champagne"
+    }
+]

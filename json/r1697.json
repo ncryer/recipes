@@ -1,0 +1,55 @@
+[
+    {
+        "display": "<span class='qty'>5</span><span class='name'>red bell peppers</span>",
+        "qty": "5",
+        "input": "5 red bell peppers",
+        "name": "red bell peppers"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>small</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>very thinly sliced</span>",
+        "comment": "very thinly sliced",
+        "other": "small ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 small garlic cloves, very thinly sliced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>balsamic vinegar</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon balsamic vinegar",
+        "name": "balsamic vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>finely chopped fresh</span><span class='name'>oregano</span>",
+        "comment": "finely chopped fresh",
+        "unit": "tablespoon",
+        "name": "oregano",
+        "input": "1 tablespoon finely chopped fresh oregano",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>coarse sea</span><span class='name'>salt</span><span class='comment'>( preferably Sicilian )</span>",
+        "comment": "coarse sea (preferably Sicilian)",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "3/4 teaspoon coarse sea salt (preferably Sicilian)",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    }
+]

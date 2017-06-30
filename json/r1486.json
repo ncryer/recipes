@@ -1,0 +1,81 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>yellow cornmeal</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup yellow cornmeal",
+        "name": "yellow cornmeal"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>( or more</span><span class='other'>)</span><span class='name'>cayenne pepper</span>",
+        "comment": "(or more",
+        "other": ")",
+        "unit": "teaspoon",
+        "name": "cayenne pepper",
+        "input": "1/4 teaspoon (or more) cayenne pepper",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='name'>okra pods</span><span class='other'>,</span><span class='comment'>cut crosswise into 1/2-inch pieces</span>",
+        "comment": "cut crosswise into 1/2-inch pieces",
+        "other": ",",
+        "name": "okra pods",
+        "input": "12 okra pods, cut crosswise into 1/2-inch pieces",
+        "qty": "12"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": ", divided",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "6 tablespoons olive oil, divided",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>fresh</span><span class='name'>corn kernels</span><span class='comment'>( cut from about 3 ears of</span><span class='name'>corn )</span>",
+        "comment": "fresh (cut from about 3 ears of",
+        "unit": "cup",
+        "name": "corn kernels corn)",
+        "input": "2 cups fresh corn kernels (cut from about 3 ears of corn)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>baby green pattypan squash</span><span class='comment'>, each cut into 6 pieces</span>",
+        "qty": "6",
+        "comment": ", each cut into 6 pieces",
+        "input": "6 baby green pattypan squash, each cut into 6 pieces",
+        "name": "baby green pattypan squash"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>1 12-ounce</span><span class='unit'>bag</span><span class='name'>cherry tomatoes</span><span class='comment'>, halved ( 2 cups )</span>",
+        "unit": "bag",
+        "comment": "1 12-ounce, halved (2 cups)",
+        "input": "1 12-ounce bag cherry tomatoes, halved (2 cups)",
+        "name": "cherry tomatoes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "2 tablespoons chopped fresh cilantro",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>green onions</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "name": "green onions",
+        "input": "2 green onions, chopped",
+        "qty": "2"
+    }
+]

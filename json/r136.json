@@ -1,0 +1,113 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>globe</span><span class='name'>eggplants</span><span class='comment'>( about 2 pounds total ) , cut into 3/4\" pieces</span>",
+        "qty": "2",
+        "comment": "globe (about 2 pounds total), cut into 3/4\" pieces",
+        "input": "2 globe eggplants (about 2 pounds total), cut into 3/4\" pieces",
+        "name": "eggplants"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>kosher</span><span class='name'>salt</span><span class='comment'>, plus more</span>",
+        "comment": "kosher, plus more",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "2 tablespoons kosher salt, plus more",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>fennel bulb</span><span class='comment'>, cut into 3/4\" pieces</span>",
+        "qty": "1",
+        "comment": "small, cut into 3/4\" pieces",
+        "input": "1 small fennel bulb, cut into 3/4\" pieces",
+        "name": "fennel bulb"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>vegetable oil</span>",
+        "unit": "cup",
+        "qty": "4",
+        "input": "4 cups vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>pine nuts</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup pine nuts",
+        "name": "pine nuts"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>red onion</span><span class='comment'>, thinly sliced</span>",
+        "qty": "1",
+        "comment": "medium, thinly sliced",
+        "input": "1 medium red onion, thinly sliced",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>Fresno chiles</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "name": "Fresno chiles",
+        "input": "2 Fresno chiles, thinly sliced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, thinly sliced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>paprika</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon paprika",
+        "name": "paprika"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>crushed</span><span class='name'>tomatoes</span>",
+        "comment": "crushed",
+        "unit": "cup",
+        "name": "tomatoes",
+        "input": "1 cup crushed tomatoes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>red wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>sweetened dried</span><span class='name'>cranberries</span>",
+        "comment": "sweetened dried",
+        "unit": "cup",
+        "name": "cranberries",
+        "input": "1/4 cup sweetened dried cranberries",
+        "qty": "1/4"
+    },
+    {
+        "other": "or",
+        "display": "<span class='comment'>Grilled</span><span class='other'>or</span><span class='comment'>toasted country-style</span><span class='name'>bread</span><span class='comment'>( for serving )</span>",
+        "comment": "Grilled toasted country-style (for serving)",
+        "input": "Grilled or toasted country-style bread (for serving)",
+        "name": "bread"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "display": "<span class='qty'>3 1/2</span><span class='unit'>pound</span><span class='name'>calabaza</span><span class='comment'>( Caribbean pumpkin; often sold in large wedges ) or butternut squash</span>",
+        "comment": "(Caribbean pumpkin; often sold in large wedges) or butternut squash",
+        "unit": "pound",
+        "name": "calabaza",
+        "input": "3 1/2 pound calabaza (Caribbean pumpkin; often sold in large wedges) or butternut squash",
+        "qty": "3 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='comment'>Accompaniment:</span><span class='name'>lime</span><span class='comment'>wedges</span>",
+        "comment": "Accompaniment: wedges",
+        "input": "Accompaniment: lime wedges",
+        "name": "lime"
+    }
+]

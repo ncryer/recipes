@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>large</span><span class='unit'>ears</span><span class='name'>white corn</span><span class='comment'>, husked</span>",
+        "comment": "large, husked",
+        "unit": "ear",
+        "name": "white corn",
+        "input": "6 large ears white corn, husked",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "5",
+        "input": "5 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>finely chopped</span><span class='name'>garlic</span>",
+        "comment": "finely chopped",
+        "unit": "tablespoon",
+        "name": "garlic",
+        "input": "1 tablespoon finely chopped garlic",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( packed ) thinly sliced fresh</span><span class='name'>basil</span>",
+        "comment": "(packed) thinly sliced fresh",
+        "unit": "cup",
+        "name": "basil",
+        "input": "1/2 cup (packed) thinly sliced fresh basil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='name'>plum tomatoes</span><span class='other'>,</span><span class='comment'>seeded , chopped</span>",
+        "comment": "seeded, chopped",
+        "other": ",",
+        "name": "plum tomatoes",
+        "input": "5 plum tomatoes, seeded, chopped",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>balsamic vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons balsamic vinegar",
+        "name": "balsamic vinegar"
+    }
+]

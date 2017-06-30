@@ -1,0 +1,71 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>pounds</span><span class='comment'>fresh</span><span class='name'>green beans</span>",
+        "comment": "fresh",
+        "unit": "pound",
+        "name": "green beans",
+        "input": "2 1/2 pounds fresh green beans",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>white miso</span><span class='comment'>( fermented soybean paste )</span>",
+        "comment": "(fermented soybean paste)",
+        "unit": "cup",
+        "name": "white miso",
+        "input": "1/4 cup white miso (fermented soybean paste)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>thinly sliced</span><span class='name'>scallions</span><span class='comment'>, dark-green parts only , divided</span>",
+        "comment": "thinly sliced, dark-green parts only, divided",
+        "unit": "tablespoon",
+        "name": "scallions",
+        "input": "3 tablespoons thinly sliced scallions, dark-green parts only, divided",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>unseasoned</span><span class='name'>rice vinegar</span>",
+        "comment": "unseasoned",
+        "unit": "tablespoon",
+        "name": "rice vinegar",
+        "input": "3 tablespoons unseasoned rice vinegar",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>Japanese prepared hot</span><span class='name'>mustard</span><span class='comment'>( not wasabi )</span><span class='other'>, or</span><span class='comment'>1 tablespoon English mustard powder mixed with</span><span class='qty'>1</span><span class='comment'>tablespoon water</span>",
+        "comment": "Japanese prepared hot (not wasabi) 1 tablespoon English mustard powder mixed with tablespoon water",
+        "other": ", or",
+        "unit": "tablespoon",
+        "name": "mustard",
+        "input": "2 tablespoons Japanese prepared hot mustard (not wasabi), or 1 tablespoon English mustard powder mixed with 1 tablespoon water",
+        "qty": "2 1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>sliced</span><span class='name'>almonds</span><span class='comment'>, toasted</span>",
+        "comment": "sliced, toasted",
+        "unit": "cup",
+        "name": "almonds",
+        "input": "1/4 cup sliced almonds, toasted",
+        "qty": "1/4"
+    }
+]

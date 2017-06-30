@@ -1,0 +1,17 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>Sherry vinegar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup Sherry vinegar",
+        "name": "Sherry vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>packed light</span><span class='name'>brown sugar</span>",
+        "comment": "packed light",
+        "unit": "cup",
+        "name": "brown sugar",
+        "input": "1/2 cup packed light brown sugar",
+        "qty": "1/2"
+    }
+]

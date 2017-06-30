@@ -1,0 +1,39 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>peeled shelled fresh</span><span class='name'>fava beans</span><span class='comment'>( 2 1/2 pounds in pod )</span>",
+        "comment": "peeled shelled fresh (2 1/2 pounds in pod)",
+        "unit": "cup",
+        "name": "fava beans",
+        "input": "3 cups peeled shelled fresh fava beans (2 1/2 pounds in pod)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='other'>1</span><span class='unit'>teaspoon</span><span class='other'>plus 2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": ", divided",
+        "other": "1 plus 2",
+        "unit": "teaspoon tablespoon",
+        "input": "1 teaspoon plus 2 tablespoons olive oil, divided",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>red onions</span><span class='comment'>, chopped</span>",
+        "qty": "2",
+        "comment": "medium, chopped",
+        "input": "2 medium red onions, chopped",
+        "name": "red onions"
+    },
+    {
+        "display": "<span class='comment'>Fine sea</span><span class='name'>salt</span>",
+        "comment": "Fine sea",
+        "input": "Fine sea salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='other'>Generous</span><span class='unit'>handful</span><span class='other'>of</span><span class='name'>mint</span><span class='other'>,</span><span class='comment'>roughly chopped ( about 1/2 cup )</span>",
+        "comment": "roughly chopped (about 1/2 cup)",
+        "other": "Generous of ,",
+        "unit": "handful",
+        "input": "Generous handful of mint, roughly chopped (about 1/2 cup)",
+        "name": "mint"
+    }
+]

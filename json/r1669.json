@@ -1,0 +1,23 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='name'>lemons</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "name": "lemons",
+        "input": "3 lemons, divided",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='name'>baby artichokes</span>",
+        "qty": "12",
+        "input": "12 baby artichokes",
+        "name": "baby artichokes"
+    },
+    {
+        "display": "<span class='name'>Olive oil</span><span class='other'>(</span><span class='comment'>for frying</span><span class='other'>)</span>",
+        "comment": "for frying",
+        "input": "Olive oil (for frying)",
+        "name": "Olive oil",
+        "other": "()"
+    }
+]

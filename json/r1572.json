@@ -1,0 +1,53 @@
+[
+    {
+        "display": "<span class='name'>To make Ginger-Mango Sauce</span><span class='other'>,</span><span class='comment'>place in processor and process until smooth:</span>",
+        "comment": "place in processor and process until smooth:",
+        "input": "To make Ginger-Mango Sauce, place in processor and process until smooth:",
+        "name": "To make Ginger-Mango Sauce",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>mango</span><span class='comment'>, seeded</span><span class='other'>,</span><span class='comment'>peeled , quartered</span>",
+        "comment": "large, seeded peeled, quartered",
+        "other": ",",
+        "name": "mango",
+        "input": "1 large mango, seeded, peeled, quartered",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>water</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>maple syrup</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons maple syrup",
+        "name": "maple syrup"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>chopped fresh</span><span class='name'>ginger</span>",
+        "comment": "chopped fresh",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "2 teaspoons chopped fresh ginger",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>vanilla extract</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon vanilla extract",
+        "name": "vanilla extract"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>cups</span><span class='name'>fresh pink grapefruit juice</span>",
+        "unit": "cup",
+        "qty": "2 1/2",
+        "input": "2 1/2 cups fresh pink grapefruit juice",
+        "name": "fresh pink grapefruit juice"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>cups</span><span class='comment'>fresh</span><span class='name'>orange juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "2 1/2 cups fresh orange juice",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>pineapple</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>and chopped ( about 4 cups )</span>",
+        "comment": "peeled cored and chopped (about 4 cups)",
+        "other": ",, ,",
+        "name": "pineapple",
+        "input": "1 pineapple, peeled, cored, and chopped (about 4 cups)",
+        "qty": "1"
+    }
+]

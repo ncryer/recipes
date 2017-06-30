@@ -1,0 +1,113 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>pure</span><span class='name'>maple syrup</span>",
+        "comment": "pure",
+        "unit": "tablespoon",
+        "name": "maple syrup",
+        "input": "2 tablespoons pure maple syrup",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>orange juice</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons orange juice",
+        "name": "orange juice"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>Sherry wine vinegar</span><span class='comment'>or balsamic</span><span class='name'>vinegar</span>",
+        "comment": "or balsamic",
+        "unit": "tablespoon",
+        "name": "Sherry wine vinegar vinegar",
+        "input": "2 tablespoons Sherry wine vinegar or balsamic vinegar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>minced peeled fresh</span><span class='name'>ginger</span>",
+        "comment": "minced peeled fresh",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "2 teaspoons minced peeled fresh ginger",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cinnamon</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cinnamon",
+        "input": "1/2 teaspoon ground cinnamon",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>nutmeg</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "nutmeg",
+        "input": "1/4 teaspoon ground nutmeg",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>pounds</span><span class='comment'>red-skinned</span><span class='name'>sweet potatoes</span><span class='comment'>( yams ) , peeled</span><span class='other'>,</span><span class='comment'>cut into 3/4-inch cubes</span>",
+        "comment": "red-skinned (yams), peeled cut into 3/4-inch cubes",
+        "other": ",",
+        "unit": "pound",
+        "name": "sweet potatoes",
+        "input": "6 pounds red-skinned sweet potatoes (yams), peeled, cut into 3/4-inch cubes",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>green onions</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "green onions",
+        "input": "1 cup chopped green onions",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1 cup chopped fresh parsley",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>pecans</span><span class='other'>,</span><span class='comment'>toasted , coarsely chopped</span>",
+        "comment": "toasted, coarsely chopped",
+        "other": ",",
+        "unit": "cup",
+        "name": "pecans",
+        "input": "1 cup pecans, toasted, coarsely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>golden raisins</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup golden raisins",
+        "name": "golden raisins"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>brown raisins</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup brown raisins",
+        "name": "brown raisins"
+    }
+]

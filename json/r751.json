@@ -1,0 +1,79 @@
+[
+    {
+        "display": "<span class='qty'>5</span><span class='comment'>large</span><span class='name'>bell peppers</span><span class='comment'>( preferably</span><span class='other'>3</span><span class='name'>red , 1 orange</span><span class='other'>,</span><span class='comment'>and 1 green )</span>",
+        "comment": "large (preferably and 1 green)",
+        "other": "3 ,",
+        "name": "bell peppers red, 1 orange",
+        "input": "5 large bell peppers (preferably 3 red, 1 orange, and 1 green)",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>golden raisins</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons golden raisins",
+        "name": "golden raisins"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>pressed</span>",
+        "comment": "pressed",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 large garlic cloves, pressed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>drained</span><span class='name'>capers</span>",
+        "comment": "drained",
+        "unit": "tablespoon",
+        "name": "capers",
+        "input": "1 1/2 tablespoons drained capers",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>white wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon white wine vinegar",
+        "name": "white wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>chopped fresh</span><span class='name'>thyme</span>",
+        "comment": "chopped fresh",
+        "unit": "teaspoon",
+        "name": "thyme",
+        "input": "1 teaspoon chopped fresh thyme",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>smoked paprika</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon smoked paprika",
+        "name": "smoked paprika"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pinches</span><span class='other'>of</span><span class='name'>cayenne pepper</span><span class='comment'>coarse kosher</span><span class='name'>salt</span>",
+        "comment": "coarse kosher",
+        "other": "of",
+        "unit": "pinch",
+        "name": "cayenne pepper salt",
+        "input": "2 pinches of cayenne pepper coarse kosher salt",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='name'>Ingredient info: Smoked paprika</span><span class='comment'>is available in the spice section of most super markets.</span>",
+        "comment": "is available in the spice section of most super markets.",
+        "input": "Ingredient info: Smoked paprika is available in the spice section of most super markets.",
+        "name": "Ingredient info: Smoked paprika"
+    }
+]

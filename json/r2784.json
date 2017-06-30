@@ -1,0 +1,39 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large red</span><span class='name'>onion</span><span class='comment'>, sliced into 1/4-inch rounds</span>",
+        "qty": "1",
+        "comment": "large red, sliced into 1/4-inch rounds",
+        "input": "1 large red onion, sliced into 1/4-inch rounds",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 1/2 teaspoons kosher salt",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>red wine vinegar</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "2 1/2",
+        "input": "2 1/2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/2 teaspoon freshly ground black pepper",
+        "qty": "1/2"
+    }
+]

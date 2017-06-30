@@ -1,0 +1,56 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "tablespoon",
+        "name": "cumin",
+        "input": "1 tablespoon ground cumin",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>1 2-pound</span><span class='unit'>head</span><span class='other'>of</span><span class='name'>cauliflower</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>cut into 1-inch florets ( about 8 cups ) 4</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span><span class='other'>, divided</span>",
+        "comment": "1 2-pound cored cut into 1-inch florets (about 8 cups) 4",
+        "other": "of, ,, divided",
+        "unit": "head tablespoon",
+        "input": "1 2-pound head of cauliflower, cored, cut into 1-inch florets (about 8 cups) 4 tablespoons vegetable oil, divided",
+        "name": "cauliflower vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>minced peeled fresh</span><span class='name'>ginger</span>",
+        "comment": "minced peeled fresh",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "1 teaspoon minced peeled fresh ginger",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>pressed</span>",
+        "comment": "pressed",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, pressed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='name'>ketchup</span>",
+        "unit": "cup",
+        "qty": "1 1/4",
+        "input": "1 1/4 cups ketchup",
+        "name": "ketchup"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>soy sauce</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons sugar",
+        "name": "sugar"
+    }
+]

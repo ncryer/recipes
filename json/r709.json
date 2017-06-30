@@ -1,0 +1,35 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>red onion</span><span class='comment'>, thinly sliced</span>",
+        "qty": "1/2",
+        "comment": ", thinly sliced",
+        "input": "1/2 red onion, thinly sliced",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>red wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>Florida avocado</span><span class='comment'>or 2 Hass avocados ( about 1 pound total ) , sliced</span>",
+        "qty": "1",
+        "comment": "or 2 Hass avocados (about 1 pound total), sliced",
+        "input": "1 Florida avocado or 2 Hass avocados (about 1 pound total), sliced",
+        "name": "Florida avocado"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>highest-quality extra-virgin olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon highest-quality extra-virgin olive oil",
+        "name": "highest-quality extra-virgin olive oil"
+    },
+    {
+        "display": "<span class='name'>Salt and black pepper</span>",
+        "input": "Salt and black pepper",
+        "name": "Salt and black pepper"
+    }
+]

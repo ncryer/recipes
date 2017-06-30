@@ -1,0 +1,46 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>well-baked</span><span class='name'>sugar pumpkin</span><span class='comment'>or butternut squash</span>",
+        "comment": "well-baked or butternut squash",
+        "unit": "cup",
+        "name": "sugar pumpkin",
+        "input": "4 cups well-baked sugar pumpkin or butternut squash",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>12.3-ounce package firm silken</span><span class='name'>tofu</span>",
+        "qty": "1",
+        "comment": "12.3-ounce package firm silken",
+        "input": "1 12.3-ounce package firm silken tofu",
+        "name": "tofu"
+    },
+    {
+        "display": "<span class='other'>1 1/3</span><span class='unit'>cups</span><span class='comment'>natural granulated</span><span class='name'>sugar</span>",
+        "comment": "natural granulated",
+        "other": "1 1/3",
+        "unit": "cup",
+        "input": "1 1/3 cups natural granulated sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>cinnamon</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons cinnamon",
+        "name": "cinnamon"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>pumpkin pie spice mix</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons pumpkin pie spice mix",
+        "name": "pumpkin pie spice mix"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>9-inch good-quality natural</span><span class='name'>pie crusts</span><span class='comment'>( pastry or graham cracker )</span>",
+        "qty": "2",
+        "comment": "9-inch good-quality natural (pastry or graham cracker)",
+        "input": "2 9-inch good-quality natural pie crusts (pastry or graham cracker)",
+        "name": "pie crusts"
+    }
+]

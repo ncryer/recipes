@@ -1,0 +1,89 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>cups</span><span class='comment'>rolled</span><span class='name'>oats</span>",
+        "comment": "rolled",
+        "unit": "cup",
+        "name": "oats",
+        "input": "2 1/2 cups rolled oats",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>raw wheat germ</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup raw wheat germ",
+        "name": "raw wheat germ"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>flax seed</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup flax seed",
+        "name": "flax seed"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sesame seeds</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sesame seeds",
+        "name": "sesame seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>blanched</span><span class='name'>almonds</span><span class='comment'>, chopped</span>",
+        "comment": "blanched, chopped",
+        "unit": "cup",
+        "name": "almonds",
+        "input": "1 cup blanched almonds, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>scant</span><span class='name'>tsp cinnamon</span>",
+        "qty": "1",
+        "comment": "scant",
+        "input": "1 scant tsp cinnamon",
+        "name": "tsp cinnamon"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>tsp</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "other": "1/8",
+        "unit": "tsp",
+        "input": "1/8 tsp kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='name'>tsp black pepper</span>",
+        "other": "1/8",
+        "input": "1/8 tsp black pepper",
+        "name": "tsp black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>+ 2 tbsp</span><span class='other'>(</span><span class='comment'>3 oz ) canola</span><span class='name'>oil</span>",
+        "comment": "3 oz) canola",
+        "other": "(",
+        "unit": "cup",
+        "name": "+ 2 tbsp oil",
+        "input": "1/4 cup + 2 tbsp (3 oz) canola oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>tbsp honey</span>",
+        "qty": "3",
+        "input": "3 tbsp honey",
+        "name": "tbsp honey"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>tbsp molasses</span>",
+        "qty": "3",
+        "input": "3 tbsp molasses",
+        "name": "tbsp molasses"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>dried</span><span class='name'>fruit</span>",
+        "comment": "dried",
+        "unit": "cup",
+        "name": "fruit",
+        "input": "1/4 cup dried fruit",
+        "qty": "1/4"
+    }
+]

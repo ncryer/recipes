@@ -1,0 +1,25 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>loosely packed fresh</span><span class='name'>mint leaves</span><span class='other'>,</span><span class='comment'>rinsed and spun dry</span><span class='other'>,</span><span class='comment'>plus fresh mint sprigs for garnish</span>",
+        "comment": "loosely packed fresh rinsed and spun dry plus fresh mint sprigs for garnish",
+        "other": ", ,",
+        "unit": "cup",
+        "name": "mint leaves",
+        "input": "3/4 cup loosely packed fresh mint leaves, rinsed and spun dry, plus fresh mint sprigs for garnish",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>bourbon</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup bourbon",
+        "name": "bourbon"
+    },
+    {
+        "display": "<span class='comment'>A 750-ml.</span><span class='name'>bottle champagne</span><span class='other'>,</span><span class='comment'>chilled</span>",
+        "comment": "A 750-ml. chilled",
+        "input": "A 750-ml. bottle champagne, chilled",
+        "name": "bottle champagne",
+        "other": ","
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>ounces</span><span class='name'>bittersweet</span><span class='comment'>( not unsweetened ) or semisweet</span><span class='name'>chocolate</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "(not unsweetened) or semisweet chopped",
+        "other": ",",
+        "unit": "ounce",
+        "name": "bittersweet chocolate",
+        "input": "8 ounces bittersweet (not unsweetened) or semisweet chocolate, chopped",
+        "qty": "8"
+    }
+]

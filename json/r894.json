@@ -1,0 +1,65 @@
+[
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>pound</span><span class='name'>kohlrabi</span><span class='other'>,</span><span class='comment'>bulbs peeled</span>",
+        "comment": "bulbs peeled",
+        "other": ",",
+        "unit": "pound",
+        "name": "kohlrabi",
+        "input": "1 1/4 pound kohlrabi, bulbs peeled",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>grated</span><span class='name'>lime</span>",
+        "comment": "grated",
+        "unit": "teaspoon",
+        "name": "lime",
+        "input": "1/2 teaspoon grated lime",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "2 tablespoons fresh lime juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": "extra-virgin, divided",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil, divided",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>kale</span><span class='comment'>( 2 bunches ) , stems and center ribs discarded</span>",
+        "comment": "(2 bunches), stems and center ribs discarded",
+        "unit": "pound",
+        "name": "kale",
+        "input": "2 pounds kale (2 bunches), stems and center ribs discarded",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "5 garlic cloves, finely chopped",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>salted</span><span class='comment'>roasted</span><span class='name'>pistachios</span><span class='comment'>, chopped</span>",
+        "comment": "roasted, chopped",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup salted roasted pistachios, chopped",
+        "name": "salted pistachios"
+    },
+    {
+        "display": "<span class='name'>Equipment: an adjustable-blade slicer</span>",
+        "input": "Equipment: an adjustable-blade slicer",
+        "name": "Equipment: an adjustable-blade slicer"
+    }
+]

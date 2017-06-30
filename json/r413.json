@@ -1,0 +1,31 @@
+[
+    {
+        "display": "<span class='qty'>12</span><span class='comment'>dried New Mexico or guajillo chiles ( about 2 ounces )</span>",
+        "comment": "dried New Mexico or guajillo chiles (about 2 ounces)",
+        "input": "12 dried New Mexico or guajillo chiles (about 2 ounces)",
+        "qty": "12"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>unpeeled</span>",
+        "comment": "unpeeled",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 garlic cloves, unpeeled",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>( or more )</span><span class='name'>apple cider vinegar</span>",
+        "comment": "(or more)",
+        "unit": "tablespoon",
+        "name": "apple cider vinegar",
+        "input": "1 tablespoon (or more) apple cider vinegar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    }
+]

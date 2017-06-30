@@ -1,0 +1,76 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>balsamic vinegar</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons balsamic vinegar",
+        "name": "balsamic vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>Dijon mustard</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>basil</span><span class='comment'>, finely chopped</span>",
+        "comment": "fresh, finely chopped",
+        "unit": "cup",
+        "name": "basil",
+        "input": "1/4 cup fresh basil, finely chopped",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>pounds</span><span class='comment'>heirloom</span><span class='name'>tomatoes</span><span class='comment'>cut into bite-size wedges</span>",
+        "comment": "heirloom cut into bite-size wedges",
+        "unit": "pound",
+        "name": "tomatoes",
+        "input": "2 1/2 pounds heirloom tomatoes cut into bite-size wedges",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='comment'>( 2 ears ) cooked</span><span class='name'>corn</span>",
+        "comment": "(2 ears) cooked",
+        "unit": "cup",
+        "name": "corn",
+        "input": "1 1/4 cups (2 ears) cooked corn",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>arugula</span>",
+        "unit": "cup",
+        "qty": "4",
+        "input": "4 cups arugula",
+        "name": "arugula"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>red onion</span><span class='comment'>, thinly sliced</span>",
+        "qty": "1",
+        "comment": ", thinly sliced",
+        "input": "1 red onion, thinly sliced",
+        "name": "red onion"
+    }
+]

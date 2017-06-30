@@ -1,0 +1,120 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='name'>lemongrass</span><span class='unit'>stalk</span><span class='other'>,</span><span class='comment'>tough outer layer removed , coarsely chopped</span>",
+        "comment": "tough outer layer removed, coarsely chopped",
+        "other": ",",
+        "unit": "stalk",
+        "name": "lemongrass",
+        "input": "1 lemongrass stalk, tough outer layer removed, coarsely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>2\"</span><span class='unit'>piece</span><span class='name'>ginger</span><span class='comment'>, peeled , chopped</span>",
+        "comment": "2\", peeled, chopped",
+        "unit": "piece",
+        "name": "ginger",
+        "input": "1 2\" piece ginger, peeled, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span>",
+        "unit": "clove",
+        "qty": "4",
+        "input": "4 garlic cloves",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>red curry paste</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup red curry paste",
+        "name": "red curry paste"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>tomato paste</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons tomato paste",
+        "name": "tomato paste"
+    },
+    {
+        "display": "<span class='comment'>1 14.5-ounce can crushed</span><span class='name'>tomatoes</span>",
+        "comment": "1 14.5-ounce can crushed",
+        "input": "1 14.5-ounce can crushed tomatoes",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>13.5</span><span class='unit'>ounce</span><span class='comment'>cans</span><span class='name'>coconut milk</span>",
+        "comment": "13.5 cans",
+        "unit": "ounce",
+        "name": "coconut milk",
+        "input": "2 13.5 ounce cans coconut milk",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pound</span><span class='comment'>sweet</span><span class='name'>potatoes</span><span class='comment'>, peeled , cut into 1\" pieces</span>",
+        "comment": "sweet, peeled, cut into 1\" pieces",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "1 1/2 pound sweet potatoes, peeled, cut into 1\" pieces",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>pound</span><span class='comment'>small or young</span><span class='name'>carrots</span><span class='other'>,</span><span class='comment'>peeled , cut on a diagonal into 2\" pieces</span>",
+        "comment": "small or young peeled, cut on a diagonal into 2\" pieces",
+        "other": ",",
+        "unit": "pound",
+        "name": "carrots",
+        "input": "3/4 pound small or young carrots, peeled, cut on a diagonal into 2\" pieces",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>medium</span><span class='name'>shallots</span><span class='comment'>, peeled keeping roots intact , quartered lengthwise</span>",
+        "qty": "6",
+        "comment": "medium, peeled keeping roots intact, quartered lengthwise",
+        "input": "6 medium shallots, peeled keeping roots intact, quartered lengthwise",
+        "name": "shallots"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>red Thai</span><span class='name'>chile</span><span class='comment'>, thinly sliced ( optional )</span>",
+        "qty": "1",
+        "comment": "red Thai, thinly sliced (optional)",
+        "input": "1 red Thai chile, thinly sliced (optional)",
+        "name": "chile"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "1 tablespoon fresh lime juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Steamed</span><span class='name'>jasmine rice</span><span class='other'>(</span><span class='comment'>for serving</span><span class='other'>)</span>",
+        "comment": "Steamed for serving",
+        "input": "Steamed jasmine rice (for serving)",
+        "name": "jasmine rice",
+        "other": "()"
+    },
+    {
+        "display": "<span class='comment'>Thinly sliced</span><span class='name'>scallions</span><span class='other'>,</span><span class='name'>basil leaves</span><span class='other'>,</span><span class='comment'>cilantro leaves with tender stems</span><span class='other'>,</span><span class='comment'>and lime wedges ( for serving )</span>",
+        "comment": "Thinly sliced cilantro leaves with tender stems and lime wedges (for serving)",
+        "input": "Thinly sliced scallions, basil leaves, cilantro leaves with tender stems, and lime wedges (for serving)",
+        "name": "scallions basil leaves",
+        "other": ",, ,"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='other'>to</span><span class='range_end'>1 1/2</span><span class='unit'>pounds</span><span class='comment'>whole</span><span class='name'>chestnuts</span><span class='comment'>in shells</span>",
+        "comment": "whole in shells",
+        "other": "to",
+        "unit": "pound",
+        "qty": "1",
+        "range_end": "1 1/2",
+        "input": "1 to 1 1/2 pounds whole chestnuts in shells",
+        "name": "chestnuts"
+    },
+    {
+        "display": "<span class='comment'>Accompaniment:</span><span class='name'>clementines</span>",
+        "comment": "Accompaniment:",
+        "input": "Accompaniment: clementines",
+        "name": "clementines"
+    }
+]

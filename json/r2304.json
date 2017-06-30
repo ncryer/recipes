@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>beet</span><span class='unit'>bunches</span><span class='comment'>with tops , tops reserved for</span>",
+        "comment": "with tops, tops reserved for",
+        "unit": "bunch",
+        "name": "beet",
+        "input": "2 beet bunches with tops, tops reserved for",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/4 cup fresh lemon juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='other'>1 tablespoon plus 1</span><span class='unit'>teaspoon</span><span class='name'>honey</span>",
+        "unit": "teaspoon",
+        "other": "1 tablespoon plus 1",
+        "input": "1 tablespoon plus 1 teaspoon honey",
+        "name": "honey"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>watercress bunches</span><span class='other'>,</span><span class='comment'>trimmed</span>",
+        "comment": "trimmed",
+        "other": ",",
+        "name": "watercress bunches",
+        "input": "2 watercress bunches, trimmed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>fennel bulbs</span><span class='comment'>, trimmed , cut into strips</span>",
+        "qty": "2",
+        "comment": ", trimmed, cut into strips",
+        "input": "2 fennel bulbs, trimmed, cut into strips",
+        "name": "fennel bulbs"
+    }
+]

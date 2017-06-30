@@ -1,0 +1,32 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>small</span><span class='name'>grapefruits</span>",
+        "qty": "2",
+        "comment": "small",
+        "input": "2 small grapefruits",
+        "name": "grapefruits"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>granulated</span><span class='name'>sugar</span>",
+        "comment": "granulated",
+        "unit": "cup",
+        "name": "sugar",
+        "input": "1 cup granulated sugar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>superfine granulated</span><span class='name'>sugar</span>",
+        "comment": "superfine granulated",
+        "unit": "cup",
+        "name": "sugar",
+        "input": "1 cup superfine granulated sugar",
+        "qty": "1"
+    }
+]

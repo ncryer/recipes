@@ -1,0 +1,31 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>lemons</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "halved",
+        "other": ",",
+        "name": "lemons",
+        "input": "2 lemons, halved",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>large artichokes</span><span class='other'>(</span><span class='comment'>3/4 lb each</span><span class='other'>)</span>",
+        "comment": "3/4 lb each",
+        "other": "()",
+        "name": "large artichokes",
+        "input": "4 large artichokes (3/4 lb each)",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='name'>olive oil</span><span class='comment'>or vegetable oil</span>",
+        "comment": "or vegetable oil",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "6 cups olive oil or vegetable oil",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='name'>Special equipment: a deep-fat thermometer</span>",
+        "input": "Special equipment: a deep-fat thermometer",
+        "name": "Special equipment: a deep-fat thermometer"
+    }
+]

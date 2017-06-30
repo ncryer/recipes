@@ -1,0 +1,69 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>fresh</span><span class='name'>poblano chili</span>",
+        "qty": "1",
+        "comment": "fresh",
+        "input": "1 fresh poblano chili",
+        "name": "poblano chili"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>zucchini</span>",
+        "qty": "1",
+        "comment": "medium",
+        "input": "1 medium zucchini",
+        "name": "zucchini"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>scallions</span>",
+        "qty": "2",
+        "input": "2 scallions",
+        "name": "scallions"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='name'>garlic</span><span class='unit'>cloves</span>",
+        "unit": "clove",
+        "qty": "5",
+        "input": "5 garlic cloves",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>pound</span><span class='comment'>assorted vine-ripened cherry</span><span class='name'>tomatoes</span><span class='comment'>( about 1 pint )</span>",
+        "comment": "assorted vine-ripened cherry (about 1 pint)",
+        "unit": "pound",
+        "name": "tomatoes",
+        "input": "3/4 pound assorted vine-ripened cherry tomatoes (about 1 pint)",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>fresh</span><span class='name'>corn</span><span class='comment'>( cut from about 8 ears</span><span class='other'>)</span>",
+        "comment": "fresh (cut from about 8 ears",
+        "other": ")",
+        "unit": "cup",
+        "name": "corn",
+        "input": "4 cups fresh corn (cut from about 8 ears)",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>small fresh</span><span class='name'>lemon</span><span class='comment'>thyme sprigs</span>",
+        "comment": "small fresh thyme sprigs",
+        "unit": "tablespoon",
+        "name": "lemon",
+        "input": "2 tablespoons small fresh lemon thyme sprigs",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>coriander</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "coriander",
+        "input": "1 tablespoon chopped fresh coriander",
+        "qty": "1"
+    }
+]

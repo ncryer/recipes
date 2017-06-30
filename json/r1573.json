@@ -1,0 +1,59 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>assorted</span><span class='name'>bell peppers</span><span class='comment'>( red</span><span class='other'>,</span><span class='comment'>orange</span><span class='other'>,</span><span class='comment'>and yellow )</span>",
+        "comment": "assorted (red orange and yellow)",
+        "other": ", ,",
+        "name": "bell peppers",
+        "input": "6 assorted bell peppers (red, orange, and yellow)",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh Italian</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh Italian",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/4 cup chopped fresh Italian parsley",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>drained</span><span class='name'>capers</span>",
+        "comment": "drained",
+        "unit": "cup",
+        "name": "capers",
+        "input": "1/4 cup drained capers",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, minced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>dried</span><span class='name'>oregano</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "oregano",
+        "input": "2 teaspoons dried oregano",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>crushed dried</span><span class='name'>red pepper</span>",
+        "comment": "crushed dried",
+        "unit": "teaspoon",
+        "name": "red pepper",
+        "input": "1/4 teaspoon crushed dried red pepper",
+        "qty": "1/4"
+    }
+]

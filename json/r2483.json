@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>zucchini</span><span class='comment'>, halved crosswise , each half cut lengthwise into 4 flat slices</span>",
+        "comment": ", halved crosswise, each half cut lengthwise into 4 flat slices",
+        "unit": "pound",
+        "name": "zucchini",
+        "input": "2 pounds zucchini, halved crosswise, each half cut lengthwise into 4 flat slices",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 garlic cloves, minced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>dried crushed</span><span class='name'>red pepper</span>",
+        "comment": "dried crushed",
+        "unit": "teaspoon",
+        "name": "red pepper",
+        "input": "1/2 teaspoon dried crushed red pepper",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='name'>Sea salt</span><span class='other'>(</span><span class='comment'>preferably fleur de sel</span><span class='other'>)</span>",
+        "comment": "preferably fleur de sel",
+        "input": "Sea salt (preferably fleur de sel)",
+        "name": "Sea salt",
+        "other": "()"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "1 tablespoon chopped fresh parsley",
+        "qty": "1"
+    }
+]

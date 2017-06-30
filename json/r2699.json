@@ -1,0 +1,111 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>eggplant</span><span class='comment'>( 1 large ) , cut into 1-inch cubes</span>",
+        "comment": "(1 large), cut into 1-inch cubes",
+        "unit": "pound",
+        "name": "eggplant",
+        "input": "1 pound eggplant (1 large), cut into 1-inch cubes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='name'>zucchini</span><span class='comment'>( 2 medium ) , cut into 1-inch cubes</span>",
+        "comment": "(2 medium), cut into 1-inch cubes",
+        "unit": "pound",
+        "name": "zucchini",
+        "input": "1 1/2 pounds zucchini (2 medium), cut into 1-inch cubes",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>green</span><span class='other'>,</span><span class='comment'>red , or yellow</span><span class='name'>bell peppers</span><span class='other'>,</span><span class='comment'>cut into 1-inch pieces</span>",
+        "comment": "red, or yellow cut into 1-inch pieces",
+        "other": ", ,",
+        "name": "green bell peppers",
+        "input": "2 green, red, or yellow bell peppers, cut into 1-inch pieces",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>1 ( 1/2-pound ) sweet</span><span class='name'>apple</span><span class='comment'>such as Fuji</span><span class='other'>or</span><span class='comment'>Gala</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>halved</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>and cut into 1-inch cubes</span>",
+        "comment": "1 (1/2-pound) sweet such as Fuji Gala peeled halved cored and cut into 1-inch cubes",
+        "input": "1 (1/2-pound) sweet apple such as Fuji or Gala, peeled, halved, cored, and cut into 1-inch cubes",
+        "name": "apple",
+        "other": "or, ,, ,"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>onion</span><span class='comment'>, chopped</span>",
+        "qty": "1",
+        "comment": "large, chopped",
+        "input": "1 large onion, chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 28-ounce ) can whole tomatoes in juice , chopped and juice reserved</span>",
+        "comment": "(28-ounce) can whole tomatoes in juice, chopped and juice reserved",
+        "input": "1 (28-ounce) can whole tomatoes in juice, chopped and juice reserved",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>1 ( 10-ounce ) package frozen cut</span><span class='name'>okra</span>",
+        "comment": "1 (10-ounce) package frozen cut",
+        "input": "1 (10-ounce) package frozen cut okra",
+        "name": "okra"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>tomato paste</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons tomato paste",
+        "name": "tomato paste"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/4",
+        "input": "1 1/4 teaspoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "3 tablespoons fresh lemon juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh flat-leaf</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh flat-leaf",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/4 cup chopped fresh flat-leaf parsley",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='name'>Accompaniment: rice pilaf</span><span class='comment'>or steamed</span><span class='name'>bulgur</span>",
+        "comment": "or steamed",
+        "input": "Accompaniment: rice pilaf or steamed bulgur",
+        "name": "Accompaniment: rice pilaf bulgur"
+    }
+]

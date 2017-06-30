@@ -1,0 +1,60 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>anisette</span><span class='other'>(</span><span class='comment'>anise liqueur</span><span class='other'>)</span>",
+        "comment": "anise liqueur",
+        "other": "()",
+        "unit": "tablespoon",
+        "name": "anisette",
+        "input": "3 tablespoons anisette (anise liqueur)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 2-pound</span><span class='other'>)</span><span class='unit'>wedge</span><span class='comment'>chilled watermelon</span>",
+        "comment": "(2-pound chilled watermelon",
+        "other": ")",
+        "unit": "wedge",
+        "input": "1 (2-pound) wedge chilled watermelon",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped</span><span class='name'>mint</span>",
+        "comment": "chopped",
+        "unit": "tablespoon",
+        "name": "mint",
+        "input": "1 tablespoon chopped mint",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pint</span><span class='name'>lemon</span>",
+        "unit": "pint",
+        "qty": "1",
+        "input": "1 pint lemon",
+        "name": "lemon"
+    },
+    {
+        "other": "(",
+        "display": "<span class='other'>(</span><span class='name'>sorbet</span><span class='comment'>) or Italian</span><span class='name'>ice</span>",
+        "comment": ") or Italian",
+        "input": "(sorbet) or Italian ice",
+        "name": "sorbet ice"
+    },
+    {
+        "display": "<span class='name'>Equipment: a 1-inch melon-ball cutter</span>",
+        "input": "Equipment: a 1-inch melon-ball cutter",
+        "name": "Equipment: a 1-inch melon-ball cutter"
+    },
+    {
+        "display": "<span class='comment'>Garnish:</span><span class='name'>mint</span><span class='unit'>sprigs</span>",
+        "unit": "sprig",
+        "comment": "Garnish:",
+        "input": "Garnish: mint sprigs",
+        "name": "mint"
+    }
+]

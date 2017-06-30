@@ -1,0 +1,35 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>vanilla bean</span>",
+        "qty": "1/2",
+        "input": "1/2 vanilla bean",
+        "name": "vanilla bean"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>oz dried</span><span class='name'>Angelino plums*</span><span class='comment'>( 1 1/4 cups )</span>",
+        "qty": "6",
+        "comment": "oz dried (1 1/4 cups)",
+        "input": "6 oz dried Angelino plums* (1 1/4 cups)",
+        "name": "Angelino plums*"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>oz dried</span><span class='name'>California apricots**</span><span class='comment'>( 1 1/4 cups )</span>",
+        "qty": "6",
+        "comment": "oz dried (1 1/4 cups)",
+        "input": "6 oz dried California apricots** (1 1/4 cups)",
+        "name": "California apricots**"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>chai tea bags</span>",
+        "qty": "2",
+        "input": "2 chai tea bags",
+        "name": "chai tea bags"
+    }
+]

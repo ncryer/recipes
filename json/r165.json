@@ -1,0 +1,80 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>old-fashioned</span><span class='name'>oats</span>",
+        "comment": "old-fashioned",
+        "unit": "cup",
+        "name": "oats",
+        "input": "1/2 cup old-fashioned oats",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>chia seeds</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons chia seeds",
+        "name": "chia seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>coconut-milk beverage</span><span class='comment'>or almond milk</span>",
+        "comment": "or almond milk",
+        "unit": "cup",
+        "name": "coconut-milk beverage",
+        "input": "1 cup coconut-milk beverage or almond milk",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>ripe</span><span class='name'>avocado</span>",
+        "qty": "1/2",
+        "comment": "ripe",
+        "input": "1/2 ripe avocado",
+        "name": "avocado"
+    },
+    {
+        "display": "<span class='comment'>1 ( 1-inch )</span><span class='unit'>piece</span><span class='comment'>fresh</span><span class='name'>ginger</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>roughly chopped</span>",
+        "comment": "1 (1-inch) fresh peeled roughly chopped",
+        "other": ", ,",
+        "unit": "piece",
+        "input": "1 (1-inch) piece fresh ginger, peeled, roughly chopped",
+        "name": "ginger"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>frozen</span><span class='name'>mango cubes</span>",
+        "comment": "frozen",
+        "unit": "cup",
+        "name": "mango cubes",
+        "input": "1 cup frozen mango cubes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>loosely packed baby</span><span class='name'>spinach</span>",
+        "comment": "loosely packed baby",
+        "unit": "cup",
+        "name": "spinach",
+        "input": "1 cup loosely packed baby spinach",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>unsweetened</span><span class='name'>almond butter</span>",
+        "comment": "unsweetened",
+        "unit": "tablespoon",
+        "name": "almond butter",
+        "input": "1 tablespoon unsweetened almond butter",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>matcha</span><span class='other'>(</span><span class='comment'>green tea powder</span><span class='other'>)</span>",
+        "comment": "green tea powder",
+        "other": "()",
+        "unit": "teaspoon",
+        "name": "matcha",
+        "input": "1/2 teaspoon matcha (green tea powder)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='name'>Unsweetened coconut flakes</span><span class='other'>,</span><span class='comment'>granola , and/or raspberries ( for serving )</span>",
+        "comment": "granola, and/or raspberries (for serving)",
+        "input": "Unsweetened coconut flakes, granola, and/or raspberries (for serving)",
+        "name": "Unsweetened coconut flakes",
+        "other": ","
+    }
+]

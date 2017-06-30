@@ -1,0 +1,10 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>Japanese short-grain white or haiga</span><span class='name'>rice</span>",
+        "comment": "Japanese short-grain white or haiga",
+        "unit": "cup",
+        "name": "rice",
+        "input": "2 cups Japanese short-grain white or haiga rice",
+        "qty": "2"
+    }
+]

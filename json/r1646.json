@@ -1,0 +1,67 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>canola oil , for frying , plus 3 tablespoons</span>",
+        "unit": "cup",
+        "qty": "4",
+        "input": "4 cups canola oil, for frying, plus 3 tablespoons",
+        "name": "canola oil, for frying, plus 3 tablespoons"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>pound</span><span class='comment'>medium or firm tofu , cut into 1 1/4-inch cubes</span>",
+        "unit": "pound",
+        "comment": "medium or firm tofu, cut into 1 1/4-inch cubes",
+        "input": "1 1/4 pound medium or firm tofu, cut into 1 1/4-inch cubes",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>yellow onion</span><span class='comment'>, cut into 1/4-inch slices</span>",
+        "comment": ", cut into 1/4-inch slices",
+        "unit": "cup",
+        "name": "yellow onion",
+        "input": "1 cup yellow onion, cut into 1/4-inch slices",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>minced</span><span class='name'>garlic</span>",
+        "comment": "minced",
+        "unit": "teaspoon",
+        "name": "garlic",
+        "input": "2 teaspoons minced garlic",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='name'>vine-ripened tomatoes</span><span class='comment'>, cut into 3/4-inch wedges</span>",
+        "comment": ", cut into 3/4-inch wedges",
+        "unit": "pound",
+        "name": "vine-ripened tomatoes",
+        "input": "1 1/2 pounds vine-ripened tomatoes, cut into 3/4-inch wedges",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span>",
+        "unit": "tablespoon",
+        "input": "3 tablespoons",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='other'>(</span><span class='comment'>rice wine</span><span class='other'>)</span>",
+        "comment": "rice wine",
+        "input": "(rice wine)",
+        "other": "()"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>green onions</span><span class='comment'>, cut into 1-inch-long pieces</span>",
+        "comment": ", cut into 1-inch-long pieces",
+        "unit": "cup",
+        "name": "green onions",
+        "input": "1/2 cup green onions, cut into 1-inch-long pieces",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='name'>Salt</span><span class='other'>,</span><span class='comment'>to taste</span>",
+        "comment": "to taste",
+        "input": "Salt, to taste",
+        "name": "Salt",
+        "other": ","
+    }
+]

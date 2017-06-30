@@ -1,0 +1,78 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='comment'>medium</span><span class='name'>zucchini</span>",
+        "comment": "medium",
+        "unit": "pound",
+        "name": "zucchini",
+        "input": "1 1/2 pounds medium zucchini",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/4",
+        "input": "1 1/4 teaspoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>corn kernels</span><span class='other'>(</span><span class='comment'>cut from 2 ears )</span>",
+        "comment": "fresh cut from 2 ears)",
+        "other": "(",
+        "unit": "cup",
+        "name": "corn kernels",
+        "input": "1 cup fresh corn kernels (cut from 2 ears)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>ounces</span><span class='comment'>grape or cherry</span><span class='name'>tomatoes</span><span class='comment'>, halved lengthwise ( 2 cups )</span>",
+        "comment": "grape or cherry, halved lengthwise (2 cups)",
+        "unit": "ounce",
+        "name": "tomatoes",
+        "input": "8 ounces grape or cherry tomatoes, halved lengthwise (2 cups)",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>thinly sliced fresh</span><span class='name'>basil</span>",
+        "comment": "thinly sliced fresh",
+        "unit": "cup",
+        "name": "basil",
+        "input": "1/4 cup thinly sliced fresh basil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='name'>Special</span><span class='comment'>equipment: an adjustable-blade slicer with julienne cutter or a julienne peeler</span>",
+        "comment": "equipment: an adjustable-blade slicer with julienne cutter or a julienne peeler",
+        "input": "Special equipment: an adjustable-blade slicer with julienne cutter or a julienne peeler",
+        "name": "Special"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>canola oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons canola oil",
+        "name": "canola oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": ",",
+        "unit": "cup clove",
+        "name": "garlic",
+        "input": "1/2 cup garlic cloves, finely chopped",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>finely chopped fresh Italian</span><span class='name'>parsley</span>",
+        "comment": "finely chopped fresh Italian",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/2 cup finely chopped fresh Italian parsley",
+        "qty": "1/2"
+    }
+]

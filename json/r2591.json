@@ -1,0 +1,44 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='other'>(</span><span class='comment'>11 1/2-oz ) cans pear nectar ( 2 3/4 cups total )</span>",
+        "qty": "2",
+        "comment": "11 1/2-oz) cans pear nectar (2 3/4 cups total)",
+        "input": "2 (11 1/2-oz) cans pear nectar (2 3/4 cups total)",
+        "other": "("
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>superfine granulated</span><span class='name'>sugar</span>",
+        "comment": "superfine granulated",
+        "unit": "tablespoon",
+        "name": "sugar",
+        "input": "6 tablespoons superfine granulated sugar",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cardamom</span>",
+        "comment": "ground",
+        "other": "1/8",
+        "unit": "teaspoon",
+        "input": "1/8 teaspoon ground cardamom",
+        "name": "cardamom"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "2 teaspoons fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Accompaniment: sliced firm-ripe</span><span class='name'>pears</span><span class='comment'>tossed with fresh</span><span class='name'>lemon juice</span>",
+        "comment": "Accompaniment: sliced firm-ripe tossed with fresh",
+        "input": "Accompaniment: sliced firm-ripe pears tossed with fresh lemon juice",
+        "name": "pears lemon juice"
+    },
+    {
+        "display": "<span class='name'>Special equipment: an ice cream maker</span>",
+        "input": "Special equipment: an ice cream maker",
+        "name": "Special equipment: an ice cream maker"
+    }
+]

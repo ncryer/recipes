@@ -1,0 +1,99 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium</span><span class='name'>tomatoes</span><span class='comment'>, peeled</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>and chopped ( about 3 cups )</span>",
+        "comment": "medium, peeled seeded and chopped (about 3 cups)",
+        "other": ", ,",
+        "name": "tomatoes",
+        "input": "3 medium tomatoes, peeled, seeded, and chopped (about 3 cups)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>cucumber</span><span class='comment'>, peeled</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>and chopped ( about 2 cups )</span>",
+        "comment": "large, peeled seeded and chopped (about 2 cups)",
+        "other": ", ,",
+        "name": "cucumber",
+        "input": "1 large cucumber, peeled, seeded, and chopped (about 2 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>red bell pepper</span><span class='comment'>, chopped ( about 1 cup )</span>",
+        "qty": "1",
+        "comment": ", chopped (about 1 cup)",
+        "input": "1 red bell pepper, chopped (about 1 cup)",
+        "name": "red bell pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, chopped ( about 11/4 cups )</span>",
+        "qty": "1",
+        "comment": "medium, chopped (about 11/4 cups)",
+        "input": "1 medium onion, chopped (about 11/4 cups)",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>canned</span><span class='name'>tomato juice</span>",
+        "comment": "canned",
+        "unit": "cup",
+        "name": "tomato juice",
+        "input": "3 cups canned tomato juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>herbs</span><span class='comment'>( such as tarragon</span><span class='other'>,</span><span class='comment'>thyme</span><span class='other'>,</span><span class='comment'>or parsley )</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "fresh (such as tarragon thyme or parsley) chopped",
+        "other": ",, ,",
+        "unit": "tablespoon",
+        "name": "herbs",
+        "input": "2 tablespoons fresh herbs (such as tarragon, thyme, or parsley), chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>red wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>peeled and finely chopped</span>",
+        "comment": "peeled and finely chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 cloves garlic, peeled and finely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>tomato paste</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons tomato paste",
+        "name": "tomato paste"
+    },
+    {
+        "display": "<span class='comment'>Juice of</span><span class='qty'>1/2</span><span class='other'>a</span><span class='name'>lemon</span>",
+        "comment": "Juice of",
+        "other": "a",
+        "name": "lemon",
+        "input": "Juice of 1/2 a lemon",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='name'>Cayenne pepper</span>",
+        "input": "Cayenne pepper",
+        "name": "Cayenne pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>croutons</span><span class='comment'>, to garnish</span>",
+        "comment": ", to garnish",
+        "unit": "cup",
+        "name": "croutons",
+        "input": "1 cup croutons, to garnish",
+        "qty": "1"
+    }
+]

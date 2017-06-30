@@ -1,0 +1,60 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>canola oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons canola oil",
+        "name": "canola oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>minced ( about 8 to 9 cloves )</span>",
+        "comment": "minced (about 8 to 9 cloves)",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "garlic",
+        "input": "3 tablespoons garlic, minced (about 8 to 9 cloves)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>ginger</span><span class='other'>,</span><span class='comment'>minced ( from 1/2-inch knob )</span>",
+        "comment": "minced (from 1/2-inch knob)",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "ginger",
+        "input": "1 tablespoon ginger, minced (from 1/2-inch knob)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>trimmed and thinly sliced , white & green parts separated</span>",
+        "comment": "trimmed and thinly sliced, white & green parts separated",
+        "other": ",",
+        "name": "scallions",
+        "input": "8 scallions, trimmed and thinly sliced, white & green parts separated",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>20</span><span class='unit'>heads</span><span class='name'>baby bok choy</span><span class='other'>,</span><span class='comment'>bruised or withered outer leaves removed if necessary</span><span class='other'>,</span><span class='comment'>halved lengthwise</span><span class='other'>, and</span><span class='comment'>bottoms trimmed but left intact</span>",
+        "comment": "bruised or withered outer leaves removed if necessary halved lengthwise bottoms trimmed but left intact",
+        "other": ",, , and",
+        "unit": "head",
+        "name": "baby bok choy",
+        "input": "20 heads baby bok choy, bruised or withered outer leaves removed if necessary, halved lengthwise, and bottoms trimmed but left intact",
+        "qty": "20"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "3/4 teaspoon kosher salt",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "3/4 teaspoon freshly ground black pepper",
+        "qty": "3/4"
+    }
+]

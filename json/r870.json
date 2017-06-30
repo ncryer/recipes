@@ -1,0 +1,86 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/2 cup extra-virgin olive oil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>balsamic vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons balsamic vinegar",
+        "name": "balsamic vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>whole-grain</span><span class='name'>mustard</span>",
+        "comment": "whole-grain",
+        "unit": "teaspoon",
+        "name": "mustard",
+        "input": "2 teaspoons whole-grain mustard",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>kosher or sea</span><span class='name'>salt</span>",
+        "comment": "kosher or sea",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 teaspoon kosher or sea salt",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground pepper",
+        "name": "pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>thinly sliced</span><span class='name'>red onion</span>",
+        "comment": "thinly sliced",
+        "unit": "cup",
+        "name": "red onion",
+        "input": "1 cup thinly sliced red onion",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>sweetened dried</span><span class='name'>cranberries</span>",
+        "comment": "sweetened dried",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup sweetened dried cranberries",
+        "name": "cranberries"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='comment'>lightly packed fresh baby</span><span class='name'>spinach leaves</span><span class='comment'>, stemmed if needed</span>",
+        "comment": "lightly packed fresh baby, stemmed if needed",
+        "unit": "cup",
+        "name": "spinach leaves",
+        "input": "8 cups lightly packed fresh baby spinach leaves, stemmed if needed",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>firm but ripe Bosc</span><span class='name'>pears</span><span class='comment'>( do not peel )</span><span class='other'>,</span><span class='comment'>quartered lengthwise</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>and cut into long</span><span class='other'>,</span><span class='comment'>thin slices</span>",
+        "comment": "firm but ripe Bosc (do not peel) quartered lengthwise cored and cut into long thin slices",
+        "other": ",, , ,",
+        "name": "pears",
+        "input": "2 firm but ripe Bosc pears (do not peel), quartered lengthwise, cored, and cut into long, thin slices",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>hazelnuts</span><span class='other'>,</span><span class='comment'>toasted ( see Cook's Notes ) and chopped</span>",
+        "comment": "toasted (see Cook's Notes) and chopped",
+        "other": "2/3 ,",
+        "unit": "cup",
+        "input": "2/3 cup hazelnuts, toasted (see Cook's Notes) and chopped",
+        "name": "hazelnuts"
+    }
+]

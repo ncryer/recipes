@@ -1,0 +1,117 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>seedless</span><span class='name'>cucumber</span>",
+        "qty": "1/2",
+        "comment": "seedless",
+        "input": "1/2 seedless cucumber",
+        "name": "cucumber"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='other'>large</span><span class='unit'>head</span><span class='name'>cauliflower</span><span class='comment'>, cut into 1 1/2-inch-wide florets ( 4 cups )</span>",
+        "comment": ", cut into 1 1/2-inch-wide florets (4 cups)",
+        "other": "large",
+        "unit": "head",
+        "name": "cauliflower",
+        "input": "1/2 large head cauliflower, cut into 1 1/2-inch-wide florets (4 cups)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>lb</span><span class='name'>carrots</span><span class='comment'>( 4 medium ) , cut into 2 1/2- by 1/2-inch sticks ( 2 cups )</span>",
+        "comment": "(4 medium), cut into 2 1/2- by 1/2-inch sticks (2 cups)",
+        "unit": "lb",
+        "name": "carrots",
+        "input": "1/2 lb carrots (4 medium), cut into 2 1/2- by 1/2-inch sticks (2 cups)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>coarsely chopped</span><span class='name'>garlic</span><span class='comment'>( 6 cloves )</span>",
+        "comment": "coarsely chopped (6 cloves)",
+        "unit": "tablespoon",
+        "name": "garlic",
+        "input": "3 tablespoons coarsely chopped garlic (6 cloves)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>coarsely chopped peeled</span><span class='name'>ginger</span>",
+        "comment": "coarsely chopped peeled",
+        "unit": "tablespoon",
+        "name": "ginger",
+        "input": "3 tablespoons coarsely chopped peeled ginger",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>mustard seeds</span><span class='other'>(</span><span class='comment'>preferably black or brown )</span>",
+        "comment": "preferably black or brown)",
+        "other": "(",
+        "unit": "tablespoon",
+        "name": "mustard seeds",
+        "input": "1 tablespoon mustard seeds (preferably black or brown)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>coriander seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon coriander seeds",
+        "name": "coriander seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>turmeric</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "turmeric",
+        "input": "1 teaspoon ground turmeric",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>cumin seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon cumin seeds",
+        "name": "cumin seeds"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>fennel seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon fennel seeds",
+        "name": "fennel seeds"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>vegetable oil</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='other'>(</span><span class='comment'>2-inch ) dried</span><span class='name'>hot red chiles , wiped clean</span>",
+        "comment": "2-inch) dried",
+        "other": "(",
+        "name": "hot red chiles, wiped clean",
+        "input": "5 (2-inch) dried hot red chiles, wiped clean",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>distilled</span><span class='name'>white vinegar</span>",
+        "comment": "distilled",
+        "unit": "cup",
+        "name": "white vinegar",
+        "input": "1/2 cup distilled white vinegar",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>packed dark</span><span class='name'>brown sugar</span>",
+        "comment": "packed dark",
+        "unit": "tablespoon",
+        "name": "brown sugar",
+        "input": "3 tablespoons packed dark brown sugar",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='comment'>Equipment:</span><span class='other'>an</span><span class='comment'>electric coffee/spice grinder; a well-seasoned 14-inch flat-bottomed wok</span>",
+        "comment": "Equipment: electric coffee/spice grinder; a well-seasoned 14-inch flat-bottomed wok",
+        "input": "Equipment: an electric coffee/spice grinder; a well-seasoned 14-inch flat-bottomed wok",
+        "other": "an"
+    }
+]

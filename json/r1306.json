@@ -1,0 +1,44 @@
+[
+    {
+        "other": "15-ounce",
+        "display": "<span class='comment'>One</span><span class='other'>15-ounce</span><span class='comment'>container purchased</span><span class='name'>salsa</span>",
+        "comment": "One container purchased",
+        "input": "One 15-ounce container purchased salsa",
+        "name": "salsa"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>diced medium</span><span class='name'>avocado</span>",
+        "qty": "1",
+        "comment": "diced medium",
+        "input": "1 diced medium avocado",
+        "name": "avocado"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "1 tablespoon fresh lime juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>finely chopped</span><span class='name'>cilantro</span>",
+        "comment": "finely chopped",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "3 tablespoons finely chopped cilantro",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='name'>Salt and pepper</span>",
+        "input": "Salt and pepper",
+        "name": "Salt and pepper"
+    }
+]

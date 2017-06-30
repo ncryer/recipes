@@ -1,0 +1,65 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>large unpeeled</span><span class='name'>garlic</span><span class='comment'>cloves</span>",
+        "qty": "4",
+        "comment": "large unpeeled cloves",
+        "input": "4 large unpeeled garlic cloves",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>plum tomatoes</span><span class='comment'>( about 12 ounces total )</span>",
+        "qty": "4",
+        "comment": "(about 12 ounces total)",
+        "input": "4 plum tomatoes (about 12 ounces total)",
+        "name": "plum tomatoes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>small whole unpeeled</span><span class='name'>onions</span><span class='comment'>( 1/2 pound total )</span>",
+        "qty": "2",
+        "comment": "small whole unpeeled (1/2 pound total)",
+        "input": "2 small whole unpeeled onions (1/2 pound total)",
+        "name": "onions"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>red bell peppers</span>",
+        "qty": "2",
+        "comment": "large",
+        "input": "2 large red bell peppers",
+        "name": "red bell peppers"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>poblano chile</span>",
+        "qty": "1",
+        "comment": "large",
+        "input": "1 large poblano chile",
+        "name": "poblano chile"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>Japanese</span><span class='name'>eggplant</span><span class='comment'>( about 5 ounces</span><span class='other'>)</span>",
+        "comment": "Japanese (about 5 ounces",
+        "other": ")",
+        "name": "eggplant",
+        "input": "1 Japanese eggplant (about 5 ounces)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='comment'>Fresh</span><span class='name'>lemon juice</span><span class='comment'>, kosher</span><span class='name'>salt</span><span class='comment'>, and freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Fresh, kosher, and freshly ground",
+        "input": "Fresh lemon juice, kosher salt, and freshly ground black pepper",
+        "name": "lemon juice salt black pepper"
+    },
+    {
+        "display": "<span class='other'>Dark-green</span><span class='comment'>poblano chiles are available at better supermarkets and at specialty foods stores.</span>",
+        "comment": "poblano chiles are available at better supermarkets and at specialty foods stores.",
+        "input": "Dark-green poblano chiles are available at better supermarkets and at specialty foods stores.",
+        "other": "Dark-green"
+    }
+]

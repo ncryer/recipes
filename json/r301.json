@@ -1,0 +1,42 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>( packed ) fresh</span><span class='name'>tarragon leaves</span><span class='comment'>, plus more for serving</span>",
+        "comment": "(packed) fresh, plus more for serving",
+        "unit": "cup",
+        "name": "tarragon leaves",
+        "input": "1/4 cup (packed) fresh tarragon leaves, plus more for serving",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>blood oranges</span>",
+        "qty": "4",
+        "input": "4 blood oranges",
+        "name": "blood oranges"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>clementines</span>",
+        "qty": "4",
+        "input": "4 clementines",
+        "name": "clementines"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>navel</span><span class='name'>oranges</span>",
+        "qty": "2",
+        "comment": "navel",
+        "input": "2 navel oranges",
+        "name": "oranges"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>tangerines</span>",
+        "qty": "2",
+        "input": "2 tangerines",
+        "name": "tangerines"
+    }
+]

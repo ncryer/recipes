@@ -1,0 +1,71 @@
+[
+    {
+        "display": "<span class='comment'>Pineapple</span><span class='name'>Sorbet</span>",
+        "comment": "Pineapple",
+        "input": "Pineapple Sorbet",
+        "name": "Sorbet"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>unsweetened</span><span class='name'>pineapple juice</span>",
+        "comment": "unsweetened",
+        "unit": "cup",
+        "name": "pineapple juice",
+        "input": "2 cups unsweetened pineapple juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>finely chopped peeled fresh</span><span class='name'>pineapple</span>",
+        "comment": "finely chopped peeled fresh",
+        "unit": "cup",
+        "name": "pineapple",
+        "input": "1 cup finely chopped peeled fresh pineapple",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Lime Sorbet</span>",
+        "input": "Lime Sorbet",
+        "name": "Lime Sorbet"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>limes</span>",
+        "qty": "2",
+        "input": "2 limes",
+        "name": "limes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup fresh lime juice",
+        "name": "lime juice"
+    }
+]

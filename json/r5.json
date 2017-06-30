@@ -1,0 +1,135 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='name'>tbsp</span><span class='other'>(</span><span class='comment'>15 ml ) mild</span><span class='name'>oil</span><span class='comment'>(</span><span class='other'>or</span><span class='comment'>dry saut\u00e9</span><span class='other'>or</span><span class='comment'>add a little water/vegetable broth )</span>",
+        "comment": "15 ml) mild (dry saut\u00e9 add a little water/vegetable broth)",
+        "other": "(or or",
+        "name": "tbsp oil",
+        "input": "1 tbsp (15 ml) mild oil (or dry saut\u00e9 or add a little water/vegetable broth)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>( 160 g ) minced</span><span class='name'>onion</span>",
+        "comment": "(160 g) minced",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1 cup (160 g) minced onion",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>( 300 g ) minced</span><span class='name'>bell pepper</span>",
+        "comment": "(300 g) minced",
+        "unit": "cup",
+        "name": "bell pepper",
+        "input": "2 cups (300 g) minced bell pepper",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>tsp</span><span class='comment'>( 6 g ) minced</span><span class='name'>garlic</span>",
+        "qty": "2",
+        "comment": "(6 g) minced",
+        "input": "2 tsp (6 g) minced garlic",
+        "name": "tsp garlic"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='other'>(</span><span class='comment'>237 ml</span><span class='other'>)</span><span class='name'>water</span>",
+        "comment": "237 ml",
+        "other": "()",
+        "unit": "cup",
+        "name": "water",
+        "input": "1 cup (237 ml) water",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>( 184 g ) dried</span><span class='name'>kidney beans</span><span class='comment'>, soaked for 8\u201312 hours and drained</span>",
+        "comment": "(184 g) dried, soaked for 8\u201312 hours and drained",
+        "unit": "cup",
+        "name": "kidney beans",
+        "input": "1 cup (184 g) dried kidney beans, soaked for 8\u201312 hours and drained",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>bay leaves</span>",
+        "qty": "3",
+        "input": "3 bay leaves",
+        "name": "bay leaves"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='name'>tsp</span><span class='comment'>( 1.5 g ) dried</span><span class='name'>thyme</span>",
+        "qty": "1 1/2",
+        "comment": "(1.5 g) dried",
+        "input": "1 1/2 tsp (1.5 g) dried thyme",
+        "name": "tsp thyme"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>tsp</span><span class='comment'>( 4 g ) smoked</span><span class='name'>paprika</span>",
+        "qty": "2",
+        "comment": "(4 g) smoked",
+        "input": "2 tsp (4 g) smoked paprika",
+        "name": "tsp paprika"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>tsp</span><span class='other'>(</span><span class='comment'>2 g ) dried</span><span class='name'>marjoram</span>",
+        "comment": "2 g) dried",
+        "other": "(",
+        "name": "tsp marjoram",
+        "input": "2 tsp (2 g) dried marjoram",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>tsp</span><span class='comment'>ground</span><span class='name'>cayenne pepper</span><span class='comment'>( use more if you like things spicy )</span>",
+        "qty": "1/2",
+        "comment": "ground (use more if you like things spicy)",
+        "input": "1/2 tsp ground cayenne pepper (use more if you like things spicy)",
+        "name": "tsp cayenne pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>14.5-oz [411-g] ) can crushed or diced</span><span class='name'>tomatoes</span>",
+        "comment": "14.5-oz [411-g]) can crushed or diced",
+        "other": "(",
+        "name": "tomatoes",
+        "input": "1 (14.5-oz [411-g]) can crushed or diced tomatoes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tsp</span><span class='comment'>dried</span><span class='name'>oregano</span>",
+        "comment": "dried",
+        "unit": "tsp",
+        "name": "oregano",
+        "input": "1 tsp dried oregano",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>tsp</span><span class='name'>liquid smoke</span><span class='other'>(</span><span class='comment'>optional )</span>",
+        "comment": "tsp optional)",
+        "other": "(",
+        "name": "liquid smoke",
+        "input": "1/2 tsp liquid smoke (optional)",
+        "qty": "1/2"
+    },
+    {
+        "other": "Pinch of",
+        "display": "<span class='other'>Pinch of</span><span class='comment'>ground</span><span class='name'>bay leaf</span><span class='comment'>( optional )</span>",
+        "comment": "ground (optional)",
+        "input": "Pinch of ground bay leaf (optional)",
+        "name": "bay leaf"
+    },
+    {
+        "display": "<span class='name'>Salt and pepper</span><span class='other'>,</span><span class='comment'>to taste ( I used 1 1/2 tsp [9 g] salt and 1/2 tsp black pepper )</span>",
+        "comment": "to taste (I used 1 1/2 tsp [9 g] salt and 1/2 tsp black pepper)",
+        "input": "Salt and pepper, to taste (I used 1 1/2 tsp [9 g] salt and 1/2 tsp black pepper)",
+        "name": "Salt and pepper",
+        "other": ","
+    },
+    {
+        "display": "<span class='comment'>Cooked</span><span class='name'>rice</span><span class='other'>of</span><span class='comment'>your choice</span>",
+        "comment": "Cooked your choice",
+        "input": "Cooked rice of your choice",
+        "name": "rice",
+        "other": "of"
+    },
+    {
+        "display": "<span class='name'>Hot sauce</span>",
+        "input": "Hot sauce",
+        "name": "Hot sauce"
+    }
+]

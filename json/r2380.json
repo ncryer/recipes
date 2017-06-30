@@ -1,0 +1,24 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='name'>russet potatoes</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "name": "russet potatoes",
+        "input": "4 russet potatoes, thinly sliced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>chili powder</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons chili powder",
+        "name": "chili powder"
+    }
+]

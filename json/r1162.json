@@ -1,0 +1,156 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>orange juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "1/2 cup fresh orange juice",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>creamy</span><span class='name'>peanut butter</span>",
+        "comment": "creamy",
+        "unit": "cup",
+        "name": "peanut butter",
+        "input": "1/4 cup creamy peanut butter",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>unseasoned</span><span class='name'>rice vinegar</span>",
+        "comment": "unseasoned",
+        "unit": "tablespoon",
+        "name": "rice vinegar",
+        "input": "2 tablespoons unseasoned rice vinegar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped peeled fresh</span><span class='name'>ginger</span>",
+        "comment": "chopped peeled fresh",
+        "unit": "tablespoon",
+        "name": "ginger",
+        "input": "2 tablespoons chopped peeled fresh ginger",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "2 tablespoons fresh lime juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>finely grated</span><span class='name'>orange peel</span>",
+        "comment": "finely grated",
+        "unit": "tablespoon",
+        "name": "orange peel",
+        "input": "1 tablespoon finely grated orange peel",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>soy sauce</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>peeled</span>",
+        "comment": "peeled",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, peeled",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>finely grated</span><span class='name'>lime peel</span>",
+        "comment": "finely grated",
+        "unit": "teaspoon",
+        "name": "lime peel",
+        "input": "1 1/2 teaspoons finely grated lime peel",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>dried crushed</span><span class='name'>red pepper</span><span class='comment'>, divided</span>",
+        "comment": "dried crushed, divided",
+        "unit": "teaspoon",
+        "name": "red pepper",
+        "input": "2 teaspoons dried crushed red pepper, divided",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>canola oil</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup canola oil",
+        "name": "canola oil"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>ounces</span><span class='name'>soba noodles</span>",
+        "unit": "ounce",
+        "qty": "8",
+        "input": "8 ounces soba noodles",
+        "name": "soba noodles"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>Asian sesame oil</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon Asian sesame oil",
+        "name": "Asian sesame oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>( loosely packed )</span><span class='name'>mixed baby greens</span>",
+        "comment": "(loosely packed)",
+        "unit": "cup",
+        "name": "mixed baby greens",
+        "input": "3 cups (loosely packed) mixed baby greens",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>heads</span><span class='other'>of</span><span class='name'>baby bok choy</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>thinly sliced crosswise</span>",
+        "comment": "cored thinly sliced crosswise",
+        "other": "of, ,",
+        "unit": "head",
+        "name": "baby bok choy",
+        "input": "2 heads of baby bok choy, cored, thinly sliced crosswise",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>English hothouse cucumber</span><span class='comment'>, cut into matchstick-size strips</span>",
+        "qty": "1",
+        "comment": ", cut into matchstick-size strips",
+        "input": "1 English hothouse cucumber, cut into matchstick-size strips",
+        "name": "English hothouse cucumber"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>green onions</span><span class='comment'>, cut into matchstick-size strips</span>",
+        "qty": "3",
+        "comment": ", cut into matchstick-size strips",
+        "input": "3 green onions, cut into matchstick-size strips",
+        "name": "green onions"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span><span class='comment'>plus sprigs for garnish</span>",
+        "comment": "chopped fresh plus sprigs for garnish",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup chopped fresh cilantro plus sprigs for garnish",
+        "name": "cilantro"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>mint</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "mint",
+        "input": "2 tablespoons chopped fresh mint",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Salted roasted</span><span class='name'>peanuts</span>",
+        "comment": "Salted roasted",
+        "input": "Salted roasted peanuts",
+        "name": "peanuts"
+    }
+]

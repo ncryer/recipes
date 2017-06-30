@@ -1,0 +1,61 @@
+[
+    {
+        "display": "<span class='comment'>1 ( 14-ounce ) block of firm</span><span class='name'>tofu</span>",
+        "comment": "1 (14-ounce) block of firm",
+        "input": "1 (14-ounce) block of firm tofu",
+        "name": "tofu"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>Asian sesame oil</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon Asian sesame oil",
+        "name": "Asian sesame oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>rice vinegar</span><span class='other'>(</span><span class='comment'>not seasoned )</span>",
+        "comment": "not seasoned)",
+        "other": "(",
+        "unit": "teaspoon",
+        "name": "rice vinegar",
+        "input": "2 teaspoons rice vinegar (not seasoned)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>soy sauce</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>large</span><span class='name'>celery ribs</span>",
+        "qty": "4",
+        "comment": "large",
+        "input": "4 large celery ribs",
+        "name": "celery ribs"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>sesame seeds</span><span class='other'>,</span><span class='comment'>toasted</span>",
+        "comment": "toasted",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "sesame seeds",
+        "input": "2 teaspoons sesame seeds, toasted",
+        "qty": "2"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>medium ( 2 1/2-inch diameter ) golden</span><span class='name'>beets</span><span class='comment'>, trimmed</span><span class='other'>,</span><span class='comment'>scrubbed</span>",
+        "comment": "medium (2 1/2-inch diameter) golden, trimmed scrubbed",
+        "other": ",",
+        "name": "beets",
+        "input": "4 medium (2 1/2-inch diameter) golden beets, trimmed, scrubbed",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>very thinly sliced red</span><span class='name'>onion</span>",
+        "comment": "very thinly sliced red",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1/2 cup very thinly sliced red onion",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>drained</span><span class='name'>capers</span>",
+        "comment": "drained",
+        "unit": "tablespoon",
+        "name": "capers",
+        "input": "2 tablespoons drained capers",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>minced fresh</span><span class='name'>chives</span>",
+        "comment": "minced fresh",
+        "unit": "tablespoon",
+        "name": "chives",
+        "input": "2 tablespoons minced fresh chives",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='comment'>( loosely packed ) baby</span><span class='name'>arugula</span>",
+        "comment": "(loosely packed) baby",
+        "unit": "cup",
+        "name": "arugula",
+        "input": "6 cups (loosely packed) baby arugula",
+        "qty": "6"
+    }
+]

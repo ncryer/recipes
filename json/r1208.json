@@ -1,0 +1,50 @@
+[
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>pound</span><span class='comment'>pitted</span><span class='name'>prunes</span>",
+        "comment": "pitted",
+        "unit": "pound",
+        "name": "prunes",
+        "input": "1 1/4 pound pitted prunes",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>ruby Port</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups ruby Port",
+        "name": "ruby Port"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>dry red wine</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups dry red wine",
+        "name": "dry red wine"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>vanilla bean</span><span class='other'>,</span><span class='comment'>split</span>",
+        "comment": "split",
+        "other": ",",
+        "name": "vanilla bean",
+        "input": "1/2 vanilla bean, split",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='name'>Accompaniments:</span>",
+        "input": "Accompaniments:",
+        "name": "Accompaniments:"
+    },
+    {
+        "display": "<span class='comment'>;</span><span class='name'>cr\u00e8me fra\u00eeche</span><span class='comment'>, sour cream , or ice</span><span class='name'>cream</span>",
+        "comment": ";, sour cream, or ice",
+        "input": "; cr\u00e8me fra\u00eeche, sour cream, or ice cream",
+        "name": "cr\u00e8me fra\u00eeche cream"
+    }
+]

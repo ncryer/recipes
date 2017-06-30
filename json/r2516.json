@@ -1,0 +1,86 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>desiccated coconut</span><span class='comment'>or 3/4 cup finely grated fresh</span><span class='name'>coconut</span>",
+        "comment": "or 3/4 cup finely grated fresh",
+        "unit": "cup",
+        "name": "desiccated coconut coconut",
+        "input": "1/2 cup desiccated coconut or 3/4 cup finely grated fresh coconut",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>vegetable oil</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>black mustard seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons black mustard seeds",
+        "name": "black mustard seeds"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>cumin seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons cumin seeds",
+        "name": "cumin seeds"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>picked-over split skinned urad dal*</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons picked-over split skinned urad dal*",
+        "name": "picked-over split skinned urad dal*"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>picked-over split skinned chana dal*</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons picked-over split skinned chana dal*",
+        "name": "picked-over split skinned chana dal*"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span>",
+        "unit": "teaspoon",
+        "input": "1/2 teaspoon",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='name'>powder</span>",
+        "input": "powder",
+        "name": "powder"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>fresh hot red</span><span class='name'>chile</span><span class='comment'>such as serrano</span><span class='other'>or</span><span class='comment'>Thai</span><span class='other'>,</span><span class='comment'>halved lengthwise</span>",
+        "comment": "fresh hot red such as serrano Thai halved lengthwise",
+        "other": "or ,",
+        "name": "chile",
+        "input": "1 fresh hot red chile such as serrano or Thai, halved lengthwise",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>fresh</span><span class='name'>curry leaves</span>",
+        "qty": "4",
+        "comment": "fresh",
+        "input": "4 fresh curry leaves",
+        "name": "curry leaves"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='name'>green beans</span><span class='comment'>, trimmed and cut into 1/4-inch pieces</span>",
+        "comment": ", trimmed and cut into 1/4-inch pieces",
+        "unit": "pound",
+        "name": "green beans",
+        "input": "1 1/2 pounds green beans, trimmed and cut into 1/4-inch pieces",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "display": "<span class='qty'>15</span><span class='comment'>fresh</span><span class='name'>figs</span><span class='comment'>, halved</span>",
+        "qty": "15",
+        "comment": "fresh, halved",
+        "input": "15 fresh figs, halved",
+        "name": "figs"
+    },
+    {
+        "display": "<span class='name'>425 g</span><span class='other'>(</span><span class='comment'>15 ounces ) Demerara ( brown )</span><span class='name'>sugar</span>",
+        "comment": "15 ounces) Demerara (brown)",
+        "input": "425 g (15 ounces) Demerara (brown) sugar",
+        "name": "425 g sugar",
+        "other": "("
+    },
+    {
+        "display": "<span class='name'>750 ml</span><span class='comment'>( 26 fluid ounces ) port</span>",
+        "comment": "(26 fluid ounces) port",
+        "input": "750 ml (26 fluid ounces) port",
+        "name": "750 ml"
+    }
+]

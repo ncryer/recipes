@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='comment'>1 12-ounce</span><span class='unit'>bag</span><span class='name'>cranberries</span>",
+        "unit": "bag",
+        "comment": "1 12-ounce",
+        "input": "1 12-ounce bag cranberries",
+        "name": "cranberries"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>orange juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "1 cup fresh orange juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>grated</span><span class='name'>orange peel</span>",
+        "comment": "grated",
+        "unit": "teaspoon",
+        "name": "orange peel",
+        "input": "1 teaspoon grated orange peel",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium seedless</span><span class='name'>orange</span><span class='other'>,</span><span class='comment'>all peel and pith cut away</span><span class='other'>,</span><span class='comment'>fruit diced</span>",
+        "comment": "medium seedless all peel and pith cut away fruit diced",
+        "other": ", ,",
+        "name": "orange",
+        "input": "1 medium seedless orange, all peel and pith cut away, fruit diced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>walnuts</span><span class='other'>,</span><span class='comment'>toasted , cut into 1/2-inch pieces</span>",
+        "comment": "toasted, cut into 1/2-inch pieces",
+        "other": ",",
+        "unit": "cup",
+        "name": "walnuts",
+        "input": "3/4 cup walnuts, toasted, cut into 1/2-inch pieces",
+        "qty": "3/4"
+    }
+]

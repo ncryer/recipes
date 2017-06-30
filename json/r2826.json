@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>finely diced tropical fruit such as kiwi</span><span class='other'>,</span><span class='comment'>pineapple</span><span class='other'>,</span><span class='comment'>mango</span><span class='other'>,</span><span class='comment'>and papaya</span>",
+        "comment": "finely diced tropical fruit such as kiwi pineapple mango and papaya",
+        "other": ",, ,",
+        "unit": "cup",
+        "input": "2 cups finely diced tropical fruit such as kiwi, pineapple, mango, and papaya",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>California avocados</span><span class='other'>,</span><span class='comment'>pitted</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>and cut into 1/4-inch dice</span>",
+        "comment": "pitted peeled and cut into 1/4-inch dice",
+        "other": ",, ,",
+        "name": "California avocados",
+        "input": "2 California avocados, pitted, peeled, and cut into 1/4-inch dice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>cilantro</span><span class='comment'>, chopped</span>",
+        "comment": "fresh, chopped",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/4 cup fresh cilantro, chopped",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>red onion</span>",
+        "comment": "finely chopped",
+        "unit": "cup",
+        "name": "red onion",
+        "input": "1/4 cup finely chopped red onion",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>fresh</span><span class='name'>serrano</span><span class='comment'>or jalape\u00f1o</span><span class='name'>chile</span><span class='comment'>, seeded and finely chopped</span>",
+        "qty": "1",
+        "comment": "fresh or jalape\u00f1o, seeded and finely chopped",
+        "input": "1 fresh serrano or jalape\u00f1o chile, seeded and finely chopped",
+        "name": "serrano chile"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span><span class='comment'>, or to taste</span>",
+        "comment": "fresh, or to taste",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "2 tablespoons fresh lime juice, or to taste",
+        "qty": "2"
+    }
+]

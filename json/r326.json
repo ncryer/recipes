@@ -1,0 +1,59 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 garlic cloves, thinly sliced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>crushed</span><span class='name'>red pepper flakes</span><span class='comment'>plus more</span>",
+        "comment": "crushed plus more",
+        "unit": "teaspoon",
+        "name": "red pepper flakes",
+        "input": "1/4 teaspoon crushed red pepper flakes plus more",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>10</span><span class='unit'>cups</span><span class='comment'>torn</span><span class='name'>mixed greens</span><span class='comment'>( such as kale</span><span class='other'>,</span><span class='comment'>turnip greens , and lettuce )</span>",
+        "comment": "torn (such as kale turnip greens, and lettuce)",
+        "other": ",",
+        "unit": "cup",
+        "name": "mixed greens",
+        "input": "10 cups torn mixed greens (such as kale, turnip greens, and lettuce)",
+        "qty": "10"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground pepper",
+        "name": "salt pepper",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>black olives</span><span class='comment'>, pitted</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": ", pitted halved",
+        "other": ",",
+        "unit": "cup",
+        "name": "black olives",
+        "input": "1/4 cup black olives, pitted, halved",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>( or more ) fresh</span><span class='name'>lemon juice</span>",
+        "comment": "(or more) fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons (or more) fresh lemon juice",
+        "qty": "2"
+    }
+]

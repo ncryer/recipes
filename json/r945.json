@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>large tea bags for iced tea</span>",
+        "qty": "2",
+        "input": "2 large tea bags for iced tea",
+        "name": "large tea bags for iced tea"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>boiling</span><span class='name'>water</span>",
+        "comment": "boiling",
+        "unit": "cup",
+        "name": "water",
+        "input": "1/2 cup boiling water",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='comment'>fresh</span><span class='name'>mint sprigs</span>",
+        "qty": "8",
+        "comment": "fresh",
+        "input": "8 fresh mint sprigs",
+        "name": "mint sprigs"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>lemonade made from frozen concentrate</span>",
+        "unit": "cup",
+        "comment": "lemonade made from frozen concentrate",
+        "input": "4 cups lemonade made from frozen concentrate",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>vodka</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup vodka",
+        "name": "vodka"
+    },
+    {
+        "display": "<span class='name'>Ice cubes</span>",
+        "input": "Ice cubes",
+        "name": "Ice cubes"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='name'>lemon</span><span class='unit'>slices</span>",
+        "unit": "slice",
+        "qty": "8",
+        "input": "8 lemon slices",
+        "name": "lemon"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='name'>shallot</span><span class='comment'>( optional</span><span class='other'>)</span>",
+        "comment": "(optional",
+        "other": ")",
+        "name": "shallot",
+        "input": "1 shallot (optional)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Salt</span>",
+        "input": "Salt",
+        "name": "Salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>red wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='other'>to</span><span class='range_end'>6</span><span class='unit'>tablespoons</span><span class='comment'>extra virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra virgin",
+        "other": "to",
+        "unit": "tablespoon",
+        "qty": "5",
+        "range_end": "6",
+        "input": "5 to 6 tablespoons extra virgin olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='comment'>Assorted</span><span class='name'>lettuce greens</span><span class='other'>,</span><span class='comment'>amount to taste</span>",
+        "comment": "Assorted amount to taste",
+        "input": "Assorted lettuce greens, amount to taste",
+        "name": "lettuce greens",
+        "other": ","
+    }
+]

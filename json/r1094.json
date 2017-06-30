@@ -1,0 +1,25 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>large</span><span class='name'>shallots</span><span class='comment'>, peeled and halved lengthwise</span>",
+        "qty": "6",
+        "comment": "large, peeled and halved lengthwise",
+        "input": "6 large shallots, peeled and halved lengthwise",
+        "name": "shallots"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": "extra-virgin, divided",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil, divided",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='comment'>medium Yukon Gold</span><span class='name'>potatoes</span><span class='comment'>, peeled and quartered</span>",
+        "comment": "medium Yukon Gold, peeled and quartered",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "1 1/2 pounds medium Yukon Gold potatoes, peeled and quartered",
+        "qty": "1 1/2"
+    }
+]

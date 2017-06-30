@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>pound</span><span class='comment'>green and/or yellow string</span><span class='name'>beans</span><span class='comment'>, trimmed</span>",
+        "comment": "green and/or yellow string, trimmed",
+        "unit": "pound",
+        "name": "beans",
+        "input": "3/4 pound green and/or yellow string beans, trimmed",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>peeled and pressed</span>",
+        "comment": "peeled and pressed",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 cloves garlic, peeled and pressed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>baby or regular</span><span class='name'>arugula</span><span class='comment'>, trimmed and chopped</span>",
+        "comment": "baby or regular, trimmed and chopped",
+        "unit": "cup",
+        "name": "arugula",
+        "input": "2 cups baby or regular arugula, trimmed and chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>finely grated</span><span class='name'>lemon</span><span class='comment'>zest</span>",
+        "comment": "finely grated zest",
+        "unit": "teaspoon",
+        "name": "lemon",
+        "input": "1 teaspoon finely grated lemon zest",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "input": "Salt and freshly ground black pepper",
+        "name": "Salt and black pepper"
+    }
+]

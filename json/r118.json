@@ -1,0 +1,105 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>broccoli</span><span class='comment'>( about 1 1/2 pounds ) , stems peeled</span><span class='other'>,</span><span class='comment'>heads coarsely chopped</span>",
+        "comment": "(about 1 1/2 pounds), stems peeled heads coarsely chopped",
+        "other": ",",
+        "unit": "bunch",
+        "name": "broccoli",
+        "input": "1 bunch broccoli (about 1 1/2 pounds), stems peeled, heads coarsely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>carrots</span><span class='comment'>( about 3 ounces ) , peeled</span>",
+        "qty": "2",
+        "comment": "medium (about 3 ounces), peeled",
+        "input": "2 medium carrots (about 3 ounces), peeled",
+        "name": "carrots"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>white miso paste</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup white miso paste",
+        "name": "white miso paste"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>finely grated</span><span class='name'>orange</span><span class='comment'>zest</span>",
+        "comment": "finely grated zest",
+        "unit": "teaspoon",
+        "name": "orange",
+        "input": "1/2 teaspoon finely grated orange zest",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>orange juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "1/4 cup fresh orange juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>finely grated peeled</span><span class='name'>ginger</span>",
+        "comment": "finely grated peeled",
+        "unit": "tablespoon",
+        "name": "ginger",
+        "input": "2 tablespoons finely grated peeled ginger",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>unseasoned</span><span class='name'>rice vinegar</span>",
+        "comment": "unseasoned",
+        "unit": "tablespoon",
+        "name": "rice vinegar",
+        "input": "2 tablespoons unseasoned rice vinegar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>toasted</span><span class='name'>sesame oil</span>",
+        "comment": "toasted",
+        "unit": "tablespoon",
+        "name": "sesame oil",
+        "input": "1 tablespoon toasted sesame oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/4 cup chopped fresh cilantro",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>mint</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "mint",
+        "input": "1/4 cup chopped fresh mint",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh Thai or regular basil</span>",
+        "unit": "cup",
+        "comment": "chopped fresh Thai or regular basil",
+        "input": "1/4 cup chopped fresh Thai or regular basil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>trimmed , thinly sliced</span>",
+        "comment": "trimmed, thinly sliced",
+        "other": ",",
+        "name": "scallions",
+        "input": "2 scallions, trimmed, thinly sliced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>unsweetened</span><span class='name'>coconut flakes</span><span class='other'>,</span><span class='comment'>toasted , coarsely chopped</span>",
+        "comment": "unsweetened toasted, coarsely chopped",
+        "other": ",",
+        "unit": "cup",
+        "name": "coconut flakes",
+        "input": "1/4 cup unsweetened coconut flakes, toasted, coarsely chopped",
+        "qty": "1/4"
+    }
+]

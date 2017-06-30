@@ -1,0 +1,62 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>warm</span><span class='name'>water</span><span class='comment'>( 105\u00b0F\u2013110\u00b0F</span><span class='other'>)</span>",
+        "comment": "warm (105\u00b0F\u2013110\u00b0F",
+        "other": ")",
+        "unit": "cup",
+        "name": "water",
+        "input": "1 cup warm water (105\u00b0F\u2013110\u00b0F)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>1 ( 1/4-oz ) package active</span><span class='name'>dry yeast</span><span class='comment'>( 2 1/2 teaspoons )</span>",
+        "comment": "1 (1/4-oz) package active (2 1/2 teaspoons)",
+        "input": "1 (1/4-oz) package active dry yeast (2 1/2 teaspoons)",
+        "name": "dry yeast"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>all-purpose flour</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups all-purpose flour",
+        "name": "all-purpose flour"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='name'>yellow cornmeal</span>",
+        "unit": "cup",
+        "qty": "1 1/4",
+        "input": "1 1/4 cups yellow cornmeal",
+        "name": "yellow cornmeal"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>table</span><span class='name'>salt</span>",
+        "comment": "table",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/2 teaspoon table salt",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>cayenne</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon cayenne",
+        "name": "cayenne"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span><span class='comment'>plus additional for brushing</span>",
+        "comment": "plus additional for brushing",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup olive oil plus additional for brushing",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "2 tablespoons kosher salt",
+        "qty": "2"
+    }
+]

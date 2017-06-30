@@ -1,0 +1,28 @@
+[
+    {
+        "display": "<span class='qty'>7</span><span class='other'>to</span><span class='range_end'>8</span><span class='unit'>ounces</span><span class='name'>Boston lettuce</span><span class='comment'>( 2 heads ) , torn into bite-size pieces</span>",
+        "comment": "(2 heads), torn into bite-size pieces",
+        "other": "to",
+        "unit": "ounce",
+        "name": "Boston lettuce",
+        "range_end": "8",
+        "input": "7 to 8 ounces Boston lettuce (2 heads), torn into bite-size pieces",
+        "qty": "7"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='name'>Bibb lettuce</span><span class='comment'>( 2 heads ) , large leaves torn into bite-size pieces</span>",
+        "comment": "(2 heads), large leaves torn into bite-size pieces",
+        "unit": "pound",
+        "name": "Bibb lettuce",
+        "input": "1/2 pound Bibb lettuce (2 heads), large leaves torn into bite-size pieces",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    }
+]

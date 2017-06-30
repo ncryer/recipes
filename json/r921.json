@@ -1,0 +1,101 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>whole</span><span class='name'>wheat couscous</span>",
+        "comment": "whole",
+        "unit": "cup",
+        "name": "wheat couscous",
+        "input": "1 1/2 cups whole wheat couscous",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>minced fresh</span><span class='name'>ginger</span>",
+        "comment": "minced fresh",
+        "unit": "tablespoon",
+        "name": "ginger",
+        "input": "1 tablespoon minced fresh ginger",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>cayenne</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon cayenne",
+        "name": "cayenne"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='other'>to</span><span class='range_end'>1 3/4</span><span class='unit'>cups</span><span class='comment'>boiling</span><span class='name'>water</span>",
+        "comment": "boiling",
+        "other": "to",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "range_end": "1 3/4",
+        "input": "1 1/2 to 1 3/4 cups boiling water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>ounce</span><span class='comment'>arame sea vegetable ( about 1 cup loosely packed )</span>",
+        "unit": "ounce",
+        "comment": "arame sea vegetable (about 1 cup loosely packed)",
+        "input": "1/2 ounce arame sea vegetable (about 1 cup loosely packed)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>finely chopped</span><span class='name'>carrots</span>",
+        "comment": "finely chopped",
+        "unit": "cup",
+        "name": "carrots",
+        "input": "1 1/2 cups finely chopped carrots",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>radishes</span>",
+        "comment": "finely chopped",
+        "unit": "cup",
+        "name": "radishes",
+        "input": "1 cup finely chopped radishes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>thinly sliced</span><span class='name'>scallion greens</span>",
+        "comment": "thinly sliced",
+        "unit": "cup",
+        "name": "scallion greens",
+        "input": "3/4 cup thinly sliced scallion greens",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>to</span><span class='range_end'>3</span><span class='unit'>tablespoons</span><span class='comment'>toasted</span><span class='name'>sesame oil</span>",
+        "comment": "toasted",
+        "other": "to",
+        "unit": "tablespoon",
+        "qty": "2",
+        "range_end": "3",
+        "input": "2 to 3 tablespoons toasted sesame oil",
+        "name": "sesame oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='other'>to</span><span class='range_end'>4</span><span class='unit'>tablespoons</span><span class='comment'>shoyu or tamari</span>",
+        "comment": "shoyu or tamari",
+        "other": "to",
+        "unit": "tablespoon",
+        "range_end": "4",
+        "input": "3 to 4 tablespoons shoyu or tamari",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='comment'>Approximately</span><span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>brown rice</span><span class='comment'>or seasoned rice vinegar ( the latter adds sweetness too )</span>",
+        "comment": "Approximately or seasoned rice vinegar (the latter adds sweetness too)",
+        "unit": "tablespoon",
+        "name": "brown rice",
+        "input": "Approximately 3 tablespoons brown rice or seasoned rice vinegar (the latter adds sweetness too)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>toasted</span><span class='name'>sunflower seeds</span>",
+        "comment": "toasted",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup toasted sunflower seeds",
+        "name": "sunflower seeds"
+    }
+]

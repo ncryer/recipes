@@ -1,0 +1,72 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/2 cup extra-virgin olive oil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>medium</span><span class='name'>avocado</span><span class='comment'>, pitted , diced</span>",
+        "qty": "1/2",
+        "comment": "medium, pitted, diced",
+        "input": "1/2 medium avocado, pitted, diced",
+        "name": "avocado"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>jalape\u00f1o</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "seeded finely chopped",
+        "other": ", ,",
+        "name": "jalape\u00f1o",
+        "input": "1 jalape\u00f1o, seeded, finely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, finely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>finely chopped</span><span class='name'>shallot</span>",
+        "comment": "finely chopped",
+        "unit": "teaspoon",
+        "name": "shallot",
+        "input": "1 teaspoon finely chopped shallot",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>limes</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "halved",
+        "other": ",",
+        "name": "limes",
+        "input": "2 limes, halved",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>basil</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "basil",
+        "input": "2 tablespoons chopped fresh basil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Fine sea</span><span class='name'>salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Fine sea freshly ground",
+        "input": "Fine sea salt and freshly ground black pepper",
+        "name": "salt and black pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>coarsely chopped fresh</span><span class='name'>cilantro leaves</span>",
+        "comment": "coarsely chopped fresh",
+        "unit": "tablespoon",
+        "name": "cilantro leaves",
+        "input": "1 tablespoon coarsely chopped fresh cilantro leaves",
+        "qty": "1"
+    }
+]

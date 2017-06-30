@@ -1,0 +1,70 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>coriander seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon coriander seeds",
+        "name": "coriander seeds"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>orange juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "orange juice",
+        "input": "2 tablespoons fresh orange juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>Sherry vinegar</span><span class='comment'>or red-wine vinegar</span>",
+        "comment": "or red-wine vinegar",
+        "unit": "tablespoon",
+        "name": "Sherry vinegar",
+        "input": "2 tablespoons Sherry vinegar or red-wine vinegar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium-large</span><span class='name'>red onion</span>",
+        "qty": "1",
+        "comment": "medium-large",
+        "input": "1 medium-large red onion",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='name'>fennel</span><span class='unit'>bulb</span><span class='comment'>( sometimes called anise</span><span class='other'>,</span><span class='comment'>about 1 pound )</span>",
+        "comment": "(sometimes called anise about 1 pound)",
+        "other": "large ,",
+        "unit": "bulb",
+        "name": "fennel",
+        "input": "1 large fennel bulb (sometimes called anise, about 1 pound)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>large navel</span><span class='name'>oranges</span>",
+        "qty": "3",
+        "comment": "large navel",
+        "input": "3 large navel oranges",
+        "name": "oranges"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>loosely packed fresh</span><span class='name'>mint leaves</span>",
+        "comment": "loosely packed fresh",
+        "unit": "cup",
+        "name": "mint leaves",
+        "input": "1/4 cup loosely packed fresh mint leaves",
+        "qty": "1/4"
+    }
+]

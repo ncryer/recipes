@@ -1,0 +1,72 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>cooked</span><span class='name'>barley</span><span class='comment'>( from about 2/3 cup dried )</span>",
+        "comment": "cooked (from about 2/3 cup dried)",
+        "unit": "cup",
+        "name": "barley",
+        "input": "2 cups cooked barley (from about 2/3 cup dried)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>thinly sliced</span><span class='name'>fennel</span><span class='comment'>bulb</span>",
+        "qty": "1",
+        "comment": "thinly sliced bulb",
+        "input": "1 thinly sliced fennel bulb",
+        "name": "fennel"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>thinly sliced small golden</span><span class='name'>beets</span>",
+        "qty": "2",
+        "comment": "thinly sliced small golden",
+        "input": "2 thinly sliced small golden beets",
+        "name": "beets"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>thinly sliced small</span><span class='name'>red onion</span>",
+        "qty": "1/2",
+        "comment": "thinly sliced small",
+        "input": "1/2 thinly sliced small red onion",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped toasted</span><span class='name'>almonds</span>",
+        "comment": "chopped toasted",
+        "unit": "cup",
+        "name": "almonds",
+        "input": "1/4 cup chopped toasted almonds",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>torn fresh</span><span class='name'>mint</span><span class='comment'>in a large bowl</span>",
+        "comment": "torn fresh in a large bowl",
+        "unit": "cup",
+        "name": "mint",
+        "input": "1/4 cup torn fresh mint in a large bowl",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>Sherry vinegar</span><span class='comment'>or red wine</span><span class='name'>vinegar</span>",
+        "comment": "or red wine",
+        "unit": "tablespoon",
+        "name": "Sherry vinegar vinegar",
+        "input": "3 tablespoons Sherry vinegar or red wine vinegar",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='name'>Salt</span>",
+        "input": "Salt",
+        "name": "Salt"
+    },
+    {
+        "display": "<span class='name'>Pepper</span>",
+        "input": "Pepper",
+        "name": "Pepper"
+    }
+]

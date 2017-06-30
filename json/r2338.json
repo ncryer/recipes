@@ -1,0 +1,17 @@
+[
+    {
+        "other": "four",
+        "display": "<span class='other'>four</span><span class='comment'>5-ounce</span><span class='name'>sweet potatoes</span>",
+        "comment": "5-ounce",
+        "input": "four 5-ounce sweet potatoes",
+        "name": "sweet potatoes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "2 tablespoons fresh lime juice",
+        "qty": "2"
+    }
+]

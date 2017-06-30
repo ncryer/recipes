@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium vine-ripened</span><span class='name'>tomatoes</span><span class='comment'>( about 3/4 pound</span><span class='other'>)</span>",
+        "comment": "medium vine-ripened (about 3/4 pound",
+        "other": ")",
+        "name": "tomatoes",
+        "input": "2 medium vine-ripened tomatoes (about 3/4 pound)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>Kalamata</span><span class='comment'>or other brine-cured</span><span class='name'>black olives</span>",
+        "qty": "3",
+        "comment": "or other brine-cured",
+        "input": "3 Kalamata or other brine-cured black olives",
+        "name": "Kalamata black olives"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>clove</span>",
+        "other": "large",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 large garlic clove",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/4 teaspoon freshly ground black pepper",
+        "qty": "1/4"
+    }
+]

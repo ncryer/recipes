@@ -1,0 +1,57 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "2 tablespoons fresh lime juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>serrano</span><span class='name'>chile</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "serrano minced",
+        "other": ",",
+        "name": "chile",
+        "input": "1 serrano chile, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='name'>escarole salad mix</span><span class='comment'>( about 7 ounces )</span>",
+        "comment": "(about 7 ounces)",
+        "unit": "cup",
+        "name": "escarole salad mix",
+        "input": "8 cups escarole salad mix (about 7 ounces)",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 15-ounce ) can cannellini ( white kidney</span><span class='name'>beans</span><span class='comment'>) , drained</span><span class='other'>,</span><span class='comment'>rinsed</span>",
+        "comment": "(15-ounce) can cannellini (white kidney), drained rinsed",
+        "other": ",",
+        "name": "beans",
+        "input": "1 (15-ounce) can cannellini (white kidney beans), drained, rinsed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>Kalamata olives</span><span class='other'>,</span><span class='comment'>pitted</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "pitted halved",
+        "other": ", ,",
+        "unit": "cup",
+        "name": "Kalamata olives",
+        "input": "1/2 cup Kalamata olives, pitted, halved",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>toasted pepitas ( pumpkin seeds ) or pine nuts</span>",
+        "unit": "cup",
+        "comment": "toasted pepitas (pumpkin seeds) or pine nuts",
+        "input": "1/4 cup toasted pepitas (pumpkin seeds) or pine nuts",
+        "qty": "1/4"
+    }
+]

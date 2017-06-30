@@ -1,0 +1,71 @@
+[
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>sour cream</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup sour cream",
+        "name": "sour cream"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>Vegenaise</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup Vegenaise",
+        "name": "Vegenaise"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>crumbled</span><span class='name'>Gorgonzola cheese</span><span class='comment'>( use the</span>",
+        "comment": "crumbled (use the",
+        "unit": "cup",
+        "name": "Gorgonzola cheese",
+        "input": "1/2 cup crumbled Gorgonzola cheese (use the",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>or mountain</span><span class='name'>kind</span><span class='comment'>, not the</span>",
+        "comment": "or mountain, not the",
+        "input": "or mountain kind, not the",
+        "name": "kind"
+    },
+    {
+        "display": "<span class='comment'>)</span>",
+        "comment": ")",
+        "input": ")"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>cold</span><span class='name'>water</span>",
+        "comment": "cold",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup cold water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='other'>1 tablespoon plus 1</span><span class='unit'>teaspoon</span><span class='name'>red wine vinegar</span>",
+        "unit": "teaspoon",
+        "other": "1 tablespoon plus 1",
+        "input": "1 tablespoon plus 1 teaspoon red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>shallot</span><span class='comment'>, peeled and thinly sliced</span>",
+        "qty": "1",
+        "comment": "large, peeled and thinly sliced",
+        "input": "1 large shallot, peeled and thinly sliced",
+        "name": "shallot"
+    },
+    {
+        "display": "<span class='other'>Big</span><span class='unit'>pinch</span><span class='comment'>coarse</span><span class='name'>salt</span>",
+        "comment": "coarse",
+        "other": "Big",
+        "unit": "pinch",
+        "input": "Big pinch coarse salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='comment'>A few</span><span class='name'>fresh grinds black pepper</span>",
+        "comment": "A few",
+        "input": "A few fresh grinds black pepper",
+        "name": "fresh grinds black pepper"
+    }
+]

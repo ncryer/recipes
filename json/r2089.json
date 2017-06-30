@@ -1,0 +1,85 @@
+[
+    {
+        "display": "<span class='qty'>2 1/4</span><span class='unit'>pounds</span><span class='comment'>small red-skinned</span><span class='name'>potatoes</span>",
+        "comment": "small red-skinned",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "2 1/4 pounds small red-skinned potatoes",
+        "qty": "2 1/4"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>dry white wine</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons dry white wine",
+        "name": "dry white wine"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>teaspoons</span><span class='name'>olive oil</span>",
+        "unit": "teaspoon",
+        "qty": "3",
+        "input": "3 teaspoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>onions</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "onions",
+        "input": "2 cups chopped onions",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>balsamic vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons balsamic vinegar",
+        "name": "balsamic vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>Dijon mustard</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='name'>radishes</span><span class='other'>,</span><span class='comment'>trimmed , thinly sliced</span>",
+        "comment": "trimmed, thinly sliced",
+        "other": ",",
+        "name": "radishes",
+        "input": "8 radishes, trimmed, thinly sliced",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>green onions</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "name": "green onions",
+        "input": "4 green onions, thinly sliced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/4 cup chopped fresh parsley",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>cucumber</span><span class='comment'>, peeled</span><span class='other'>,</span><span class='comment'>halved lengthwise</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "large, peeled halved lengthwise seeded thinly sliced",
+        "other": ",, ,",
+        "name": "cucumber",
+        "input": "1 large cucumber, peeled, halved lengthwise, seeded, thinly sliced",
+        "qty": "1"
+    }
+]

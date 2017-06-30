@@ -1,0 +1,10 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>bunch</span><span class='name'>broccoli rabe</span><span class='comment'>( 5 ounces ) , hollow stems trimmed</span>",
+        "comment": "(5 ounces), hollow stems trimmed",
+        "unit": "bunch",
+        "name": "broccoli rabe",
+        "input": "1/2 bunch broccoli rabe (5 ounces), hollow stems trimmed",
+        "qty": "1/2"
+    }
+]

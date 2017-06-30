@@ -1,0 +1,39 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>carrots</span>",
+        "qty": "2",
+        "comment": "medium",
+        "input": "2 medium carrots",
+        "name": "carrots"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>fennel bulb</span><span class='comment'>, stalks discarded</span>",
+        "qty": "1",
+        "comment": "small, stalks discarded",
+        "input": "1 small fennel bulb, stalks discarded",
+        "name": "fennel bulb"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1 1/4",
+        "input": "1 1/4 cups olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>cayenne</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon cayenne",
+        "name": "cayenne"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>( 3-by 1-inch</span><span class='other'>)</span><span class='unit'>strips</span><span class='name'>lemon</span><span class='other'>zest</span><span class='comment'>, very thinly sliced</span>",
+        "comment": "(3-by 1-inch, very thinly sliced",
+        "other": ") zest",
+        "unit": "strip",
+        "name": "lemon",
+        "input": "2 (3-by 1-inch) strips lemon zest, very thinly sliced",
+        "qty": "2"
+    }
+]

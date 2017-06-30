@@ -1,0 +1,85 @@
+[
+    {
+        "display": "<span class='name'>Nonstick vegetable oil spray</span>",
+        "input": "Nonstick vegetable oil spray",
+        "name": "Nonstick vegetable oil spray"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>all-purpose flour</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups all-purpose flour",
+        "name": "all-purpose flour"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>unsweetened</span><span class='name'>cocoa powder</span>",
+        "comment": "unsweetened",
+        "unit": "tablespoon",
+        "name": "cocoa powder",
+        "input": "3 tablespoons unsweetened cocoa powder",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>teaspoons</span><span class='comment'>ground</span><span class='name'>ginger</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "4 teaspoons ground ginger",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>baking soda</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons baking soda",
+        "name": "baking soda"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>ground</span><span class='name'>cinnamon</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cinnamon",
+        "input": "1 1/2 teaspoons ground cinnamon",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>apple juice</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup apple juice",
+        "name": "apple juice"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>cider vinegar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon cider vinegar",
+        "name": "cider vinegar"
+    },
+    {
+        "display": "<span class='name'>Powder sugar</span>",
+        "input": "Powder sugar",
+        "name": "Powder sugar"
+    }
+]

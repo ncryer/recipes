@@ -1,0 +1,30 @@
+[
+    {
+        "display": "<span class='comment'>1 12-ounce package fresh or frozen</span><span class='name'>cranberries</span>",
+        "comment": "1 12-ounce package fresh or frozen",
+        "input": "1 12-ounce package fresh or frozen cranberries",
+        "name": "cranberries"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>grated</span><span class='name'>orange peel</span>",
+        "comment": "grated",
+        "unit": "teaspoon",
+        "name": "orange peel",
+        "input": "1 1/2 teaspoons grated orange peel",
+        "qty": "1 1/2"
+    }
+]

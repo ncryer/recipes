@@ -1,0 +1,79 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "6",
+        "input": "6 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='comment'>unpeeled</span><span class='name'>eggplant</span><span class='comment'>, cut into 3/4-inch cubes</span>",
+        "comment": "unpeeled, cut into 3/4-inch cubes",
+        "unit": "pound",
+        "name": "eggplant",
+        "input": "1 1/2 pounds unpeeled eggplant, cut into 3/4-inch cubes",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>coarsely chopped</span><span class='name'>red bell peppers</span>",
+        "comment": "coarsely chopped",
+        "unit": "cup",
+        "name": "red bell peppers",
+        "input": "3 cups coarsely chopped red bell peppers",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>coarsely chopped fresh</span><span class='name'>fennel bulb</span><span class='comment'>( about 1 medium )</span>",
+        "comment": "coarsely chopped fresh (about 1 medium)",
+        "unit": "cup",
+        "name": "fennel bulb",
+        "input": "2 cups coarsely chopped fresh fennel bulb (about 1 medium)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "6 large garlic cloves, chopped",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>pitted</span><span class='name'>Kalamata olives</span><span class='comment'>, coarsely chopped</span>",
+        "comment": "pitted, coarsely chopped",
+        "unit": "cup",
+        "name": "Kalamata olives",
+        "input": "1/2 cup pitted Kalamata olives, coarsely chopped",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>golden raisins</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup golden raisins",
+        "name": "golden raisins"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='name'>tomato sauce</span>",
+        "unit": "cup",
+        "qty": "1 1/4",
+        "input": "1 1/4 cups tomato sauce",
+        "name": "tomato sauce"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>red wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "6",
+        "input": "6 tablespoons red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>basil</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "basil",
+        "input": "3/4 cup chopped fresh basil",
+        "qty": "3/4"
+    }
+]

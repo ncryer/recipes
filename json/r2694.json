@@ -1,0 +1,41 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>assorted</span><span class='name'>bell peppers</span><span class='other'>(</span><span class='comment'>preferably red</span><span class='other'>,</span><span class='comment'>yellow , and orange )</span>",
+        "comment": "assorted preferably red yellow, and orange)",
+        "other": "(,",
+        "name": "bell peppers",
+        "input": "4 assorted bell peppers (preferably red, yellow, and orange)",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>balsamic vinegar</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons balsamic vinegar",
+        "name": "balsamic vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>chopped fresh</span><span class='name'>thyme</span>",
+        "comment": "chopped fresh",
+        "unit": "teaspoon",
+        "name": "thyme",
+        "input": "2 teaspoons chopped fresh thyme",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>drained bottled</span><span class='name'>capers</span><span class='comment'>, coarsely chopped</span>",
+        "comment": "drained bottled, coarsely chopped",
+        "unit": "tablespoon",
+        "name": "capers",
+        "input": "1 tablespoon drained bottled capers, coarsely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>arugula</span><span class='comment'>( 1/4 lb ) , tough stems discarded</span>",
+        "comment": "(1/4 lb), tough stems discarded",
+        "unit": "bunch",
+        "name": "arugula",
+        "input": "1 bunch arugula (1/4 lb), tough stems discarded",
+        "qty": "1"
+    }
+]

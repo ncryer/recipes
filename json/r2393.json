@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>shallot</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "name": "shallot",
+        "input": "1 shallot, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small fresh</span><span class='name'>fennel bulb</span><span class='comment'>, trimmed , cut vertically into thin slices</span>",
+        "qty": "1",
+        "comment": "small fresh, trimmed, cut vertically into thin slices",
+        "input": "1 small fresh fennel bulb, trimmed, cut vertically into thin slices",
+        "name": "fennel bulb"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>bite-size pieces radicchio</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups bite-size pieces radicchio",
+        "name": "bite-size pieces radicchio"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>sliced pitted black</span><span class='name'>olives</span>",
+        "comment": "sliced pitted black",
+        "unit": "tablespoon",
+        "name": "olives",
+        "input": "3 tablespoons sliced pitted black olives",
+        "qty": "3"
+    }
+]

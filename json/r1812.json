@@ -1,0 +1,81 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>onion</span><span class='comment'>, chopped fine</span>",
+        "qty": "1",
+        "comment": "small, chopped fine",
+        "input": "1 small onion, chopped fine",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>zucchini</span><span class='comment'>, quartered lengthwise and cut crosswise into 1/2-inch pieces</span>",
+        "qty": "1",
+        "comment": "medium, quartered lengthwise and cut crosswise into 1/2-inch pieces",
+        "input": "1 medium zucchini, quartered lengthwise and cut crosswise into 1/2-inch pieces",
+        "name": "zucchini"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>corn</span><span class='other'>(</span><span class='comment'>cut from about 1 ear )</span>",
+        "comment": "cut from about 1 ear)",
+        "other": "(",
+        "unit": "cup",
+        "name": "corn",
+        "input": "1/2 cup corn (cut from about 1 ear)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>red bell pepper</span>",
+        "comment": "chopped",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup chopped red bell pepper",
+        "name": "red bell pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>to</span><span class='range_end'>2</span><span class='unit'>teaspoons</span><span class='comment'>minced</span><span class='other'>fresh jalape\u00f1o</span><span class='comment'>chili including seeds ( wear rubber gloves )</span>",
+        "comment": "minced chili including seeds (wear rubber gloves)",
+        "other": "to fresh jalape\u00f1o",
+        "unit": "teaspoon",
+        "range_end": "2",
+        "input": "1 to 2 teaspoons minced fresh jalape\u00f1o chili including seeds (wear rubber gloves)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1/4 teaspoon ground cumin",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium vine-ripened</span><span class='name'>tomato</span><span class='comment'>, chopped</span>",
+        "qty": "1",
+        "comment": "medium vine-ripened, chopped",
+        "input": "1 medium vine-ripened tomato, chopped",
+        "name": "tomato"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped</span><span class='name'>coriander sprigs</span>",
+        "comment": "chopped",
+        "unit": "tablespoon",
+        "name": "coriander sprigs",
+        "input": "2 tablespoons chopped coriander sprigs",
+        "qty": "2"
+    }
+]

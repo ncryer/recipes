@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>dried</span><span class='name'>cranberries</span><span class='comment'>( about 2 1/2 ounces )</span>",
+        "comment": "dried (about 2 1/2 ounces)",
+        "unit": "cup",
+        "name": "cranberries",
+        "input": "1/2 cup dried cranberries (about 2 1/2 ounces)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>dried sour</span><span class='name'>cherries</span><span class='comment'>( about 2 1/2 ounces )</span>",
+        "comment": "dried sour (about 2 1/2 ounces)",
+        "unit": "cup",
+        "name": "cherries",
+        "input": "1/2 cup dried sour cherries (about 2 1/2 ounces)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>brandy</span><span class='comment'>such as Cognac</span>",
+        "comment": "such as Cognac",
+        "unit": "tablespoon",
+        "name": "brandy",
+        "input": "2 tablespoons brandy such as Cognac",
+        "qty": "2"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>delicata squash</span><span class='comment'>( 12-14 ounces ) , halved</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>cut into 3/4\" cubes</span>",
+        "comment": "medium (12-14 ounces), halved seeded cut into 3/4\" cubes",
+        "other": ", ,",
+        "name": "delicata squash",
+        "input": "1 medium delicata squash (12-14 ounces), halved, seeded, cut into 3/4\" cubes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='other'>plus 1/3</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "other": "plus 1/3",
+        "unit": "tablespoon cup",
+        "name": "olive oil",
+        "input": "2 tablespoons plus 1/3 cup olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt and freshly ground black pepper",
+        "name": "salt and black pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>skinned</span><span class='name'>hazelnuts</span>",
+        "comment": "skinned",
+        "unit": "cup",
+        "name": "hazelnuts",
+        "input": "1 cup skinned hazelnuts",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>hazelnut oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup hazelnut oil",
+        "name": "hazelnut oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>Sherry vinegar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup Sherry vinegar",
+        "name": "Sherry vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>6-7-ounce</span><span class='unit'>bunch</span><span class='name'>mustard greens</span><span class='other'>,</span><span class='comment'>center ribs and stems removed from tough greens</span><span class='other'>,</span><span class='comment'>cut into 2\" pieces</span><span class='other'>(</span><span class='comment'>about 5 cups</span><span class='other'>)</span>",
+        "comment": "center ribs and stems removed from tough greens cut into 2\" pieces about 5 cups",
+        "other": "6-7-ounce, , ()",
+        "unit": "bunch",
+        "name": "mustard greens",
+        "input": "1 6-7-ounce bunch mustard greens, center ribs and stems removed from tough greens, cut into 2\" pieces (about 5 cups)",
+        "qty": "1"
+    }
+]

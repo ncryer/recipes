@@ -1,0 +1,54 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>cornstarch</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons cornstarch",
+        "name": "cornstarch"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>( 1/2-inch</span><span class='other'>)</span><span class='name'>chunks seitan</span>",
+        "comment": "(1/2-inch",
+        "other": ")",
+        "unit": "cup",
+        "name": "chunks seitan",
+        "input": "1 1/2 cups (1/2-inch) chunks seitan",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped roasted</span><span class='name'>broccoli</span>",
+        "comment": "chopped roasted",
+        "unit": "cup",
+        "name": "broccoli",
+        "input": "1 cup chopped roasted broccoli",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>dry</span><span class='name'>bread crumbs</span>",
+        "comment": "dry",
+        "unit": "tablespoon",
+        "name": "bread crumbs",
+        "input": "6 tablespoons dry bread crumbs",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 teaspoon kosher salt",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Vegetable oil</span><span class='other'>,</span><span class='comment'>for cooking</span>",
+        "comment": "for cooking",
+        "input": "Vegetable oil, for cooking",
+        "name": "Vegetable oil",
+        "other": ","
+    },
+    {
+        "display": "<span class='name'>Buns and burger toppings ( for serving )</span>",
+        "input": "Buns and burger toppings (for serving)",
+        "name": "Buns and burger toppings (for serving)"
+    }
+]

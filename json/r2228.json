@@ -1,0 +1,62 @@
+[
+    {
+        "display": "<span class='other'>3/4 cup plus 2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "other": "3/4 cup plus 2",
+        "input": "3/4 cup plus 2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>5 1/4</span><span class='unit'>cups</span><span class='comment'>hulled fresh</span><span class='name'>strawberries</span><span class='comment'>( about three 12-ounce baskets ) , halved</span>",
+        "comment": "hulled fresh (about three 12-ounce baskets), halved",
+        "unit": "cup",
+        "name": "strawberries",
+        "input": "5 1/4 cups hulled fresh strawberries (about three 12-ounce baskets), halved",
+        "qty": "5 1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>light</span><span class='name'>corn syrup</span>",
+        "comment": "light",
+        "unit": "tablespoon",
+        "name": "corn syrup",
+        "input": "1 tablespoon light corn syrup",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "2 teaspoons fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>vanilla extract</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons vanilla extract",
+        "name": "vanilla extract"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>cold extra-dry</span><span class='name'>Champagne</span>",
+        "comment": "cold extra-dry",
+        "unit": "cup",
+        "name": "Champagne",
+        "input": "1 1/2 cups cold extra-dry Champagne",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='comment'>Fresh</span><span class='name'>mint</span><span class='unit'>sprigs</span>",
+        "unit": "sprig",
+        "comment": "Fresh",
+        "input": "Fresh mint sprigs",
+        "name": "mint"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>cups</span><span class='comment'>whole</span><span class='name'>wheat pastry</span><span class='comment'>or spelt</span><span class='name'>flour</span>",
+        "comment": "whole or spelt",
+        "unit": "cup",
+        "name": "wheat pastry flour",
+        "input": "2 1/2 cups whole wheat pastry or spelt flour",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>baking powder</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon baking powder",
+        "name": "baking powder"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>baking soda</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons baking soda",
+        "name": "baking soda"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>cinnamon</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon cinnamon",
+        "name": "cinnamon"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>ginger</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "1/2 teaspoon ground ginger",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cloves</span><span class='comment'>or allspice</span>",
+        "comment": "ground or allspice",
+        "unit": "teaspoon",
+        "name": "cloves",
+        "input": "1/2 teaspoon ground cloves or allspice",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>dark agave nectar or pure maple syrup</span><span class='other'>, or</span><span class='comment'>half of each</span>",
+        "comment": "dark agave nectar or pure maple syrup half of each",
+        "other": ", or",
+        "unit": "cup",
+        "input": "1 cup dark agave nectar or pure maple syrup, or half of each",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>applesauce</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup applesauce",
+        "name": "applesauce"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>safflower oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup safflower oil",
+        "name": "safflower oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>vanilla extract</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons vanilla extract",
+        "name": "vanilla extract"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>dark</span><span class='comment'>or golden</span><span class='name'>raisins</span>",
+        "comment": "or golden",
+        "unit": "cup",
+        "name": "dark raisins",
+        "input": "1/2 cup dark or golden raisins",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>sliced</span><span class='name'>almonds</span>",
+        "comment": "sliced",
+        "unit": "cup",
+        "name": "almonds",
+        "input": "1/4 cup sliced almonds",
+        "qty": "1/4"
+    }
+]

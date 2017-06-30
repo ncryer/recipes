@@ -1,0 +1,70 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 1/2 tablespoons fresh lemon juice",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>finely grated fresh</span><span class='name'>lemon zest</span>",
+        "comment": "finely grated fresh",
+        "unit": "teaspoon",
+        "name": "lemon zest",
+        "input": "1 teaspoon finely grated fresh lemon zest",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='other'>1/3 cup plus 1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "other": "1/3 cup plus 1",
+        "input": "1/3 cup plus 1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='comment'>thinly sliced</span><span class='name'>Napa cabbage</span><span class='comment'>( 1/2 lb; from</span><span class='qty'>1</span><span class='comment'>head )</span>",
+        "comment": "thinly sliced (1/2 lb; from head)",
+        "unit": "cup",
+        "name": "Napa cabbage",
+        "input": "6 cups thinly sliced Napa cabbage (1/2 lb; from 1 head)",
+        "qty": "6 1"
+    },
+    {
+        "display": "<span class='qty'>4 1/2</span><span class='unit'>cups</span><span class='comment'>loosely packed fresh flat-leaf</span><span class='name'>parsley leaves</span><span class='comment'>( 3 large bunches )</span>",
+        "comment": "loosely packed fresh flat-leaf (3 large bunches)",
+        "unit": "cup",
+        "name": "parsley leaves",
+        "input": "4 1/2 cups loosely packed fresh flat-leaf parsley leaves (3 large bunches)",
+        "qty": "4 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>thinly sliced</span><span class='name'>radicchio</span><span class='comment'>( 1/4 lb )</span>",
+        "comment": "thinly sliced (1/4 lb)",
+        "unit": "cup",
+        "name": "radicchio",
+        "input": "2 cups thinly sliced radicchio (1/4 lb)",
+        "qty": "2"
+    }
+]

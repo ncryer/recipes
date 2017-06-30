@@ -1,0 +1,61 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>onion</span>",
+        "comment": "finely chopped",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1/2 cup finely chopped onion",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>allspice</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "allspice",
+        "input": "1/4 teaspoon ground allspice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>cayenne</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon cayenne",
+        "name": "cayenne"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>cinnamon</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon cinnamon",
+        "name": "cinnamon"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>bulgur</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup bulgur",
+        "name": "bulgur"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>California</span><span class='comment'>dried</span><span class='name'>apricots</span>",
+        "comment": "chopped dried",
+        "unit": "cup",
+        "name": "California apricots",
+        "input": "1/4 cup chopped California dried apricots",
+        "qty": "1/4"
+    }
+]

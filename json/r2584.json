@@ -1,0 +1,67 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>pimiento-stuffed</span><span class='name'>green olives</span><span class='comment'>( 5 oz ) , rinsed well</span>",
+        "comment": "pimiento-stuffed (5 oz), rinsed well",
+        "unit": "cup",
+        "name": "green olives",
+        "input": "1 cup pimiento-stuffed green olives (5 oz), rinsed well",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>pitted</span><span class='name'>Kalamata olives</span><span class='comment'>( 3 oz ) , rinsed well</span>",
+        "comment": "pitted (3 oz), rinsed well",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup pitted Kalamata olives (3 oz), rinsed well",
+        "name": "Kalamata olives"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>drained bottled</span><span class='name'>capers</span><span class='comment'>, rinsed well</span>",
+        "comment": "drained bottled, rinsed well",
+        "unit": "tablespoon",
+        "name": "capers",
+        "input": "3 tablespoons drained bottled capers, rinsed well",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "1 1/2 tablespoons extra-virgin olive oil",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 large garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>red-wine vinegar</span><span class='comment'>or fresh</span><span class='name'>lemon juice</span>",
+        "comment": "or fresh",
+        "unit": "teaspoon",
+        "name": "red-wine vinegar lemon juice",
+        "input": "1 teaspoon red-wine vinegar or fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>oregano</span><span class='comment'>or thyme</span><span class='other'>,</span><span class='comment'>crumbled</span>",
+        "comment": "dried or thyme crumbled",
+        "other": "1/8 ,",
+        "unit": "teaspoon",
+        "input": "1/8 teaspoon dried oregano or thyme, crumbled",
+        "name": "oregano"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='comment'>dried hot</span><span class='name'>red pepper flakes</span>",
+        "comment": "dried hot",
+        "other": "1/8",
+        "unit": "teaspoon",
+        "input": "1/8 teaspoon dried hot red pepper flakes",
+        "name": "red pepper flakes"
+    }
+]

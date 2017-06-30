@@ -1,0 +1,32 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>large ripe avocados</span><span class='other'>,</span><span class='comment'>halved</span><span class='other'>,</span><span class='comment'>pitted</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "halved pitted peeled chopped",
+        "other": ",, , ,",
+        "name": "large ripe avocados",
+        "input": "2 large ripe avocados, halved, pitted, peeled, chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "2 tablespoons fresh lime juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "2 tablespoons chopped fresh cilantro",
+        "qty": "2"
+    }
+]

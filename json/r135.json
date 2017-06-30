@@ -1,0 +1,102 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>coconut oil</span><span class='comment'>or ghee</span>",
+        "comment": "or ghee",
+        "unit": "tablespoon",
+        "name": "coconut oil",
+        "input": "1 tablespoon coconut oil or ghee",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>onions</span><span class='comment'>or leeks</span><span class='other'>,</span><span class='comment'>white and pale-green parts only</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "large or leeks white and pale-green parts only chopped",
+        "other": ", ,",
+        "name": "onions",
+        "input": "2 large onions or leeks, white and pale-green parts only, chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "5 garlic cloves, minced",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>minced fresh</span><span class='name'>ginger</span>",
+        "comment": "minced fresh",
+        "unit": "tablespoon",
+        "name": "ginger",
+        "input": "1 tablespoon minced fresh ginger",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Fine sea</span><span class='name'>salt</span>",
+        "comment": "Fine sea",
+        "input": "Fine sea salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "tablespoon",
+        "name": "cumin",
+        "input": "1 tablespoon ground cumin",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>cayenne pepper</span><span class='other'>,</span><span class='comment'>or more to taste</span>",
+        "comment": "or more to taste",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "cayenne pepper",
+        "input": "1/4 teaspoon cayenne pepper, or more to taste",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 15-ounce / 400g ) can whole</span><span class='name'>tomatoes</span><span class='other'>, or</span><span class='comment'>5 large fresh</span><span class='name'>tomatoes chopped</span>",
+        "comment": "(15-ounce / 400g) can whole 5 large fresh",
+        "other": ", or",
+        "name": "tomatoes tomatoes chopped",
+        "input": "1 (15-ounce / 400g) can whole tomatoes, or 5 large fresh tomatoes chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small organic</span><span class='name'>lemon</span><span class='comment'>, sliced</span>",
+        "qty": "1",
+        "comment": "small organic, sliced",
+        "input": "1 small organic lemon, sliced",
+        "name": "lemon"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>/ 200g red lentils</span><span class='other'>,</span><span class='comment'>picked over and rinsed very well</span><span class='other'>(</span><span class='comment'>soaked , if possible )</span>",
+        "comment": "picked over and rinsed very well soaked, if possible)",
+        "other": ", (",
+        "unit": "cup",
+        "name": "/ 200g red lentils",
+        "input": "1 cup / 200g red lentils, picked over and rinsed very well (soaked, if possible)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>/ 1 liter vegetable broth</span>",
+        "unit": "cup",
+        "qty": "4",
+        "input": "4 cups / 1 liter vegetable broth",
+        "name": "/ 1 liter vegetable broth"
+    },
+    {
+        "display": "<span class='comment'>Pure</span><span class='name'>maple</span><span class='comment'>syrup or raw honey ( optional )</span>",
+        "comment": "Pure syrup or raw honey (optional)",
+        "input": "Pure maple syrup or raw honey (optional)",
+        "name": "maple"
+    },
+    {
+        "display": "<span class='comment'>Fresh</span><span class='name'>cilantro leaves</span><span class='comment'>, sliced spring</span><span class='name'>onions</span><span class='comment'>, or flat-leaf parsley leaves</span><span class='other'>,</span><span class='comment'>for garnish</span>",
+        "comment": "Fresh, sliced spring, or flat-leaf parsley leaves for garnish",
+        "input": "Fresh cilantro leaves, sliced spring onions, or flat-leaf parsley leaves, for garnish",
+        "name": "cilantro leaves onions",
+        "other": ","
+    }
+]

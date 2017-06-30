@@ -1,0 +1,63 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>coarse</span><span class='other'>,</span><span class='comment'>whole-grain , yellow</span><span class='name'>cornmeal</span>",
+        "comment": "whole-grain, yellow",
+        "other": ",",
+        "unit": "cup",
+        "name": "coarse cornmeal",
+        "input": "4 cups coarse, whole-grain, yellow cornmeal",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>whole</span><span class='name'>wheat flour</span>",
+        "comment": "whole",
+        "unit": "cup",
+        "name": "wheat flour",
+        "input": "2 cups whole wheat flour",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 3/4</span><span class='unit'>cups</span><span class='comment'>spelt</span><span class='name'>flour</span>",
+        "comment": "spelt",
+        "unit": "cup",
+        "name": "flour",
+        "input": "1 3/4 cups spelt flour",
+        "qty": "1 3/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>old-fashioned rolled oats ( do not use quick-cooking or steel-cut oats )</span>",
+        "unit": "cup",
+        "comment": "old-fashioned rolled oats (do not use quick-cooking or steel-cut oats)",
+        "input": "1 cup old-fashioned rolled oats (do not use quick-cooking or steel-cut oats)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>baking powder</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup baking powder",
+        "name": "baking powder"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "4",
+        "input": "4 teaspoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cinnamon</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cinnamon",
+        "input": "1 teaspoon ground cinnamon",
+        "qty": "1"
+    }
+]

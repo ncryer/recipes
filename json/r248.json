@@ -1,0 +1,41 @@
+[
+    {
+        "display": "<span class='qty'>1 3/4</span><span class='unit'>pounds</span><span class='comment'>good-quality 60% cacao semisweet</span><span class='name'>chocolate</span><span class='comment'>, chopped</span>",
+        "comment": "good-quality 60% cacao semisweet, chopped",
+        "unit": "pound",
+        "name": "chocolate",
+        "input": "1 3/4 pounds good-quality 60% cacao semisweet chocolate, chopped",
+        "qty": "1 3/4"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='comment'>roasted unsalted</span><span class='name'>almonds</span><span class='comment'>, chopped</span>",
+        "comment": "roasted unsalted, chopped",
+        "unit": "cup",
+        "name": "almonds",
+        "input": "1 1/4 cups roasted unsalted almonds, chopped",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='comment'>roasted shelled</span><span class='name'>pistachios</span><span class='comment'>, chopped</span>",
+        "comment": "roasted shelled, chopped",
+        "unit": "cup",
+        "name": "pistachios",
+        "input": "1 1/4 cups roasted shelled pistachios, chopped",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>pure</span><span class='name'>vanilla extract</span>",
+        "comment": "pure",
+        "unit": "teaspoon",
+        "name": "vanilla extract",
+        "input": "1/2 teaspoon pure vanilla extract",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>coarse flake sea salt</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons coarse flake sea salt",
+        "name": "coarse flake sea salt"
+    }
+]

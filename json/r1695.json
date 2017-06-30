@@ -1,0 +1,23 @@
+[
+    {
+        "display": "<span class='name'>Vegetable oil</span><span class='comment'>for greasing pan</span>",
+        "comment": "for greasing pan",
+        "input": "Vegetable oil for greasing pan",
+        "name": "Vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>lb rhubarb stalks</span><span class='other'>,</span><span class='comment'>cut into 1-inch pieces</span>",
+        "comment": "cut into 1-inch pieces",
+        "other": ",",
+        "name": "lb rhubarb stalks",
+        "input": "2 lb rhubarb stalks, cut into 1-inch pieces",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>confectioners sugar</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup confectioners sugar",
+        "name": "confectioners sugar"
+    }
+]

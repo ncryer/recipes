@@ -1,0 +1,89 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>apple cider vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons apple cider vinegar",
+        "name": "apple cider vinegar"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>finely grated peeled</span><span class='name'>ginger</span>",
+        "comment": "finely grated peeled",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "1 1/2 teaspoons finely grated peeled ginger",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>Aleppo pepper</span><span class='comment'>or 1/2 teaspoon crushed</span><span class='name'>red pepper flakes</span><span class='other'>, divided</span>",
+        "comment": "or 1/2 teaspoon crushed",
+        "other": ", divided",
+        "unit": "teaspoon",
+        "name": "Aleppo pepper red pepper flakes",
+        "input": "1 teaspoon Aleppo pepper or 1/2 teaspoon crushed red pepper flakes, divided",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>teaspoons</span><span class='name'>honey</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "honey",
+        "input": "3 teaspoons honey, divided",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>toasted</span><span class='name'>sesame oil</span>",
+        "comment": "toasted",
+        "unit": "teaspoon",
+        "name": "sesame oil",
+        "input": "1 teaspoon toasted sesame oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>raw</span><span class='name'>sunflower seeds</span>",
+        "comment": "raw",
+        "unit": "tablespoon",
+        "name": "sunflower seeds",
+        "input": "2 tablespoons raw sunflower seeds",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>raw</span><span class='name'>pumpkin seeds</span><span class='comment'>( pepitas )</span>",
+        "comment": "raw (pepitas)",
+        "unit": "tablespoon",
+        "name": "pumpkin seeds",
+        "input": "1 tablespoon raw pumpkin seeds (pepitas)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>raw</span><span class='name'>sesame seeds</span>",
+        "comment": "raw",
+        "unit": "tablespoon",
+        "name": "sesame seeds",
+        "input": "1 tablespoon raw sesame seeds",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>collard greens</span><span class='comment'>( about 10 ounces )</span><span class='other'>,</span><span class='comment'>center ribs and stems removed</span><span class='other'>,</span><span class='comment'>leaves thinly sliced</span>",
+        "comment": "(about 10 ounces) center ribs and stems removed leaves thinly sliced",
+        "other": ", ,",
+        "unit": "bunch",
+        "name": "collard greens",
+        "input": "1 bunch collard greens (about 10 ounces), center ribs and stems removed, leaves thinly sliced",
+        "qty": "1"
+    }
+]

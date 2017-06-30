@@ -1,0 +1,32 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>pounds</span><span class='name'>collard greens</span><span class='other'>,</span><span class='comment'>leaves halved lengthwise and stems and center ribs discarded</span>",
+        "comment": "leaves halved lengthwise and stems and center ribs discarded",
+        "other": ",",
+        "unit": "pound",
+        "name": "collard greens",
+        "input": "2 1/2 pounds collard greens, leaves halved lengthwise and stems and center ribs discarded",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>teaspoons</span><span class='name'>olive oil</span>",
+        "unit": "teaspoon",
+        "qty": "4",
+        "input": "4 teaspoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    }
+]

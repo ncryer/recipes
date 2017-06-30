@@ -1,0 +1,43 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>smashed</span>",
+        "comment": "smashed",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, smashed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1 teaspoon ground cumin",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='unit'>bunch</span><span class='name'>greens</span><span class='comment'>( such as spinach</span><span class='other'>,</span><span class='comment'>mustard greens</span><span class='other'>,</span><span class='comment'>kale</span><span class='other'>, or</span><span class='comment'>broccoli rabe; about 1 pound</span><span class='other'>) ,</span><span class='comment'>thick stems removed</span><span class='other'>,</span><span class='comment'>spinach left whole</span><span class='other'>,</span><span class='comment'>other greens cut into 1-inch strips ( about 10 cups packed )</span>",
+        "comment": "(such as spinach mustard greens kale broccoli rabe; about 1 pound thick stems removed spinach left whole other greens cut into 1-inch strips (about 10 cups packed)",
+        "other": "large, ,, or), , ,",
+        "unit": "bunch",
+        "name": "greens",
+        "input": "1 large bunch greens (such as spinach, mustard greens, kale, or broccoli rabe; about 1 pound), thick stems removed, spinach left whole, other greens cut into 1-inch strips (about 10 cups packed)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>14 1/2-ounce can diced</span><span class='name'>tomatoes</span><span class='comment'>, drained</span>",
+        "qty": "1",
+        "comment": "14 1/2-ounce can diced, drained",
+        "input": "1 14 1/2-ounce can diced tomatoes, drained",
+        "name": "tomatoes"
+    }
+]

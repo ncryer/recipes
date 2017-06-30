@@ -1,0 +1,31 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>fennel seeds</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon fennel seeds",
+        "name": "fennel seeds"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "2 teaspoons kosher salt",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='comment'>( 1-inch-thick</span><span class='other'>)</span><span class='unit'>slices</span><span class='comment'>from a 5-lb quartered chilled watermelon</span>",
+        "comment": "(1-inch-thick from a 5-lb quartered chilled watermelon",
+        "other": ")",
+        "unit": "slice",
+        "input": "12 (1-inch-thick) slices from a 5-lb quartered chilled watermelon",
+        "qty": "12"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>lime wedges</span>",
+        "qty": "6",
+        "input": "6 lime wedges",
+        "name": "lime wedges"
+    }
+]

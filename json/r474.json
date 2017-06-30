@@ -1,0 +1,43 @@
+[
+    {
+        "display": "<span class='comment'>Ripe</span><span class='name'>tomatoes</span>",
+        "comment": "Ripe",
+        "input": "Ripe tomatoes",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='comment'>Raw</span><span class='name'>corn kernels</span>",
+        "comment": "Raw",
+        "input": "Raw corn kernels",
+        "name": "corn kernels"
+    },
+    {
+        "display": "<span class='comment'>Diced</span><span class='name'>avocado</span>",
+        "comment": "Diced",
+        "input": "Diced avocado",
+        "name": "avocado"
+    },
+    {
+        "display": "<span class='comment'>Chopped</span><span class='name'>cilantro</span>",
+        "comment": "Chopped",
+        "input": "Chopped cilantro",
+        "name": "cilantro"
+    },
+    {
+        "display": "<span class='comment'>Fresh</span><span class='name'>lime juice</span>",
+        "comment": "Fresh",
+        "input": "Fresh lime juice",
+        "name": "lime juice"
+    },
+    {
+        "display": "<span class='comment'>Minced serrano</span><span class='name'>chile</span>",
+        "comment": "Minced serrano",
+        "input": "Minced serrano chile",
+        "name": "chile"
+    },
+    {
+        "display": "<span class='name'>Salt</span>",
+        "input": "Salt",
+        "name": "Salt"
+    }
+]

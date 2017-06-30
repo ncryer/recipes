@@ -1,0 +1,32 @@
+[
+    {
+        "display": "<span class='other'>a small</span><span class='unit'>head</span><span class='name'>cauliflower</span><span class='comment'>( about 1 pound )</span>",
+        "comment": "(about 1 pound)",
+        "other": "a small",
+        "unit": "head",
+        "input": "a small head cauliflower (about 1 pound)",
+        "name": "cauliflower"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>cumin seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon cumin seeds",
+        "name": "cumin seeds"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>coriander</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "coriander",
+        "input": "1/4 teaspoon ground coriander",
+        "qty": "1/4"
+    }
+]

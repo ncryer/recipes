@@ -1,0 +1,41 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>pounds</span><span class='comment'>1-inch-diameter Dutch yellow</span><span class='name'>potatoes</span><span class='comment'>, halved lengthwise</span>",
+        "comment": "1-inch-diameter Dutch yellow, halved lengthwise",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "4 pounds 1-inch-diameter Dutch yellow potatoes, halved lengthwise",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>green beans</span><span class='comment'>, trimmed , cut into 1-inch pieces</span>",
+        "comment": ", trimmed, cut into 1-inch pieces",
+        "unit": "pound",
+        "name": "green beans",
+        "input": "1 pound green beans, trimmed, cut into 1-inch pieces",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>purchased</span><span class='name'>pesto</span>",
+        "comment": "purchased",
+        "unit": "cup",
+        "name": "pesto",
+        "input": "1 cup purchased pesto",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>green onions</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "green onions",
+        "input": "1/4 cup chopped green onions",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='name'>white balsamic vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "4",
+        "input": "4 tablespoons white balsamic vinegar",
+        "name": "white balsamic vinegar"
+    }
+]

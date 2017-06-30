@@ -1,0 +1,73 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>( 0.75 oz / 21 g ) barley malt syrup</span><span class='other'>,</span><span class='comment'>honey</span><span class='other'>, or</span><span class='comment'>rice syrup</span><span class='other'>, or</span><span class='comment'>1 teaspoon ( 0.25 oz / 7 g ) diastatic malt powder</span>",
+        "comment": "(0.75 oz / 21 g) barley malt syrup honey rice syrup 1 teaspoon (0.25 oz / 7 g) diastatic malt powder",
+        "other": ",, or, or",
+        "unit": "tablespoon",
+        "input": "1 tablespoon (0.75 oz / 21 g) barley malt syrup, honey, or rice syrup, or 1 teaspoon (0.25 oz / 7 g) diastatic malt powder",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>( 0.11 oz / 3 g ) instant</span><span class='name'>yeast</span>",
+        "comment": "(0.11 oz / 3 g) instant",
+        "unit": "teaspoon",
+        "name": "yeast",
+        "input": "1 teaspoon (0.11 oz / 3 g) instant yeast",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>( 0.37 oz / 10.5 g )</span><span class='name'>salt</span><span class='comment'>, or 2 1/2 teaspoons coarse kosher</span><span class='name'>salt</span>",
+        "comment": "(0.37 oz / 10.5 g), or 2 1/2 teaspoons coarse kosher",
+        "unit": "teaspoon",
+        "name": "salt salt",
+        "input": "1 1/2 teaspoons (0.37 oz / 10.5 g) salt, or 2 1/2 teaspoons coarse kosher salt",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='other'>1 cup plus 2</span><span class='comment'>tablespoons ( 9 oz / 255 g ) lukewarm water ( about 95\u00b0F or 35\u00b0C )</span>",
+        "comment": "tablespoons (9 oz / 255 g) lukewarm water (about 95\u00b0F or 35\u00b0C)",
+        "input": "1 cup plus 2 tablespoons (9 oz / 255 g) lukewarm water (about 95\u00b0F or 35\u00b0C)",
+        "other": "1 cup plus 2"
+    },
+    {
+        "display": "<span class='qty'>3 1/2</span><span class='unit'>cups</span><span class='comment'>( 16 oz / 454 g )</span><span class='name'>unbleached bread flour</span>",
+        "comment": "(16 oz / 454 g)",
+        "unit": "cup",
+        "name": "unbleached bread flour",
+        "input": "3 1/2 cups (16 oz / 454 g) unbleached bread flour",
+        "qty": "3 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>to</span><span class='range_end'>3</span><span class='unit'>quarts</span><span class='comment'>( 64 to 96 oz / 181 to 272 g ) water</span>",
+        "comment": "(64 to 96 oz / 181 to 272 g) water",
+        "other": "to",
+        "unit": "quart",
+        "range_end": "3",
+        "input": "2 to 3 quarts (64 to 96 oz / 181 to 272 g) water",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>( 1 oz / 28.5 g ) barley malt syrup</span><span class='other'>or</span><span class='comment'>honey ( optional )</span>",
+        "comment": "(1 oz / 28.5 g) barley malt syrup honey (optional)",
+        "other": "or",
+        "unit": "tablespoon",
+        "input": "1 1/2 tablespoons (1 oz / 28.5 g) barley malt syrup or honey (optional)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>( 0.5 oz / 14 g )</span><span class='name'>baking soda</span>",
+        "comment": "(0.5 oz / 14 g)",
+        "unit": "tablespoon",
+        "name": "baking soda",
+        "input": "1 tablespoon (0.5 oz / 14 g) baking soda",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>( 0.25 oz / 7 g )</span><span class='name'>salt</span><span class='comment'>, or 1 1/2 teaspoons coarse kosher</span><span class='name'>salt</span>",
+        "comment": "(0.25 oz / 7 g), or 1 1/2 teaspoons coarse kosher",
+        "unit": "teaspoon",
+        "name": "salt salt",
+        "input": "1 teaspoon (0.25 oz / 7 g) salt, or 1 1/2 teaspoons coarse kosher salt",
+        "qty": "1"
+    }
+]

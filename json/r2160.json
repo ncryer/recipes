@@ -1,0 +1,50 @@
+[
+    {
+        "display": "<span class='name'>Nonstick vegetable oil spray</span>",
+        "input": "Nonstick vegetable oil spray",
+        "name": "Nonstick vegetable oil spray"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>pounds</span><span class='comment'>small red-skinned</span><span class='name'>potatoes</span><span class='other'>,</span><span class='comment'>unpeeled</span><span class='other'>,</span><span class='comment'>cut into 1 1/2-inch wedges</span>",
+        "comment": "small red-skinned unpeeled cut into 1 1/2-inch wedges",
+        "other": ", ,",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "2 1/2 pounds small red-skinned potatoes, unpeeled, cut into 1 1/2-inch wedges",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "5 tablespoons extra-virgin olive oil",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>crimini mushrooms</span><span class='other'>,</span><span class='comment'>halved if large</span>",
+        "comment": "halved if large",
+        "other": ",",
+        "unit": "pound",
+        "name": "crimini mushrooms",
+        "input": "1 pound crimini mushrooms, halved if large",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>ounce</span><span class='comment'>dried</span><span class='name'>porcini mushrooms</span><span class='other'>,</span><span class='comment'>* ground to powder in blender</span>",
+        "comment": "dried * ground to powder in blender",
+        "other": ",",
+        "unit": "ounce",
+        "name": "porcini mushrooms",
+        "input": "1/2 ounce dried porcini mushrooms, * ground to powder in blender",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh Italian</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh Italian",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "3 tablespoons chopped fresh Italian parsley",
+        "qty": "3"
+    }
+]

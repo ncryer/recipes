@@ -1,0 +1,51 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='other'>1 2/3</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "1 2/3",
+        "input": "1 2/3 cups sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>anise seeds</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons anise seeds",
+        "name": "anise seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>Pernod or other anise-flavored liqueur ( optional )</span>",
+        "unit": "teaspoon",
+        "comment": "Pernod or other anise-flavored liqueur (optional)",
+        "input": "1 teaspoon Pernod or other anise-flavored liqueur (optional)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 4-lb )</span><span class='name'>pineapple</span><span class='comment'>( labeled \"extra sweet\" ) , trimmed</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>halved lengthwise</span><span class='other'>, and</span><span class='comment'>cored</span>",
+        "comment": "(4-lb) (labeled \"extra sweet\"), trimmed peeled halved lengthwise cored",
+        "other": ",, , and",
+        "name": "pineapple",
+        "input": "1 (4-lb) pineapple (labeled \"extra sweet\"), trimmed, peeled, halved lengthwise, and cored",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Special equipment: an ice cream maker</span>",
+        "input": "Special equipment: an ice cream maker",
+        "name": "Special equipment: an ice cream maker"
+    }
+]

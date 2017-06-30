@@ -1,0 +1,55 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>cumin seeds</span><span class='other'>,</span><span class='comment'>toasted 1 minute in a dry skillet</span>",
+        "comment": "toasted 1 minute in a dry skillet",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "cumin seeds",
+        "input": "1 teaspoon cumin seeds, toasted 1 minute in a dry skillet",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>bay leaf</span>",
+        "qty": "1",
+        "input": "1 bay leaf",
+        "name": "bay leaf"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>smoked</span><span class='name'>paprika</span><span class='comment'>( pimenton ) or regular paprika</span>",
+        "comment": "smoked (pimenton) or regular paprika",
+        "unit": "teaspoon",
+        "name": "paprika",
+        "input": "1/4 teaspoon smoked paprika (pimenton) or regular paprika",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>packed</span><span class='name'>brown sugar</span>",
+        "comment": "packed",
+        "unit": "teaspoon",
+        "name": "brown sugar",
+        "input": "2 teaspoons packed brown sugar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sea salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sea salt",
+        "name": "sea salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>kabocha squash</span><span class='comment'>( about 2 1/2 pounds ) , partially peeled</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>cut into 1-inch chunks</span>",
+        "comment": "(about 2 1/2 pounds), partially peeled seeded cut into 1-inch chunks",
+        "other": ", ,",
+        "name": "kabocha squash",
+        "input": "1 kabocha squash (about 2 1/2 pounds), partially peeled, seeded, cut into 1-inch chunks",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    }
+]

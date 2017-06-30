@@ -1,0 +1,88 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>seasoned rice vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "6",
+        "input": "6 tablespoons seasoned rice vinegar",
+        "name": "seasoned rice vinegar"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>chopped peeled fresh</span><span class='name'>ginger</span>",
+        "comment": "chopped peeled fresh",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "1 1/2 teaspoons chopped peeled fresh ginger",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>minced fresh</span><span class='name'>jalape\u00f1o chile</span><span class='other'>,</span><span class='comment'>including seeds , or to taste</span>",
+        "comment": "minced fresh including seeds, or to taste",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "jalape\u00f1o chile",
+        "input": "1 teaspoon minced fresh jalape\u00f1o chile, including seeds, or to taste",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>ounces</span><span class='name'>bean thread ( cellophane ) noodles</span>",
+        "unit": "ounce",
+        "qty": "8",
+        "input": "8 ounces bean thread (cellophane) noodles",
+        "name": "bean thread (cellophane) noodles"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>English cucumber</span><span class='comment'>, halved lengthwise and thinly sliced diagonally</span>",
+        "qty": "1",
+        "comment": ", halved lengthwise and thinly sliced diagonally",
+        "input": "1 English cucumber, halved lengthwise and thinly sliced diagonally",
+        "name": "English cucumber"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>scallions</span><span class='comment'>, thinly sliced diagonally ( 1 cup )</span>",
+        "comment": ", thinly sliced diagonally (1 cup)",
+        "unit": "bunch",
+        "name": "scallions",
+        "input": "1 bunch scallions, thinly sliced diagonally (1 cup)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>firm-ripe mango</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>pitted , and thinly sliced</span>",
+        "comment": "peeled pitted, and thinly sliced",
+        "other": ", ,",
+        "name": "firm-ripe mango",
+        "input": "1 firm-ripe mango, peeled, pitted, and thinly sliced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>thin carrots</span><span class='other'>,</span><span class='comment'>very thinly sliced diagonally</span>",
+        "comment": "very thinly sliced diagonally",
+        "other": ",",
+        "name": "thin carrots",
+        "input": "2 thin carrots, very thinly sliced diagonally",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>cilantro sprigs</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "cilantro sprigs",
+        "input": "1 cup fresh cilantro sprigs",
+        "qty": "1"
+    }
+]

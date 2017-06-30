@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='comment'>Cloves from</span><span class='qty'>1</span><span class='unit'>head</span><span class='other'>of</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>separated and peeled</span>",
+        "comment": "Cloves from separated and peeled",
+        "other": "of ,",
+        "unit": "head",
+        "name": "garlic",
+        "input": "Cloves from 1 head of garlic, separated and peeled",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>cumin seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon cumin seeds",
+        "name": "cumin seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>mustard seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon mustard seeds",
+        "name": "mustard seeds"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>cups</span><span class='comment'>cooked</span><span class='name'>chickpeas</span><span class='comment'>or 28-ounce can best-quality chickpeas ( such as Goya</span><span class='other'>) ,</span><span class='comment'>well rinsed and well drained</span>",
+        "comment": "cooked or 28-ounce can best-quality chickpeas (such as Goya well rinsed and well drained",
+        "other": ") ,",
+        "unit": "cup",
+        "name": "chickpeas",
+        "input": "2 1/2 cups cooked chickpeas or 28-ounce can best-quality chickpeas (such as Goya), well rinsed and well drained",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt and whole black peppercorns</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt and whole black peppercorns",
+        "name": "salt and whole black peppercorns"
+    },
+    {
+        "display": "<span class='name'>Blended oil</span><span class='comment'>( 50 percent canola , 50 percent extra-virgin olive )</span><span class='other'>,</span><span class='comment'>as needed</span>",
+        "comment": "(50 percent canola, 50 percent extra-virgin olive) as needed",
+        "input": "Blended oil (50 percent canola, 50 percent extra-virgin olive), as needed",
+        "name": "Blended oil",
+        "other": ","
+    }
+]

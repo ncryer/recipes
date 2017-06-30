@@ -1,0 +1,103 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>almond milk</span><span class='other'>(</span><span class='comment'>125 milliliters</span><span class='other'>)</span>",
+        "comment": "125 milliliters",
+        "other": "()",
+        "unit": "cup",
+        "name": "almond milk",
+        "input": "1/2 cup almond milk (125 milliliters)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>chia seeds</span><span class='comment'>( 2 3/4 ounces</span><span class='other'>)</span>",
+        "comment": "(2 3/4 ounces",
+        "other": ")",
+        "unit": "cup",
+        "name": "chia seeds",
+        "input": "1/2 cup chia seeds (2 3/4 ounces)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='comment'>frozen</span><span class='name'>bananas</span>",
+        "qty": "1 1/2",
+        "comment": "frozen",
+        "input": "1 1/2 frozen bananas",
+        "name": "bananas"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>avocado</span>",
+        "qty": "1/2",
+        "input": "1/2 avocado",
+        "name": "avocado"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>raw</span><span class='name'>cacao powder</span>",
+        "comment": "raw",
+        "unit": "tablespoon",
+        "name": "cacao powder",
+        "input": "1 tablespoon raw cacao powder",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>maple syrup</span><span class='comment'>or raw honey</span>",
+        "comment": "or raw honey",
+        "unit": "tablespoon",
+        "name": "maple syrup",
+        "input": "2 tablespoons maple syrup or raw honey",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cinnamon</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cinnamon",
+        "input": "1/2 teaspoon ground cinnamon",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>7</span><span class='name'>fluid</span><span class='unit'>ounces</span><span class='name'>coconut water</span><span class='comment'>( 200 milliliters )</span>",
+        "comment": "(200 milliliters)",
+        "unit": "ounce",
+        "name": "fluid coconut water",
+        "input": "7 fluid ounces coconut water (200 milliliters)",
+        "qty": "7"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>ice</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup ice",
+        "name": "ice"
+    },
+    {
+        "display": "<span class='qty'>3 1/2</span><span class='unit'>ounces</span><span class='comment'>activated</span><span class='name'>almonds</span><span class='comment'>( 100 grams )</span>",
+        "comment": "activated (100 grams)",
+        "unit": "ounce",
+        "name": "almonds",
+        "input": "3 1/2 ounces activated almonds (100 grams)",
+        "qty": "3 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>tablespoon</span><span class='name'>bee pollen</span><span class='comment'>( available from health or natural food stores )</span>",
+        "comment": "(available from health or natural food stores)",
+        "unit": "tablespoon",
+        "name": "bee pollen",
+        "input": "1/2 tablespoon bee pollen (available from health or natural food stores)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>toasted</span><span class='name'>coconut</span>",
+        "comment": "toasted",
+        "unit": "teaspoon",
+        "name": "coconut",
+        "input": "1 teaspoon toasted coconut",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>goji berries</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon goji berries",
+        "name": "goji berries"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>distilled</span><span class='name'>white vinegar</span>",
+        "comment": "distilled",
+        "unit": "cup",
+        "name": "white vinegar",
+        "input": "1/2 cup distilled white vinegar",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>vegetable oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='comment'>coarsely shredded</span><span class='name'>green cabbage</span><span class='comment'>( about 1/2 large head )</span>",
+        "comment": "coarsely shredded (about 1/2 large head)",
+        "unit": "cup",
+        "name": "green cabbage",
+        "input": "8 cups coarsely shredded green cabbage (about 1/2 large head)",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>thinly sliced</span><span class='name'>red bell pepper</span>",
+        "comment": "thinly sliced",
+        "unit": "cup",
+        "name": "red bell pepper",
+        "input": "1 cup thinly sliced red bell pepper",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>thinly sliced</span><span class='name'>green bell pepper</span>",
+        "comment": "thinly sliced",
+        "unit": "cup",
+        "name": "green bell pepper",
+        "input": "1 cup thinly sliced green bell pepper",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, thinly sliced</span>",
+        "qty": "1",
+        "comment": "medium, thinly sliced",
+        "input": "1 medium onion, thinly sliced",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>carrot</span><span class='comment'>, coarsely shredded</span>",
+        "qty": "1",
+        "comment": ", coarsely shredded",
+        "input": "1 carrot, coarsely shredded",
+        "name": "carrot"
+    }
+]

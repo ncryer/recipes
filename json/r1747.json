@@ -1,0 +1,41 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large navel</span><span class='name'>orange</span><span class='other'>,</span><span class='comment'>quartered lengthwise and sliced crosswise paper thin ( including peel )</span>",
+        "comment": "large navel quartered lengthwise and sliced crosswise paper thin (including peel)",
+        "other": ",",
+        "name": "orange",
+        "input": "1 large navel orange, quartered lengthwise and sliced crosswise paper thin (including peel)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh or frozen</span><span class='name'>cranberries</span><span class='comment'>( not thawed ) , thinly sliced</span>",
+        "comment": "fresh or frozen (not thawed), thinly sliced",
+        "unit": "cup",
+        "name": "cranberries",
+        "input": "1/4 cup fresh or frozen cranberries (not thawed), thinly sliced",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>Grand Marnier</span><span class='other'>or</span><span class='comment'>other orange-flavored liqueur</span>",
+        "comment": "other orange-flavored liqueur",
+        "other": "or",
+        "unit": "tablespoon",
+        "name": "Grand Marnier",
+        "input": "1 tablespoon Grand Marnier or other orange-flavored liqueur",
+        "qty": "1"
+    }
+]

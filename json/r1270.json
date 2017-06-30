@@ -1,0 +1,71 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>whole</span><span class='name'>star anise*</span>",
+        "qty": "1",
+        "comment": "whole",
+        "input": "1 whole star anise*",
+        "name": "star anise*"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>whole</span><span class='name'>clove</span>",
+        "qty": "1",
+        "comment": "whole",
+        "input": "1 whole clove",
+        "name": "clove"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>2-inch</span><span class='unit'>piece</span><span class='name'>cinnamon stick</span>",
+        "comment": "2-inch",
+        "unit": "piece",
+        "name": "cinnamon stick",
+        "input": "1 2-inch piece cinnamon stick",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>red wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>2-inch</span><span class='unit'>piece</span><span class='comment'>peeled fresh</span><span class='name'>ginger</span><span class='comment'>, cut into 1/2-inch-thick rounds</span>",
+        "comment": "2-inch peeled fresh, cut into 1/2-inch-thick rounds",
+        "unit": "piece",
+        "name": "ginger",
+        "input": "1 2-inch piece peeled fresh ginger, cut into 1/2-inch-thick rounds",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>whole</span><span class='name'>mustard seeds</span>",
+        "comment": "whole",
+        "unit": "tablespoon",
+        "name": "mustard seeds",
+        "input": "1 tablespoon whole mustard seeds",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>black pepper</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1 teaspoon ground black pepper",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>red</span><span class='other'>,</span><span class='comment'>black</span><span class='other'>,</span><span class='comment'>green</span><span class='other'>, or</span><span class='comment'>blue plums ( tart or sweet; about 5 large ) , quartered</span><span class='other'>,</span><span class='comment'>pitted</span>",
+        "comment": "black green blue plums (tart or sweet; about 5 large), quartered pitted",
+        "other": ",, , or ,",
+        "unit": "pound",
+        "name": "red",
+        "input": "2 pounds red, black, green, or blue plums (tart or sweet; about 5 large), quartered, pitted",
+        "qty": "2"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>ounces</span><span class='name'>Brussels sprouts</span>",
+        "unit": "ounce",
+        "qty": "8",
+        "input": "8 ounces Brussels sprouts",
+        "name": "Brussels sprouts"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "2 teaspoons fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='comment'>A mandoline or vegetable slicer with an adjustable blade</span>",
+        "comment": "A mandoline or vegetable slicer with an adjustable blade",
+        "input": "A mandoline or vegetable slicer with an adjustable blade"
+    }
+]

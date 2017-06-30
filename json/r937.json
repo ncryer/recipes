@@ -1,0 +1,95 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/4 cup fresh lemon juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>chopped</span><span class='name'>shallot</span><span class='comment'>( about 1 medium )</span>",
+        "comment": "chopped (about 1 medium)",
+        "unit": "tablespoon",
+        "name": "shallot",
+        "input": "3 tablespoons chopped shallot (about 1 medium)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>Champagne vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons Champagne vinegar",
+        "name": "Champagne vinegar"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>finely grated</span><span class='name'>lemon peel</span>",
+        "comment": "finely grated",
+        "unit": "teaspoon",
+        "name": "lemon peel",
+        "input": "1 1/2 teaspoons finely grated lemon peel",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>mint leaves plus 10 mint leaves</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "chopped fresh thinly sliced",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "mint leaves plus 10 mint leaves",
+        "input": "2 tablespoons chopped fresh mint leaves plus 10 mint leaves, thinly sliced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>tamari</span><span class='name'>soy sauce*</span>",
+        "comment": "tamari",
+        "unit": "teaspoon",
+        "name": "soy sauce*",
+        "input": "1 1/2 teaspoons tamari soy sauce*",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>ripe medium</span><span class='name'>cantaloupe</span><span class='comment'>or honeydew melon or 2 small Charentais melons</span><span class='other'>,</span><span class='comment'>halved</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>very thinly sliced</span>",
+        "comment": "ripe medium or honeydew melon or 2 small Charentais melons halved seeded peeled very thinly sliced",
+        "other": ",, , ,",
+        "name": "cantaloupe",
+        "input": "1 ripe medium cantaloupe or honeydew melon or 2 small Charentais melons, halved, seeded, peeled, very thinly sliced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>celery</span><span class='unit'>stalks</span><span class='comment'>, very thinly sliced on diagonal ( about 1 2/3 cups )</span>",
+        "comment": ", very thinly sliced on diagonal (about 1 2/3 cups)",
+        "unit": "stalk",
+        "name": "celery",
+        "input": "4 celery stalks, very thinly sliced on diagonal (about 1 2/3 cups)",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>green onions</span><span class='comment'>, thinly sliced ( about 1/2 cup )</span>",
+        "qty": "2",
+        "comment": ", thinly sliced (about 1/2 cup)",
+        "input": "2 green onions, thinly sliced (about 1/2 cup)",
+        "name": "green onions"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='name'>radishes</span><span class='comment'>, trimmed</span><span class='other'>,</span><span class='comment'>thinly sliced ( about 1/4 cup )</span>",
+        "comment": ", trimmed thinly sliced (about 1/4 cup)",
+        "other": ",",
+        "name": "radishes",
+        "input": "8 radishes, trimmed, thinly sliced (about 1/4 cup)",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='comment'>Extra-virgin</span><span class='name'>olive oil</span><span class='other'>(</span><span class='comment'>for drizzling )</span>",
+        "comment": "Extra-virgin for drizzling)",
+        "input": "Extra-virgin olive oil (for drizzling)",
+        "name": "olive oil",
+        "other": "("
+    }
+]

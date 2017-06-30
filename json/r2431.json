@@ -1,0 +1,9 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='name'>broccoli</span>",
+        "unit": "pound",
+        "qty": "1/2",
+        "input": "1/2 pound broccoli",
+        "name": "broccoli"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>light</span><span class='name'>Fino Sherry</span>",
+        "comment": "light",
+        "unit": "tablespoon",
+        "name": "Fino Sherry",
+        "input": "6 tablespoons light Fino Sherry",
+        "qty": "6"
+    }
+]

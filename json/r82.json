@@ -1,0 +1,50 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>dried gigante</span><span class='other'>,</span><span class='comment'>baby lima , or cannellini</span><span class='name'>beans</span><span class='other'>, or</span><span class='comment'>chickpeas</span><span class='other'>,</span><span class='comment'>soaked in water overnight</span><span class='other'>,</span><span class='comment'>drained</span>",
+        "comment": "baby lima, or cannellini chickpeas soaked in water overnight drained",
+        "other": ",, or, ,",
+        "unit": "pound",
+        "name": "dried gigante beans",
+        "input": "1 pound dried gigante, baby lima, or cannellini beans, or chickpeas, soaked in water overnight, drained",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>onion</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "halved",
+        "other": ",",
+        "name": "onion",
+        "input": "1 onion, halved",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>carrots</span><span class='other'>,</span><span class='comment'>peeled , halved crosswise</span>",
+        "comment": "peeled, halved crosswise",
+        "other": ",",
+        "name": "carrots",
+        "input": "2 carrots, peeled, halved crosswise",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>celery</span><span class='unit'>stalks</span><span class='other'>,</span><span class='comment'>halved crosswise</span>",
+        "comment": "halved crosswise",
+        "other": ",",
+        "unit": "stalk",
+        "name": "celery",
+        "input": "2 celery stalks, halved crosswise",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground pepper",
+        "name": "salt pepper",
+        "other": ","
+    },
+    {
+        "display": "<span class='name'>Olive oil</span><span class='other'>(</span><span class='comment'>for drizzling</span><span class='other'>)</span>",
+        "comment": "for drizzling",
+        "input": "Olive oil (for drizzling)",
+        "name": "Olive oil",
+        "other": "()"
+    }
+]

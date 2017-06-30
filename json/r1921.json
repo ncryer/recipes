@@ -1,0 +1,28 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='other'>to</span><span class='range_end'>4</span><span class='unit'>cups</span><span class='name'>vegetable oil</span><span class='comment'>for frying</span>",
+        "comment": "for frying",
+        "other": "to",
+        "unit": "cup",
+        "name": "vegetable oil",
+        "range_end": "4",
+        "input": "3 to 4 cups vegetable oil for frying",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>Idaho or russet baking</span><span class='name'>potatoes</span><span class='comment'>, peeled</span><span class='other'>,</span><span class='comment'>rinsed</span><span class='other'>,</span><span class='comment'>and dried</span>",
+        "comment": "Idaho or russet baking, peeled rinsed and dried",
+        "other": ", ,",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "2 pounds Idaho or russet baking potatoes, peeled, rinsed, and dried",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Sea</span><span class='name'>Salt</span><span class='other'>,</span><span class='comment'>to taste</span>",
+        "comment": "Sea to taste",
+        "input": "Sea Salt, to taste",
+        "name": "Salt",
+        "other": ","
+    }
+]

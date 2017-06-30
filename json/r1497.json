@@ -1,0 +1,32 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='comment'>halved hulled</span><span class='name'>strawberries</span><span class='comment'>( about 5 pounds )</span>",
+        "comment": "halved hulled (about 5 pounds)",
+        "unit": "cup",
+        "name": "strawberries",
+        "input": "8 cups halved hulled strawberries (about 5 pounds)",
+        "qty": "8"
+    }
+]

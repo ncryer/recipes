@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>thinly sliced</span><span class='name'>cabbage</span>",
+        "comment": "thinly sliced",
+        "unit": "cup",
+        "name": "cabbage",
+        "input": "3 cups thinly sliced cabbage",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>caraway seeds</span><span class='other'>,</span><span class='comment'>toasted lightly</span>",
+        "comment": "toasted lightly",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "caraway seeds",
+        "input": "1/2 teaspoon caraway seeds, toasted lightly",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "1 tablespoon extra-virgin olive oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>scallion</span><span class='other'>,</span><span class='comment'>chopped fine</span>",
+        "comment": "chopped fine",
+        "other": ",",
+        "name": "scallion",
+        "input": "1 scallion, chopped fine",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>coarse</span><span class='name'>salt</span><span class='comment'>to taste</span>",
+        "comment": "coarse to taste",
+        "input": "coarse salt to taste",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='comment'>fresh</span><span class='name'>lemon juice</span><span class='comment'>to taste</span>",
+        "comment": "fresh to taste",
+        "input": "fresh lemon juice to taste",
+        "name": "lemon juice"
+    }
+]

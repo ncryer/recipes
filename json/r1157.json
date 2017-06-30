@@ -1,0 +1,85 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( generous ) unsalted shelled pepitas ( about 2 1/2 ounces )</span>",
+        "unit": "cup",
+        "comment": "(generous) unsalted shelled pepitas (about 2 1/2 ounces)",
+        "input": "1/2 cup (generous) unsalted shelled pepitas (about 2 1/2 ounces)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>tomatillos</span><span class='comment'>, husked , rinsed</span>",
+        "comment": ", husked, rinsed",
+        "unit": "pound",
+        "name": "tomatillos",
+        "input": "2 pounds tomatillos, husked, rinsed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large fresh</span><span class='name'>poblano</span><span class='comment'>chile</span>",
+        "qty": "1",
+        "comment": "large fresh chile",
+        "input": "1 large fresh poblano chile",
+        "name": "poblano"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>pressed</span>",
+        "comment": "pressed",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, pressed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>vegetable broth</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup vegetable broth",
+        "name": "vegetable broth"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>green onion</span>",
+        "comment": "chopped",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup chopped green onion",
+        "name": "green onion"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/4 cup chopped fresh cilantro",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small unpeeled</span><span class='name'>English hothouse cucumber</span><span class='comment'>, diced</span>",
+        "qty": "1",
+        "comment": "small unpeeled, diced",
+        "input": "1 small unpeeled English hothouse cucumber, diced",
+        "name": "English hothouse cucumber"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>avocado</span><span class='other'>,</span><span class='comment'>peeled , pitted , diced</span>",
+        "comment": "peeled, pitted, diced",
+        "other": ",",
+        "name": "avocado",
+        "input": "1 avocado, peeled, pitted, diced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>1 12-ounce container cherry</span><span class='name'>tomatoes</span><span class='comment'>, halved or quartered if large</span>",
+        "comment": "1 12-ounce container cherry, halved or quartered if large",
+        "input": "1 12-ounce container cherry tomatoes, halved or quartered if large",
+        "name": "tomatoes"
+    }
+]

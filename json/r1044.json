@@ -1,0 +1,45 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>short-grain white rice</span><span class='comment'>( sometimes labeled \"sushi rice\" )</span>",
+        "comment": "(sometimes labeled \"sushi rice\")",
+        "unit": "cup",
+        "name": "short-grain white rice",
+        "input": "2 cups short-grain white rice (sometimes labeled \"sushi rice\")",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>unseasoned</span><span class='name'>rice vinegar</span>",
+        "comment": "unseasoned",
+        "unit": "tablespoon",
+        "name": "rice vinegar",
+        "input": "3 tablespoons unseasoned rice vinegar",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>4 1/2</span><span class='unit'>teaspoons</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "4 1/2",
+        "input": "4 1/2 teaspoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>kosher or coarse sea</span><span class='name'>salt</span>",
+        "comment": "kosher or coarse sea",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 1/2 teaspoons kosher or coarse sea salt",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 6-by 3-inch ) piece kombu* ( dried kelp ) , wiped lightly with damp cloth</span>",
+        "comment": "(6-by 3-inch) piece kombu* (dried kelp), wiped lightly with damp cloth",
+        "input": "1 (6-by 3-inch) piece kombu* (dried kelp), wiped lightly with damp cloth",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>*Available</span><span class='comment'>at Asian markets and some health food stores</span>",
+        "comment": "at Asian markets and some health food stores",
+        "input": "*Available at Asian markets and some health food stores",
+        "qty": "*Available"
+    }
+]

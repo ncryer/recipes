@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>fresh small cipolline</span><span class='name'>onions</span><span class='comment'>or pearl onions</span>",
+        "comment": "fresh small cipolline or pearl onions",
+        "unit": "pound",
+        "name": "onions",
+        "input": "2 pounds fresh small cipolline onions or pearl onions",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>orange juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "3/4 cup fresh orange juice",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>balsamic vinegar</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup balsamic vinegar",
+        "name": "balsamic vinegar"
+    }
+]

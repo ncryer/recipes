@@ -1,0 +1,59 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>750-ml bottles chilled brut Champagne</span>",
+        "qty": "2",
+        "input": "2 750-ml bottles chilled brut Champagne",
+        "name": "750-ml bottles chilled brut Champagne"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>white rum</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups white rum",
+        "name": "white rum"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='name'>pomegranate juice</span>",
+        "unit": "cup",
+        "qty": "1 1/4",
+        "input": "1 1/4 cups pomegranate juice",
+        "name": "pomegranate juice"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>lemon</span><span class='comment'>, thinly sliced</span>",
+        "qty": "1",
+        "comment": "large, thinly sliced",
+        "input": "1 large lemon, thinly sliced",
+        "name": "lemon"
+    },
+    {
+        "display": "<span class='name'>Pomegranate seeds</span>",
+        "input": "Pomegranate seeds",
+        "name": "Pomegranate seeds"
+    },
+    {
+        "display": "<span class='comment'>Fresh</span><span class='name'>mint leaves</span>",
+        "comment": "Fresh",
+        "input": "Fresh mint leaves",
+        "name": "mint leaves"
+    },
+    {
+        "display": "<span class='qty'>1</span>",
+        "input": "1",
+        "qty": "1"
+    }
+]

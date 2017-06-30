@@ -1,0 +1,43 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>white grapefruits</span>",
+        "qty": "2",
+        "input": "2 white grapefruits",
+        "name": "white grapefruits"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>pink grapefruits</span>",
+        "qty": "2",
+        "input": "2 pink grapefruits",
+        "name": "pink grapefruits"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>large navel</span><span class='name'>oranges</span>",
+        "qty": "6",
+        "comment": "large navel",
+        "input": "6 large navel oranges",
+        "name": "oranges"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>mint leaves</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "mint leaves",
+        "input": "1/2 cup fresh mint leaves",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='comment'>Seeds from</span><span class='qty'>1</span><span class='comment'>pomegranate or 1/4 cup dried</span><span class='name'>cranberries</span>",
+        "qty": "1",
+        "comment": "Seeds from pomegranate or 1/4 cup dried",
+        "input": "Seeds from 1 pomegranate or 1/4 cup dried cranberries",
+        "name": "cranberries"
+    }
+]

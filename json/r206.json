@@ -1,0 +1,69 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>finely grated</span><span class='name'>orange</span><span class='comment'>zest</span>",
+        "comment": "finely grated zest",
+        "unit": "teaspoon",
+        "name": "orange",
+        "input": "1 teaspoon finely grated orange zest",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>orange juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "orange juice",
+        "input": "1 tablespoon fresh orange juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "2 teaspoons fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span><span class='other'>,</span><span class='comment'>plus more for drizzling</span>",
+        "comment": "plus more for drizzling",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons olive oil, plus more for drizzling",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground pepper",
+        "name": "salt pepper",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pound</span><span class='name'>honeydew melon</span><span class='other'>,</span><span class='comment'>rind and seeds removed , shaved on a mandoline</span>",
+        "comment": "rind and seeds removed, shaved on a mandoline",
+        "other": ",",
+        "unit": "pound",
+        "name": "honeydew melon",
+        "input": "1 1/2 pound honeydew melon, rind and seeds removed, shaved on a mandoline",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>fennel</span><span class='unit'>bulb</span><span class='comment'>, shaved on a mandoline</span><span class='other'>,</span><span class='comment'>plus 2</span><span class='unit'>tablespoons</span><span class='comment'>coarsely chopped</span><span class='name'>fennel fronds</span>",
+        "comment": ", shaved on a mandoline plus 2 coarsely chopped",
+        "other": ",",
+        "unit": "bulb tablespoon",
+        "name": "fennel fennel fronds",
+        "input": "1/2 fennel bulb, shaved on a mandoline, plus 2 tablespoons coarsely chopped fennel fronds",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>brined</span><span class='name'>green olives</span><span class='other'>,</span><span class='comment'>such as Castelvetrano</span><span class='other'>,</span><span class='comment'>pitted</span><span class='other'>,</span><span class='comment'>very coarsely chopped</span>",
+        "comment": "brined such as Castelvetrano pitted very coarsely chopped",
+        "other": ",, ,",
+        "unit": "cup",
+        "name": "green olives",
+        "input": "1/4 cup brined green olives, such as Castelvetrano, pitted, very coarsely chopped",
+        "qty": "1/4"
+    }
+]

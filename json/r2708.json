@@ -1,0 +1,57 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='other'>large</span><span class='unit'>head</span><span class='name'>cauliflower</span><span class='comment'>, cut into 3/4-inch florets ( about 4 cups )</span>",
+        "comment": ", cut into 3/4-inch florets (about 4 cups)",
+        "other": "large",
+        "unit": "head",
+        "name": "cauliflower",
+        "input": "1/2 large head cauliflower, cut into 3/4-inch florets (about 4 cups)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "4",
+        "input": "4 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>walnuts</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "walnuts",
+        "input": "1/4 cup chopped walnuts",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>to 1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span><span class='comment'>( to taste )</span>",
+        "comment": "to 1 1/2 fresh (to taste)",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 to 1 1/2 tablespoons fresh lemon juice (to taste)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>Dijon mustard</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>small</span><span class='name'>watercress sprigs</span>",
+        "comment": "small",
+        "unit": "cup",
+        "name": "watercress sprigs",
+        "input": "2 cups small watercress sprigs",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>shredded</span><span class='name'>radicchio</span>",
+        "comment": "shredded",
+        "unit": "cup",
+        "name": "radicchio",
+        "input": "1 cup shredded radicchio",
+        "qty": "1"
+    }
+]

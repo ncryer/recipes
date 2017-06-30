@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>finely diced</span><span class='name'>celery</span>",
+        "comment": "finely diced",
+        "unit": "cup",
+        "name": "celery",
+        "input": "2 cups finely diced celery",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>minced fresh</span><span class='name'>cilantro</span>",
+        "comment": "minced fresh",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "2 tablespoons minced fresh cilantro",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>Sherry wine vinegar</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons Sherry wine vinegar",
+        "name": "Sherry wine vinegar"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>small</span><span class='name'>yellow squash</span><span class='comment'>( about 3/4 pound</span><span class='other'>)</span>",
+        "comment": "small (about 3/4 pound",
+        "other": ")",
+        "name": "yellow squash",
+        "input": "3 small yellow squash (about 3/4 pound)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>baby Vidalia</span><span class='name'>onions</span><span class='comment'>or large</span><span class='name'>scallions</span><span class='comment'>, trimmed</span>",
+        "qty": "6",
+        "comment": "baby Vidalia or large, trimmed",
+        "input": "6 baby Vidalia onions or large scallions, trimmed",
+        "name": "onions scallions"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>yellow and/or</span><span class='name'>red bell peppers</span><span class='other'>,</span><span class='comment'>seeded and each cut into</span><span class='qty'>6</span><span class='comment'>pieces</span>",
+        "comment": "yellow and/or seeded and each cut into pieces",
+        "other": ",",
+        "name": "red bell peppers",
+        "input": "4 yellow and/or red bell peppers, seeded and each cut into 6 pieces",
+        "qty": "4 6"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>red onions</span><span class='other'>,</span><span class='comment'>peeled and each cut lengthwise into 6 wedges with root ends intact</span>",
+        "comment": "medium peeled and each cut lengthwise into 6 wedges with root ends intact",
+        "other": ",",
+        "name": "red onions",
+        "input": "2 medium red onions, peeled and each cut lengthwise into 6 wedges with root ends intact",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    }
+]

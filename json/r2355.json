@@ -1,0 +1,54 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>Arborio rice</span>",
+        "unit": "pound",
+        "qty": "1",
+        "input": "1 pound Arborio rice",
+        "name": "Arborio rice"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>white-wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons white-wine vinegar",
+        "name": "white-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>cucumber</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>and chopped</span>",
+        "comment": "peeled seeded and chopped",
+        "other": ",, ,",
+        "unit": "pound",
+        "name": "cucumber",
+        "input": "1 pound cucumber, peeled, seeded, and chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>mint leaves</span><span class='comment'>, minced</span>",
+        "comment": "fresh, minced",
+        "unit": "cup",
+        "name": "mint leaves",
+        "input": "3/4 cup fresh mint leaves, minced",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>radishes</span><span class='comment'>as an accompaniment if desired</span>",
+        "comment": "as an accompaniment if desired",
+        "input": "radishes as an accompaniment if desired",
+        "qty": "radishes"
+    }
+]

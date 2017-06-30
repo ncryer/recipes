@@ -1,0 +1,70 @@
+[
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "5 tablespoons extra-virgin olive oil",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>minced</span><span class='name'>shallot</span>",
+        "comment": "minced",
+        "unit": "tablespoon",
+        "name": "shallot",
+        "input": "1 tablespoon minced shallot",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>red wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "2 teaspoons fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>agave syrup</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon agave syrup",
+        "name": "agave syrup"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>Dijon mustard</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>sea</span><span class='name'>salt</span>",
+        "comment": "sea",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/4 teaspoon sea salt",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/4 teaspoon freshly ground black pepper",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>ounces</span><span class='name'>mixed lettuces</span>",
+        "unit": "ounce",
+        "qty": "6",
+        "input": "6 ounces mixed lettuces",
+        "name": "mixed lettuces"
+    }
+]

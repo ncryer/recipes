@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>ounces</span><span class='comment'>baby</span><span class='name'>arugula</span><span class='comment'>( 6 cups</span><span class='other'>)</span>",
+        "comment": "baby (6 cups",
+        "other": ")",
+        "unit": "ounce",
+        "name": "arugula",
+        "input": "3 ounces baby arugula (6 cups)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "1 teaspoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    }
+]

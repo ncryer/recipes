@@ -1,0 +1,57 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, chopped</span>",
+        "qty": "1",
+        "comment": "medium, chopped",
+        "input": "1 medium onion, chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='comment'>very ripe</span><span class='name'>tomatoes</span><span class='comment'>, peeled and chopped</span><span class='other'>,</span><span class='comment'>juices reserved</span>",
+        "comment": "very ripe, peeled and chopped juices reserved",
+        "other": ",",
+        "unit": "pound",
+        "name": "tomatoes",
+        "input": "1 1/2 pounds very ripe tomatoes, peeled and chopped, juices reserved",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>coarse</span><span class='name'>bulgur</span><span class='comment'>, soaked and drained</span>",
+        "comment": "coarse, soaked and drained",
+        "unit": "cup",
+        "name": "bulgur",
+        "input": "1 cup coarse bulgur, soaked and drained",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>ground</span><span class='name'>allspice</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "allspice",
+        "input": "1 1/2 teaspoons ground allspice",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>finely ground</span><span class='name'>black pepper</span>",
+        "comment": "finely ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/4 teaspoon finely ground black pepper",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>boiling</span><span class='name'>water</span>",
+        "comment": "boiling",
+        "unit": "cup",
+        "name": "water",
+        "input": "1/2 cup boiling water",
+        "qty": "1/2"
+    }
+]

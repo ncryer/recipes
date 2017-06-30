@@ -1,0 +1,45 @@
+[
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>sesame seeds</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup sesame seeds",
+        "name": "sesame seeds"
+    },
+    {
+        "display": "<span class='qty'>11 1/2</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "11 1/2",
+        "input": "11 1/2 teaspoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>curry powder</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup curry powder",
+        "name": "curry powder"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>Hungarian</span><span class='name'>sweet paprika</span>",
+        "comment": "Hungarian",
+        "unit": "cup",
+        "name": "sweet paprika",
+        "input": "1/4 cup Hungarian sweet paprika",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "3/4 cup extra-virgin olive oil",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='comment'>Assorted</span><span class='name'>fresh vegetables</span>",
+        "comment": "Assorted",
+        "input": "Assorted fresh vegetables",
+        "name": "fresh vegetables"
+    }
+]

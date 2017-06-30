@@ -1,0 +1,71 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>navel orange</span><span class='comment'>with skin</span>",
+        "qty": "1",
+        "comment": "large with skin",
+        "input": "1 large navel orange with skin",
+        "name": "navel orange"
+    },
+    {
+        "display": "<span class='qty'>7</span><span class='unit'>cups</span><span class='name'>water</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "unit": "cup",
+        "name": "water",
+        "input": "7 cups water, divided",
+        "qty": "7"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>cinnamon sticks</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "name": "cinnamon sticks",
+        "input": "2 cinnamon sticks, divided",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>( packed )</span><span class='name'>golden brown sugar</span>",
+        "comment": "(packed)",
+        "unit": "cup",
+        "name": "golden brown sugar",
+        "input": "1/4 cup (packed) golden brown sugar",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>dark rum</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon dark rum",
+        "name": "dark rum"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>apple cider vinegar</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons apple cider vinegar",
+        "name": "apple cider vinegar"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>allspice</span>",
+        "comment": "ground",
+        "other": "1/8",
+        "unit": "teaspoon",
+        "input": "1/8 teaspoon ground allspice",
+        "name": "allspice"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>fresh or frozen</span><span class='name'>cranberries</span>",
+        "comment": "fresh or frozen",
+        "unit": "cup",
+        "name": "cranberries",
+        "input": "1/2 cup fresh or frozen cranberries",
+        "qty": "1/2"
+    }
+]

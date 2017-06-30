@@ -1,0 +1,79 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>rice vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons rice vinegar",
+        "name": "rice vinegar"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>minced peeled fresh</span><span class='name'>ginger</span>",
+        "comment": "minced peeled fresh",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "2 teaspoons minced peeled fresh ginger",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>grated</span><span class='name'>lime peel</span>",
+        "comment": "grated",
+        "unit": "teaspoon",
+        "name": "lime peel",
+        "input": "1 1/2 teaspoons grated lime peel",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>1/2-inch pieces peeled seedless watermelon</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups 1/2-inch pieces peeled seedless watermelon",
+        "name": "1/2-inch pieces peeled seedless watermelon"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='unit'>bunch</span><span class='name'>watercress</span><span class='other'>,</span><span class='comment'>thick stems trimmed ( about 2 cups packed )</span>",
+        "comment": "thick stems trimmed (about 2 cups packed)",
+        "other": "large ,",
+        "unit": "bunch",
+        "name": "watercress",
+        "input": "1 large bunch watercress, thick stems trimmed (about 2 cups packed)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>1/2-inch pieces peeled seeded cucumber ( about 1/2 large )</span>",
+        "unit": "cup",
+        "comment": "1/2-inch pieces peeled seeded cucumber (about 1/2 large)",
+        "input": "1 cup 1/2-inch pieces peeled seeded cucumber (about 1/2 large)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>green onions</span><span class='comment'>, thinly sliced diagonally</span>",
+        "qty": "4",
+        "comment": ", thinly sliced diagonally",
+        "input": "4 green onions, thinly sliced diagonally",
+        "name": "green onions"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/4 cup chopped fresh cilantro",
+        "qty": "1/4"
+    }
+]

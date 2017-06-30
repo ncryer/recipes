@@ -1,0 +1,68 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 14-to 18-ounces ) package soft</span><span class='name'>tofu</span><span class='comment'>( not silken )</span>",
+        "qty": "1",
+        "comment": "(14-to 18-ounces) package soft (not silken)",
+        "input": "1 (14-to 18-ounces) package soft tofu (not silken)",
+        "name": "tofu"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>chopped</span><span class='name'>garlic</span>",
+        "comment": "chopped",
+        "unit": "teaspoon",
+        "name": "garlic",
+        "input": "1 teaspoon chopped garlic",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>scallion</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "scallion",
+        "input": "1/4 cup chopped scallion",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>sesame seeds</span><span class='other'>,</span>",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "sesame seeds",
+        "input": "2 teaspoons sesame seeds ,",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>and</span><span class='comment'>crushed with side of a heavy knife</span>",
+        "comment": "crushed with side of a heavy knife",
+        "input": "and crushed with side of a heavy knife",
+        "qty": "and"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>soy sauce</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>Asian sesame oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon Asian sesame oil",
+        "name": "Asian sesame oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>coarse</span><span class='name'>Korean</span><span class='comment'>hot</span><span class='name'>red-pepper flakes</span>",
+        "comment": "coarse hot",
+        "unit": "teaspoon",
+        "name": "Korean red-pepper flakes",
+        "input": "1 teaspoon coarse Korean hot red-pepper flakes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon sugar",
+        "name": "sugar"
+    }
+]

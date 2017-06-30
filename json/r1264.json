@@ -1,0 +1,97 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>beets</span><span class='comment'>( 1/2</span><span class='unit'>pound</span><span class='comment'>total ) , trimmed</span>",
+        "comment": "medium (1/2 total), trimmed",
+        "unit": "pound",
+        "name": "beets",
+        "input": "2 medium beets (1/2 pound total), trimmed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>bunches</span><span class='name'>baby carrots</span><span class='comment'>( 1 pound ) , peeled and stems trimmed to 1/2 inch</span>",
+        "comment": "(1 pound), peeled and stems trimmed to 1/2 inch",
+        "unit": "bunch",
+        "name": "baby carrots",
+        "input": "4 bunches baby carrots (1 pound), peeled and stems trimmed to 1/2 inch",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>caraway seeds</span><span class='other'>,</span><span class='comment'>toasted</span>",
+        "comment": "toasted",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "caraway seeds",
+        "input": "1/2 teaspoon caraway seeds, toasted",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>celery</span><span class='other'>ribs ,</span><span class='comment'>cut diagonally into 1-inch pieces</span>",
+        "comment": "cut diagonally into 1-inch pieces",
+        "other": "ribs ,",
+        "name": "celery",
+        "input": "3 celery ribs, cut diagonally into 1-inch pieces",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>coriander seeds</span><span class='other'>,</span><span class='comment'>toasted</span>",
+        "comment": "toasted",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "coriander seeds",
+        "input": "1 1/2 teaspoons coriander seeds, toasted",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='other'>small</span><span class='unit'>head</span><span class='name'>cauliflower</span><span class='comment'>, cut into 1- to 1 1/2-inch florets</span>",
+        "comment": ", cut into 1- to 1 1/2-inch florets",
+        "other": "small",
+        "unit": "head",
+        "name": "cauliflower",
+        "input": "1/2 small head cauliflower, cut into 1- to 1 1/2-inch florets",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>shichimi togarashi</span><span class='comment'>( Japanese seven-spice blend )</span>",
+        "comment": "(Japanese seven-spice blend)",
+        "unit": "teaspoon",
+        "name": "shichimi togarashi",
+        "input": "1 1/2 teaspoons shichimi togarashi (Japanese seven-spice blend)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "6",
+        "input": "6 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>rice vinegar</span><span class='other'>(</span><span class='comment'>not seasoned; 12 fluid ounces )</span>",
+        "comment": "not seasoned; 12 fluid ounces)",
+        "other": "(",
+        "unit": "cup",
+        "name": "rice vinegar",
+        "input": "1 1/2 cups rice vinegar (not seasoned; 12 fluid ounces)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "3",
+        "input": "3 cups sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='other'>1/2 cup plus 1</span><span class='unit'>tablespoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "other": "1/2 cup plus 1",
+        "unit": "tablespoon",
+        "input": "1/2 cup plus 1 tablespoon kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='name'>Equipment: an adjustable-blade slicer</span>",
+        "input": "Equipment: an adjustable-blade slicer",
+        "name": "Equipment: an adjustable-blade slicer"
+    }
+]

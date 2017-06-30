@@ -1,0 +1,26 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>small red</span><span class='name'>potatoes</span><span class='comment'>, quartered</span>",
+        "comment": "small red, quartered",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "2 pounds small red potatoes, quartered",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>sliced thin</span>",
+        "comment": "sliced thin",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 large garlic cloves, sliced thin",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons olive oil",
+        "name": "olive oil"
+    }
+]

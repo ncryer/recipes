@@ -1,0 +1,96 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>pita</span><span class='name'>bread</span><span class='comment'>rounds</span>",
+        "qty": "3",
+        "comment": "pita rounds",
+        "input": "3 pita bread rounds",
+        "name": "bread"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='other'>plus 1/3</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "other": "plus 1/3",
+        "unit": "tablespoon cup",
+        "name": "olive oil",
+        "input": "2 tablespoons plus 1/3 cup olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>pressed</span>",
+        "comment": "pressed",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, pressed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium</span><span class='name'>tomatoes</span><span class='comment'>, seeded , chopped</span>",
+        "qty": "3",
+        "comment": "medium, seeded, chopped",
+        "input": "3 medium tomatoes, seeded, chopped",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>head</span><span class='name'>romaine lettuce</span><span class='other'>,</span><span class='comment'>torn into bite-size pieces ( about 6 cups )</span>",
+        "comment": "torn into bite-size pieces (about 6 cups)",
+        "other": ",",
+        "unit": "head",
+        "name": "romaine lettuce",
+        "input": "1/4 head romaine lettuce, torn into bite-size pieces (about 6 cups)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/2 cup chopped fresh parsley",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>mint</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "mint",
+        "input": "1/2 cup chopped fresh mint",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>green onions</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "name": "green onions",
+        "input": "3 green onions, chopped",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>onion</span><span class='comment'>, chopped</span>",
+        "qty": "1",
+        "comment": "small, chopped",
+        "input": "1 small onion, chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>cucumber</span><span class='other'>,</span><span class='comment'>peeled , chopped</span>",
+        "comment": "peeled, chopped",
+        "other": ",",
+        "name": "cucumber",
+        "input": "1 cucumber, peeled, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>green bell pepper</span><span class='comment'>, chopped</span>",
+        "qty": "1",
+        "comment": "small, chopped",
+        "input": "1 small green bell pepper, chopped",
+        "name": "green bell pepper"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup fresh lemon juice",
+        "name": "lemon juice"
+    }
+]

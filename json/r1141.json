@@ -1,0 +1,58 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>zucchini</span><span class='comment'>, trimmed and cut crosswise into thirds</span>",
+        "comment": ", trimmed and cut crosswise into thirds",
+        "unit": "pound",
+        "name": "zucchini",
+        "input": "2 pounds zucchini, trimmed and cut crosswise into thirds",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>onion</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "onion",
+        "input": "3/4 cup chopped onion",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>water</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "unit": "cup",
+        "name": "water",
+        "input": "4 cups water, divided",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>packed</span><span class='name'>basil leaves</span>",
+        "comment": "packed",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup packed basil leaves",
+        "name": "basil leaves"
+    },
+    {
+        "display": "<span class='qty'>an</span><span class='name'>adjustable-blade slicer fitted</span><span class='comment'>with 1/8-inch julienne attachment</span>",
+        "qty": "an",
+        "comment": "with 1/8-inch julienne attachment",
+        "input": "an adjustable-blade slicer fitted with 1/8-inch julienne attachment",
+        "name": "adjustable-blade slicer fitted"
+    }
+]

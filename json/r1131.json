@@ -1,0 +1,41 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>thin Italian or Asian</span><span class='name'>eggplants</span><span class='comment'>( 2 to 3 ) , cut into 1/4-inch-thick rounds</span>",
+        "comment": "thin Italian or Asian (2 to 3), cut into 1/4-inch-thick rounds",
+        "unit": "pound",
+        "name": "eggplants",
+        "input": "1 pound thin Italian or Asian eggplants (2 to 3), cut into 1/4-inch-thick rounds",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": "extra-virgin, divided",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "5 tablespoons extra-virgin olive oil, divided",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>red-wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons red-wine vinegar",
+        "name": "red-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>mint</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "mint",
+        "input": "1/4 cup chopped mint",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>small</span><span class='name'>capers</span><span class='comment'>, rinsed</span>",
+        "comment": "small, rinsed",
+        "unit": "tablespoon",
+        "name": "capers",
+        "input": "2 tablespoons small capers, rinsed",
+        "qty": "2"
+    }
+]

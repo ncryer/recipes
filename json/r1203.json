@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='comment'>dried</span><span class='name'>apricots</span><span class='comment'>, preferably California ( 1 1/2 cups )</span>",
+        "comment": "dried, preferably California (1 1/2 cups)",
+        "unit": "pound",
+        "name": "apricots",
+        "input": "1/2 pound dried apricots, preferably California (1 1/2 cups)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>dry white wine</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup dry white wine",
+        "name": "dry white wine"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>(</span><span class='comment'>3-inch</span><span class='other'>)</span><span class='unit'>strips</span><span class='name'>lemon</span><span class='other'>zest</span>",
+        "comment": "3-inch",
+        "other": "() zest",
+        "unit": "strip",
+        "name": "lemon",
+        "input": "2 (3-inch) strips lemon zest",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>dark rum</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons dark rum",
+        "name": "dark rum"
+    }
+]

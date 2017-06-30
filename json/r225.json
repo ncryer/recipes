@@ -1,0 +1,62 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>pounds</span><span class='comment'>fingerling</span><span class='name'>potatoes</span><span class='comment'>, halved crosswise if large</span>",
+        "comment": "fingerling, halved crosswise if large",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "3 pounds fingerling potatoes, halved crosswise if large",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": ", divided",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/2 cup olive oil, divided",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>Sherry vinegar</span><span class='comment'>or red wine</span><span class='name'>vinegar</span>",
+        "comment": "or red wine",
+        "unit": "cup",
+        "name": "Sherry vinegar vinegar",
+        "input": "1/4 cup Sherry vinegar or red wine vinegar",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>whole grain</span><span class='name'>mustard</span>",
+        "comment": "whole grain",
+        "unit": "tablespoon",
+        "name": "mustard",
+        "input": "1 tablespoon whole grain mustard",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>jalape\u00f1o</span><span class='other'>,</span><span class='comment'>thinly sliced into rounds , seeds removed if desired</span>",
+        "comment": "thinly sliced into rounds, seeds removed if desired",
+        "other": ",",
+        "name": "jalape\u00f1o",
+        "input": "1 jalape\u00f1o, thinly sliced into rounds, seeds removed if desired",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='other'>(</span><span class='comment'>lightly packed ) torn flat-leaf parsley leaves</span>",
+        "comment": "lightly packed) torn flat-leaf parsley leaves",
+        "other": "(",
+        "unit": "cup",
+        "input": "1/4 cup (lightly packed) torn flat-leaf parsley leaves",
+        "qty": "1/4"
+    }
+]

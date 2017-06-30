@@ -1,0 +1,58 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>coarsely chopped fresh flat-leaf</span><span class='name'>parsley</span>",
+        "comment": "coarsely chopped fresh flat-leaf",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/2 cup coarsely chopped fresh flat-leaf parsley",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup extra-virgin olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/4 cup fresh lemon juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>minced</span><span class='name'>shallots</span><span class='other'>(</span><span class='comment'>about 2 medium )</span>",
+        "comment": "minced about 2 medium)",
+        "other": "(",
+        "unit": "tablespoon",
+        "name": "shallots",
+        "input": "2 tablespoons minced shallots (about 2 medium)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>minced</span><span class='name'>garlic</span>",
+        "comment": "minced",
+        "unit": "teaspoon",
+        "name": "garlic",
+        "input": "1 teaspoon minced garlic",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>dried hot</span><span class='name'>red-pepper flakes</span>",
+        "comment": "dried hot",
+        "unit": "teaspoon",
+        "name": "red-pepper flakes",
+        "input": "1 teaspoon dried hot red-pepper flakes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    }
+]

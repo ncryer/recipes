@@ -1,0 +1,44 @@
+[
+    {
+        "display": "<span class='qty'>10</span><span class='comment'>medium</span><span class='name'>tomatoes</span>",
+        "qty": "10",
+        "comment": "medium",
+        "input": "10 medium tomatoes",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cloves</span><span class='name'>garlic</span>",
+        "unit": "clove",
+        "qty": "6",
+        "input": "6 cloves garlic",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium white</span><span class='name'>onion</span><span class='comment'>, sliced</span>",
+        "qty": "1",
+        "comment": "medium white, sliced",
+        "input": "1 medium white onion, sliced",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>to</span><span class='range_end'>4</span><span class='comment'>canned chipotles en adobo</span>",
+        "comment": "canned chipotles en adobo",
+        "other": "to",
+        "range_end": "4",
+        "input": "2 to 4 canned chipotles en adobo",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>red wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='comment'>Kosher or fine sea</span><span class='name'>salt</span>",
+        "comment": "Kosher or fine sea",
+        "input": "Kosher or fine sea salt",
+        "name": "salt"
+    }
+]

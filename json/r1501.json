@@ -1,0 +1,42 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>red- or green-leaf</span><span class='name'>lettuce</span><span class='other'>,</span><span class='comment'>leaves separated</span><span class='other'>,</span><span class='comment'>washed and drained</span>",
+        "comment": "red- or green-leaf leaves separated washed and drained",
+        "other": ", ,",
+        "name": "lettuce",
+        "input": "1 red- or green-leaf lettuce, leaves separated, washed and drained",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>cucumber</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "name": "cucumber",
+        "input": "1/2 cucumber, thinly sliced",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>bean sprouts</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups bean sprouts",
+        "name": "bean sprouts"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='other'>or</span><span class='range_end'>6</span><span class='unit'>sprigs</span><span class='comment'>each</span><span class='other'>of</span><span class='name'>mint</span><span class='other'>,</span><span class='comment'>Asian</span><span class='name'>basil</span><span class='other'>,</span>",
+        "comment": "each Asian",
+        "other": "or of, ,",
+        "unit": "sprig",
+        "qty": "5",
+        "range_end": "6",
+        "input": "5 or 6 sprigs each of mint, Asian basil ,",
+        "name": "mint basil"
+    },
+    {
+        "other": "and",
+        "display": "<span class='other'>and</span><span class='comment'>red and green</span><span class='name'>perilla</span><span class='comment'>or any herb combination</span>",
+        "comment": "red and green or any herb combination",
+        "input": "and red and green perilla or any herb combination",
+        "name": "perilla"
+    }
+]

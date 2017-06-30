@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='name'>quinces</span><span class='comment'>( about 2 pounds total</span><span class='other'>)</span>",
+        "comment": "(about 2 pounds total",
+        "other": ")",
+        "name": "quinces",
+        "input": "4 quinces (about 2 pounds total)",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "6",
+        "input": "6 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='other'>(</span><span class='comment'>1/4-inch-thick</span><span class='other'>)</span><span class='name'>lemon</span><span class='comment'>slices</span>",
+        "comment": "1/4-inch-thick slices",
+        "other": "()",
+        "name": "lemon",
+        "input": "4 (1/4-inch-thick) lemon slices",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='other'>(</span><span class='comment'>1/4-inch-thick )</span><span class='name'>orange slices</span>",
+        "comment": "1/4-inch-thick)",
+        "other": "(",
+        "name": "orange slices",
+        "input": "4 (1/4-inch-thick) orange slices",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>green cardamom pods</span><span class='other'>,</span><span class='comment'>gently crushed</span>",
+        "comment": "gently crushed",
+        "other": ",",
+        "name": "green cardamom pods",
+        "input": "6 green cardamom pods, gently crushed",
+        "qty": "6"
+    }
+]

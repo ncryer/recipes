@@ -1,0 +1,118 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>cauliflower</span><span class='other'>,</span><span class='comment'>washed</span><span class='other'>,</span><span class='comment'>dried and broken into very small florets</span>",
+        "comment": "washed dried and broken into very small florets",
+        "other": ", ,",
+        "name": "cauliflower",
+        "input": "1/2 cauliflower, washed, dried and broken into very small florets",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>tsp</span><span class='comment'>ground</span><span class='name'>turmeric</span>",
+        "qty": "2",
+        "comment": "ground",
+        "input": "2 tsp ground turmeric",
+        "name": "tsp turmeric"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>tsp cumin</span>",
+        "qty": "1",
+        "input": "1 tsp cumin",
+        "name": "tsp cumin"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pinch</span><span class='other'>of</span><span class='comment'>freshly grated</span><span class='name'>nutmeg</span>",
+        "comment": "freshly grated",
+        "other": "of",
+        "unit": "pinch",
+        "name": "nutmeg",
+        "input": "1 pinch of freshly grated nutmeg",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pinch</span><span class='other'>of</span><span class='name'>cinnamon</span>",
+        "other": "of",
+        "unit": "pinch",
+        "name": "cinnamon",
+        "input": "1 pinch of cinnamon",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>sprig</span><span class='other'>of</span><span class='name'>thyme</span><span class='other'>,</span><span class='comment'>leaves only</span>",
+        "comment": "leaves only",
+        "other": "of ,",
+        "unit": "sprig",
+        "name": "thyme",
+        "input": "1 sprig of thyme, leaves only",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>tbsp extra virgin olive oil</span>",
+        "qty": "2",
+        "input": "2 tbsp extra virgin olive oil",
+        "name": "tbsp extra virgin olive oil"
+    },
+    {
+        "display": "<span class='qty'>sea</span><span class='name'>salt</span>",
+        "qty": "sea",
+        "input": "sea salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='other'>1 2/3</span><span class='unit'>cups</span><span class='comment'>( 13oz/400g ) canned</span><span class='name'>chickpeas</span><span class='other'>,</span><span class='comment'>drained ( reserve the liquid )</span>",
+        "comment": "(13oz/400g) canned drained (reserve the liquid)",
+        "other": "1 2/3 ,",
+        "unit": "cup",
+        "input": "1 2/3 cups (13oz/400g) canned chickpeas, drained (reserve the liquid)",
+        "name": "chickpeas"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>tbsp tahini</span>",
+        "qty": "2",
+        "input": "2 tbsp tahini",
+        "name": "tbsp tahini"
+    },
+    {
+        "display": "<span class='comment'>juice of</span><span class='qty'>1/4</span><span class='name'>lemon</span>",
+        "qty": "1/4",
+        "comment": "juice of",
+        "input": "juice of 1/4 lemon",
+        "name": "lemon"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>tbsp extra virgin olive oil</span>",
+        "qty": "1",
+        "input": "1 tbsp extra virgin olive oil",
+        "name": "tbsp extra virgin olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pinch</span><span class='other'>of</span><span class='comment'>sea</span><span class='name'>salt</span>",
+        "comment": "sea",
+        "other": "of",
+        "unit": "pinch",
+        "name": "salt",
+        "input": "1 pinch of sea salt",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>slices</span><span class='other'>of</span><span class='name'>sourdough bread</span>",
+        "other": "of",
+        "unit": "slice",
+        "name": "sourdough bread",
+        "input": "4 slices of sourdough bread",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>scallion</span><span class='comment'>( spring onion ) , chopped</span>",
+        "qty": "1",
+        "comment": "(spring onion), chopped",
+        "input": "1 scallion (spring onion), chopped",
+        "name": "scallion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>tbsp extra virgin olive oil</span>",
+        "qty": "2",
+        "input": "2 tbsp extra virgin olive oil",
+        "name": "tbsp extra virgin olive oil"
+    }
+]

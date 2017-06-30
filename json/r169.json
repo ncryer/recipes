@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>sweet potatoes</span>",
+        "qty": "2",
+        "comment": "large",
+        "input": "2 large sweet potatoes",
+        "name": "sweet potatoes"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>coconut milk</span><span class='other'>,</span><span class='comment'>warmed</span>",
+        "comment": "warmed",
+        "other": ",",
+        "unit": "cup",
+        "name": "coconut milk",
+        "input": "1/2 cup coconut milk, warmed",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>maple syrup</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon maple syrup",
+        "name": "maple syrup"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cinnamon</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cinnamon",
+        "input": "1/4 teaspoon ground cinnamon",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='comment'>Unsweetened</span><span class='name'>coconut flakes</span><span class='other'>,</span><span class='comment'>optional</span>",
+        "comment": "Unsweetened optional",
+        "input": "Unsweetened coconut flakes, optional",
+        "name": "coconut flakes",
+        "other": ","
+    }
+]

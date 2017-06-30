@@ -1,0 +1,26 @@
+[
+    {
+        "display": "<span class='qty'>15</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>cantaloupe</span><span class='comment'>( about two 3 1/2-pound melons )</span>",
+        "comment": "chopped (about two 3 1/2-pound melons)",
+        "unit": "cup",
+        "name": "cantaloupe",
+        "input": "15 cups chopped cantaloupe (about two 3 1/2-pound melons)",
+        "qty": "15"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "3/4 cup fresh lemon juice",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>loosely packed fresh</span><span class='name'>basil leaves</span>",
+        "comment": "loosely packed fresh",
+        "unit": "cup",
+        "name": "basil leaves",
+        "input": "3/4 cup loosely packed fresh basil leaves",
+        "qty": "3/4"
+    }
+]

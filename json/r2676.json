@@ -1,0 +1,66 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>fennel seeds</span><span class='other'>,</span><span class='comment'>lightly crushed</span>",
+        "comment": "lightly crushed",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "fennel seeds",
+        "input": "1 teaspoon fennel seeds, lightly crushed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 1/2 tablespoons fresh lemon juice",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>small</span><span class='unit'>head</span><span class='name'>radicchio</span><span class='other'>(</span><span class='comment'>3 oz ) , torn into bite-size pieces ( 2 cups )</span>",
+        "comment": "3 oz), torn into bite-size pieces (2 cups)",
+        "other": "small (",
+        "unit": "head",
+        "name": "radicchio",
+        "input": "1 small head radicchio (3 oz), torn into bite-size pieces (2 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>oz</span><span class='name'>arugula</span><span class='other'>,</span><span class='comment'>tough stems removed and leaves torn into bite-size pieces ( 3 cups )</span>",
+        "comment": "oz tough stems removed and leaves torn into bite-size pieces (3 cups)",
+        "other": ",",
+        "name": "arugula",
+        "input": "4 oz arugula, tough stems removed and leaves torn into bite-size pieces (3 cups)",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>oz fris\u00e9e</span><span class='comment'>( French curly</span><span class='name'>endive</span><span class='other'>) ,</span><span class='comment'>torn into bite-size pieces ( 3 cups )</span>",
+        "comment": "(French curly torn into bite-size pieces (3 cups)",
+        "other": ") ,",
+        "name": "oz fris\u00e9e endive",
+        "input": "4 oz fris\u00e9e (French curly endive), torn into bite-size pieces (3 cups)",
+        "qty": "4"
+    }
+]

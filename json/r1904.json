@@ -1,0 +1,50 @@
+[
+    {
+        "display": "<span class='qty'>10</span><span class='comment'>red</span><span class='name'>cabbage leaves</span>",
+        "qty": "10",
+        "comment": "red",
+        "input": "10 red cabbage leaves",
+        "name": "cabbage leaves"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>onion</span>",
+        "qty": "1",
+        "comment": "small",
+        "input": "1 small onion",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>water</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>teaspoons</span><span class='name'>balsamic vinegar</span>",
+        "unit": "teaspoon",
+        "qty": "2 1/2",
+        "input": "2 1/2 teaspoons balsamic vinegar",
+        "name": "balsamic vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>olive oil</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='comment'>freshly ground</span><span class='name'>black pepper</span><span class='comment'>to taste</span>",
+        "comment": "freshly ground to taste",
+        "input": "freshly ground black pepper to taste",
+        "name": "black pepper"
+    }
+]

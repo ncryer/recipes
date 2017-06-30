@@ -1,0 +1,80 @@
+[
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup extra-virgin olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "tablespoon",
+        "name": "cumin",
+        "input": "1 tablespoon ground cumin",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>ground</span><span class='name'>coriander</span>",
+        "comment": "ground",
+        "unit": "tablespoon",
+        "name": "coriander",
+        "input": "1 tablespoon ground coriander",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>ginger</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "1 teaspoon ground ginger",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Rounded</span><span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>hot</span><span class='name'>red-pepper flakes</span>",
+        "comment": "Rounded hot",
+        "unit": "teaspoon",
+        "name": "red-pepper flakes",
+        "input": "Rounded 1/4 teaspoon hot red-pepper flakes",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='comment'>1 ( 1 1/2-inch</span><span class='other'>)</span><span class='unit'>piece</span><span class='name'>cinnamon stick</span>",
+        "comment": "1 (1 1/2-inch",
+        "other": ")",
+        "unit": "piece",
+        "input": "1 (1 1/2-inch) piece cinnamon stick",
+        "name": "cinnamon stick"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 28-ounce ) can whole</span><span class='name'>tomatoes</span><span class='comment'>in juice</span>",
+        "qty": "1",
+        "comment": "(28-ounce) can whole in juice",
+        "input": "1 (28-ounce) can whole tomatoes in juice",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>( 15-ounce ) cans</span><span class='name'>chickpeas</span><span class='comment'>, rinsed and drained</span>",
+        "qty": "2",
+        "comment": "(15-ounce) cans, rinsed and drained",
+        "input": "2 (15-ounce) cans chickpeas, rinsed and drained",
+        "name": "chickpeas"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped flat-leaf</span><span class='name'>parsley</span>",
+        "comment": "chopped flat-leaf",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/2 cup chopped flat-leaf parsley",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>mint</span>",
+        "comment": "finely chopped",
+        "unit": "cup",
+        "name": "mint",
+        "input": "1/4 cup finely chopped mint",
+        "qty": "1/4"
+    }
+]

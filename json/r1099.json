@@ -1,0 +1,69 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>ripe</span><span class='name'>avocados</span><span class='comment'>( 2 pounds total</span><span class='other'>)</span>",
+        "comment": "ripe (2 pounds total",
+        "other": ")",
+        "name": "avocados",
+        "input": "4 ripe avocados (2 pounds total)",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>white onion</span>",
+        "comment": "finely chopped",
+        "unit": "cup",
+        "name": "white onion",
+        "input": "1 cup finely chopped white onion",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>fresh</span><span class='name'>serrano chiles , finely chopped ( 2 tablespoons ) , including seeds</span>",
+        "qty": "2",
+        "comment": "fresh",
+        "input": "2 fresh serrano chiles, finely chopped (2 tablespoons), including seeds",
+        "name": "serrano chiles, finely chopped (2 tablespoons), including seeds"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lime juice</span><span class='comment'>, or to taste</span>",
+        "comment": "fresh, or to taste",
+        "unit": "cup",
+        "name": "lime juice",
+        "input": "1/4 cup fresh lime juice, or to taste",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>pomegranate seeds</span><span class='other'>(</span><span class='comment'>from 1 pomegranate )</span>",
+        "comment": "from 1 pomegranate)",
+        "other": "(",
+        "unit": "cup",
+        "name": "pomegranate seeds",
+        "input": "3/4 cup pomegranate seeds (from 1 pomegranate)",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>diced peeled</span><span class='name'>mango</span>",
+        "comment": "diced peeled",
+        "unit": "cup",
+        "name": "mango",
+        "input": "3/4 cup diced peeled mango",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>cilantro</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/2 cup chopped cilantro",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='name'>Accompaniment:</span>",
+        "input": "Accompaniment:",
+        "name": "Accompaniment:"
+    },
+    {
+        "display": "<span class='comment'>Garnish:</span><span class='name'>lime</span><span class='comment'>wedges</span>",
+        "comment": "Garnish: wedges",
+        "input": "Garnish: lime wedges",
+        "name": "lime"
+    }
+]

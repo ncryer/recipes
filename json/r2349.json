@@ -1,0 +1,78 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>dried</span><span class='name'>black beans</span><span class='comment'>, soaked in enough cold water to cover them by</span><span class='qty'>2</span><span class='comment'>inches overnight</span><span class='other'>or</span><span class='comment'>quick-soaked ( procedure follows ) and drained</span>",
+        "comment": "dried, soaked in enough cold water to cover them by inches overnight quick-soaked (procedure follows) and drained",
+        "other": "or",
+        "unit": "pound",
+        "name": "black beans",
+        "input": "1 pound dried black beans, soaked in enough cold water to cover them by 2 inches overnight or quick-soaked (procedure follows) and drained",
+        "qty": "1 2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>barley</span><span class='other'>(</span><span class='comment'>not quick-cooking</span><span class='other'>)</span>",
+        "comment": "not quick-cooking",
+        "other": "()",
+        "unit": "cup",
+        "name": "barley",
+        "input": "1 cup barley (not quick-cooking)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "6 tablespoons fresh lemon juice",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>Dijon-style mustard</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon Dijon-style mustard",
+        "name": "Dijon-style mustard"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>finely chopped</span><span class='name'>red onion</span>",
+        "comment": "finely chopped",
+        "unit": "cup",
+        "name": "red onion",
+        "input": "1 1/2 cups finely chopped red onion",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>green beans</span><span class='other'>,</span><span class='comment'>trimmed</span>",
+        "comment": "trimmed",
+        "other": ",",
+        "unit": "pound",
+        "name": "green beans",
+        "input": "1 pound green beans, trimmed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>pine nuts</span><span class='other'>,</span><span class='comment'>toasted lightly</span>",
+        "comment": "toasted lightly",
+        "other": ",",
+        "unit": "cup",
+        "name": "pine nuts",
+        "input": "1/2 cup pine nuts, toasted lightly",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='other'>to</span><span class='range_end'>1</span><span class='unit'>pound</span><span class='name'>dried beans</span><span class='comment'>, picked over</span>",
+        "comment": ", picked over",
+        "other": "to",
+        "unit": "pound",
+        "name": "dried beans",
+        "range_end": "1",
+        "input": "1/2 to 1 pound dried beans, picked over",
+        "qty": "1/2"
+    }
+]

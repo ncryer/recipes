@@ -1,0 +1,101 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>wild rice</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup wild rice",
+        "name": "wild rice"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>basmati rice</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup basmati rice",
+        "name": "basmati rice"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>dried</span><span class='name'>Iranian lime</span><span class='comment'>( optional</span><span class='other'>)</span>",
+        "comment": "dried (optional",
+        "other": ")",
+        "name": "Iranian lime",
+        "input": "1 dried Iranian lime (optional)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh shelled</span><span class='name'>fava beans</span><span class='comment'>( from about 1 pound pods ) or frozen</span><span class='other'>,</span><span class='comment'>thawed</span>",
+        "comment": "fresh shelled (from about 1 pound pods) or frozen thawed",
+        "other": ",",
+        "unit": "cup",
+        "name": "fava beans",
+        "input": "1 cup fresh shelled fava beans (from about 1 pound pods) or frozen, thawed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>dill</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "dill",
+        "input": "1/2 cup chopped fresh dill",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh flat-leaf</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh flat-leaf",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/2 cup chopped fresh flat-leaf parsley",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>unsalted , raw</span><span class='name'>pistachios</span>",
+        "comment": "unsalted, raw",
+        "unit": "cup",
+        "name": "pistachios",
+        "input": "1/2 cup unsalted, raw pistachios",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>finely grated</span><span class='name'>lemon</span><span class='comment'>zest</span>",
+        "comment": "finely grated zest",
+        "unit": "teaspoon",
+        "name": "lemon",
+        "input": "2 teaspoons finely grated lemon zest",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/4 cup fresh lemon juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>Iranian</span><span class='name'>lime powder</span><span class='comment'>or 1 teaspoon finely grated</span><span class='name'>lime</span><span class='comment'>zest</span>",
+        "comment": "Iranian or 1 teaspoon finely grated zest",
+        "unit": "teaspoon",
+        "name": "lime powder lime",
+        "input": "1/2 teaspoon Iranian lime powder or 1 teaspoon finely grated lime zest",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>Dried Iranian</span><span class='name'>limes</span><span class='comment'>, also known as limu omani</span><span class='other'>,</span><span class='comment'>are available at Middle Eastern markets and online.</span>",
+        "comment": "Dried Iranian, also known as limu omani are available at Middle Eastern markets and online.",
+        "input": "Dried Iranian limes, also known as limu omani, are available at Middle Eastern markets and online.",
+        "name": "limes",
+        "other": ","
+    }
+]

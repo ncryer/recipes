@@ -1,0 +1,53 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>pine nuts</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup pine nuts",
+        "name": "pine nuts"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>balsamic vinegar</span><span class='comment'>or</span><span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>red wine vinegar</span>",
+        "comment": "or",
+        "unit": "cup tablespoon",
+        "name": "balsamic vinegar red wine vinegar",
+        "input": "1/4 cup balsamic vinegar or 2 tablespoons red wine vinegar",
+        "qty": "1/4 2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/4 cup fresh lemon juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>minced</span><span class='name'>shallots</span><span class='comment'>( about 2 )</span>",
+        "comment": "minced (about 2)",
+        "unit": "tablespoon",
+        "name": "shallots",
+        "input": "3 tablespoons minced shallots (about 2)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>grated</span><span class='name'>orange peel</span>",
+        "comment": "grated",
+        "unit": "teaspoon",
+        "name": "orange peel",
+        "input": "1/2 teaspoon grated orange peel",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='name'>Salt and pepper</span>",
+        "input": "Salt and pepper",
+        "name": "Salt and pepper"
+    }
+]

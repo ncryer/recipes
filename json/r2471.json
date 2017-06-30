@@ -1,0 +1,42 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>sesame seeds</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons sesame seeds",
+        "name": "sesame seeds"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "3/4 teaspoon kosher salt",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>dried crushed</span><span class='name'>red pepper</span>",
+        "comment": "dried crushed",
+        "unit": "teaspoon",
+        "name": "red pepper",
+        "input": "3/4 teaspoon dried crushed red pepper",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>pounds</span><span class='name'>broccoli</span><span class='other'>,</span><span class='comment'>cut into florets</span>",
+        "comment": "cut into florets",
+        "other": ",",
+        "unit": "pound",
+        "name": "broccoli",
+        "input": "1 1/4 pounds broccoli, cut into florets",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>toasted</span><span class='name'>sesame oil</span>",
+        "comment": "toasted",
+        "unit": "tablespoon",
+        "name": "sesame oil",
+        "input": "1 tablespoon toasted sesame oil",
+        "qty": "1"
+    }
+]

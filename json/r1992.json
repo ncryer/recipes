@@ -1,0 +1,43 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>small boiling</span><span class='name'>potatoes</span><span class='comment'>( about 1 1/2 inches each )</span>",
+        "comment": "small boiling (about 1 1/2 inches each)",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "1 pound small boiling potatoes (about 1 1/2 inches each)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>cider vinegar</span><span class='other'>,</span><span class='comment'>or to taste</span>",
+        "comment": "or to taste",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "cider vinegar",
+        "input": "1 teaspoon cider vinegar, or to taste",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>olive oil</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>Dijon mustard</span><span class='other'>,</span><span class='comment'>or to taste</span>",
+        "comment": "or to taste",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "Dijon mustard",
+        "input": "1 teaspoon Dijon mustard, or to taste",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>sliced</span><span class='name'>scallion greens</span>",
+        "comment": "sliced",
+        "unit": "cup",
+        "name": "scallion greens",
+        "input": "1/4 cup sliced scallion greens",
+        "qty": "1/4"
+    }
+]

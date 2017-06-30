@@ -1,0 +1,17 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>cooked</span><span class='name'>rice</span>",
+        "comment": "cooked",
+        "unit": "cup",
+        "name": "rice",
+        "input": "4 cups cooked rice",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>teaspoons</span><span class='name'>yakari shiso salt</span>",
+        "unit": "teaspoon",
+        "qty": "4",
+        "input": "4 teaspoons yakari shiso salt",
+        "name": "yakari shiso salt"
+    }
+]

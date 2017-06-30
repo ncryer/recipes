@@ -1,0 +1,76 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>pistachios</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup pistachios",
+        "name": "pistachios"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='other'>plus 1/2</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "other": "plus 1/2",
+        "unit": "teaspoon cup",
+        "name": "olive oil",
+        "input": "1 teaspoon plus 1/2 cup olive oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>curry powder</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon curry powder",
+        "name": "curry powder"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>finely grated</span>",
+        "comment": "finely grated",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, finely grated",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>apple cider vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons apple cider vinegar",
+        "name": "apple cider vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>Dijon mustard</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>small</span><span class='name'>beets</span><span class='comment'>( any color ) , peeled</span><span class='other'>,</span><span class='comment'>thinly sliced on a mandoline</span>",
+        "comment": "small (any color), peeled thinly sliced on a mandoline",
+        "other": ",",
+        "name": "beets",
+        "input": "4 small beets (any color), peeled, thinly sliced on a mandoline",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>medium</span><span class='name'>carrots</span><span class='comment'>, peeled</span><span class='other'>,</span><span class='comment'>shaved lengthwise into ribbons with a vegetable peeler</span>",
+        "comment": "medium, peeled shaved lengthwise into ribbons with a vegetable peeler",
+        "other": ",",
+        "name": "carrots",
+        "input": "4 medium carrots, peeled, shaved lengthwise into ribbons with a vegetable peeler",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='name'>Lemon juice</span><span class='other'>(</span><span class='comment'>for serving</span><span class='other'>)</span>",
+        "comment": "for serving",
+        "input": "Lemon juice (for serving)",
+        "name": "Lemon juice",
+        "other": "()"
+    }
+]

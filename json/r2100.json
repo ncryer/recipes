@@ -1,0 +1,10 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>Thai long-grain</span><span class='name'>sticky</span><span class='comment'>( glutinous )</span><span class='name'>rice</span>",
+        "comment": "Thai long-grain (glutinous)",
+        "unit": "cup",
+        "name": "sticky rice",
+        "input": "3 cups Thai long-grain sticky (glutinous) rice",
+        "qty": "3"
+    }
+]

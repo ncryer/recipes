@@ -1,0 +1,39 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>small</span><span class='name'>okra</span><span class='comment'>( available seasonally at specialty produce markets and many supermarkets )</span>",
+        "comment": "small (available seasonally at specialty produce markets and many supermarkets)",
+        "unit": "pound",
+        "name": "okra",
+        "input": "1 pound small okra (available seasonally at specialty produce markets and many supermarkets)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>distilled</span><span class='name'>white vinegar</span>",
+        "comment": "distilled",
+        "unit": "tablespoon",
+        "name": "white vinegar",
+        "input": "3 tablespoons distilled white vinegar",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>onion</span><span class='comment'>, halved lengthwise and sliced thin crosswise</span>",
+        "qty": "1",
+        "comment": "small, halved lengthwise and sliced thin crosswise",
+        "input": "1 small onion, halved lengthwise and sliced thin crosswise",
+        "name": "onion"
+    }
+]

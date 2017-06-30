@@ -1,0 +1,29 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='name'>lemons</span>",
+        "qty": "4",
+        "input": "4 lemons",
+        "name": "lemons"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "6",
+        "input": "6 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>black peppercorns</span>",
+        "qty": "6",
+        "input": "6 black peppercorns",
+        "name": "black peppercorns"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>vanilla bean</span><span class='other'>,</span><span class='comment'>split lengthwise</span>",
+        "comment": "split lengthwise",
+        "other": ",",
+        "name": "vanilla bean",
+        "input": "1/2 vanilla bean, split lengthwise",
+        "qty": "1/2"
+    }
+]

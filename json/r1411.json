@@ -1,0 +1,22 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>Fuyu persimmons</span>",
+        "qty": "2",
+        "comment": "large",
+        "input": "2 large Fuyu persimmons",
+        "name": "Fuyu persimmons"
+    },
+    {
+        "display": "<span class='name'>Hazelnut oil</span>",
+        "input": "Hazelnut oil",
+        "name": "Hazelnut oil"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>warm</span><span class='name'>hazelnuts</span>",
+        "comment": "warm",
+        "unit": "cup",
+        "name": "hazelnuts",
+        "input": "1 1/2 cups warm hazelnuts",
+        "qty": "1 1/2"
+    }
+]

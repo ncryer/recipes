@@ -1,0 +1,78 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='comment'>small Japanese</span><span class='name'>eggplants</span><span class='comment'>, peeled</span>",
+        "qty": "8",
+        "comment": "small Japanese, peeled",
+        "input": "8 small Japanese eggplants, peeled",
+        "name": "eggplants"
+    },
+    {
+        "display": "<span class='qty'>16</span><span class='comment'>large fresh</span><span class='name'>mint leaves</span>",
+        "qty": "16",
+        "comment": "large fresh",
+        "input": "16 large fresh mint leaves",
+        "name": "mint leaves"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='name'>, 2 slivered , 2 flattened</span>",
+        "other": "large",
+        "unit": "clove",
+        "name": "garlic, 2 slivered, 2 flattened",
+        "input": "4 large garlic cloves, 2 slivered, 2 flattened",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>olive oil</span><span class='other'>(</span><span class='comment'>for deep frying )</span>",
+        "comment": "for deep frying)",
+        "other": "(",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "2 cups olive oil (for deep frying)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>tomatoes</span>",
+        "unit": "pound",
+        "qty": "2",
+        "input": "2 pounds tomatoes",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>7</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "7 tablespoons extra-virgin olive oil",
+        "qty": "7"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, chopped</span>",
+        "qty": "1",
+        "comment": "medium, chopped",
+        "input": "1 medium onion, chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>fresh</span><span class='name'>basil leaves</span>",
+        "qty": "6",
+        "comment": "fresh",
+        "input": "6 fresh basil leaves",
+        "name": "basil leaves"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>dried</span><span class='name'>oregano</span>",
+        "comment": "dried",
+        "unit": "tablespoon",
+        "name": "oregano",
+        "input": "1 tablespoon dried oregano",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>drained</span><span class='name'>capers</span>",
+        "comment": "drained",
+        "unit": "tablespoon",
+        "name": "capers",
+        "input": "1 1/2 tablespoons drained capers",
+        "qty": "1 1/2"
+    }
+]

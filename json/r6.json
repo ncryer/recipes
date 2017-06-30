@@ -1,0 +1,66 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sesame seeds</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sesame seeds",
+        "name": "sesame seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sumac</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sumac",
+        "name": "sumac"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>dried</span><span class='name'>thyme</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "thyme",
+        "input": "2 teaspoons dried thyme",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>sea</span><span class='name'>salt</span>",
+        "comment": "sea",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/4 teaspoon sea salt",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium-size</span><span class='name'>sweet potatoes</span><span class='comment'>, cut into cubes ( about 4 cups )</span>",
+        "qty": "2",
+        "comment": "medium-size, cut into cubes (about 4 cups)",
+        "input": "2 medium-size sweet potatoes, cut into cubes (about 4 cups)",
+        "name": "sweet potatoes"
+    },
+    {
+        "display": "<span class='name'>Olive oil</span>",
+        "input": "Olive oil",
+        "name": "Olive oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 garlic cloves, chopped",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>kale</span><span class='comment'>, destemmed and roughly chopped ( about 6 cups )</span>",
+        "comment": ", destemmed and roughly chopped (about 6 cups)",
+        "unit": "bunch",
+        "name": "kale",
+        "input": "1 bunch kale, destemmed and roughly chopped (about 6 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Sea salt</span>",
+        "input": "Sea salt",
+        "name": "Sea salt"
+    }
+]

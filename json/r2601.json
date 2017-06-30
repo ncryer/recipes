@@ -1,0 +1,52 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>fresh</span><span class='name'>dill</span><span class='comment'>sprigs plus</span><span class='other'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped</span><span class='name'>dill leaves</span>",
+        "comment": "fresh sprigs plus chopped",
+        "other": "2",
+        "unit": "tablespoon",
+        "name": "dill dill leaves",
+        "input": "2 fresh dill sprigs plus 2 tablespoons chopped dill leaves",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>scallions</span><span class='comment'>, white and pale green parts cut into 1-inch pieces and dark green parts chopped</span>",
+        "qty": "2",
+        "comment": "large, white and pale green parts cut into 1-inch pieces and dark green parts chopped",
+        "input": "2 large scallions, white and pale green parts cut into 1-inch pieces and dark green parts chopped",
+        "name": "scallions"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='comment'>1 ( 10-ounce ) package frozen</span><span class='name'>black-eyed peas</span>",
+        "comment": "1 (10-ounce) package frozen",
+        "input": "1 (10-ounce) package frozen black-eyed peas",
+        "name": "black-eyed peas"
+    },
+    {
+        "display": "<span class='comment'>Accompaniment:</span><span class='name'>lemon</span><span class='comment'>wedges</span>",
+        "comment": "Accompaniment: wedges",
+        "input": "Accompaniment: lemon wedges",
+        "name": "lemon"
+    }
+]

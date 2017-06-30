@@ -1,0 +1,99 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>/ 200g wild</span><span class='name'>rice</span><span class='comment'>( makes 1 1/2 cups sprouted rice )</span>",
+        "comment": "/ 200g wild (makes 1 1/2 cups sprouted rice)",
+        "unit": "cup",
+        "name": "rice",
+        "input": "1 cup / 200g wild rice (makes 1 1/2 cups sprouted rice)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>cold-pressed</span><span class='name'>olive oil</span>",
+        "comment": "cold-pressed",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons cold-pressed olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>strong</span><span class='name'>mustard</span>",
+        "comment": "strong",
+        "unit": "tablespoon",
+        "name": "mustard",
+        "input": "2 tablespoons strong mustard",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Grated zest of</span><span class='qty'>1</span><span class='comment'>organic</span><span class='name'>lemon</span>",
+        "qty": "1",
+        "comment": "Grated zest of organic",
+        "input": "Grated zest of 1 organic lemon",
+        "name": "lemon"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>freshly squeezed</span><span class='name'>lemon juice</span>",
+        "comment": "freshly squeezed",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons freshly squeezed lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>pure</span><span class='name'>maple syrup</span>",
+        "comment": "pure",
+        "unit": "teaspoon",
+        "name": "maple syrup",
+        "input": "1 teaspoon pure maple syrup",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Fine sea</span><span class='name'>salt</span>",
+        "comment": "Fine sea",
+        "input": "Fine sea salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>/ 300g shelled</span><span class='name'>green peas</span>",
+        "comment": "/ 300g shelled",
+        "unit": "cup",
+        "name": "green peas",
+        "input": "2 cups / 300g shelled green peas",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>/ 165g cooked chickpeas</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup / 165g cooked chickpeas",
+        "name": "/ 165g cooked chickpeas"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>spring carrots</span><span class='other'>,</span><span class='comment'>julienned</span>",
+        "comment": "julienned",
+        "other": ",",
+        "name": "spring carrots",
+        "input": "4 spring carrots, julienned",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>/ 7g chopped fresh chives</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup / 7g chopped fresh chives",
+        "name": "/ 7g chopped fresh chives"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>/ 7g chopped fresh dill</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup / 7g chopped fresh dill",
+        "name": "/ 7g chopped fresh dill"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>/ 40g raw pistachios , roughly chopped</span>",
+        "unit": "cup",
+        "comment": "/ 40g raw pistachios, roughly chopped",
+        "input": "1/3 cup / 40g raw pistachios, roughly chopped",
+        "other": "1/3"
+    }
+]

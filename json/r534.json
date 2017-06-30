@@ -1,0 +1,111 @@
+[
+    {
+        "display": "<span class='name'>Olive oil cooking spray</span>",
+        "input": "Olive oil cooking spray",
+        "name": "Olive oil cooking spray"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span>",
+        "unit": "clove",
+        "qty": "2",
+        "input": "2 cloves garlic",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>cups</span><span class='comment'>canned</span><span class='name'>black beans</span><span class='comment'>, rinsed and drained</span>",
+        "comment": "canned, rinsed and drained",
+        "unit": "cup",
+        "name": "black beans",
+        "input": "2 1/2 cups canned black beans, rinsed and drained",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>rolled</span><span class='name'>oats</span>",
+        "comment": "rolled",
+        "unit": "cup",
+        "name": "oats",
+        "input": "1/4 cup rolled oats",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>cornmeal</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup cornmeal",
+        "name": "cornmeal"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>chili powder</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon chili powder",
+        "name": "chili powder"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span><span class='comment'>, divided</span>",
+        "comment": "kosher, divided",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 teaspoon kosher salt, divided",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span><span class='comment'>, divided</span>",
+        "comment": "freshly ground, divided",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/2 teaspoon freshly ground black pepper, divided",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='comment'>small</span><span class='name'>corn tortillas</span>",
+        "qty": "8",
+        "comment": "small",
+        "input": "8 small corn tortillas",
+        "name": "corn tortillas"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>corn , thawed if frozen</span>",
+        "unit": "cup",
+        "comment": "corn, thawed if frozen",
+        "input": "1 cup corn, thawed if frozen",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>red bell pepper</span><span class='comment'>, chopped</span>",
+        "qty": "1",
+        "comment": "medium, chopped",
+        "input": "1 medium red bell pepper, chopped",
+        "name": "red bell pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>green chile</span><span class='comment'>, diced</span>",
+        "qty": "1",
+        "comment": "small, diced",
+        "input": "1 small green chile, diced",
+        "name": "green chile"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "name": "scallions",
+        "input": "2 scallions, chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Juice of</span><span class='qty'>2</span><span class='name'>limes</span>",
+        "qty": "2",
+        "comment": "Juice of",
+        "input": "Juice of 2 limes",
+        "name": "limes"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/4 cup chopped fresh cilantro",
+        "qty": "1/4"
+    }
+]

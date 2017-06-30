@@ -1,0 +1,29 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>cups</span><span class='comment'>semolina ( sometimes called semolina flour ) plus additional for dusting</span>",
+        "unit": "cup",
+        "comment": "semolina (sometimes called semolina flour) plus additional for dusting",
+        "input": "2 1/2 cups semolina (sometimes called semolina flour) plus additional for dusting",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='other'>1/2 cup plus 1/3</span><span class='unit'>cup</span><span class='comment'>lukewarm</span><span class='name'>water</span>",
+        "comment": "lukewarm",
+        "other": "1/2 cup plus 1/3",
+        "unit": "cup",
+        "input": "1/2 cup plus 1/3 cup lukewarm water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='name'>All-purpose flour</span><span class='comment'>for dusting</span>",
+        "comment": "for dusting",
+        "input": "All-purpose flour for dusting",
+        "name": "All-purpose flour"
+    },
+    {
+        "display": "<span class='comment'>Equipment: a</span><span class='name'>pasta</span><span class='comment'>machine</span>",
+        "comment": "Equipment: a machine",
+        "input": "Equipment: a pasta machine",
+        "name": "pasta"
+    }
+]

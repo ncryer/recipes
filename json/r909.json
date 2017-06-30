@@ -1,0 +1,54 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>thinly sliced fresh</span><span class='name'>fennel bulb</span>",
+        "comment": "thinly sliced fresh",
+        "unit": "cup",
+        "name": "fennel bulb",
+        "input": "2 cups thinly sliced fresh fennel bulb",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>thinly sliced</span><span class='name'>red onion</span>",
+        "comment": "thinly sliced",
+        "unit": "cup",
+        "name": "red onion",
+        "input": "1 1/2 cups thinly sliced red onion",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>carrots</span><span class='comment'>, cut into thin matchstick-size strips ( about 1 1/2 cups )</span>",
+        "qty": "2",
+        "comment": "medium, cut into thin matchstick-size strips (about 1 1/2 cups)",
+        "input": "2 medium carrots, cut into thin matchstick-size strips (about 1 1/2 cups)",
+        "name": "carrots"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh Italian</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh Italian",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/2 cup chopped fresh Italian parsley",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>Sherry wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup Sherry wine vinegar",
+        "name": "Sherry wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sugar",
+        "name": "sugar"
+    }
+]

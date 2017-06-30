@@ -1,0 +1,86 @@
+[
+    {
+        "display": "<span class='qty'>4 1/2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "4 1/2",
+        "input": "4 1/2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>paprika</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons paprika",
+        "name": "paprika"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1 1/2 teaspoons ground cumin",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>turnip</span><span class='comment'>, peeled , cut into 3/4-inch pieces</span>",
+        "qty": "1",
+        "comment": "large, peeled, cut into 3/4-inch pieces",
+        "input": "1 large turnip, peeled, cut into 3/4-inch pieces",
+        "name": "turnip"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium</span><span class='name'>zucchini</span><span class='comment'>, cut into 3/4-inch-thick rounds</span>",
+        "qty": "3",
+        "comment": "medium, cut into 3/4-inch-thick rounds",
+        "input": "3 medium zucchini, cut into 3/4-inch-thick rounds",
+        "name": "zucchini"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>celery</span><span class='unit'>stalks</span><span class='other'>,</span><span class='comment'>cut into 3/4-inch lengths</span>",
+        "comment": "cut into 3/4-inch lengths",
+        "other": ",",
+        "unit": "stalk",
+        "name": "celery",
+        "input": "3 celery stalks, cut into 3/4-inch lengths",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>potatoes</span><span class='comment'>, peeled , cut into 3/4-inch pieces</span>",
+        "qty": "2",
+        "comment": "medium, peeled, cut into 3/4-inch pieces",
+        "input": "2 medium potatoes, peeled, cut into 3/4-inch pieces",
+        "name": "potatoes"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium</span><span class='name'>tomatoes</span><span class='comment'>, halved</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>cut into 3/4-inch pieces</span>",
+        "comment": "medium, halved seeded cut into 3/4-inch pieces",
+        "other": ", ,",
+        "name": "tomatoes",
+        "input": "3 medium tomatoes, halved, seeded, cut into 3/4-inch pieces",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>4 1/2</span><span class='unit'>cups</span><span class='comment'>canned</span><span class='name'>vegetable broth</span>",
+        "comment": "canned",
+        "unit": "cup",
+        "name": "vegetable broth",
+        "input": "4 1/2 cups canned vegetable broth",
+        "qty": "4 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>couscous</span><span class='other'>(</span><span class='comment'>about 24 ounces</span><span class='other'>)</span>",
+        "comment": "about 24 ounces",
+        "other": "()",
+        "unit": "cup",
+        "name": "couscous",
+        "input": "4 cups couscous (about 24 ounces)",
+        "qty": "4"
+    }
+]

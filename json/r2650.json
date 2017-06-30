@@ -1,0 +1,32 @@
+[
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>blood orange juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "blood orange juice",
+        "input": "1/2 cup fresh blood orange juice",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>grated blood</span><span class='name'>orange peel</span>",
+        "comment": "grated blood",
+        "unit": "teaspoon",
+        "name": "orange peel",
+        "input": "1/2 teaspoon grated blood orange peel",
+        "qty": "1/2"
+    }
+]

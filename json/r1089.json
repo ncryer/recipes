@@ -1,0 +1,34 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>red</span><span class='name'>plums</span><span class='other'>(</span><span class='comment'>preferably Santa Rosa ) , quartered</span>",
+        "comment": "red preferably Santa Rosa), quartered",
+        "other": "(",
+        "unit": "pound",
+        "name": "plums",
+        "input": "2 pounds red plums (preferably Santa Rosa), quartered",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>1 1/3</span><span class='unit'>cups</span><span class='comment'>( about</span><span class='other'>)</span><span class='name'>sugar</span><span class='other'>, divided</span>",
+        "comment": "(about",
+        "other": "1 1/3), divided",
+        "unit": "cup",
+        "input": "1 1/3 cups (about) sugar, divided",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>cinnamon</span><span class='unit'>sticks</span>",
+        "unit": "stick",
+        "qty": "2",
+        "input": "2 cinnamon sticks",
+        "name": "cinnamon"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>vanilla bean</span><span class='other'>,</span><span class='comment'>split lengthwise</span>",
+        "comment": "split lengthwise",
+        "other": ",",
+        "name": "vanilla bean",
+        "input": "1 vanilla bean, split lengthwise",
+        "qty": "1"
+    }
+]

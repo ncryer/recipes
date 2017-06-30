@@ -1,0 +1,64 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>old fashioned oats</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup old fashioned oats",
+        "name": "old fashioned oats"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>raw</span><span class='name'>pumpkin seeds</span><span class='comment'>( also known as pepitas )</span>",
+        "comment": "raw (also known as pepitas)",
+        "unit": "cup",
+        "name": "pumpkin seeds",
+        "input": "1/2 cup raw pumpkin seeds (also known as pepitas)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>raw</span><span class='name'>sunflower seeds</span>",
+        "comment": "raw",
+        "unit": "cup",
+        "name": "sunflower seeds",
+        "input": "1/2 cup raw sunflower seeds",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>flax seeds</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons flax seeds",
+        "name": "flax seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>dried</span><span class='name'>fruit</span><span class='comment'>( blueberries</span><span class='other'>,</span><span class='comment'>raisins</span><span class='other'>,</span><span class='comment'>currants</span><span class='other'>,</span><span class='comment'>cranberries and/or cherries )</span>",
+        "comment": "dried (blueberries raisins currants cranberries and/or cherries)",
+        "other": ",, ,",
+        "unit": "cup",
+        "name": "fruit",
+        "input": "1 cup dried fruit (blueberries, raisins, currants, cranberries and/or cherries)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>unsweetened</span><span class='name'>coconut flakes</span>",
+        "comment": "unsweetened",
+        "unit": "cup",
+        "name": "coconut flakes",
+        "input": "1/2 cup unsweetened coconut flakes",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>honey</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup honey",
+        "name": "honey"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>sunflower</span><span class='name'>butter</span>",
+        "comment": "sunflower",
+        "unit": "cup",
+        "name": "butter",
+        "input": "1/2 cup sunflower butter",
+        "qty": "1/2"
+    }
+]

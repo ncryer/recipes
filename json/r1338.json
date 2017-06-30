@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='comment'>warm</span><span class='name'>water</span><span class='comment'>( 105\u00b0F to 115\u00b0F )</span>",
+        "comment": "warm (105\u00b0F to 115\u00b0F)",
+        "unit": "cup",
+        "name": "water",
+        "input": "1 1/4 cups warm water (105\u00b0F to 115\u00b0F)",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>active</span><span class='name'>dry yeast</span>",
+        "comment": "active",
+        "unit": "teaspoon",
+        "name": "dry yeast",
+        "input": "1 teaspoon active dry yeast",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>( or more ) all purpose</span><span class='name'>flour</span>",
+        "comment": "(or more) all purpose",
+        "unit": "cup",
+        "name": "flour",
+        "input": "3 cups (or more) all purpose flour",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>coarse kosher</span><span class='name'>salt</span>",
+        "comment": "coarse kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "2 teaspoons coarse kosher salt",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>tablespoons</span><span class='comment'>( about )</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": "(about), divided",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "5 tablespoons (about) olive oil, divided",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>za'atar*</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons za'atar*",
+        "name": "za'atar*"
+    }
+]

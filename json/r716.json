@@ -1,0 +1,70 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>tangerines</span><span class='comment'>( such as Pixie or Satsuma )</span>",
+        "qty": "2",
+        "comment": "(such as Pixie or Satsuma)",
+        "input": "2 tangerines (such as Pixie or Satsuma)",
+        "name": "tangerines"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>finely chopped radishes plus 12 large radishes ( such as French Breakfast</span><span class='other'>) ,</span><span class='comment'>trimmed</span><span class='other'>,</span><span class='comment'>very thinly sliced</span>",
+        "comment": "finely chopped radishes plus 12 large radishes (such as French Breakfast trimmed very thinly sliced",
+        "other": "), ,",
+        "unit": "tablespoon",
+        "input": "2 tablespoons finely chopped radishes plus 12 large radishes (such as French Breakfast), trimmed, very thinly sliced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped red</span><span class='name'>onion</span><span class='comment'>plus 1/2</span><span class='unit'>cup</span><span class='comment'>thinly sliced</span>",
+        "comment": "chopped red plus 1/2 thinly sliced",
+        "unit": "tablespoon cup",
+        "name": "onion",
+        "input": "1 tablespoon chopped red onion plus 1/2 cup thinly sliced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1 tablespoon plus 2</span><span class='unit'>teaspoons</span><span class='comment'>fresh Meyer lemon juice or regular lemon juice</span>",
+        "unit": "teaspoon",
+        "comment": "fresh Meyer lemon juice or regular lemon juice",
+        "input": "1 tablespoon plus 2 teaspoons fresh Meyer lemon juice or regular lemon juice",
+        "other": "1 tablespoon plus 2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='name'>Coarse</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "input": "Coarse kosher salt",
+        "name": "Coarse salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>fennel bulb</span><span class='comment'>, quartered lengthwise with core intact , very thinly sliced lengthwise</span>",
+        "qty": "1",
+        "comment": "medium, quartered lengthwise with core intact, very thinly sliced lengthwise",
+        "input": "1 medium fennel bulb, quartered lengthwise with core intact, very thinly sliced lengthwise",
+        "name": "fennel bulb"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>( packed</span><span class='other'>)</span><span class='name'>arugula</span>",
+        "comment": "(packed",
+        "other": ")",
+        "unit": "cup",
+        "name": "arugula",
+        "input": "3 cups (packed) arugula",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>coarsely chopped fresh</span><span class='name'>mint</span>",
+        "comment": "coarsely chopped fresh",
+        "unit": "cup",
+        "name": "mint",
+        "input": "1/4 cup coarsely chopped fresh mint",
+        "qty": "1/4"
+    }
+]

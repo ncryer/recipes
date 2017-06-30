@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>zucchini</span>",
+        "unit": "pound",
+        "qty": "2",
+        "input": "2 pounds zucchini",
+        "name": "zucchini"
+    },
+    {
+        "display": "<span class='qty'>7</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "7 tablespoons extra-virgin olive oil",
+        "qty": "7"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>bunches</span><span class='comment'>large</span><span class='name'>radishes</span><span class='comment'>( 2 1/4 lb total with greens )</span><span class='other'>,</span><span class='comment'>greens discarded</span>",
+        "comment": "large (2 1/4 lb total with greens) greens discarded",
+        "other": ",",
+        "unit": "bunch",
+        "name": "radishes",
+        "input": "3 bunches large radishes (2 1/4 lb total with greens), greens discarded",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='other'>Special equipment:</span><span class='range_end'>2</span><span class='comment'>large ( 17- by 11-inch ) shallow baking pans</span>",
+        "comment": "large (17- by 11-inch) shallow baking pans",
+        "range_end": "2",
+        "input": "Special equipment: 2 large (17- by 11-inch) shallow baking pans",
+        "other": "Special equipment:"
+    }
+]

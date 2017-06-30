@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='name'>tomatillos</span><span class='other'>,</span><span class='comment'>husked , rinsed</span><span class='other'>,</span><span class='comment'>patted dry</span>",
+        "comment": "husked, rinsed patted dry",
+        "other": ", ,",
+        "unit": "pound",
+        "name": "tomatillos",
+        "input": "1/2 pound tomatillos, husked, rinsed, patted dry",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>large</span><span class='name'>white onion</span><span class='comment'>, cut into 8 wedges</span>",
+        "qty": "1/2",
+        "comment": "large, cut into 8 wedges",
+        "input": "1/2 large white onion, cut into 8 wedges",
+        "name": "white onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>jalape\u00f1o or serrano</span><span class='name'>chile</span><span class='comment'>, halved</span><span class='other'>,</span><span class='comment'>seeded</span>",
+        "comment": "jalape\u00f1o or serrano, halved seeded",
+        "other": ",",
+        "name": "chile",
+        "input": "1 jalape\u00f1o or serrano chile, halved, seeded",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>( or more ) fresh</span><span class='name'>lime juice</span>",
+        "comment": "(or more) fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "2 tablespoons (or more) fresh lime juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    }
+]

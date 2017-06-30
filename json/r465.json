@@ -1,0 +1,77 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>wheat berries</span><span class='other'>,</span><span class='comment'>preferably soft</span><span class='name'>white wheat berries</span>",
+        "comment": "preferably soft",
+        "other": ",",
+        "unit": "cup",
+        "name": "wheat berries white wheat berries",
+        "input": "1 cup wheat berries, preferably soft white wheat berries",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>fennel seeds</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons fennel seeds",
+        "name": "fennel seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>shelled , unsalted pistachios</span>",
+        "unit": "cup",
+        "comment": "shelled, unsalted pistachios",
+        "input": "1 cup shelled, unsalted pistachios",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>pine nuts</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup pine nuts",
+        "name": "pine nuts"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>walnuts</span><span class='comment'>( in about 1/2-inch bits to match the pistachios )</span>",
+        "comment": "chopped (in about 1/2-inch bits to match the pistachios)",
+        "unit": "cup",
+        "name": "walnuts",
+        "input": "1 cup chopped walnuts (in about 1/2-inch bits to match the pistachios)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>pomegranate seeds</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup pomegranate seeds",
+        "name": "pomegranate seeds"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>unsweetened shredded</span><span class='name'>coconut</span>",
+        "comment": "unsweetened shredded",
+        "unit": "cup",
+        "name": "coconut",
+        "input": "1/4 cup unsweetened shredded coconut",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cinnamon</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cinnamon",
+        "input": "1/2 teaspoon ground cinnamon",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    }
+]

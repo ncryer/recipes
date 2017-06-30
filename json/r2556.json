@@ -1,0 +1,38 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium-size red-skinned</span><span class='name'>potatoes</span><span class='comment'>( about 3/4 pound</span><span class='other'>)</span>",
+        "comment": "medium-size red-skinned (about 3/4 pound",
+        "other": ")",
+        "name": "potatoes",
+        "input": "3 medium-size red-skinned potatoes (about 3/4 pound)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>beets</span>",
+        "qty": "3",
+        "input": "3 beets",
+        "name": "beets"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>white distilled vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "6",
+        "input": "6 tablespoons white distilled vinegar",
+        "name": "white distilled vinegar"
+    },
+    {
+        "display": "<span class='qty'>4 1/2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "4 1/2",
+        "input": "4 1/2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>teaspoons</span><span class='comment'>ground</span><span class='name'>coriander</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "coriander",
+        "input": "4 teaspoons ground coriander",
+        "qty": "4"
+    }
+]

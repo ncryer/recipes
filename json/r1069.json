@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>peanut oil</span><span class='comment'>or canola oil</span>",
+        "comment": "or canola oil",
+        "unit": "tablespoon",
+        "name": "peanut oil",
+        "input": "3 tablespoons peanut oil or canola oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>dried crushed</span><span class='name'>red pepper</span>",
+        "comment": "dried crushed",
+        "unit": "teaspoon",
+        "name": "red pepper",
+        "input": "1 1/2 teaspoons dried crushed red pepper",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1 teaspoon freshly ground black pepper",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>whole natural</span><span class='name'>almonds</span><span class='comment'>with skin ( about 3 cups )</span>",
+        "comment": "whole natural with skin (about 3 cups)",
+        "unit": "pound",
+        "name": "almonds",
+        "input": "1 pound whole natural almonds with skin (about 3 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Coarse</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "input": "Coarse kosher salt",
+        "name": "Coarse salt"
+    }
+]

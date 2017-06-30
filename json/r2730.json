@@ -1,0 +1,43 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>tequila</span><span class='other'>(</span><span class='comment'>preferably</span>",
+        "comment": "preferably",
+        "other": "(",
+        "unit": "tablespoon",
+        "name": "tequila",
+        "input": "3 tablespoons tequila (preferably",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='other'>or</span>",
+        "input": "or",
+        "other": "or"
+    },
+    {
+        "display": "<span class='comment'>)</span>",
+        "comment": ")",
+        "input": ")"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "3 tablespoons fresh lime juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 3-lb )</span><span class='name'>pineapple</span><span class='comment'>( labeled \"extra sweet\" )</span>",
+        "qty": "1",
+        "comment": "(3-lb) (labeled \"extra sweet\")",
+        "input": "1 (3-lb) pineapple (labeled \"extra sweet\")",
+        "name": "pineapple"
+    }
+]

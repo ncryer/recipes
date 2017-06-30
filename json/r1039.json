@@ -1,0 +1,35 @@
+[
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>pounds</span><span class='name'>broccoli crowns</span><span class='comment'>, cut into florets ( about 8 cups )</span>",
+        "comment": ", cut into florets (about 8 cups)",
+        "unit": "pound",
+        "name": "broccoli crowns",
+        "input": "1 1/4 pounds broccoli crowns, cut into florets (about 8 cups)",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>3 1/2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": ", divided",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 1/2 tablespoons olive oil, divided",
+        "qty": "3 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, minced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>Large</span><span class='unit'>pinch</span><span class='other'>of</span><span class='comment'>dried crushed</span><span class='name'>red pepper</span>",
+        "comment": "dried crushed",
+        "other": "Large of",
+        "unit": "pinch",
+        "input": "Large pinch of dried crushed red pepper",
+        "name": "red pepper"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>small to medium</span><span class='name'>okra</span><span class='comment'>, trimmed</span><span class='other'>,</span><span class='comment'>leaving tops and tips</span>",
+        "comment": "small to medium, trimmed leaving tops and tips",
+        "other": ",",
+        "unit": "pound",
+        "name": "okra",
+        "input": "1 pound small to medium okra, trimmed, leaving tops and tips",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>scallions</span><span class='comment'>( about</span><span class='qty'>1</span><span class='comment'>bunch )</span>",
+        "comment": "chopped (about bunch)",
+        "unit": "cup",
+        "name": "scallions",
+        "input": "1 cup chopped scallions (about 1 bunch)",
+        "qty": "1 1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>2- by 1-inch ) piece peeled</span><span class='name'>ginger</span><span class='other'>,</span><span class='comment'>cut into very thin matchsticks</span>",
+        "comment": "2- by 1-inch) piece peeled cut into very thin matchsticks",
+        "other": "(,",
+        "name": "ginger",
+        "input": "1 (2- by 1-inch) piece peeled ginger, cut into very thin matchsticks",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Lime</span><span class='comment'>wedges</span>",
+        "comment": "wedges",
+        "input": "Lime wedges",
+        "name": "Lime"
+    }
+]

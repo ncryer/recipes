@@ -1,0 +1,145 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>red wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>shallot</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": ",",
+        "name": "shallot",
+        "input": "1 shallot, finely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh Italian</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh Italian",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "1 tablespoon chopped fresh Italian parsley",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>chives</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "chives",
+        "input": "1 tablespoon chopped fresh chives",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>basil</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "basil",
+        "input": "1 tablespoon chopped fresh basil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>dill</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "dill",
+        "input": "1 tablespoon chopped fresh dill",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>Dijon mustard</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "3/4 cup extra-virgin olive oil",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>20</span><span class='name'>asparagus spears</span><span class='other'>,</span><span class='comment'>each trimmed to 5-inch length</span>",
+        "comment": "each trimmed to 5-inch length",
+        "other": ",",
+        "name": "asparagus spears",
+        "input": "20 asparagus spears, each trimmed to 5-inch length",
+        "qty": "20"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='comment'>green</span><span class='name'>onions</span><span class='comment'>, green tops trimmed</span>",
+        "qty": "8",
+        "comment": "green, green tops trimmed",
+        "input": "8 green onions, green tops trimmed",
+        "name": "onions"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>medium</span><span class='name'>zucchini</span><span class='comment'>, each cut lengthwise into 1/4- to 1/3-inch-thick slices</span>",
+        "qty": "4",
+        "comment": "medium, each cut lengthwise into 1/4- to 1/3-inch-thick slices",
+        "input": "4 medium zucchini, each cut lengthwise into 1/4- to 1/3-inch-thick slices",
+        "name": "zucchini"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>large</span><span class='unit'>ears</span><span class='other'>of</span><span class='name'>corn</span><span class='comment'>, husked</span>",
+        "comment": ", husked",
+        "other": "large of",
+        "unit": "ear",
+        "name": "corn",
+        "input": "2 large ears of corn, husked",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='other'>medium</span><span class='unit'>heads</span><span class='comment'>of Belgian</span><span class='name'>endive</span>",
+        "comment": "of Belgian",
+        "other": "medium",
+        "unit": "head",
+        "name": "endive",
+        "input": "4 medium heads of Belgian endive",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>small</span><span class='unit'>heads</span><span class='other'>of</span><span class='name'>radicchio</span><span class='comment'>, halved through core</span>",
+        "comment": ", halved through core",
+        "other": "small of",
+        "unit": "head",
+        "name": "radicchio",
+        "input": "2 small heads of radicchio, halved through core",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>plum tomatoes</span><span class='other'>,</span><span class='comment'>halved lengthwise</span>",
+        "comment": "halved lengthwise",
+        "other": ",",
+        "name": "plum tomatoes",
+        "input": "6 plum tomatoes, halved lengthwise",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='name'>Olive oil</span><span class='other'>(</span><span class='comment'>for brushing</span><span class='other'>)</span>",
+        "comment": "for brushing",
+        "input": "Olive oil (for brushing)",
+        "name": "Olive oil",
+        "other": "()"
+    }
+]

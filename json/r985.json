@@ -1,0 +1,89 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>whole</span><span class='name'>wheat pastry flour</span>",
+        "comment": "whole",
+        "unit": "cup",
+        "name": "wheat pastry flour",
+        "input": "1 cup whole wheat pastry flour",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>semolina</span><span class='name'>flour</span>",
+        "comment": "semolina",
+        "unit": "cup",
+        "name": "flour",
+        "input": "1 cup semolina flour",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>baking powder</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons baking powder",
+        "name": "baking powder"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>sea salt</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon sea salt",
+        "name": "sea salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>avocado</span><span class='other'>,</span><span class='comment'>olive , or flax-sunflower</span><span class='name'>oil</span>",
+        "comment": "olive, or flax-sunflower",
+        "other": ",",
+        "unit": "cup",
+        "name": "avocado oil",
+        "input": "1/4 cup avocado, olive, or flax-sunflower oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>almond meal</span><span class='comment'>( blanched almonds ground into a fine meal )</span>",
+        "comment": "(blanched almonds ground into a fine meal)",
+        "unit": "cup",
+        "name": "almond meal",
+        "input": "1 cup almond meal (blanched almonds ground into a fine meal)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>erythritol</span><span class='other'>(</span><span class='comment'>see Note , below )</span>",
+        "comment": "see Note, below)",
+        "other": "(",
+        "unit": "cup",
+        "name": "erythritol",
+        "input": "1/2 cup erythritol (see Note, below)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>brown rice syrup</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons brown rice syrup",
+        "name": "brown rice syrup"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>almond extract</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon almond extract",
+        "name": "almond extract"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>unsweetened</span><span class='name'>almond milk</span>",
+        "comment": "unsweetened",
+        "unit": "cup",
+        "name": "almond milk",
+        "input": "1/4 cup unsweetened almond milk",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>pignoli</span><span class='other'>(</span><span class='comment'>pine nuts</span><span class='other'>)</span>",
+        "comment": "pine nuts",
+        "other": "()",
+        "unit": "cup",
+        "name": "pignoli",
+        "input": "1 cup pignoli (pine nuts)",
+        "qty": "1"
+    }
+]

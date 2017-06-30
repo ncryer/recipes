@@ -1,0 +1,66 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>rice vinegar</span><span class='other'>(</span><span class='comment'>not seasoned )</span>",
+        "comment": "not seasoned)",
+        "other": "(",
+        "unit": "cup",
+        "name": "rice vinegar",
+        "input": "1/4 cup rice vinegar (not seasoned)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>grated peeled</span><span class='name'>ginger</span>",
+        "comment": "grated peeled",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "1 teaspoon grated peeled ginger",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>fresh serrano</span><span class='name'>chile</span><span class='comment'>, finely chopped , with seeds</span>",
+        "qty": "1",
+        "comment": "fresh serrano, finely chopped, with seeds",
+        "input": "1 fresh serrano chile, finely chopped, with seeds",
+        "name": "chile"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>small</span><span class='unit'>head</span><span class='name'>Napa cabbage</span><span class='comment'>( 1 1/2 pounds ) , cored and cut crosswise into 1/2-inch slices</span>",
+        "comment": "(1 1/2 pounds), cored and cut crosswise into 1/2-inch slices",
+        "other": "small",
+        "unit": "head",
+        "name": "Napa cabbage",
+        "input": "1 small head Napa cabbage (1 1/2 pounds), cored and cut crosswise into 1/2-inch slices",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>sliced</span>",
+        "comment": "sliced",
+        "other": ",",
+        "unit": "bunch",
+        "name": "scallions",
+        "input": "1 bunch scallions, sliced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>coarsely chopped</span><span class='name'>cilantro</span>",
+        "comment": "coarsely chopped",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/2 cup coarsely chopped cilantro",
+        "qty": "1/2"
+    }
+]

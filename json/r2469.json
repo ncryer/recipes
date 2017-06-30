@@ -1,0 +1,27 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='comment'>lb</span><span class='name'>butternut squash</span><span class='comment'>( 1 large</span><span class='other'>)</span>",
+        "comment": "lb (1 large",
+        "other": ")",
+        "name": "butternut squash",
+        "input": "2 1/2 lb butternut squash (1 large)",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>maple syrup</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons maple syrup",
+        "name": "maple syrup"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='other'>to</span><span class='range_end'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>finely grated peeled fresh</span><span class='name'>ginger</span>",
+        "comment": "finely grated peeled fresh",
+        "other": "to",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "range_end": "3/4",
+        "input": "1/2 to 3/4 teaspoon finely grated peeled fresh ginger",
+        "name": "ginger"
+    }
+]

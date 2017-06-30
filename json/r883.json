@@ -1,0 +1,50 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='name'>zucchini</span><span class='other'>,</span><span class='comment'>cut lengthwise into 1/4-inch-thick slices</span>",
+        "comment": "cut lengthwise into 1/4-inch-thick slices",
+        "other": ",",
+        "unit": "pound",
+        "name": "zucchini",
+        "input": "1 1/2 pounds zucchini, cut lengthwise into 1/4-inch-thick slices",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>red bell peppers</span><span class='other'>,</span><span class='comment'>quartered</span>",
+        "comment": "quartered",
+        "other": ",",
+        "name": "red bell peppers",
+        "input": "2 red bell peppers, quartered",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": "extra-virgin, divided",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil, divided",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>balsamic vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons balsamic vinegar",
+        "name": "balsamic vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>packed light</span><span class='name'>brown sugar</span>",
+        "comment": "packed light",
+        "unit": "teaspoon",
+        "name": "brown sugar",
+        "input": "2 teaspoons packed light brown sugar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped</span><span class='name'>basil</span>",
+        "comment": "chopped",
+        "unit": "tablespoon",
+        "name": "basil",
+        "input": "2 tablespoons chopped basil",
+        "qty": "2"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cloves</span>",
+        "comment": "ground",
+        "other": "1/8",
+        "unit": "teaspoon",
+        "input": "1/8 teaspoon ground cloves",
+        "name": "cloves"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>cranberries</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup cranberries",
+        "name": "cranberries"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>good-quality</span><span class='name'>orange marmalade</span><span class='comment'>( about 2 1/2 pounds )</span>",
+        "comment": "good-quality (about 2 1/2 pounds)",
+        "unit": "cup",
+        "name": "orange marmalade",
+        "input": "3 cups good-quality orange marmalade (about 2 1/2 pounds)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>Grand Marnier</span><span class='comment'>( or other orange liqueur ) or orange juice</span>",
+        "comment": "(or other orange liqueur) or orange juice",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup Grand Marnier (or other orange liqueur) or orange juice",
+        "name": "Grand Marnier"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>grated</span><span class='name'>orange peel</span>",
+        "comment": "grated",
+        "unit": "tablespoon",
+        "name": "orange peel",
+        "input": "3 tablespoons grated orange peel",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>brandy</span><span class='other'>(</span><span class='comment'>optional</span><span class='other'>)</span>",
+        "comment": "optional",
+        "other": "()",
+        "unit": "tablespoon",
+        "name": "brandy",
+        "input": "2 tablespoons brandy (optional)",
+        "qty": "2"
+    }
+]

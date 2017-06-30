@@ -1,0 +1,54 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>small</span><span class='name'>white onion</span><span class='comment'>, halved lengthwise , keeping root intact</span>",
+        "qty": "1/2",
+        "comment": "small, halved lengthwise, keeping root intact",
+        "input": "1/2 small white onion, halved lengthwise, keeping root intact",
+        "name": "white onion"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>head</span><span class='other'>of</span><span class='name'>garlic</span><span class='comment'>, unpeeled</span><span class='other'>,</span><span class='comment'>halved crosswise</span>",
+        "comment": ", unpeeled halved crosswise",
+        "other": "of ,",
+        "unit": "head",
+        "name": "garlic",
+        "input": "1/2 head of garlic, unpeeled, halved crosswise",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>jalape\u00f1o</span>",
+        "qty": "1",
+        "input": "1 jalape\u00f1o",
+        "name": "jalape\u00f1o"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>husked</span><span class='name'>tomatillos</span>",
+        "comment": "husked",
+        "unit": "pound",
+        "name": "tomatillos",
+        "input": "1 pound husked tomatillos",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>bunch</span><span class='name'>cilantro</span><span class='comment'>, leaves and tender stems only and 1/4 cup fresh</span><span class='name'>lime juice</span>",
+        "comment": ", leaves and tender stems only and 1/4 cup fresh",
+        "unit": "bunch",
+        "name": "cilantro lime juice",
+        "input": "1/2 bunch cilantro, leaves and tender stems only and 1/4 cup fresh lime juice",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground black pepper",
+        "name": "salt black pepper",
+        "other": ","
+    }
+]

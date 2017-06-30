@@ -1,0 +1,110 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, finely chopped</span>",
+        "qty": "1",
+        "comment": "medium, finely chopped",
+        "input": "1 medium onion, finely chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>finely chopped peeled fresh ginger</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon finely chopped peeled fresh ginger",
+        "name": "finely chopped peeled fresh ginger"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, finely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1 teaspoon ground cumin",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>coriander</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "coriander",
+        "input": "1/2 teaspoon ground coriander",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>turmeric</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon turmeric",
+        "name": "turmeric"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='comment'>1 ( 2 1/2-inch ) fresh</span><span class='name'>jalape\u00f1o</span><span class='comment'>or serrano</span><span class='name'>chile</span><span class='comment'>, finely chopped , including seeds</span>",
+        "comment": "1 (2 1/2-inch) fresh or serrano, finely chopped, including seeds",
+        "input": "1 (2 1/2-inch) fresh jalape\u00f1o or serrano chile, finely chopped, including seeds",
+        "name": "jalape\u00f1o chile"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>dried red lentils</span><span class='comment'>( 10 oz )</span>",
+        "comment": "(10 oz)",
+        "unit": "cup",
+        "name": "dried red lentils",
+        "input": "1 1/2 cups dried red lentils (10 oz)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='comment'>1 ( 13- to 14-oz ) can unsweetened</span><span class='name'>coconut milk</span>",
+        "comment": "1 (13- to 14-oz) can unsweetened",
+        "input": "1 (13- to 14-oz) can unsweetened coconut milk",
+        "name": "coconut milk"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>lb zucchini</span><span class='comment'>( 2 medium ) , cut into 1/4-inch dice</span>",
+        "qty": "1",
+        "comment": "(2 medium), cut into 1/4-inch dice",
+        "input": "1 lb zucchini (2 medium), cut into 1/4-inch dice",
+        "name": "lb zucchini"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>loosely packed fresh</span><span class='name'>cilantro sprigs</span>",
+        "comment": "loosely packed fresh",
+        "unit": "cup",
+        "name": "cilantro sprigs",
+        "input": "1 cup loosely packed fresh cilantro sprigs",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Accompaniment:</span><span class='name'>white rice</span>",
+        "comment": "Accompaniment:",
+        "input": "Accompaniment: white rice",
+        "name": "white rice"
+    }
+]

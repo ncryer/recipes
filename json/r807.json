@@ -1,0 +1,26 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>ounces</span><span class='name'>cocoa butter</span><span class='comment'>( optional</span><span class='other'>)</span>",
+        "comment": "(optional",
+        "other": ")",
+        "unit": "ounce",
+        "name": "cocoa butter",
+        "input": "4 ounces cocoa butter (optional)",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='name'>Food coloring powder</span><span class='other'>(</span><span class='comment'>optional</span><span class='other'>)</span>",
+        "comment": "optional",
+        "input": "Food coloring powder (optional)",
+        "name": "Food coloring powder",
+        "other": "()"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>bittersweet</span><span class='name'>chocolate</span><span class='comment'>,</span>",
+        "comment": "bittersweet ,",
+        "unit": "pound",
+        "name": "chocolate",
+        "input": "2 pounds bittersweet chocolate ,",
+        "qty": "2"
+    }
+]

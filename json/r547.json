@@ -1,0 +1,37 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>asparagus</span><span class='other'>,</span><span class='comment'>tough ends discarded and halved crosswise at a sharp diagonal</span>",
+        "comment": "tough ends discarded and halved crosswise at a sharp diagonal",
+        "other": ",",
+        "unit": "pound",
+        "name": "asparagus",
+        "input": "2 pounds asparagus, tough ends discarded and halved crosswise at a sharp diagonal",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='name'>string beans</span><span class='other'>,</span><span class='comment'>tops trimmed and halved crosswise at a sharp diagonal</span>",
+        "comment": "tops trimmed and halved crosswise at a sharp diagonal",
+        "other": ",",
+        "unit": "pound",
+        "name": "string beans",
+        "input": "1/2 pound string beans, tops trimmed and halved crosswise at a sharp diagonal",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>scallions</span><span class='other'>(</span><span class='comment'>about 8</span><span class='other'>)</span>",
+        "comment": "about 8",
+        "other": "()",
+        "unit": "bunch",
+        "name": "scallions",
+        "input": "1 bunch scallions (about 8)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra virgin olive oil",
+        "qty": "2"
+    }
+]

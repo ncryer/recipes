@@ -1,0 +1,66 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='name'>torn fris\u00e9e</span><span class='comment'>( French or Italian curly chicory</span><span class='other'>,</span><span class='comment'>available at specialty produce markets ) , rinsed</span><span class='other'>and</span><span class='comment'>spun dry</span>",
+        "comment": "(French or Italian curly chicory available at specialty produce markets), rinsed spun dry",
+        "other": ", and",
+        "unit": "cup",
+        "name": "torn fris\u00e9e",
+        "input": "8 cups torn fris\u00e9e (French or Italian curly chicory, available at specialty produce markets), rinsed and spun dry",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>head</span><span class='other'>of</span><span class='name'>radicchio</span><span class='comment'>( about 3/4 pound</span><span class='other'>) ,</span><span class='comment'>separated into leaves</span><span class='other'>,</span><span class='comment'>rinsed</span><span class='other'>,</span><span class='comment'>spun dry</span><span class='other'>, and</span><span class='comment'>shredded</span><span class='other'>( about</span><span class='comment'>6 cups</span><span class='other'>)</span>",
+        "comment": "(about 3/4 pound separated into leaves rinsed spun dry shredded 6 cups",
+        "other": "of), ,, , and (about)",
+        "unit": "head",
+        "name": "radicchio",
+        "input": "1 head of radicchio (about 3/4 pound), separated into leaves, rinsed, spun dry, and shredded (about 6 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>Asian pears</span><span class='comment'>( available at specialty produce markets ) , cored and cut into 1/2-inch pieces</span>",
+        "qty": "2",
+        "comment": "(available at specialty produce markets), cored and cut into 1/2-inch pieces",
+        "input": "2 Asian pears (available at specialty produce markets), cored and cut into 1/2-inch pieces",
+        "name": "Asian pears"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>white-wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons white-wine vinegar",
+        "name": "white-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>Dijon-style mustard</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon Dijon-style mustard",
+        "name": "Dijon-style mustard"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>hazelnut oil</span><span class='other'>or</span><span class='comment'>walnut</span><span class='name'>oil</span><span class='comment'>( available at specialty foods shops )</span>",
+        "comment": "walnut (available at specialty foods shops)",
+        "other": "or",
+        "unit": "tablespoon",
+        "name": "hazelnut oil oil",
+        "input": "3 tablespoons hazelnut oil or walnut oil (available at specialty foods shops)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>hazelnuts</span><span class='other'>,</span><span class='comment'>toasted and skinned ( procedure follows ) and chopped</span>",
+        "comment": "toasted and skinned (procedure follows) and chopped",
+        "other": ",",
+        "unit": "cup",
+        "name": "hazelnuts",
+        "input": "1/4 cup hazelnuts, toasted and skinned (procedure follows) and chopped",
+        "qty": "1/4"
+    }
+]

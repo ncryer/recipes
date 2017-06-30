@@ -1,0 +1,73 @@
+[
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>rice vinegar</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup rice vinegar",
+        "name": "rice vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>white or yellow miso</span>",
+        "unit": "tablespoon",
+        "comment": "white or yellow miso",
+        "input": "2 tablespoons white or yellow miso",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>peeled</span>",
+        "comment": "peeled",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 large garlic cloves, peeled",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>chopped fresh</span><span class='name'>ginger</span>",
+        "comment": "chopped fresh",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "2 teaspoons chopped fresh ginger",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>vegetable oil</span><span class='other'>(</span><span class='comment'>for deep-frying )</span>",
+        "comment": "for deep-frying)",
+        "other": "(",
+        "unit": "cup",
+        "name": "vegetable oil",
+        "input": "2 cups vegetable oil (for deep-frying)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>20</span><span class='name'>wonton wrappers</span><span class='other'>,</span><span class='comment'>cut into 1/3-inch squares</span>",
+        "comment": "cut into 1/3-inch squares",
+        "other": ",",
+        "name": "wonton wrappers",
+        "input": "20 wonton wrappers, cut into 1/3-inch squares",
+        "qty": "20"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>head</span><span class='name'>romaine lettuce</span><span class='other'>,</span><span class='comment'>torn into bite-size pieces</span>",
+        "comment": "torn into bite-size pieces",
+        "other": ",",
+        "unit": "head",
+        "name": "romaine lettuce",
+        "input": "1 head romaine lettuce, torn into bite-size pieces",
+        "qty": "1"
+    }
+]

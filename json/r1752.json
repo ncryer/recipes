@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": ", divided",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "5 tablespoons olive oil, divided",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>cherry balsamic vinegar*</span><span class='comment'>or regular balsamic</span><span class='name'>vinegar</span>",
+        "comment": "or regular balsamic",
+        "unit": "tablespoon",
+        "name": "cherry balsamic vinegar* vinegar",
+        "input": "3 tablespoons cherry balsamic vinegar* or regular balsamic vinegar",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>prepared</span><span class='name'>white horseradish</span>",
+        "comment": "prepared",
+        "unit": "tablespoon",
+        "name": "white horseradish",
+        "input": "2 tablespoons prepared white horseradish",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>( packed ) coarsely grated peeled raw fresh beets ( 2 medium )</span>",
+        "unit": "cup",
+        "comment": "(packed) coarsely grated peeled raw fresh beets (2 medium)",
+        "input": "1 cup (packed) coarsely grated peeled raw fresh beets (2 medium)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>paper-thin slices</span><span class='name'>red onion</span>",
+        "comment": "paper-thin slices",
+        "unit": "cup",
+        "name": "red onion",
+        "input": "1 cup paper-thin slices red onion",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='comment'>very thinly sliced red</span><span class='name'>cabbage</span><span class='comment'>( about 1 1/4 pounds )</span>",
+        "comment": "very thinly sliced red (about 1 1/4 pounds)",
+        "unit": "cup",
+        "name": "cabbage",
+        "input": "8 cups very thinly sliced red cabbage (about 1 1/4 pounds)",
+        "qty": "8"
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "display": "<span class='name'>Cooking spray</span>",
+        "input": "Cooking spray",
+        "name": "Cooking spray"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='name'>papadums</span>",
+        "qty": "12",
+        "input": "12 papadums",
+        "name": "papadums"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sunflower oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sunflower oil",
+        "name": "sunflower oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped white</span><span class='name'>onion</span>",
+        "comment": "chopped white",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1/4 cup chopped white onion",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>minced</span><span class='name'>garlic</span>",
+        "comment": "minced",
+        "unit": "teaspoon",
+        "name": "garlic",
+        "input": "1 teaspoon minced garlic",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>curry powder</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon curry powder",
+        "name": "curry powder"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>cardamom</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon cardamom",
+        "name": "cardamom"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>chopped</span><span class='name'>ginger</span>",
+        "comment": "chopped",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "1 teaspoon chopped ginger",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>sea salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon sea salt",
+        "name": "sea salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/2 teaspoon freshly ground black pepper",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>red lentils</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup red lentils",
+        "name": "red lentils"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>cilantro leaves</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup cilantro leaves",
+        "name": "cilantro leaves"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>lemon juice</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons lemon juice",
+        "name": "lemon juice"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped</span><span class='name'>tomato</span>",
+        "comment": "chopped",
+        "unit": "tablespoon",
+        "name": "tomato",
+        "input": "2 tablespoons chopped tomato",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>vegan mayo</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup vegan mayo",
+        "name": "vegan mayo"
+    }
+]

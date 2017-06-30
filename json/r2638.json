@@ -1,0 +1,86 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span><span class='other'>(</span><span class='comment'>preferably extra-virgin</span><span class='other'>)</span>",
+        "comment": "preferably extra-virgin",
+        "other": "()",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "1 tablespoon olive oil (preferably extra-virgin)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>zucchini</span><span class='comment'>( about 4 medium ) , trimmed</span><span class='other'>,</span><span class='comment'>cut diagonally into 1/2-inch slices</span>",
+        "comment": "(about 4 medium), trimmed cut diagonally into 1/2-inch slices",
+        "other": ",",
+        "unit": "pound",
+        "name": "zucchini",
+        "input": "1 pound zucchini (about 4 medium), trimmed, cut diagonally into 1/2-inch slices",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>onions</span><span class='comment'>, cut into 1/2-inch wedges</span>",
+        "qty": "2",
+        "comment": "medium, cut into 1/2-inch wedges",
+        "input": "2 medium onions, cut into 1/2-inch wedges",
+        "name": "onions"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 large garlic cloves, minced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>cinnamon</span><span class='unit'>stick</span><span class='other'>,</span><span class='comment'>broken in half</span>",
+        "comment": "broken in half",
+        "other": ",",
+        "unit": "stick",
+        "name": "cinnamon",
+        "input": "1 cinnamon stick, broken in half",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>crushed</span><span class='name'>saffron</span><span class='comment'>threads</span>",
+        "comment": "crushed threads",
+        "unit": "teaspoon",
+        "name": "saffron",
+        "input": "1/4 teaspoon crushed saffron threads",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='unit'>ounces</span><span class='name'>tomatoes</span><span class='other'>,</span><span class='comment'>cored , cut into 1/4-inch wedges</span>",
+        "comment": "cored, cut into 1/4-inch wedges",
+        "other": ",",
+        "unit": "ounce",
+        "name": "tomatoes",
+        "input": "12 ounces tomatoes, cored, cut into 1/4-inch wedges",
+        "qty": "12"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "2 tablespoons chopped fresh parsley",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>mint</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "mint",
+        "input": "2 tablespoons chopped fresh mint",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    }
+]

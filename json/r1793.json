@@ -1,0 +1,31 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>ounces</span><span class='name'>vodka</span>",
+        "unit": "ounce",
+        "qty": "1 1/2",
+        "input": "1 1/2 ounces vodka",
+        "name": "vodka"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>ounces</span><span class='name'>orange juice</span>",
+        "unit": "ounce",
+        "qty": "4",
+        "input": "4 ounces orange juice",
+        "name": "orange juice"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>ounce</span><span class='name'>Galliano</span>",
+        "unit": "ounce",
+        "qty": "1/2",
+        "input": "1/2 ounce Galliano",
+        "name": "Galliano"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>orange</span><span class='unit'>slice</span><span class='comment'>for garnish</span>",
+        "comment": "for garnish",
+        "unit": "slice",
+        "name": "orange",
+        "input": "1 orange slice for garnish",
+        "qty": "1"
+    }
+]

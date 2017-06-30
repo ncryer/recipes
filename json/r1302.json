@@ -1,0 +1,43 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>peeled</span>",
+        "comment": "peeled",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 garlic cloves, peeled",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>coarse</span><span class='other'>kosher</span><span class='name'>salt</span><span class='comment'>plus additional for sprinkling</span>",
+        "comment": "coarse plus additional for sprinkling",
+        "other": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/2 teaspoon coarse kosher salt plus additional for sprinkling",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>black pepper</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/4 teaspoon ground black pepper",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>baby zucchini</span><span class='comment'>, trimmed</span>",
+        "comment": ", trimmed",
+        "unit": "pound",
+        "name": "baby zucchini",
+        "input": "1 pound baby zucchini, trimmed",
+        "qty": "1"
+    }
+]

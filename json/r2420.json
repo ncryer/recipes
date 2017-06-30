@@ -1,0 +1,66 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='other'>(</span><span class='comment'>3- by 1/2-inch strips ) fresh</span><span class='name'>lemon</span><span class='other'>zest</span>",
+        "comment": "3- by 1/2-inch strips) fresh",
+        "other": "(zest",
+        "name": "lemon",
+        "input": "2 (3- by 1/2-inch strips) fresh lemon zest",
+        "qty": "2"
+    },
+    {
+        "other": ")",
+        "display": "<span class='comment'>1 ( 1 1/2-inch</span><span class='other'>)</span><span class='name'>cinnamon stick</span>",
+        "comment": "1 (1 1/2-inch",
+        "input": "1 (1 1/2-inch) cinnamon stick",
+        "name": "cinnamon stick"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>black peppercorns</span>",
+        "qty": "6",
+        "input": "6 black peppercorns",
+        "name": "black peppercorns"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>dry red wine</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups dry red wine",
+        "name": "dry red wine"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>dried</span><span class='name'>figs</span><span class='comment'>( 1/2 lb; preferably Calimyrna ) , trimmed and each fig cut lengthwise into 3 slices</span>",
+        "comment": "dried (1/2 lb; preferably Calimyrna), trimmed and each fig cut lengthwise into 3 slices",
+        "unit": "cup",
+        "name": "figs",
+        "input": "1 cup dried figs (1/2 lb; preferably Calimyrna), trimmed and each fig cut lengthwise into 3 slices",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "3 tablespoons fresh lemon juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='comment'>Special</span><span class='name'>equipment:</span><span class='comment'>kitchen string; a 4-inch square of cheesecloth</span>",
+        "comment": "Special kitchen string; a 4-inch square of cheesecloth",
+        "input": "Special equipment: kitchen string; a 4-inch square of cheesecloth",
+        "name": "equipment:"
+    }
+]

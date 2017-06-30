@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>raw</span><span class='name'>sugar</span>",
+        "comment": "raw",
+        "unit": "tablespoon",
+        "name": "sugar",
+        "input": "1 tablespoon raw sugar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>fresh</span><span class='name'>basil leaves</span>",
+        "qty": "6",
+        "comment": "fresh",
+        "input": "6 fresh basil leaves",
+        "name": "basil leaves"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='comment'>small</span><span class='name'>strawberries</span><span class='comment'>( or 3 large strawberries , quartered ) plus 1 thin slice for garnish</span>",
+        "qty": "5",
+        "comment": "small (or 3 large strawberries, quartered) plus 1 thin slice for garnish",
+        "input": "5 small strawberries (or 3 large strawberries, quartered) plus 1 thin slice for garnish",
+        "name": "strawberries"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pinch</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "pinch",
+        "name": "salt",
+        "input": "1 pinch kosher salt",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>soda</span><span class='name'>water</span>",
+        "comment": "soda",
+        "unit": "cup",
+        "name": "water",
+        "input": "3/4 cup soda water",
+        "qty": "3/4"
+    }
+]

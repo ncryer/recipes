@@ -1,0 +1,38 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='name'>green beans</span><span class='comment'>, trimmed and cut diagonally into 1/2-inch pieces</span>",
+        "comment": ", trimmed and cut diagonally into 1/2-inch pieces",
+        "unit": "pound",
+        "name": "green beans",
+        "input": "1 1/2 pounds green beans, trimmed and cut diagonally into 1/2-inch pieces",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>ripe</span><span class='name'>Fuyu</span><span class='comment'>( not Hachiya ) persimmons* ( about 1 pound ) , cut into 1/4-inch-thick slices and each slice cut into 1-inch pieces</span>",
+        "qty": "3",
+        "comment": "ripe (not Hachiya) persimmons* (about 1 pound), cut into 1/4-inch-thick slices and each slice cut into 1-inch pieces",
+        "input": "3 ripe Fuyu (not Hachiya) persimmons* (about 1 pound), cut into 1/4-inch-thick slices and each slice cut into 1-inch pieces",
+        "name": "Fuyu"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>1-inch pieces fresh</span><span class='name'>chives</span>",
+        "comment": "1-inch pieces fresh",
+        "unit": "cup",
+        "name": "chives",
+        "input": "1/2 cup 1-inch pieces fresh chives",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>*available</span><span class='name'>at specialty produce markets</span>",
+        "qty": "*available",
+        "input": "*available at specialty produce markets",
+        "name": "at specialty produce markets"
+    }
+]

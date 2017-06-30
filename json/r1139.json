@@ -1,0 +1,67 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>onion</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1 1/2 cups chopped onion",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='name'>Coarse</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "input": "Coarse kosher salt",
+        "name": "Coarse salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 large garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>red tomatoes</span><span class='comment'>( about 1 1/2 pounds )</span>",
+        "comment": "chopped (about 1 1/2 pounds)",
+        "unit": "cup",
+        "name": "red tomatoes",
+        "input": "3 cups chopped red tomatoes (about 1 1/2 pounds)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2 1/4</span><span class='unit'>cups</span><span class='name'>corn kernels</span><span class='comment'>cut from 4 ears</span><span class='other'>of</span><span class='name'>corn</span><span class='comment'>( preferably 2 ears of white corn and 2 ears of yellow</span><span class='name'>corn</span><span class='other'>)</span>",
+        "comment": "cut from 4 ears (preferably 2 ears of white corn and 2 ears of yellow",
+        "other": "of)",
+        "unit": "cup",
+        "name": "corn kernels corn corn",
+        "input": "2 1/4 cups corn kernels cut from 4 ears of corn (preferably 2 ears of white corn and 2 ears of yellow corn)",
+        "qty": "2 1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>fresh lima</span><span class='name'>beans</span><span class='comment'>( from about 2 pounds pods</span><span class='other'>) or</span><span class='comment'>10 to 11 ounces frozen lima beans or baby</span><span class='name'>butter beans</span><span class='other'>,</span><span class='comment'>thawed</span>",
+        "comment": "fresh lima (from about 2 pounds pods 10 to 11 ounces frozen lima beans or baby thawed",
+        "other": ") or ,",
+        "unit": "cup",
+        "name": "beans butter beans",
+        "input": "2 cups fresh lima beans (from about 2 pounds pods) or 10 to 11 ounces frozen lima beans or baby butter beans, thawed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>thinly sliced fresh</span><span class='name'>basil</span>",
+        "comment": "thinly sliced fresh",
+        "unit": "tablespoon",
+        "name": "basil",
+        "input": "3 tablespoons thinly sliced fresh basil",
+        "qty": "3"
+    }
+]

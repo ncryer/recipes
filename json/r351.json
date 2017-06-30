@@ -1,0 +1,90 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>onion</span><span class='comment'>, finely chopped</span>",
+        "qty": "1",
+        "comment": "small, finely chopped",
+        "input": "1 small onion, finely chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, finely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>sprigs</span><span class='name'>basil</span>",
+        "unit": "sprig",
+        "qty": "2",
+        "input": "2 sprigs basil",
+        "name": "basil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>sprig</span><span class='name'>thyme</span>",
+        "unit": "sprig",
+        "qty": "1",
+        "input": "1 sprig thyme",
+        "name": "thyme"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>sprig</span><span class='name'>tarragon</span>",
+        "unit": "sprig",
+        "qty": "1/2",
+        "input": "1/2 sprig tarragon",
+        "name": "tarragon"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>whole</span><span class='name'>star anise pod</span>",
+        "qty": "1",
+        "comment": "whole",
+        "input": "1 whole star anise pod",
+        "name": "star anise pod"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>whole</span><span class='name'>clove</span>",
+        "qty": "1",
+        "comment": "whole",
+        "input": "1 whole clove",
+        "name": "clove"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>Sun Gold or cherry</span><span class='name'>tomatoes</span><span class='comment'>, halved</span>",
+        "comment": "Sun Gold or cherry, halved",
+        "unit": "cup",
+        "name": "tomatoes",
+        "input": "4 cups Sun Gold or cherry tomatoes, halved",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>Sherry</span><span class='comment'>or red wine</span><span class='name'>vinegar</span>",
+        "comment": "or red wine",
+        "unit": "teaspoon",
+        "name": "Sherry vinegar",
+        "input": "2 teaspoons Sherry or red wine vinegar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground pepper",
+        "name": "salt pepper",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='unit'>ounces</span><span class='name'>spaghetti</span>",
+        "unit": "ounce",
+        "qty": "12",
+        "input": "12 ounces spaghetti",
+        "name": "spaghetti"
+    }
+]

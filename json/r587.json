@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>tablespoon</span><span class='name'>instant espresso powder</span>",
+        "unit": "tablespoon",
+        "qty": "1/2",
+        "input": "1/2 tablespoon instant espresso powder",
+        "name": "instant espresso powder"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>light</span><span class='name'>corn syrup</span>",
+        "comment": "light",
+        "unit": "tablespoon",
+        "name": "corn syrup",
+        "input": "1 1/2 tablespoons light corn syrup",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>vanilla extract</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon vanilla extract",
+        "name": "vanilla extract"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>ounces</span><span class='comment'>bittersweet ( 60% cacao</span><span class='other'>)</span><span class='name'>chocolate</span><span class='comment'>, finely chopped</span>",
+        "comment": "bittersweet (60% cacao, finely chopped",
+        "other": ")",
+        "unit": "ounce",
+        "name": "chocolate",
+        "input": "4 ounces bittersweet (60% cacao) chocolate, finely chopped",
+        "qty": "4"
+    }
+]

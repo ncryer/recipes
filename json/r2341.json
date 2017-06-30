@@ -1,0 +1,43 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='comment'>1 10-ounce package frozen</span><span class='name'>sweetened strawberries</span><span class='comment'>, thawed</span>",
+        "comment": "1 10-ounce package frozen, thawed",
+        "input": "1 10-ounce package frozen sweetened strawberries, thawed",
+        "name": "sweetened strawberries"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>orange juice</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup orange juice",
+        "name": "orange juice"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>brut cava</span><span class='comment'>( Spanish sparkling wine )</span>",
+        "comment": "(Spanish sparkling wine)",
+        "unit": "cup",
+        "name": "brut cava",
+        "input": "1 cup brut cava (Spanish sparkling wine)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Fresh</span><span class='name'>strawberries</span>",
+        "comment": "Fresh",
+        "input": "Fresh strawberries",
+        "name": "strawberries"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>baby yellow or red</span><span class='name'>beets</span><span class='comment'>, trimmed , scrubbed</span>",
+        "comment": "baby yellow or red, trimmed, scrubbed",
+        "unit": "pound",
+        "name": "beets",
+        "input": "1 pound baby yellow or red beets, trimmed, scrubbed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>Sherry</span><span class='comment'>or red wine</span><span class='name'>vinegar</span><span class='other'>, divided</span>",
+        "comment": "or red wine",
+        "other": ", divided",
+        "unit": "cup",
+        "name": "Sherry vinegar",
+        "input": "1/2 cup Sherry or red wine vinegar, divided",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='other'>plus 1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "other": "plus 1/4",
+        "unit": "tablespoon cup",
+        "name": "olive oil",
+        "input": "2 tablespoons plus 1/4 cup olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>shallot</span><span class='comment'>, finely chopped</span>",
+        "qty": "1",
+        "comment": "medium, finely chopped",
+        "input": "1 medium shallot, finely chopped",
+        "name": "shallot"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>chopped fresh</span><span class='name'>thyme</span>",
+        "comment": "chopped fresh",
+        "unit": "teaspoon",
+        "name": "thyme",
+        "input": "1 teaspoon chopped fresh thyme",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>raw</span><span class='name'>pistachios</span><span class='comment'>, chopped</span>",
+        "comment": "raw, chopped",
+        "unit": "cup",
+        "name": "pistachios",
+        "input": "1/4 cup raw pistachios, chopped",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>coarsely chopped</span><span class='name'>fresh tarragon</span>",
+        "comment": "coarsely chopped",
+        "unit": "tablespoon",
+        "name": "fresh tarragon",
+        "input": "2 tablespoons coarsely chopped fresh tarragon",
+        "qty": "2"
+    }
+]

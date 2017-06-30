@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>fennel seeds</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup fennel seeds",
+        "name": "fennel seeds"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>whole</span><span class='name'>black peppercorns</span>",
+        "comment": "whole",
+        "unit": "teaspoon",
+        "name": "black peppercorns",
+        "input": "2 teaspoons whole black peppercorns",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "1 1/2 tablespoons kosher salt",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>large</span><span class='unit'>pinches</span><span class='other'>of</span><span class='name'>cayenne pepper</span>",
+        "other": "large of",
+        "unit": "pinch",
+        "name": "cayenne pepper",
+        "input": "2 large pinches of cayenne pepper",
+        "qty": "2"
+    }
+]

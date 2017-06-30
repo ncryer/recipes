@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large red</span><span class='name'>onion</span><span class='comment'>, halved through core</span><span class='other'>,</span><span class='comment'>thinly sliced crosswise</span>",
+        "comment": "large red, halved through core thinly sliced crosswise",
+        "other": ",",
+        "name": "onion",
+        "input": "1 large red onion, halved through core, thinly sliced crosswise",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>white wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup white wine vinegar",
+        "name": "white wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>coarse kosher</span><span class='name'>salt</span>",
+        "comment": "coarse kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 1/2 teaspoons coarse kosher salt",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>whole</span><span class='name'>black peppercorns</span>",
+        "comment": "whole",
+        "unit": "teaspoon",
+        "name": "black peppercorns",
+        "input": "1 1/2 teaspoons whole black peppercorns",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>cinnamon</span><span class='unit'>stick</span>",
+        "unit": "stick",
+        "qty": "1/2",
+        "input": "1/2 cinnamon stick",
+        "name": "cinnamon"
+    }
+]

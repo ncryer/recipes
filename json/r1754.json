@@ -1,0 +1,87 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='unit'>head</span><span class='name'>cauliflower</span><span class='comment'>( 3 to 3 1/2 punds ) , cut into 1-inch-wide florets ( 9 cups )</span>",
+        "comment": "(3 to 3 1/2 punds), cut into 1-inch-wide florets (9 cups)",
+        "other": "large",
+        "unit": "head",
+        "name": "cauliflower",
+        "input": "1 large head cauliflower (3 to 3 1/2 punds), cut into 1-inch-wide florets (9 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1/2 cup plus 1</span><span class='unit'>tablespoon</span><span class='comment'>extra-virgin olive</span><span class='name'>oil</span>",
+        "comment": "extra-virgin olive",
+        "other": "1/2 cup plus 1",
+        "unit": "tablespoon",
+        "input": "1/2 cup plus 1 tablespoon extra-virgin olive oil",
+        "name": "oil"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>white-wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup white-wine vinegar",
+        "name": "white-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>finely chopped</span><span class='name'>shallot</span>",
+        "comment": "finely chopped",
+        "unit": "tablespoon",
+        "name": "shallot",
+        "input": "1 1/2 tablespoons finely chopped shallot",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>heads</span><span class='name'>romaine</span><span class='comment'>( 2 pounds total ) , cut crosswise into 1/4-inch-wide strips</span>",
+        "comment": "(2 pounds total), cut crosswise into 1/4-inch-wide strips",
+        "unit": "head",
+        "name": "romaine",
+        "input": "2 heads romaine (2 pounds total), cut crosswise into 1/4-inch-wide strips",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='unit'>head</span><span class='comment'>radicchio ( 3/4 pound ) , cut crosswise into 1/4-inch-wide strips</span>",
+        "comment": "radicchio (3/4 pound), cut crosswise into 1/4-inch-wide strips",
+        "other": "large",
+        "unit": "head",
+        "input": "1 large head radicchio (3/4 pound), cut crosswise into 1/4-inch-wide strips",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>loosely packed fresh flat-leaf</span><span class='name'>parsley leaves</span><span class='comment'>( from</span><span class='qty'>1</span><span class='comment'>bunch )</span>",
+        "comment": "loosely packed fresh flat-leaf (from bunch)",
+        "unit": "cup",
+        "name": "parsley leaves",
+        "input": "1 cup loosely packed fresh flat-leaf parsley leaves (from 1 bunch)",
+        "qty": "1 1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>hazelnuts</span><span class='comment'>( 2 1/4 ounces ) ,</span>",
+        "comment": "(2 1/4 ounces) ,",
+        "unit": "cup",
+        "name": "hazelnuts",
+        "input": "1/2 cup hazelnuts (2 1/4 ounces) ,",
+        "qty": "1/2"
+    },
+    {
+        "other": ", ,",
+        "display": "<span class='other'>,</span><span class='name'>any loose skins rubbed off</span><span class='comment'>in a kitchen towel</span><span class='other'>,</span><span class='comment'>and nuts coarsely chopped</span>",
+        "comment": "in a kitchen towel and nuts coarsely chopped",
+        "input": ", any loose skins rubbed off in a kitchen towel, and nuts coarsely chopped",
+        "name": "any loose skins rubbed off"
+    }
+]

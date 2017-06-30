@@ -1,0 +1,79 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>white-wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons white-wine vinegar",
+        "name": "white-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>rice vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons rice vinegar",
+        "name": "rice vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>soy sauce</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>a</span><span class='comment'>1-inch</span><span class='unit'>piece</span><span class='comment'>fresh</span><span class='name'>ginger root</span><span class='comment'>, peeled and minced ( about 1 tablespoon )</span>",
+        "comment": "1-inch fresh, peeled and minced (about 1 tablespoon)",
+        "other": "a",
+        "unit": "piece",
+        "input": "a 1-inch piece fresh ginger root, peeled and minced (about 1 tablespoon)",
+        "name": "ginger root"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>Asian sesame oil</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons Asian sesame oil",
+        "name": "Asian sesame oil"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>canola or vegetable</span><span class='name'>oil</span>",
+        "comment": "canola or vegetable",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup canola or vegetable oil",
+        "name": "oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sesame seeds</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sesame seeds",
+        "name": "sesame seeds"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>green beans</span><span class='other'>,</span><span class='comment'>trimmed</span>",
+        "comment": "trimmed",
+        "other": ",",
+        "unit": "pound",
+        "name": "green beans",
+        "input": "2 pounds green beans, trimmed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>chopped fine ( about 2 tablespoons )</span>",
+        "comment": "chopped fine (about 2 tablespoons)",
+        "other": ",",
+        "name": "scallions",
+        "input": "2 scallions, chopped fine (about 2 tablespoons)",
+        "qty": "2"
+    }
+]

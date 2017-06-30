@@ -1,0 +1,61 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>pounds</span><span class='comment'>red boiling</span><span class='name'>potatoes</span>",
+        "comment": "red boiling",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "3 pounds red boiling potatoes",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span>",
+        "unit": "clove",
+        "qty": "1",
+        "input": "1 garlic clove",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>red-wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup red-wine vinegar",
+        "name": "red-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>rosemary</span><span class='comment'>leaves or</span><span class='qty'>1</span><span class='comment'>teaspoon crumbled dried , plus rosemary sprigs for garnish</span>",
+        "comment": "fresh leaves or teaspoon crumbled dried, plus rosemary sprigs for garnish",
+        "unit": "tablespoon",
+        "name": "rosemary",
+        "input": "1 tablespoon fresh rosemary leaves or 1 teaspoon crumbled dried, plus rosemary sprigs for garnish",
+        "qty": "1 1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>red onion</span><span class='comment'>, halved lengthwise and sliced thin lengthwise</span>",
+        "qty": "1",
+        "comment": ", halved lengthwise and sliced thin lengthwise",
+        "input": "1 red onion, halved lengthwise and sliced thin lengthwise",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>green beans</span><span class='comment'>, trimmed and cut into 1-inch pieces</span>",
+        "comment": ", trimmed and cut into 1-inch pieces",
+        "unit": "pound",
+        "name": "green beans",
+        "input": "2 pounds green beans, trimmed and cut into 1-inch pieces",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>24</span><span class='comment'>Kalamata or Ni\u00e7oise</span><span class='name'>olives</span><span class='comment'>, pitted and halved</span>",
+        "qty": "24",
+        "comment": "Kalamata or Ni\u00e7oise, pitted and halved",
+        "input": "24 Kalamata or Ni\u00e7oise olives, pitted and halved",
+        "name": "olives"
+    }
+]

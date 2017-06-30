@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>ripe</span><span class='name'>tomatoes</span><span class='comment'>, finely chopped ( with seeds and juices )</span>",
+        "comment": "ripe, finely chopped (with seeds and juices)",
+        "unit": "pound",
+        "name": "tomatoes",
+        "input": "1 pound ripe tomatoes, finely chopped (with seeds and juices)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>red onion</span>",
+        "comment": "finely chopped",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup finely chopped red onion",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh Italian</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh Italian",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/4 cup chopped fresh Italian parsley",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "3 tablespoons fresh lemon juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>serrano chiles</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>finely chopped ( about 2 tablespoons )</span>",
+        "qty": "3",
+        "comment": "serrano chiles seeded finely chopped (about 2 tablespoons)",
+        "input": "3 serrano chiles, seeded, finely chopped (about 2 tablespoons)",
+        "other": ", ,"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chilled</span><span class='name'>passion fruit blend nectar</span>",
+        "comment": "chilled",
+        "unit": "cup",
+        "name": "passion fruit blend nectar",
+        "input": "1 cup chilled passion fruit blend nectar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>Angostura bitters</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon Angostura bitters",
+        "name": "Angostura bitters"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chilled champagne or other sparkling white wine</span>",
+        "unit": "cup",
+        "comment": "chilled champagne or other sparkling white wine",
+        "input": "1 cup chilled champagne or other sparkling white wine",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>fresh</span><span class='name'>raspberries</span><span class='comment'>or small</span><span class='name'>strawberries</span>",
+        "qty": "4",
+        "comment": "fresh or small",
+        "input": "4 fresh raspberries or small strawberries",
+        "name": "raspberries strawberries"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>orange</span><span class='unit'>slice</span><span class='other'>,</span><span class='comment'>cut in half</span>",
+        "comment": "cut in half",
+        "other": ",",
+        "unit": "slice",
+        "name": "orange",
+        "input": "1 orange slice, cut in half",
+        "qty": "1"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>cold</span><span class='name'>soy milk</span><span class='comment'>, freshly extracted or purchased</span>",
+        "comment": "cold, freshly extracted or purchased",
+        "unit": "cup",
+        "name": "soy milk",
+        "input": "2 cups cold soy milk, freshly extracted or purchased",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>mirin</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons mirin",
+        "name": "mirin"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>light-colored</span><span class='name'>soy sauce</span>",
+        "comment": "light-colored",
+        "unit": "teaspoon",
+        "name": "soy sauce",
+        "input": "1 1/2 teaspoons light-colored soy sauce",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>nigari diluted</span><span class='comment'>with scant</span><span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>water</span>",
+        "comment": "with scant water",
+        "unit": "teaspoon tablespoon",
+        "name": "nigari diluted",
+        "input": "2 teaspoons nigari diluted with scant 1 tablespoon water",
+        "qty": "2 1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>mixed fresh</span><span class='name'>mushrooms</span><span class='other'>,</span><span class='comment'>such as matsutak\u00e9</span><span class='other'>,</span><span class='comment'>maitak\u00e9</span><span class='other'>,</span><span class='comment'>shiitak\u00e9</span><span class='other'>,</span><span class='comment'>shim\u00e9ji</span><span class='other'>,</span><span class='comment'>and/or enoki</span><span class='other'>,</span><span class='comment'>in any combination</span><span class='other'>,</span><span class='comment'>trimmed</span><span class='other'>and cut</span>",
+        "comment": "mixed fresh such as matsutak\u00e9 maitak\u00e9 shiitak\u00e9 shim\u00e9ji and/or enoki in any combination trimmed",
+        "other": ",, ,, ,, , and cut",
+        "unit": "cup",
+        "name": "mushrooms",
+        "input": "1 cup mixed fresh mushrooms, such as matsutak\u00e9, maitak\u00e9, shiitak\u00e9, shim\u00e9ji, and/or enoki, in any combination, trimmed and cut",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='other'>or</span><span class='range_end'>4</span><span class='unit'>stalks</span><span class='name'>mitsuba</span><span class='other'>,</span><span class='comment'>roots trimmed</span><span class='other'>,</span><span class='comment'>stalks and leaves cut into 1/2-inch lengths</span><span class='other'>, or</span><span class='comment'>2 teaspoons coarsely chopped flat-leaf parsley</span><span class='other'>leaves</span>",
+        "comment": "roots trimmed stalks and leaves cut into 1/2-inch lengths 2 teaspoons coarsely chopped flat-leaf parsley",
+        "other": "or, ,, or leaves",
+        "unit": "stalk",
+        "name": "mitsuba",
+        "range_end": "4",
+        "input": "3 or 4 stalks mitsuba, roots trimmed, stalks and leaves cut into 1/2-inch lengths, or 2 teaspoons coarsely chopped flat-leaf parsley leaves",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>diced or thinly slivered fresh boiled bamboo shoot</span>",
+        "unit": "cup",
+        "comment": "diced or thinly slivered fresh boiled bamboo shoot",
+        "input": "1/2 cup diced or thinly slivered fresh boiled bamboo shoot",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>asparagus spear</span><span class='other'>,</span><span class='comment'>tip sliced in half vertically and stalk thinly sliced on the diagonal</span><span class='other'>,</span><span class='comment'>and then tip and stalk blanched for 30 or 40 seconds</span>",
+        "comment": "tip sliced in half vertically and stalk thinly sliced on the diagonal and then tip and stalk blanched for 30 or 40 seconds",
+        "other": ", ,",
+        "name": "asparagus spear",
+        "input": "1 asparagus spear, tip sliced in half vertically and stalk thinly sliced on the diagonal, and then tip and stalk blanched for 30 or 40 seconds",
+        "qty": "1"
+    }
+]

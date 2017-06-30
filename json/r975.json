@@ -1,0 +1,107 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>canola oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons canola oil",
+        "name": "canola oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>( about 6 ounces ) , chopped</span>",
+        "qty": "1",
+        "comment": "medium (about 6 ounces), chopped",
+        "input": "1 medium onion (about 6 ounces), chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>red bell pepper</span><span class='comment'>( about 6 ounces ) , chopped</span>",
+        "qty": "1",
+        "comment": "medium (about 6 ounces), chopped",
+        "input": "1 medium red bell pepper (about 6 ounces), chopped",
+        "name": "red bell pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>jalape\u00f1o chili</span><span class='other'>,</span><span class='comment'>seeded and finely chopped</span>",
+        "comment": "seeded and finely chopped",
+        "other": ",",
+        "name": "jalape\u00f1o chili",
+        "input": "1 jalape\u00f1o chili, seeded and finely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>large</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 large cloves garlic, finely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>low-sodium vegetable broth</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups low-sodium vegetable broth",
+        "name": "low-sodium vegetable broth"
+    },
+    {
+        "display": "<span class='comment'>1 ( 15-ounce ) can</span><span class='name'>chickpeas</span><span class='comment'>, rinsed and drained</span>",
+        "comment": "1 (15-ounce) can, rinsed and drained",
+        "input": "1 (15-ounce) can chickpeas, rinsed and drained",
+        "name": "chickpeas"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>tomatoes</span><span class='comment'>, seeded and peeled</span><span class='other'>,</span><span class='comment'>fresh</span><span class='other'>or</span><span class='comment'>canned ( see Cook's Tip )</span>",
+        "comment": "chopped, seeded and peeled fresh canned (see Cook's Tip)",
+        "other": ", or",
+        "unit": "cup",
+        "name": "tomatoes",
+        "input": "1 cup chopped tomatoes, seeded and peeled, fresh or canned (see Cook's Tip)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>mild</span><span class='name'>curry powder</span>",
+        "comment": "mild",
+        "unit": "teaspoon",
+        "name": "curry powder",
+        "input": "1 teaspoon mild curry powder",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>or to taste</span>",
+        "comment": "or to taste",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/2 teaspoon salt, or to taste",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span><span class='comment'>, to taste</span>",
+        "comment": "Freshly ground, to taste",
+        "input": "Freshly ground black pepper, to taste",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='comment'>1 ( 14-ounce ) can</span><span class='name'>light coconut milk</span>",
+        "comment": "1 (14-ounce) can",
+        "input": "1 (14-ounce) can light coconut milk",
+        "name": "light coconut milk"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>cooked white or brown</span><span class='name'>rice</span>",
+        "comment": "cooked white or brown",
+        "unit": "cup",
+        "name": "rice",
+        "input": "3/4 cup cooked white or brown rice",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span><span class='comment'>or parsley</span>",
+        "comment": "chopped fresh or parsley",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "2 tablespoons chopped fresh cilantro or parsley",
+        "qty": "2"
+    }
+]

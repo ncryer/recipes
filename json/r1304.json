@@ -1,0 +1,74 @@
+[
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>frozen</span><span class='name'>orange juice</span><span class='comment'>concentrate , thawed</span>",
+        "comment": "frozen concentrate, thawed",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup frozen orange juice concentrate, thawed",
+        "name": "orange juice"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>unseasoned</span><span class='name'>rice vinegar</span>",
+        "comment": "unseasoned",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup unseasoned rice vinegar",
+        "name": "rice vinegar"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>canola oil</span><span class='comment'>or vegetable oil</span>",
+        "comment": "or vegetable oil",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup canola oil or vegetable oil",
+        "name": "canola oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>( 8-ounce</span><span class='other'>)</span><span class='name'>bags coleslaw mix</span>",
+        "comment": "(8-ounce",
+        "other": ")",
+        "name": "bags coleslaw mix",
+        "input": "2 (8-ounce) bags coleslaw mix",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>ears</span><span class='other'>of</span><span class='comment'>fresh</span><span class='name'>corn</span><span class='comment'>, shucked</span><span class='other'>,</span><span class='comment'>kernels cut from cob</span>",
+        "comment": "fresh, shucked kernels cut from cob",
+        "other": "of ,",
+        "unit": "ear",
+        "name": "corn",
+        "input": "4 ears of fresh corn, shucked, kernels cut from cob",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>carrots</span><span class='comment'>, peeled</span><span class='other'>,</span><span class='comment'>coarsely grated</span>",
+        "comment": "medium, peeled coarsely grated",
+        "other": ",",
+        "name": "carrots",
+        "input": "2 medium carrots, peeled, coarsely grated",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>red bell pepper</span><span class='other'>,</span><span class='comment'>stemmed</span><span class='other'>,</span><span class='comment'>cored , cut into thin strips</span>",
+        "comment": "medium stemmed cored, cut into thin strips",
+        "other": ", ,",
+        "name": "red bell pepper",
+        "input": "1 medium red bell pepper, stemmed, cored, cut into thin strips",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>medium</span><span class='name'>green onions</span><span class='comment'>, thinly sliced</span>",
+        "qty": "6",
+        "comment": "medium, thinly sliced",
+        "input": "6 medium green onions, thinly sliced",
+        "name": "green onions"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/2 cup chopped fresh cilantro",
+        "qty": "1/2"
+    }
+]

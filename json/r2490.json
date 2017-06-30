@@ -1,0 +1,24 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "8",
+        "input": "8 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>polenta</span><span class='comment'>( not quick-cooking ) or yellow cornmeal ( 10 ounces )</span>",
+        "comment": "(not quick-cooking) or yellow cornmeal (10 ounces)",
+        "unit": "cup",
+        "name": "polenta",
+        "input": "2 cups polenta (not quick-cooking) or yellow cornmeal (10 ounces)",
+        "qty": "2"
+    }
+]

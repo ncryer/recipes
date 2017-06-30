@@ -1,0 +1,56 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( 125 g ) raw steel-cut oats</span>",
+        "unit": "cup",
+        "comment": "(125 g) raw steel-cut oats",
+        "input": "1/2 cup (125 g) raw steel-cut oats",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>very thinly sliced</span>",
+        "comment": "very thinly sliced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 cloves garlic, very thinly sliced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='comment'>About</span><span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>tamari</span>",
+        "comment": "About",
+        "unit": "tablespoon",
+        "name": "tamari",
+        "input": "About 1 tablespoon tamari",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Chinese</span><span class='name'>chile paste</span><span class='other'>(</span><span class='comment'>sambal oelek ) to taste</span>",
+        "comment": "Chinese sambal oelek) to taste",
+        "input": "Chinese chile paste (sambal oelek) to taste",
+        "name": "chile paste",
+        "other": "("
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>thinly sliced on a bias</span>",
+        "comment": "thinly sliced on a bias",
+        "other": ",",
+        "name": "scallions",
+        "input": "2 scallions, thinly sliced on a bias",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "2 tablespoons chopped fresh cilantro",
+        "qty": "2"
+    }
+]

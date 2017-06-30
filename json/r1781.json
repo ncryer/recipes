@@ -1,0 +1,42 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>pounds</span><span class='name'>watermelon</span><span class='other'>,</span><span class='comment'>rind and seeds discarded</span><span class='other'>,</span><span class='comment'>cut into chunks</span>",
+        "comment": "rind and seeds discarded cut into chunks",
+        "other": ", ,",
+        "unit": "pound",
+        "name": "watermelon",
+        "input": "3 pounds watermelon, rind and seeds discarded, cut into chunks",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>jiggers</span><span class='other'>(</span><span class='comment'>3/4 cup ) of</span><span class='name'>vodka</span>",
+        "comment": "3/4 cup) of",
+        "other": "(",
+        "name": "jiggers vodka",
+        "input": "4 jiggers (3/4 cup) of vodka",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>fresh</span><span class='name'>orange juice</span><span class='comment'>, strained</span>",
+        "comment": "fresh, strained",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "4 cups fresh orange juice, strained",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='comment'>Garnish:</span><span class='qty'>4</span><span class='name'>mint sprigs</span>",
+        "qty": "4",
+        "comment": "Garnish:",
+        "input": "Garnish: 4 mint sprigs",
+        "name": "mint sprigs"
+    }
+]

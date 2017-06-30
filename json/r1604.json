@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>rice</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup rice",
+        "name": "rice"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "2 tablespoons fresh lime juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>sprigs</span><span class='name'>cilantro</span><span class='other'>,</span><span class='comment'>tied together with kitchen string</span>",
+        "comment": "tied together with kitchen string",
+        "other": ",",
+        "unit": "sprig",
+        "name": "cilantro",
+        "input": "6 sprigs cilantro, tied together with kitchen string",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    }
+]

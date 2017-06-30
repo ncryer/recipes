@@ -1,0 +1,54 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>lemons</span>",
+        "qty": "2",
+        "comment": "large",
+        "input": "2 large lemons",
+        "name": "lemons"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>lb cherry or grape</span><span class='name'>tomatoes</span><span class='comment'>( 3 cups ) , halved</span><span class='other'>or ,</span><span class='comment'>if large</span><span class='other'>,</span><span class='comment'>quartered</span>",
+        "comment": "lb cherry or grape (3 cups), halved if large quartered",
+        "other": "or, ,",
+        "name": "tomatoes",
+        "input": "1 lb cherry or grape tomatoes (3 cups), halved or, if large, quartered",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>chives</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "chives",
+        "input": "3 tablespoons chopped fresh chives",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "teaspoon",
+        "name": "olive oil",
+        "input": "2 teaspoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    }
+]

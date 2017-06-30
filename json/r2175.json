@@ -1,0 +1,41 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>Sherry vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons Sherry vinegar",
+        "name": "Sherry vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>pound</span><span class='name'>green beans</span><span class='comment'>, trimmed and cut into 1-inch pieces</span>",
+        "comment": ", trimmed and cut into 1-inch pieces",
+        "unit": "pound",
+        "name": "green beans",
+        "input": "3/4 pound green beans, trimmed and cut into 1-inch pieces",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>shallot</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "name": "shallot",
+        "input": "1 shallot, thinly sliced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>19-ounce ) can</span><span class='name'>cannellini beans</span><span class='comment'>, drained and rinsed</span>",
+        "comment": "19-ounce) can, drained and rinsed",
+        "other": "(",
+        "name": "cannellini beans",
+        "input": "1 (19-ounce) can cannellini beans, drained and rinsed",
+        "qty": "1"
+    }
+]

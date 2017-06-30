@@ -1,0 +1,42 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>clove</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>peeled</span>",
+        "comment": "peeled",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 clove garlic, peeled",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tsp</span><span class='comment'>dried</span><span class='name'>rosemary</span>",
+        "comment": "dried",
+        "unit": "tsp",
+        "name": "rosemary",
+        "input": "1 tsp dried rosemary",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>tbsp fresh lemon juice</span>",
+        "qty": "3",
+        "input": "3 tbsp fresh lemon juice",
+        "name": "tbsp fresh lemon juice"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cans</span><span class='comment'>( 15.5 oz each ) white</span><span class='name'>beans</span><span class='comment'>( drained and rinsed )</span>",
+        "comment": "(15.5 oz each) white (drained and rinsed)",
+        "unit": "can",
+        "name": "beans",
+        "input": "2 cans (15.5 oz each) white beans (drained and rinsed)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>can</span><span class='comment'>( 14 oz</span><span class='other'>)</span><span class='name'>artichoke hearts</span><span class='comment'>( packed in water , drained )</span>",
+        "comment": "(14 oz (packed in water, drained)",
+        "other": ")",
+        "unit": "can",
+        "name": "artichoke hearts",
+        "input": "1 can (14 oz) artichoke hearts (packed in water, drained)",
+        "qty": "1"
+    }
+]

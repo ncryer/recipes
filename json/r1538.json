@@ -1,0 +1,29 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>ounces</span><span class='name'>Ron Rico rum</span>",
+        "unit": "ounce",
+        "qty": "1 1/2",
+        "input": "1 1/2 ounces Ron Rico rum",
+        "name": "Ron Rico rum"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>ounces</span><span class='name'>pineapple juice</span>",
+        "unit": "ounce",
+        "qty": "1 1/2",
+        "input": "1 1/2 ounces pineapple juice",
+        "name": "pineapple juice"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>ounces</span><span class='name'>Veuve Clicquot Champagne</span>",
+        "unit": "ounce",
+        "qty": "2",
+        "input": "2 ounces Veuve Clicquot Champagne",
+        "name": "Veuve Clicquot Champagne"
+    },
+    {
+        "display": "<span class='comment'>Fresh</span><span class='name'>pineapple</span><span class='comment'>wedge , for garnish</span>",
+        "comment": "Fresh wedge, for garnish",
+        "input": "Fresh pineapple wedge, for garnish",
+        "name": "pineapple"
+    }
+]

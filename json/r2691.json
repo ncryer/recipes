@@ -1,0 +1,51 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>medium</span><span class='name'>plum tomatoes</span><span class='comment'>( 1 lb ) , halved lengthwise</span>",
+        "qty": "6",
+        "comment": "medium (1 lb), halved lengthwise",
+        "input": "6 medium plum tomatoes (1 lb), halved lengthwise",
+        "name": "plum tomatoes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span><span class='comment'>plus additional for brushing</span>",
+        "comment": "extra-virgin plus additional for brushing",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil plus additional for brushing",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>7</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>unpeeled</span>",
+        "comment": "unpeeled",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "7 garlic cloves, unpeeled",
+        "qty": "7"
+    },
+    {
+        "display": "<span class='qty'>12 1/2-inch-thick</span><span class='unit'>slices</span><span class='name'>baguette</span><span class='comment'>or Italian</span><span class='name'>bread</span><span class='comment'>( about 2 1/2 inches wide )</span>",
+        "comment": "or Italian (about 2 1/2 inches wide)",
+        "unit": "slice",
+        "name": "baguette bread",
+        "input": "12 1/2-inch-thick slices baguette or Italian bread (about 2 1/2 inches wide)",
+        "qty": "12 1/2-inch-thick"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>to</span><span class='range_end'>2</span><span class='unit'>tablespoons</span><span class='comment'>finely sliced fresh</span><span class='name'>mint</span>",
+        "comment": "finely sliced fresh",
+        "other": "to",
+        "unit": "tablespoon",
+        "qty": "1",
+        "range_end": "2",
+        "input": "1 to 2 tablespoons finely sliced fresh mint",
+        "name": "mint"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>Kalamata or other brine-cured</span><span class='name'>black olives</span><span class='comment'>, pitted and chopped</span>",
+        "qty": "4",
+        "comment": "Kalamata or other brine-cured, pitted and chopped",
+        "input": "4 Kalamata or other brine-cured black olives, pitted and chopped",
+        "name": "black olives"
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium</span><span class='name'>beets</span><span class='comment'>( about 1 pound ) , tops trimmed</span>",
+        "qty": "3",
+        "comment": "medium (about 1 pound), tops trimmed",
+        "input": "3 medium beets (about 1 pound), tops trimmed",
+        "name": "beets"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium-size pink</span><span class='name'>grapefruits</span><span class='comment'>( about 2 1/2 pounds )</span>",
+        "qty": "3",
+        "comment": "medium-size pink (about 2 1/2 pounds)",
+        "input": "3 medium-size pink grapefruits (about 2 1/2 pounds)",
+        "name": "grapefruits"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>Sherry wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons Sherry wine vinegar",
+        "name": "Sherry wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>Dijon mustard</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "3/4 cup extra-virgin olive oil",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>5-ounce bags mixed baby greens</span>",
+        "qty": "2",
+        "input": "2 5-ounce bags mixed baby greens",
+        "name": "5-ounce bags mixed baby greens"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium</span><span class='name'>avocados</span><span class='comment'>, pitted</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>cut into 1/2-inch pieces</span>",
+        "comment": "medium, pitted peeled cut into 1/2-inch pieces",
+        "other": ", ,",
+        "name": "avocados",
+        "input": "3 medium avocados, pitted, peeled, cut into 1/2-inch pieces",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>pomegranate seeds</span><span class='other'>(</span><span class='comment'>from 2 large pomegranates )</span>",
+        "comment": "fresh from 2 large pomegranates)",
+        "other": "(",
+        "unit": "cup",
+        "name": "pomegranate seeds",
+        "input": "1 cup fresh pomegranate seeds (from 2 large pomegranates)",
+        "qty": "1"
+    }
+]

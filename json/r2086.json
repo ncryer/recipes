@@ -1,0 +1,23 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='other'>1/2 cup plus 1</span><span class='unit'>tablespoon</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "other": "1/2 cup plus 1",
+        "input": "1/2 cup plus 1 tablespoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>lb</span><span class='comment'>Golden Delicious</span><span class='name'>apples</span><span class='comment'>, peeled and each cut into 8 wedges</span>",
+        "qty": "2",
+        "comment": "Golden Delicious, peeled and each cut into 8 wedges",
+        "input": "2 lb Golden Delicious apples, peeled and each cut into 8 wedges",
+        "name": "lb apples"
+    }
+]

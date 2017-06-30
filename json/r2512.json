@@ -1,0 +1,25 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>very ripe</span><span class='name'>Fuyu</span><span class='comment'>or Hachiya persimmons</span>",
+        "comment": "very ripe or Hachiya persimmons",
+        "unit": "pound",
+        "name": "Fuyu",
+        "input": "2 pounds very ripe Fuyu or Hachiya persimmons",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>1 tablespoon plus 1</span><span class='unit'>teaspoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "other": "1 tablespoon plus 1",
+        "unit": "teaspoon",
+        "input": "1 tablespoon plus 1 teaspoon fresh lemon juice",
+        "name": "lemon juice"
+    }
+]

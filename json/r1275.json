@@ -1,0 +1,16 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "3",
+        "input": "3 cups sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3",
+        "input": "3 cups water",
+        "name": "water"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='other'>small</span><span class='unit'>bunch</span><span class='comment'>Swiss</span><span class='name'>chard</span><span class='comment'>, preferably red</span><span class='other'>or</span><span class='comment'>rainbow</span>",
+        "comment": "Swiss, preferably red rainbow",
+        "other": "small or",
+        "unit": "bunch",
+        "name": "chard",
+        "input": "1/2 small bunch Swiss chard, preferably red or rainbow",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>shallot</span><span class='comment'>, finely chopped</span>",
+        "qty": "1",
+        "comment": "medium, finely chopped",
+        "input": "1 medium shallot, finely chopped",
+        "name": "shallot"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>( or more ) extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "(or more) extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "3/4 cup (or more) extra-virgin olive oil",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>finely chopped fresh</span><span class='name'>chives</span>",
+        "comment": "finely chopped fresh",
+        "unit": "tablespoon",
+        "name": "chives",
+        "input": "2 tablespoons finely chopped fresh chives",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>( or more</span><span class='other'>)</span><span class='name'>red wine vinegar</span>",
+        "comment": "(or more",
+        "other": ")",
+        "unit": "tablespoon",
+        "name": "red wine vinegar",
+        "input": "1 tablespoon (or more) red wine vinegar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>finely grated</span><span class='name'>lemon</span><span class='comment'>zest</span>",
+        "comment": "finely grated zest",
+        "unit": "teaspoon",
+        "name": "lemon",
+        "input": "1 teaspoon finely grated lemon zest",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground pepper",
+        "name": "salt pepper",
+        "other": ","
+    }
+]

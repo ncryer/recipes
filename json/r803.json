@@ -1,0 +1,77 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span>",
+        "unit": "clove",
+        "qty": "2",
+        "input": "2 garlic cloves",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='other'>1/2 cup plus 1</span><span class='unit'>tablespoon</span><span class='name'>tomato paste</span><span class='other'>(</span><span class='comment'>one 6-ounce can or a little less )</span>",
+        "comment": "one 6-ounce can or a little less)",
+        "other": "1/2 cup plus 1 (",
+        "unit": "tablespoon",
+        "input": "1/2 cup plus 1 tablespoon tomato paste (one 6-ounce can or a little less)",
+        "name": "tomato paste"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 12-ounce ) jar roasted</span><span class='name'>red peppers</span><span class='comment'>, rinsed and patted dry</span>",
+        "qty": "1",
+        "comment": "(12-ounce) jar roasted, rinsed and patted dry",
+        "input": "1 (12-ounce) jar roasted red peppers, rinsed and patted dry",
+        "name": "red peppers"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>walnuts</span><span class='other'>(</span><span class='comment'>2 ounce</span><span class='other'>)</span>",
+        "comment": "2 ounce",
+        "other": "2/3 ()",
+        "unit": "cup",
+        "input": "2/3 cup walnuts (2 ounce)",
+        "name": "walnuts"
+    },
+    {
+        "display": "<span class='comment'>1 ( 5-inch ) piece of</span><span class='name'>baguette</span><span class='other'>,</span><span class='comment'>crust discarded</span><span class='other'>,</span><span class='comment'>bread torn into pieces (</span><span class='qty'>1</span><span class='comment'>rounded cup</span><span class='other'>)</span>",
+        "comment": "1 (5-inch) piece of crust discarded bread torn into pieces (rounded cup",
+        "other": ",,)",
+        "name": "baguette",
+        "input": "1 (5-inch) piece of baguette, crust discarded, bread torn into pieces (1 rounded cup)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/2 cup extra-virgin olive oil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>coriander</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "coriander",
+        "input": "1/2 teaspoon ground coriander",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>cayenne</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon cayenne",
+        "name": "cayenne"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>cilantro</span><span class='comment'>or parsley</span>",
+        "comment": "finely chopped or parsley",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup finely chopped cilantro or parsley",
+        "name": "cilantro"
+    },
+    {
+        "display": "<span class='name'>baguette slices , pita toasts</span><span class='comment'>, or crackers</span>",
+        "comment": ", or crackers",
+        "input": "baguette slices, pita toasts, or crackers",
+        "name": "baguette slices, pita toasts"
+    }
+]

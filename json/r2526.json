@@ -1,0 +1,55 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>leftover cranberry sauce</span>",
+        "unit": "cup",
+        "qty": "3",
+        "input": "3 cups leftover cranberry sauce",
+        "name": "leftover cranberry sauce"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>orange juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "1 cup fresh orange juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/2 cup fresh lemon juice",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>grated</span><span class='name'>orange peel</span>",
+        "comment": "grated",
+        "unit": "tablespoon",
+        "name": "orange peel",
+        "input": "2 tablespoons grated orange peel",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>grated</span><span class='name'>lemon peel</span>",
+        "comment": "grated",
+        "unit": "tablespoon",
+        "name": "lemon peel",
+        "input": "1 tablespoon grated lemon peel",
+        "qty": "1"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='name'>coconut</span>",
+        "qty": "1",
+        "input": "1 coconut",
+        "name": "coconut"
+    },
+    {
+        "display": "<span class='qty'>7</span><span class='other'>leaves</span><span class='name'>basil</span><span class='other'>,</span><span class='comment'>plus additional for garnish</span>",
+        "comment": "plus additional for garnish",
+        "other": "leaves ,",
+        "name": "basil",
+        "input": "7 leaves basil, plus additional for garnish",
+        "qty": "7"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>sprig</span><span class='name'>oregano</span>",
+        "unit": "sprig",
+        "qty": "1",
+        "input": "1 sprig oregano",
+        "name": "oregano"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>sprigs</span><span class='name'>cilantro</span><span class='other'>,</span><span class='comment'>stemmed</span>",
+        "comment": "stemmed",
+        "other": ",",
+        "unit": "sprig",
+        "name": "cilantro",
+        "input": "5 sprigs cilantro, stemmed",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>Thai</span><span class='other'>, jalape\u00f1o ,</span><span class='comment'>or Serrano chile</span><span class='other'>,</span><span class='comment'>seeded and minced</span>",
+        "comment": "or Serrano chile seeded and minced",
+        "other": ", jalape\u00f1o, ,",
+        "name": "Thai",
+        "input": "1/2 Thai, jalape\u00f1o, or Serrano chile, seeded and minced",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>Bragg Liquid Aminos</span><span class='comment'>or nama shoyu</span>",
+        "comment": "or nama shoyu",
+        "unit": "tablespoon",
+        "name": "Bragg Liquid Aminos",
+        "input": "2 tablespoons Bragg Liquid Aminos or nama shoyu",
+        "qty": "2"
+    }
+]

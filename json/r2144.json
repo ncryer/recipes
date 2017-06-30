@@ -1,0 +1,24 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3",
+        "input": "3 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>long-grain</span><span class='name'>rice</span><span class='comment'>( not converted )</span>",
+        "comment": "long-grain (not converted)",
+        "unit": "cup",
+        "name": "rice",
+        "input": "1 1/2 cups long-grain rice (not converted)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/4",
+        "input": "1 1/4 teaspoons salt",
+        "name": "salt"
+    }
+]

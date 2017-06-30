@@ -1,0 +1,74 @@
+[
+    {
+        "display": "<span class='other'>1/2 cup plus 2</span><span class='unit'>tablespoons</span><span class='name'>red wine vinegar</span>",
+        "unit": "tablespoon",
+        "other": "1/2 cup plus 2",
+        "input": "1/2 cup plus 2 tablespoons red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>Dijon mustard</span>",
+        "unit": "tablespoon",
+        "qty": "6",
+        "input": "6 tablespoons Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>canola oil</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup canola oil",
+        "name": "canola oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='unit'>head</span><span class='comment'>of</span><span class='name'>cauliflower</span><span class='comment'>, cut into 1-inch florets ( about 6 cups )</span>",
+        "comment": "of, cut into 1-inch florets (about 6 cups)",
+        "other": "large",
+        "unit": "head",
+        "name": "cauliflower",
+        "input": "1 large head of cauliflower, cut into 1-inch florets (about 6 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>Kalamata olives</span><span class='other'>,</span><span class='comment'>pitted</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "pitted halved",
+        "other": ", ,",
+        "unit": "cup",
+        "name": "Kalamata olives",
+        "input": "2 cups Kalamata olives, pitted, halved",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>celery</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "celery",
+        "input": "1 1/2 cups chopped celery",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='comment'>green</span><span class='name'>onions</span><span class='comment'>, chopped</span>",
+        "comment": "green, chopped",
+        "unit": "bunch",
+        "name": "onions",
+        "input": "1 bunch green onions, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh Italian</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh Italian",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/4 cup chopped fresh Italian parsley",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>16</span><span class='unit'>cups</span><span class='name'>arugula</span><span class='other'>(</span><span class='comment'>about 10 ounces</span><span class='other'>)</span>",
+        "comment": "about 10 ounces",
+        "other": "()",
+        "unit": "cup",
+        "name": "arugula",
+        "input": "16 cups arugula (about 10 ounces)",
+        "qty": "16"
+    }
+]

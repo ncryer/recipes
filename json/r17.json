@@ -1,0 +1,103 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span>",
+        "unit": "clove",
+        "qty": "2",
+        "input": "2 garlic cloves",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>thyme leaves</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon thyme leaves",
+        "name": "thyme leaves"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons oil",
+        "name": "oil"
+    },
+    {
+        "display": "<span class='qty'>2 1/4</span><span class='unit'>teaspoons</span><span class='name'>kosher salt</span><span class='other'>, divided ,</span><span class='comment'>plus more</span>",
+        "comment": "plus more",
+        "other": ", divided ,",
+        "unit": "teaspoon",
+        "name": "kosher salt",
+        "input": "2 1/4 teaspoons kosher salt, divided, plus more",
+        "qty": "2 1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>paprika</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon paprika",
+        "name": "paprika"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='unit'>ounces</span><span class='name'>cremini mushrooms</span><span class='comment'>, coarsely chopped , divided</span>",
+        "comment": ", coarsely chopped, divided",
+        "unit": "ounce",
+        "name": "cremini mushrooms",
+        "input": "12 ounces cremini mushrooms, coarsely chopped, divided",
+        "qty": "12"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>shallots</span><span class='other'>,</span><span class='comment'>quartered</span>",
+        "comment": "quartered",
+        "other": ",",
+        "name": "shallots",
+        "input": "2 shallots, quartered",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>bay leaves</span>",
+        "qty": "2",
+        "input": "2 bay leaves",
+        "name": "bay leaves"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span>",
+        "unit": "cup",
+        "input": "4 cups",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='comment'>or store-bought</span><span class='name'>low-sodium vegetable broth</span>",
+        "comment": "or store-bought",
+        "input": "or store-bought low-sodium vegetable broth",
+        "name": "low-sodium vegetable broth"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>all-purpose flour</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons all-purpose flour",
+        "name": "all-purpose flour"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>dry white wine</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup dry white wine",
+        "name": "dry white wine"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>coarsely chopped</span><span class='name'>parsley</span>",
+        "comment": "coarsely chopped",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "1 tablespoon coarsely chopped parsley",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span><span class='comment'>, plus more</span>",
+        "comment": "freshly ground, plus more",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/4 teaspoon freshly ground black pepper, plus more",
+        "qty": "1/4"
+    }
+]

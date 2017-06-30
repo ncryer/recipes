@@ -1,0 +1,57 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='comment'>medium-size new</span><span class='name'>potatoes</span><span class='comment'>( about 1 pound ) , halved if necessary to keep them uniform in size</span>",
+        "qty": "12",
+        "comment": "medium-size new (about 1 pound), halved if necessary to keep them uniform in size",
+        "input": "12 medium-size new potatoes (about 1 pound), halved if necessary to keep them uniform in size",
+        "name": "potatoes"
+    },
+    {
+        "display": "<span class='qty'>24</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>unpeeled</span>",
+        "comment": "unpeeled",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "24 garlic cloves, unpeeled",
+        "qty": "24"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>bay leaves</span>",
+        "qty": "6",
+        "input": "6 bay leaves",
+        "name": "bay leaves"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>sprigs</span><span class='name'>thyme</span>",
+        "unit": "sprig",
+        "qty": "4",
+        "input": "4 sprigs thyme",
+        "name": "thyme"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>sprigs</span><span class='name'>rosemary</span>",
+        "unit": "sprig",
+        "qty": "4",
+        "input": "4 sprigs rosemary",
+        "name": "rosemary"
+    },
+    {
+        "display": "<span class='comment'>Coarse</span><span class='name'>salt</span>",
+        "comment": "Coarse",
+        "input": "Coarse salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground black pepper",
+        "name": "black pepper"
+    }
+]

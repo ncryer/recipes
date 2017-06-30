@@ -1,0 +1,65 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>firm large</span><span class='name'>eggplants</span><span class='comment'>( about 3 1/2 pounds ) , cut crosswise into 1/4-inch thick rounds</span>",
+        "qty": "3",
+        "comment": "firm large (about 3 1/2 pounds), cut crosswise into 1/4-inch thick rounds",
+        "input": "3 firm large eggplants (about 3 1/2 pounds), cut crosswise into 1/4-inch thick rounds",
+        "name": "eggplants"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>to</span><span class='range_end'>3</span><span class='unit'>tablespoons</span><span class='comment'>coarse</span><span class='name'>salt</span>",
+        "comment": "coarse",
+        "other": "to",
+        "unit": "tablespoon",
+        "qty": "2",
+        "range_end": "3",
+        "input": "2 to 3 tablespoons coarse salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>onion</span><span class='comment'>, halved lengthwise and sliced thin crosswise</span>",
+        "qty": "1",
+        "comment": "large, halved lengthwise and sliced thin crosswise",
+        "input": "1 large onion, halved lengthwise and sliced thin crosswise",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>spinach</span><span class='comment'>, coarse stems discarded ( about 6 cups packed )</span>",
+        "comment": ", coarse stems discarded (about 6 cups packed)",
+        "unit": "bunch",
+        "name": "spinach",
+        "input": "1 bunch spinach, coarse stems discarded (about 6 cups packed)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>loosely packed fresh</span><span class='name'>basil leaves</span><span class='comment'>( about</span><span class='qty'>1</span><span class='comment'>bunch )</span>",
+        "comment": "loosely packed fresh (about bunch)",
+        "unit": "cup",
+        "name": "basil leaves",
+        "input": "2 cups loosely packed fresh basil leaves (about 1 bunch)",
+        "qty": "2 1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, minced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>medium vine-ripened</span><span class='name'>tomatoes</span><span class='comment'>, cut into 1/4-inch-thick slices</span>",
+        "qty": "6",
+        "comment": "medium vine-ripened, cut into 1/4-inch-thick slices",
+        "input": "6 medium vine-ripened tomatoes, cut into 1/4-inch-thick slices",
+        "name": "tomatoes"
+    }
+]

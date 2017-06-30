@@ -1,0 +1,23 @@
+[
+    {
+        "display": "<span class='qty'>12</span><span class='unit'>ounces</span><span class='comment'>high-quality</span><span class='name'>coffee beans</span><span class='comment'>( about 4 cups ) , coarsely ground</span>",
+        "comment": "high-quality (about 4 cups), coarsely ground",
+        "unit": "ounce",
+        "name": "coffee beans",
+        "input": "12 ounces high-quality coffee beans (about 4 cups), coarsely ground",
+        "qty": "12"
+    },
+    {
+        "display": "<span class='name'>Milk</span><span class='other'>(</span><span class='comment'>optional; for serving</span><span class='other'>)</span>",
+        "comment": "optional; for serving",
+        "input": "Milk (optional; for serving)",
+        "name": "Milk",
+        "other": "()"
+    },
+    {
+        "display": "<span class='comment'>A</span><span class='name'>12-cup</span><span class='comment'>( or larger ) resealable container or stockpot with lid; a coffee filter or cheesecloth</span>",
+        "comment": "A (or larger) resealable container or stockpot with lid; a coffee filter or cheesecloth",
+        "input": "A 12-cup (or larger) resealable container or stockpot with lid; a coffee filter or cheesecloth",
+        "name": "12-cup"
+    }
+]

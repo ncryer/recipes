@@ -1,0 +1,64 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>navel</span><span class='name'>oranges</span>",
+        "qty": "2",
+        "comment": "navel",
+        "input": "2 navel oranges",
+        "name": "oranges"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>small</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>chopped fine</span>",
+        "comment": "chopped fine",
+        "other": "small ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 small garlic clove, chopped fine",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>soy sauce</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>balsamic vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon balsamic vinegar",
+        "name": "balsamic vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>small</span><span class='unit'>head</span><span class='name'>fris\u00e9e</span><span class='comment'>( French curly endive )</span>",
+        "comment": "(French curly endive)",
+        "other": "small",
+        "unit": "head",
+        "name": "fris\u00e9e",
+        "input": "1 small head fris\u00e9e (French curly endive)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='unit'>bunch</span><span class='name'>watercress</span>",
+        "comment": "small",
+        "unit": "bunch",
+        "name": "watercress",
+        "input": "1 small bunch watercress",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>ounces</span><span class='name'>j\u00edcama ( about 1/4 small )</span>",
+        "unit": "ounce",
+        "qty": "3",
+        "input": "3 ounces j\u00edcama (about 1/4 small)",
+        "name": "j\u00edcama (about 1/4 small)"
+    }
+]

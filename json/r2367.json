@@ -1,0 +1,61 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>oranges</span>",
+        "qty": "2",
+        "comment": "large",
+        "input": "2 large oranges",
+        "name": "oranges"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>red grapefruit</span>",
+        "qty": "1",
+        "comment": "large",
+        "input": "1 large red grapefruit",
+        "name": "red grapefruit"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>curry powder</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon curry powder",
+        "name": "curry powder"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>avocado</span><span class='comment'>, peeled</span><span class='other'>,</span><span class='comment'>seeded , diced</span>",
+        "comment": ", peeled seeded, diced",
+        "other": ",",
+        "name": "avocado",
+        "input": "1 avocado, peeled, seeded, diced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>red onion</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "red onion",
+        "input": "1/2 cup chopped red onion",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>chives</span><span class='comment'>or green</span><span class='name'>onions</span>",
+        "comment": "chopped fresh or green",
+        "unit": "tablespoon",
+        "name": "chives onions",
+        "input": "2 tablespoons chopped fresh chives or green onions",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>avocado oil</span><span class='comment'>or vegetable oil</span>",
+        "comment": "or vegetable oil",
+        "unit": "tablespoon",
+        "name": "avocado oil",
+        "input": "1 tablespoon avocado oil or vegetable oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Ground</span><span class='name'>white pepper</span>",
+        "comment": "Ground",
+        "input": "Ground white pepper",
+        "name": "white pepper"
+    }
+]

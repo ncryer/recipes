@@ -1,0 +1,100 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='other'>medium</span><span class='unit'>head</span><span class='name'>RED CABBAGE</span><span class='comment'>, tough outer leaves removed</span>",
+        "comment": ", tough outer leaves removed",
+        "other": "medium",
+        "unit": "head",
+        "name": "RED CABBAGE",
+        "input": "1 medium head RED CABBAGE, tough outer leaves removed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>( 60ml</span><span class='other'>)</span><span class='name'>OLIVE OIL</span>",
+        "comment": "(60ml",
+        "other": ")",
+        "unit": "cup",
+        "name": "OLIVE OIL",
+        "input": "1/4 cup (60ml) OLIVE OIL",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>RED ONION</span><span class='other'>,</span><span class='comment'>diced</span>",
+        "comment": "diced",
+        "other": ",",
+        "name": "RED ONION",
+        "input": "1 RED ONION, diced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>FUJI APPLES</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>and finely chopped</span>",
+        "comment": "peeled cored and finely chopped",
+        "other": ",, ,",
+        "name": "FUJI APPLES",
+        "input": "2 FUJI APPLES, peeled, cored, and finely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>JUNIPER BERRIES</span>",
+        "qty": "3",
+        "input": "3 JUNIPER BERRIES",
+        "name": "JUNIPER BERRIES"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>whole ALLSPICE</span><span class='name'>BERRIES</span><span class='comment'>, or 1/4 teaspoon ground</span><span class='name'>allspice</span>",
+        "qty": "3",
+        "comment": "whole ALLSPICE, or 1/4 teaspoon ground",
+        "input": "3 whole ALLSPICE BERRIES, or 1/4 teaspoon ground allspice",
+        "name": "BERRIES allspice"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>whole</span><span class='name'>CLOVES</span><span class='comment'>, or 1/4 teaspoon ground</span><span class='name'>cloves</span>",
+        "qty": "3",
+        "comment": "whole, or 1/4 teaspoon ground",
+        "input": "3 whole CLOVES, or 1/4 teaspoon ground cloves",
+        "name": "CLOVES cloves"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>BAY LEAF</span>",
+        "qty": "1",
+        "input": "1 BAY LEAF",
+        "name": "BAY LEAF"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>SALT</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon SALT",
+        "name": "SALT"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>BLACK PEPPER</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "BLACK PEPPER",
+        "input": "1/4 teaspoon freshly ground BLACK PEPPER",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>RED CURRANT JELLY</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons RED CURRANT JELLY",
+        "name": "RED CURRANT JELLY"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>BALSAMIC VINEGAR</span><span class='other'>,</span><span class='comment'>preferably white</span>",
+        "comment": "preferably white",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "BALSAMIC VINEGAR",
+        "input": "2 tablespoons BALSAMIC VINEGAR, preferably white",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>LIGHT BROWN SUGAR</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon LIGHT BROWN SUGAR",
+        "name": "LIGHT BROWN SUGAR"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>dried</span><span class='name'>hibiscus flowers or 6 hibiscus tea bags</span>",
+        "comment": "dried",
+        "unit": "tablespoon",
+        "name": "hibiscus flowers or 6 hibiscus tea bags",
+        "input": "2 tablespoons dried hibiscus flowers or 6 hibiscus tea bags",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>sprig</span><span class='name'>basil plus leaves</span><span class='comment'>for garnish</span>",
+        "comment": "for garnish",
+        "unit": "sprig",
+        "name": "basil plus leaves",
+        "input": "1 sprig basil plus leaves for garnish",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>strawberries</span><span class='other'>,</span><span class='comment'>hulled</span><span class='other'>,</span><span class='comment'>quartered</span><span class='other'>,</span><span class='comment'>plus 1 1/2 cups diced strawberries for garnish</span>",
+        "comment": "hulled quartered plus 1 1/2 cups diced strawberries for garnish",
+        "other": ",, ,",
+        "unit": "pound",
+        "name": "strawberries",
+        "input": "1 pound strawberries, hulled, quartered, plus 1 1/2 cups diced strawberries for garnish",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1/2 cup plus 2</span><span class='unit'>tablespoons</span><span class='comment'>( or more ) light agave syrup ( nectar )</span>",
+        "unit": "tablespoon",
+        "comment": "(or more) light agave syrup (nectar)",
+        "input": "1/2 cup plus 2 tablespoons (or more) light agave syrup (nectar)",
+        "other": "1/2 cup plus 2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>( or more ) fresh</span><span class='name'>lime juice</span>",
+        "comment": "(or more) fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "1 tablespoon (or more) fresh lime juice",
+        "qty": "1"
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span>",
+        "unit": "clove",
+        "qty": "1",
+        "input": "1 garlic clove",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lime juice",
+        "input": "1/4 cup fresh lime juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>white onion</span>",
+        "comment": "finely chopped",
+        "unit": "cup",
+        "name": "white onion",
+        "input": "1/4 cup finely chopped white onion",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pound</span><span class='name'>chayotes</span><span class='comment'>( also called mirlitons; 4 medium )</span>",
+        "comment": "(also called mirlitons; 4 medium)",
+        "unit": "pound",
+        "name": "chayotes",
+        "input": "2 pound chayotes (also called mirlitons; 4 medium)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>( 14- to 15-ounce ) cans hearts of palm ( not salad-cut )</span><span class='other'>,</span><span class='comment'>rinsed well and drained</span>",
+        "qty": "2",
+        "comment": "(14- to 15-ounce) cans hearts of palm (not salad-cut) rinsed well and drained",
+        "input": "2 (14- to 15-ounce) cans hearts of palm (not salad-cut), rinsed well and drained",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>celery ribs</span><span class='comment'>, thinly sliced</span>",
+        "qty": "2",
+        "comment": "large, thinly sliced",
+        "input": "2 large celery ribs, thinly sliced",
+        "name": "celery ribs"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>fresh flat-leaf</span><span class='name'>parsley leaves</span>",
+        "comment": "fresh flat-leaf",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup fresh flat-leaf parsley leaves",
+        "name": "parsley leaves"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>cilantro leaves</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "cilantro leaves",
+        "input": "1/4 cup fresh cilantro leaves",
+        "qty": "1/4"
+    }
+]

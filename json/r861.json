@@ -1,0 +1,54 @@
+[
+    {
+        "display": "<span class='other'>1 1/3</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "1 1/3",
+        "input": "1 1/3 cups sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>dry red wine</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup dry red wine",
+        "name": "dry red wine"
+    },
+    {
+        "display": "<span class='comment'>1 12-ounce package fresh or frozen</span><span class='name'>cranberries</span>",
+        "comment": "1 12-ounce package fresh or frozen",
+        "input": "1 12-ounce package fresh or frozen cranberries",
+        "name": "cranberries"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>pomegranate molasses*</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons pomegranate molasses*",
+        "name": "pomegranate molasses*"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>( scant</span><span class='other'>)</span><span class='comment'>dried</span><span class='name'>basil</span>",
+        "comment": "(scant dried",
+        "other": ")",
+        "unit": "teaspoon",
+        "name": "basil",
+        "input": "1/4 teaspoon (scant) dried basil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "2 1/2 tablespoons chopped fresh cilantro",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>tablespoons</span><span class='comment'>sliced fresh</span><span class='name'>mint</span>",
+        "comment": "sliced fresh",
+        "unit": "tablespoon",
+        "name": "mint",
+        "input": "2 1/2 tablespoons sliced fresh mint",
+        "qty": "2 1/2"
+    }
+]

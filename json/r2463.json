@@ -1,0 +1,71 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>pounds</span><span class='comment'>napa</span><span class='name'>cabbage</span>",
+        "comment": "napa",
+        "unit": "pound",
+        "name": "cabbage",
+        "input": "4 pounds napa cabbage",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>coarse</span><span class='name'>salt</span>",
+        "comment": "coarse",
+        "unit": "cup",
+        "name": "salt",
+        "input": "3/4 cup coarse salt",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>finely minced</span><span class='name'>gingerroot</span>",
+        "comment": "finely minced",
+        "unit": "teaspoon",
+        "name": "gingerroot",
+        "input": "1 teaspoon finely minced gingerroot",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>red pepper powder</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup red pepper powder",
+        "name": "red pepper powder"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>garlic juice</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons garlic juice",
+        "name": "garlic juice"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>onion juice</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup onion juice",
+        "name": "onion juice"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>ounces</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>cut into 1-inch lengths</span>",
+        "comment": "cut into 1-inch lengths",
+        "other": ",",
+        "unit": "ounce",
+        "name": "scallions",
+        "input": "4 ounces scallions, cut into 1-inch lengths",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>coarse</span><span class='name'>salt</span>",
+        "comment": "coarse",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "3 tablespoons coarse salt",
+        "qty": "3"
+    }
+]

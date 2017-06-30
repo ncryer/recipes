@@ -1,0 +1,57 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>thinly sliced green</span><span class='name'>cabbage</span><span class='comment'>( from about 1/2 large head )</span>",
+        "comment": "thinly sliced green (from about 1/2 large head)",
+        "unit": "cup",
+        "name": "cabbage",
+        "input": "4 cups thinly sliced green cabbage (from about 1/2 large head)",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>red bell pepper</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "name": "red bell pepper",
+        "input": "1 red bell pepper, thinly sliced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/2 cup chopped fresh cilantro",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>jalape\u00f1o chili</span><span class='other'>,</span><span class='comment'>seeded , minced</span>",
+        "comment": "small seeded, minced",
+        "other": ",",
+        "name": "jalape\u00f1o chili",
+        "input": "1 small jalape\u00f1o chili, seeded, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "2 tablespoons fresh lime juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1 1/2 teaspoons ground cumin",
+        "qty": "1 1/2"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "3 tablespoons fresh lemon juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>beefsteak tomatoes</span><span class='other'>,</span><span class='comment'>cut into 1-inch-thick wedges</span>",
+        "comment": "cut into 1-inch-thick wedges",
+        "other": ",",
+        "unit": "pound",
+        "name": "beefsteak tomatoes",
+        "input": "1 pound beefsteak tomatoes, cut into 1-inch-thick wedges",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>medium</span><span class='name'>red onion</span><span class='comment'>, thinly sliced crosswise</span>",
+        "qty": "1/2",
+        "comment": "medium, thinly sliced crosswise",
+        "input": "1/2 medium red onion, thinly sliced crosswise",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>head</span><span class='name'>radicchio</span><span class='other'>(</span><span class='comment'>1/2 pound ) , halved lengthwise , then thinly sliced crosswise</span>",
+        "comment": "1/2 pound), halved lengthwise, then thinly sliced crosswise",
+        "other": "(",
+        "unit": "head",
+        "name": "radicchio",
+        "input": "1 head radicchio (1/2 pound), halved lengthwise, then thinly sliced crosswise",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>head</span><span class='name'>romaine</span><span class='other'>,</span><span class='comment'>coarsely chopped ( 6 cups )</span>",
+        "comment": "coarsely chopped (6 cups)",
+        "other": ",",
+        "unit": "head",
+        "name": "romaine",
+        "input": "1 head romaine, coarsely chopped (6 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>small</span><span class='name'>cucumbers</span><span class='comment'>, peeled if desired</span><span class='other'>,</span><span class='comment'>halved lengthwise , then thinly sliced crosswise</span>",
+        "comment": "small, peeled if desired halved lengthwise, then thinly sliced crosswise",
+        "other": ",",
+        "name": "cucumbers",
+        "input": "2 small cucumbers, peeled if desired, halved lengthwise, then thinly sliced crosswise",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>mixed</span><span class='name'>Greek olives ( 1/4 pound )</span>",
+        "comment": "mixed",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup mixed Greek olives (1/4 pound)",
+        "name": "Greek olives (1/4 pound)"
+    }
+]

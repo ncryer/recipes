@@ -1,0 +1,85 @@
+[
+    {
+        "display": "<span class='name'>Nonstick vegetable oil spray</span>",
+        "input": "Nonstick vegetable oil spray",
+        "name": "Nonstick vegetable oil spray"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>old-fashioned</span><span class='name'>oats</span>",
+        "comment": "old-fashioned",
+        "unit": "cup",
+        "name": "oats",
+        "input": "2 cups old-fashioned oats",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>slivered</span><span class='name'>almonds</span>",
+        "comment": "slivered",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup slivered almonds",
+        "name": "almonds"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>sweetened flaked</span><span class='name'>coconut</span>",
+        "comment": "sweetened flaked",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup sweetened flaked coconut",
+        "name": "coconut"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>pecan halves</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup pecan halves",
+        "name": "pecan halves"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>frozen</span><span class='name'>concentrated</span><span class='comment'>cranberry juice cocktail , thawed</span>",
+        "comment": "frozen cranberry juice cocktail, thawed",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup frozen concentrated cranberry juice cocktail, thawed",
+        "name": "concentrated"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>( packed )</span><span class='name'>golden brown sugar</span>",
+        "comment": "(packed)",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup (packed) golden brown sugar",
+        "name": "golden brown sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cinnamon</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cinnamon",
+        "input": "1 teaspoon ground cinnamon",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>allspice</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "allspice",
+        "input": "1/2 teaspoon ground allspice",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>dried sweetened</span><span class='name'>cranberries</span>",
+        "comment": "dried sweetened",
+        "unit": "cup",
+        "name": "cranberries",
+        "input": "1 cup dried sweetened cranberries",
+        "qty": "1"
+    }
+]

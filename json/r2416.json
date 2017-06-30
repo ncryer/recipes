@@ -1,0 +1,66 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='name'>lemon</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "halved",
+        "other": ",",
+        "name": "lemon",
+        "input": "1 lemon, halved",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='name'>baby artichokes</span>",
+        "qty": "8",
+        "input": "8 baby artichokes",
+        "name": "baby artichokes"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 1/2 tablespoons extra-virgin olive oil",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>minced</span><span class='name'>red onion</span>",
+        "comment": "minced",
+        "unit": "cup",
+        "name": "red onion",
+        "input": "1 cup minced red onion",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>ounces</span><span class='name'>baby carrots</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>1/4 inch of stem left intact</span>",
+        "comment": "peeled 1/4 inch of stem left intact",
+        "other": ", ,",
+        "unit": "ounce",
+        "name": "baby carrots",
+        "input": "8 ounces baby carrots, peeled, 1/4 inch of stem left intact",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='unit'>ounces</span><span class='comment'>slender</span><span class='name'>asparagus</span><span class='comment'>, trimmed , cut into 1-inch lengths</span>",
+        "comment": "slender, trimmed, cut into 1-inch lengths",
+        "unit": "ounce",
+        "name": "asparagus",
+        "input": "12 ounces slender asparagus, trimmed, cut into 1-inch lengths",
+        "qty": "12"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>ounces</span><span class='name'>sugar snap peas</span><span class='comment'>, trimmed</span><span class='other'>,</span><span class='comment'>halved crosswise</span>",
+        "comment": ", trimmed halved crosswise",
+        "other": ",",
+        "unit": "ounce",
+        "name": "sugar snap peas",
+        "input": "8 ounces sugar snap peas, trimmed, halved crosswise",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>chervil</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "chervil",
+        "input": "3 tablespoons chopped fresh chervil",
+        "qty": "3"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>white wine</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup white wine",
+        "name": "white wine"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='comment'>a 3-inch</span><span class='unit'>strip</span><span class='other'>of</span><span class='name'>orange zest</span>",
+        "comment": "a 3-inch",
+        "other": "of",
+        "unit": "strip",
+        "input": "a 3-inch strip of orange zest",
+        "name": "orange zest"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>rosemary</span><span class='comment'>leaves plus rosemary sprigs for garnish</span>",
+        "comment": "chopped fresh leaves plus rosemary sprigs for garnish",
+        "unit": "tablespoon",
+        "name": "rosemary",
+        "input": "1 tablespoon chopped fresh rosemary leaves plus rosemary sprigs for garnish",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>whole</span><span class='name'>black peppercorns</span>",
+        "comment": "whole",
+        "unit": "teaspoon",
+        "name": "black peppercorns",
+        "input": "1 teaspoon whole black peppercorns",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>orange juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "1/4 cup fresh orange juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>melon balls cut</span><span class='other'>from a</span><span class='comment'>honeydew melon</span><span class='other'>,</span><span class='comment'>cantaloupe</span><span class='other'>,</span><span class='comment'>Persian melon</span><span class='other'>, or</span><span class='comment'>casaba</span><span class='other'>,</span><span class='comment'>chilled</span>",
+        "comment": "honeydew melon cantaloupe Persian melon casaba chilled",
+        "other": "from a, ,, or ,",
+        "unit": "cup",
+        "name": "melon balls cut",
+        "input": "4 cups melon balls cut from a honeydew melon, cantaloupe, Persian melon, or casaba, chilled",
+        "qty": "4"
+    }
+]

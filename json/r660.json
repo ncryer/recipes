@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>pounds</span><span class='name'>plum tomatoes</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>halved crosswise</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "peeled halved crosswise seeded chopped",
+        "other": ",, , ,",
+        "unit": "pound",
+        "name": "plum tomatoes",
+        "input": "4 pounds plum tomatoes, peeled, halved crosswise, seeded, chopped",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1 1/4",
+        "input": "1 1/4 cups sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/4 teaspoon freshly ground black pepper",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>smoked paprika</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon smoked paprika",
+        "name": "smoked paprika"
+    },
+    {
+        "display": "<span class='comment'>Smoked</span><span class='name'>paprika</span><span class='comment'>is available at better supermarkets</span><span class='other'>,</span><span class='comment'>at specialty foods stores</span><span class='other'>,</span><span class='comment'>and from latienda.com</span>",
+        "comment": "Smoked is available at better supermarkets at specialty foods stores and from latienda.com",
+        "input": "Smoked paprika is available at better supermarkets, at specialty foods stores, and from latienda.com",
+        "name": "paprika",
+        "other": ", ,"
+    }
+]

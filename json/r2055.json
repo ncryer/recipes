@@ -1,0 +1,84 @@
+[
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>white wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup white wine vinegar",
+        "name": "white wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>dried</span><span class='name'>oregano</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "oregano",
+        "input": "1 1/2 teaspoons dried oregano",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>15-</span><span class='comment'>to 16-ounce can</span><span class='name'>kidney beans</span><span class='comment'>, drained</span>",
+        "qty": "1",
+        "comment": "to 16-ounce can, drained",
+        "input": "1 15- to 16-ounce can kidney beans, drained",
+        "name": "15- kidney beans"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>15- to 16-ounce can</span><span class='name'>garbanzo beans</span><span class='comment'>( chickpeas ) , drained</span>",
+        "qty": "1",
+        "comment": "15- to 16-ounce can (chickpeas), drained",
+        "input": "1 15- to 16-ounce can garbanzo beans (chickpeas), drained",
+        "name": "garbanzo beans"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>15-</span><span class='comment'>to 16-ounce can black-eyed</span><span class='name'>peas</span><span class='comment'>, drained</span>",
+        "qty": "1",
+        "comment": "to 16-ounce can black-eyed, drained",
+        "input": "1 15- to 16-ounce can black-eyed peas, drained",
+        "name": "15- peas"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>green bell pepper</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "green bell pepper",
+        "input": "1 cup chopped green bell pepper",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>red bell pepper</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "red bell pepper",
+        "input": "1 cup chopped red bell pepper",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>sliced pimiento-stuffed</span><span class='name'>olives</span>",
+        "comment": "sliced pimiento-stuffed",
+        "unit": "cup",
+        "name": "olives",
+        "input": "1 cup sliced pimiento-stuffed olives",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>red onion</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "red onion",
+        "input": "1/2 cup chopped red onion",
+        "qty": "1/2"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium</span><span class='name'>eggplants</span><span class='comment'>, 2 1/2 to 3 pounds total</span>",
+        "qty": "3",
+        "comment": "medium, 2 1/2 to 3 pounds total",
+        "input": "3 medium eggplants, 2 1/2 to 3 pounds total",
+        "name": "eggplants"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>plum tomatoes</span><span class='comment'>or 2 Jersey</span><span class='name'>tomatoes</span><span class='comment'>, finely chopped</span>",
+        "qty": "4",
+        "comment": "or 2 Jersey, finely chopped",
+        "input": "4 plum tomatoes or 2 Jersey tomatoes, finely chopped",
+        "name": "plum tomatoes tomatoes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>chile peppers</span><span class='other'>,</span><span class='comment'>seeded and finely chopped , optional</span>",
+        "comment": "seeded and finely chopped, optional",
+        "other": ",",
+        "name": "chile peppers",
+        "input": "2 chile peppers, seeded and finely chopped, optional",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='other'>to</span><span class='range_end'>5</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='comment'>, minced</span>",
+        "comment": ", minced",
+        "other": "to",
+        "unit": "clove",
+        "name": "garlic",
+        "range_end": "5",
+        "input": "4 to 5 cloves garlic, minced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>shallot</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "name": "shallot",
+        "input": "1 shallot, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1 cup chopped fresh parsley",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span><span class='comment'>or to taste</span>",
+        "comment": "extra-virgin or to taste",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "6 tablespoons extra-virgin olive oil or to taste",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='comment'>Juice of</span><span class='qty'>2</span><span class='name'>lemons</span><span class='comment'>, plus more for finishing</span>",
+        "qty": "2",
+        "comment": "Juice of, plus more for finishing",
+        "input": "Juice of 2 lemons, plus more for finishing",
+        "name": "lemons"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span><span class='comment'>or to taste</span>",
+        "comment": "ground or to taste",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1/2 teaspoon ground cumin or to taste",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/2 teaspoon freshly ground black pepper",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>Sea</span><span class='name'>salt</span><span class='comment'>to taste</span>",
+        "comment": "Sea to taste",
+        "input": "Sea salt to taste",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='name'>Sliced cucumbers</span><span class='comment'>for garnish</span>",
+        "comment": "for garnish",
+        "input": "Sliced cucumbers for garnish",
+        "name": "Sliced cucumbers"
+    }
+]

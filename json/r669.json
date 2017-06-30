@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>white grape juice</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup white grape juice",
+        "name": "white grape juice"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>cold</span><span class='other'>,</span><span class='comment'>flat</span><span class='name'>Prosecco</span>",
+        "comment": "cold flat",
+        "other": ",",
+        "unit": "cup",
+        "name": "Prosecco",
+        "input": "1 cup cold, flat Prosecco",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>rose water</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup rose water",
+        "name": "rose water"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>freshly squeezed</span><span class='name'>lemon juice</span>",
+        "comment": "freshly squeezed",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "1 1/2 teaspoons freshly squeezed lemon juice",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='comment'>About</span><span class='qty'>30</span><span class='name'>red rosebud petals</span><span class='comment'>, rinsed</span>",
+        "qty": "30",
+        "comment": "About, rinsed",
+        "input": "About 30 red rosebud petals, rinsed",
+        "name": "red rosebud petals"
+    }
+]

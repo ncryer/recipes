@@ -1,0 +1,27 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>stemmed fresh</span><span class='name'>chiles</span><span class='comment'>( such as jalape\u00f1o</span><span class='other'>,</span><span class='comment'>serrano</span><span class='other'>,</span><span class='comment'>Fresno</span><span class='other'>, or</span><span class='comment'>habanero; use one variety</span><span class='other'>or</span><span class='comment'>mix and match</span><span class='other'>)</span>",
+        "comment": "stemmed fresh (such as jalape\u00f1o serrano Fresno habanero; use one variety mix and match",
+        "other": ",, , or or)",
+        "unit": "pound",
+        "name": "chiles",
+        "input": "1 pound stemmed fresh chiles (such as jalape\u00f1o, serrano, Fresno, or habanero; use one variety or mix and match)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "2 tablespoons kosher salt",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>distilled</span><span class='name'>white vinegar</span>",
+        "comment": "distilled",
+        "unit": "cup",
+        "name": "white vinegar",
+        "input": "1 1/2 cups distilled white vinegar",
+        "qty": "1 1/2"
+    }
+]

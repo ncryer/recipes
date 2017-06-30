@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>ounces</span><span class='name'>bittersweet chocolate</span><span class='other'>,</span><span class='comment'>melted</span>",
+        "comment": "melted",
+        "other": ",",
+        "unit": "ounce",
+        "name": "bittersweet chocolate",
+        "input": "3 ounces bittersweet chocolate, melted",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>tahini</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup tahini",
+        "name": "tahini"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span><span class='comment'>, plus more</span>",
+        "comment": "kosher, plus more",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 teaspoon kosher salt, plus more",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>vegetable oil</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>black wild</span><span class='name'>rice</span>",
+        "comment": "black wild",
+        "unit": "cup",
+        "name": "rice",
+        "input": "1/4 cup black wild rice",
+        "qty": "1/4"
+    }
+]

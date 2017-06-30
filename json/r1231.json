@@ -1,0 +1,50 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='name'>daikon radish</span><span class='comment'>, peeled</span>",
+        "comment": ", peeled",
+        "unit": "pound",
+        "name": "daikon radish",
+        "input": "1 1/2 pounds daikon radish, peeled",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>red radishes</span><span class='comment'>( about 10 ) , trimmed and each cut lengthwise into 6 wedges</span>",
+        "comment": "(about 10), trimmed and each cut lengthwise into 6 wedges",
+        "unit": "bunch",
+        "name": "red radishes",
+        "input": "1 bunch red radishes (about 10), trimmed and each cut lengthwise into 6 wedges",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "1 tablespoon kosher salt",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>rice vinegar</span><span class='other'>(</span><span class='comment'>not seasoned )</span>",
+        "comment": "not seasoned)",
+        "other": "(",
+        "unit": "cup",
+        "name": "rice vinegar",
+        "input": "1/4 cup rice vinegar (not seasoned)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>very thin matchsticks of peeled</span><span class='name'>ginger</span>",
+        "comment": "very thin matchsticks of peeled",
+        "unit": "tablespoon",
+        "name": "ginger",
+        "input": "1 tablespoon very thin matchsticks of peeled ginger",
+        "qty": "1"
+    }
+]

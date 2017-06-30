@@ -1,0 +1,69 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>cider vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup cider vinegar",
+        "name": "cider vinegar"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>finely diced</span><span class='name'>sweet onion</span>",
+        "comment": "finely diced",
+        "unit": "cup",
+        "name": "sweet onion",
+        "input": "1/4 cup finely diced sweet onion",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>pepperoncini</span><span class='other'>,</span><span class='comment'>cored and finely chopped</span>",
+        "comment": "cored and finely chopped",
+        "other": ",",
+        "name": "pepperoncini",
+        "input": "4 pepperoncini, cored and finely chopped",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>ears</span><span class='other'>of</span><span class='name'>corn</span>",
+        "other": "of",
+        "unit": "ear",
+        "name": "corn",
+        "input": "3 ears of corn",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='other'>of</span><span class='name'>vegetable oil</span><span class='other'>,</span><span class='comment'>plus more for brushing</span>",
+        "comment": "plus more for brushing",
+        "other": "of ,",
+        "unit": "tablespoon",
+        "name": "vegetable oil",
+        "input": "1 tablespoon of vegetable oil, plus more for brushing",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground pepper",
+        "name": "pepper"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>basil</span>",
+        "comment": "finely chopped",
+        "unit": "cup",
+        "name": "basil",
+        "input": "1/4 cup finely chopped basil",
+        "qty": "1/4"
+    }
+]

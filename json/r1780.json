@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>lemon juice</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup lemon juice",
+        "name": "lemon juice"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='other'>to</span><span class='range_end'>3/4</span><span class='unit'>pound</span><span class='comment'>ripe</span><span class='name'>white peaches</span>",
+        "comment": "ripe",
+        "other": "to",
+        "unit": "pound",
+        "qty": "1/2",
+        "range_end": "3/4",
+        "input": "1/2 to 3/4 pound ripe white peaches",
+        "name": "white peaches"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='comment'>A few</span><span class='name'>raspberries</span><span class='other'>,</span><span class='comment'>if desired</span><span class='other'>,</span><span class='comment'>for color.</span>",
+        "comment": "A few if desired for color.",
+        "input": "A few raspberries, if desired, for color.",
+        "name": "raspberries",
+        "other": ", ,"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bottle</span><span class='name'>Prosecco sparkling wine</span><span class='comment'>, preferably Nino Franco</span>",
+        "comment": ", preferably Nino Franco",
+        "unit": "bottle",
+        "name": "Prosecco sparkling wine",
+        "input": "1 bottle Prosecco sparkling wine, preferably Nino Franco",
+        "qty": "1"
+    }
+]

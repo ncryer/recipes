@@ -1,0 +1,38 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>tsp</span><span class='name'>chia seeds</span>",
+        "qty": "4",
+        "comment": "tsp",
+        "input": "4 tsp chia seeds",
+        "name": "chia seeds"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( 4 fl oz/125ml ) blood</span><span class='name'>orange juice</span>",
+        "comment": "(4 fl oz/125ml) blood",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "1/2 cup (4 fl oz/125ml) blood orange juice",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>tbsp agave syrup</span><span class='comment'>or acacia honey</span>",
+        "qty": "1",
+        "comment": "or acacia honey",
+        "input": "1 tbsp agave syrup or acacia honey",
+        "name": "tbsp agave syrup"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>blood</span><span class='name'>oranges</span><span class='comment'>, peeled</span>",
+        "qty": "2",
+        "comment": "blood, peeled",
+        "input": "2 blood oranges, peeled",
+        "name": "oranges"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( 4 oz/125g ) soy or plain ( natural ) yogurt</span>",
+        "unit": "cup",
+        "comment": "(4 oz/125g) soy or plain (natural) yogurt",
+        "input": "1/2 cup (4 oz/125g) soy or plain (natural) yogurt",
+        "qty": "1/2"
+    }
+]

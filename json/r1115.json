@@ -1,0 +1,25 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>large unpeeled Yukon Gold</span><span class='name'>potatoes</span><span class='comment'>, each cut into 6 to 8 wedges</span>",
+        "comment": "large unpeeled Yukon Gold, each cut into 6 to 8 wedges",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "2 pounds large unpeeled Yukon Gold potatoes, each cut into 6 to 8 wedges",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>fleur de sel*</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons fleur de sel*",
+        "name": "fleur de sel*"
+    }
+]

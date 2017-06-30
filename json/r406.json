@@ -1,0 +1,24 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>Padr\u00f3n</span><span class='comment'>or shishito</span><span class='name'>peppers</span>",
+        "comment": "or shishito",
+        "unit": "pound",
+        "name": "Padr\u00f3n peppers",
+        "input": "1 pound Padr\u00f3n or shishito peppers",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Flaky sea salt</span><span class='other'>(</span><span class='comment'>such as Maldon</span><span class='other'>)</span>",
+        "comment": "such as Maldon",
+        "input": "Flaky sea salt (such as Maldon)",
+        "name": "Flaky sea salt",
+        "other": "()"
+    }
+]

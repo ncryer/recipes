@@ -1,0 +1,53 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>zucchini</span><span class='other'>,</span><span class='comment'>halved lengthwise and sliced into 1/4- to 1/2-inch-thick half-moons</span>",
+        "comment": "halved lengthwise and sliced into 1/4- to 1/2-inch-thick half-moons",
+        "other": ",",
+        "name": "zucchini",
+        "input": "2 zucchini, halved lengthwise and sliced into 1/4- to 1/2-inch-thick half-moons",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>fennel</span><span class='unit'>bulb</span><span class='comment'>, trimmed and cut into thin 1/2-inch wedges</span>",
+        "comment": ", trimmed and cut into thin 1/2-inch wedges",
+        "unit": "bulb",
+        "name": "fennel",
+        "input": "1 fennel bulb, trimmed and cut into thin 1/2-inch wedges",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>ounces</span><span class='name'>cremini mushrooms</span><span class='other'>,</span><span class='comment'>cut in half , or quartered if large</span>",
+        "comment": "cut in half, or quartered if large",
+        "other": ",",
+        "unit": "ounce",
+        "name": "cremini mushrooms",
+        "input": "8 ounces cremini mushrooms, cut in half, or quartered if large",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>asparagus</span><span class='other'>,</span><span class='comment'>trimmed and cut into 2-inch pieces</span>",
+        "comment": "trimmed and cut into 2-inch pieces",
+        "other": ",",
+        "unit": "pound",
+        "name": "asparagus",
+        "input": "1 pound asparagus, trimmed and cut into 2-inch pieces",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>extra-virgin</span><span class='name'>olive oil</span>",
+        "qty": "extra-virgin",
+        "input": "extra-virgin olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='name'>salt and pepper</span>",
+        "input": "salt and pepper",
+        "name": "salt and pepper"
+    },
+    {
+        "display": "<span class='qty'>chopped</span><span class='name'>herbs</span>",
+        "qty": "chopped",
+        "input": "chopped herbs",
+        "name": "herbs"
+    }
+]

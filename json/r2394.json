@@ -1,0 +1,58 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>minced</span><span class='name'>shallots</span>",
+        "comment": "minced",
+        "unit": "cup",
+        "name": "shallots",
+        "input": "1/4 cup minced shallots",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 1/2 tablespoons fresh lemon juice",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>oranges</span>",
+        "qty": "2",
+        "comment": "large",
+        "input": "2 large oranges",
+        "name": "oranges"
+    },
+    {
+        "display": "<span class='qty'>7</span><span class='unit'>cups</span><span class='name'>arugula</span><span class='other'>(</span><span class='comment'>about 10 large bunches ) , trimmed</span>",
+        "comment": "about 10 large bunches), trimmed",
+        "other": "(",
+        "unit": "cup",
+        "name": "arugula",
+        "input": "7 cups arugula (about 10 large bunches), trimmed",
+        "qty": "7"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>fennel</span><span class='unit'>bulb</span><span class='comment'>, quartered lengthwise</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>thinly sliced crosswise</span>",
+        "comment": "large, quartered lengthwise cored thinly sliced crosswise",
+        "other": ", ,",
+        "unit": "bulb",
+        "name": "fennel",
+        "input": "1 large fennel bulb, quartered lengthwise, cored, thinly sliced crosswise",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>red onion</span><span class='comment'>, thinly sliced</span>",
+        "qty": "1",
+        "comment": "small, thinly sliced",
+        "input": "1 small red onion, thinly sliced",
+        "name": "red onion"
+    }
+]

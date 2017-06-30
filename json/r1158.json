@@ -1,0 +1,97 @@
+[
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>red bell peppers</span><span class='comment'>, seeded</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "large, seeded thinly sliced",
+        "other": ",",
+        "name": "red bell peppers",
+        "input": "2 large red bell peppers, seeded, thinly sliced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>minced peeled fresh</span><span class='name'>ginger</span>",
+        "comment": "minced peeled fresh",
+        "unit": "tablespoon",
+        "name": "ginger",
+        "input": "3 tablespoons minced peeled fresh ginger",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 large garlic cloves, finely chopped",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>14-to 16-ounce package extra-firm</span><span class='name'>tofu</span><span class='other'>,</span><span class='comment'>drained well , cut into 1-inch cubes</span>",
+        "comment": "14-to 16-ounce package extra-firm drained well, cut into 1-inch cubes",
+        "other": ",",
+        "name": "tofu",
+        "input": "1 14-to 16-ounce package extra-firm tofu, drained well, cut into 1-inch cubes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>green</span><span class='name'>onions</span><span class='comment'>, thinly sliced on diagonal</span>",
+        "qty": "3",
+        "comment": "green, thinly sliced on diagonal",
+        "input": "3 green onions, thinly sliced on diagonal",
+        "name": "onions"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>soy sauce</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "2 tablespoons fresh lime juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='other'>to</span><span class='range_end'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>dried crushed</span><span class='name'>red pepper</span>",
+        "comment": "dried crushed",
+        "other": "to",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "range_end": "3/4",
+        "input": "1/2 to 3/4 teaspoon dried crushed red pepper",
+        "name": "red pepper"
+    },
+    {
+        "display": "<span class='comment'>1 6-ounce</span><span class='unit'>bag</span><span class='name'>baby spinach leaves</span>",
+        "unit": "bag",
+        "comment": "1 6-ounce",
+        "input": "1 6-ounce bag baby spinach leaves",
+        "name": "baby spinach leaves"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>basil</span>",
+        "comment": "chopped fresh",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup chopped fresh basil",
+        "name": "basil"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>lightly salted roasted</span><span class='name'>peanuts</span>",
+        "comment": "lightly salted roasted",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup lightly salted roasted peanuts",
+        "name": "peanuts"
+    }
+]

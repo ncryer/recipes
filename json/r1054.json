@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>small</span><span class='name'>Spanish onion</span><span class='comment'>, roughly chopped</span>",
+        "qty": "1/2",
+        "comment": "small, roughly chopped",
+        "input": "1/2 small Spanish onion, roughly chopped",
+        "name": "Spanish onion"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>medium</span><span class='name'>plum tomatoes</span><span class='comment'>, seeded and quartered</span>",
+        "qty": "4",
+        "comment": "medium, seeded and quartered",
+        "input": "4 medium plum tomatoes, seeded and quartered",
+        "name": "plum tomatoes"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( loosely packed ) fresh</span><span class='name'>cilantro leaves</span>",
+        "comment": "(loosely packed) fresh",
+        "unit": "cup",
+        "name": "cilantro leaves",
+        "input": "1/2 cup (loosely packed) fresh cilantro leaves",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lime juice</span><span class='comment'>( from 1 1/2 limes )</span>",
+        "comment": "fresh (from 1 1/2 limes)",
+        "unit": "cup",
+        "name": "lime juice",
+        "input": "1/4 cup fresh lime juice (from 1 1/2 limes)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/4 teaspoon kosher salt",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/4 teaspoon freshly ground black pepper",
+        "qty": "1/4"
+    }
+]

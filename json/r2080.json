@@ -1,0 +1,19 @@
+[
+    {
+        "display": "<span class='qty'>2 3/4</span><span class='unit'>cups</span><span class='comment'>long-grain white</span><span class='name'>rice</span><span class='comment'>( not converted ) or brown</span><span class='name'>rice</span>",
+        "comment": "long-grain white (not converted) or brown",
+        "unit": "cup",
+        "name": "rice rice",
+        "input": "2 3/4 cups long-grain white rice (not converted) or brown rice",
+        "qty": "2 3/4"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='other'>to</span><span class='range_end'>5</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "other": "to",
+        "unit": "cup",
+        "name": "water",
+        "range_end": "5",
+        "input": "4 to 5 cups water",
+        "qty": "4"
+    }
+]

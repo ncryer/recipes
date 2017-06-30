@@ -1,0 +1,105 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sunflower oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sunflower oil",
+        "name": "sunflower oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium yellow</span><span class='name'>onion</span><span class='comment'>, diced</span>",
+        "qty": "1",
+        "comment": "medium yellow, diced",
+        "input": "1 medium yellow onion, diced",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>shredded</span><span class='name'>carrots</span>",
+        "comment": "shredded",
+        "unit": "cup",
+        "name": "carrots",
+        "input": "1 cup shredded carrots",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1-2</span><span class='name'>jalape\u00f1o peppers , stemmed , seeded , and minced</span>",
+        "qty": "1-2",
+        "input": "1-2 jalape\u00f1o peppers, stemmed, seeded, and minced",
+        "name": "jalape\u00f1o peppers, stemmed, seeded, and minced"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 garlic cloves, minced",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>bulgur</span><span class='other'>,</span><span class='comment'>rinsed</span>",
+        "comment": "rinsed",
+        "other": ",",
+        "unit": "cup",
+        "name": "bulgur",
+        "input": "1/2 cup bulgur, rinsed",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>chili powder</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons chili powder",
+        "name": "chili powder"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "tablespoon",
+        "name": "cumin",
+        "input": "1 tablespoon ground cumin",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>diced fresh</span><span class='name'>tomatoes</span><span class='comment'>( about 2 medium or 6 plum tomatoes )</span>",
+        "comment": "diced fresh (about 2 medium or 6 plum tomatoes)",
+        "unit": "cup",
+        "name": "tomatoes",
+        "input": "2 cups diced fresh tomatoes (about 2 medium or 6 plum tomatoes)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>tomato sauce</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups tomato sauce",
+        "name": "tomato sauce"
+    },
+    {
+        "display": "<span class='comment'>1 ( 15-ounce ) can</span><span class='name'>kidney beans</span><span class='comment'>, drained and rinsed</span>",
+        "comment": "1 (15-ounce) can, drained and rinsed",
+        "input": "1 (15-ounce) can kidney beans, drained and rinsed",
+        "name": "kidney beans"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='comment'>( 15-ounce ) cans</span><span class='name'>black beans</span><span class='comment'>, drained and rinsed</span>",
+        "qty": "1 1/2",
+        "comment": "(15-ounce) cans, drained and rinsed",
+        "input": "1 1/2 (15-ounce) cans black beans, drained and rinsed",
+        "name": "black beans"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>kosher</span><span class='name'>salt</span><span class='comment'>, or to taste</span>",
+        "comment": "kosher, or to taste",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 1/2 teaspoons kosher salt, or to taste",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='comment'>Chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "Chopped fresh",
+        "input": "Chopped fresh cilantro",
+        "name": "cilantro"
+    }
+]

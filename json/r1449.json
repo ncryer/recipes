@@ -1,0 +1,70 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>dried</span><span class='name'>chickpeas</span><span class='comment'>( garbanzo beans; 2 1/2 cups ) , picked over</span>",
+        "comment": "dried (garbanzo beans; 2 1/2 cups), picked over",
+        "unit": "pound",
+        "name": "chickpeas",
+        "input": "1 pound dried chickpeas (garbanzo beans; 2 1/2 cups), picked over",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>cumin seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon cumin seeds",
+        "name": "cumin seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>onion</span><span class='comment'>, sliced , plus extra thin slices for garnishing</span>",
+        "qty": "1",
+        "comment": "large, sliced, plus extra thin slices for garnishing",
+        "input": "1 large onion, sliced, plus extra thin slices for garnishing",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>medium</span><span class='name'>tomatoes</span><span class='comment'>, chopped , plus thin slices for garnishing</span>",
+        "qty": "4",
+        "comment": "medium, chopped, plus thin slices for garnishing",
+        "input": "4 medium tomatoes, chopped, plus thin slices for garnishing",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>chile powder</span><span class='other'>(</span><span class='comment'>see Tip , below )</span>",
+        "comment": "see Tip, below)",
+        "other": "(",
+        "unit": "teaspoon",
+        "name": "chile powder",
+        "input": "1 1/2 teaspoons chile powder (see Tip, below)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>teaspoons</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1 1/4 teaspoons ground cumin",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>cilantro</span><span class='comment'>, finely chopped , plus extra for garnishing</span>",
+        "comment": "fresh, finely chopped, plus extra for garnishing",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/2 cup fresh cilantro, finely chopped, plus extra for garnishing",
+        "qty": "1/2"
+    }
+]

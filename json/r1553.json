@@ -1,0 +1,58 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>lb mixed bell peppers</span><span class='comment'>,</span>",
+        "qty": "2",
+        "comment": ",",
+        "input": "2 lb mixed bell peppers ,",
+        "name": "lb mixed bell peppers"
+    },
+    {
+        "display": "<span class='name'>and cut lengthwise into 1/4-inch- wide strips</span>",
+        "input": "and cut lengthwise into 1/4-inch- wide strips",
+        "name": "and cut lengthwise into 1/4-inch- wide strips"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>white balsamic vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons white balsamic vinegar",
+        "name": "white balsamic vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>capers</span><span class='comment'>in brine , rinsed and drained</span>",
+        "comment": "in brine, rinsed and drained",
+        "unit": "tablespoon",
+        "name": "capers",
+        "input": "2 tablespoons capers in brine, rinsed and drained",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>basil</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "basil",
+        "input": "2 tablespoons chopped fresh basil",
+        "qty": "2"
+    }
+]

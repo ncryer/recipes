@@ -1,0 +1,109 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pint</span><span class='name'>strawberries</span><span class='other'>,</span><span class='comment'>hulled and halved</span>",
+        "comment": "hulled and halved",
+        "other": ",",
+        "unit": "pint",
+        "name": "strawberries",
+        "input": "1 pint strawberries, hulled and halved",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>half-pint</span><span class='name'>raspberries</span>",
+        "qty": "1",
+        "comment": "half-pint",
+        "input": "1 half-pint raspberries",
+        "name": "raspberries"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>half-pint</span><span class='name'>blueberries</span><span class='comment'>or blackberries</span>",
+        "comment": "or blackberries",
+        "unit": "half-pint",
+        "name": "blueberries",
+        "input": "1 half-pint blueberries or blackberries",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>oranges</span><span class='other'>,</span><span class='comment'>peeled and cut into sections</span>",
+        "comment": "peeled and cut into sections",
+        "other": ",",
+        "name": "oranges",
+        "input": "2 oranges, peeled and cut into sections",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>kiwis</span><span class='other'>,</span><span class='comment'>peeled and cut into large chunks</span>",
+        "comment": "peeled and cut into large chunks",
+        "other": ",",
+        "name": "kiwis",
+        "input": "2 kiwis, peeled and cut into large chunks",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>mango</span><span class='comment'>, peeled</span><span class='other'>,</span><span class='comment'>pitted</span><span class='other'>,</span><span class='comment'>and cut into large chunks</span>",
+        "comment": ", peeled pitted and cut into large chunks",
+        "other": ", ,",
+        "name": "mango",
+        "input": "1 mango, peeled, pitted, and cut into large chunks",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>papaya</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>pitted</span><span class='other'>,</span><span class='comment'>and cut into large chunks</span>",
+        "comment": "peeled pitted and cut into large chunks",
+        "other": ",, ,",
+        "name": "papaya",
+        "input": "1 papaya, peeled, pitted, and cut into large chunks",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>fresh</span><span class='name'>pineapple</span><span class='comment'>cut into large chunks</span>",
+        "comment": "fresh cut into large chunks",
+        "unit": "cup",
+        "name": "pineapple",
+        "input": "2 cups fresh pineapple cut into large chunks",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>cantaloupe</span><span class='comment'>or honeydew melon cut into large chunks</span>",
+        "comment": "or honeydew melon cut into large chunks",
+        "unit": "cup",
+        "name": "cantaloupe",
+        "input": "1 cup cantaloupe or honeydew melon cut into large chunks",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>mint</span><span class='comment'>, julienned</span>",
+        "comment": "fresh, julienned",
+        "unit": "cup",
+        "name": "mint",
+        "input": "1/4 cup fresh mint, julienned",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='other'>,</span>",
+        "input": ",",
+        "other": ","
+    },
+    {
+        "display": "<span class='other'>,</span>",
+        "input": ",",
+        "other": ","
+    },
+    {
+        "display": "<span class='other'>or</span>",
+        "input": "or",
+        "other": "or"
+    },
+    {
+        "display": "<span class='name'>syrups</span>",
+        "input": "syrups",
+        "name": "syrups"
+    },
+    {
+        "display": "<span class='comment'>Fresh</span><span class='name'>rosemary</span><span class='comment'>or mint</span><span class='unit'>sprigs</span><span class='comment'>if you're using</span>",
+        "unit": "sprig",
+        "comment": "Fresh or mint if you're using",
+        "input": "Fresh rosemary or mint sprigs if you're using",
+        "name": "rosemary"
+    }
+]

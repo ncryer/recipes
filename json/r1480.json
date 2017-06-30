@@ -1,0 +1,37 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>light</span><span class='name'>corn syrup</span>",
+        "comment": "light",
+        "unit": "tablespoon",
+        "name": "corn syrup",
+        "input": "2 tablespoons light corn syrup",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>black-currant nectar</span><span class='comment'>( preferably Looza brand; see cooks' note )</span>",
+        "comment": "(preferably Looza brand; see cooks' note)",
+        "unit": "cup",
+        "name": "black-currant nectar",
+        "input": "3 cups black-currant nectar (preferably Looza brand; see cooks' note)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>cr\u00e8me de cassis</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup cr\u00e8me de cassis",
+        "name": "cr\u00e8me de cassis"
+    },
+    {
+        "display": "<span class='name'>Special equipment: an ice cream maker</span>",
+        "input": "Special equipment: an ice cream maker",
+        "name": "Special equipment: an ice cream maker"
+    }
+]

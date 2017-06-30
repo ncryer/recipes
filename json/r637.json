@@ -1,0 +1,39 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='name'>apples</span><span class='comment'>, cored , or 3 cups filtered water</span>",
+        "qty": "8",
+        "comment": ", cored, or 3 cups filtered water",
+        "input": "8 apples, cored, or 3 cups filtered water",
+        "name": "apples"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>vanilla sapotes</span><span class='other'>,</span><span class='comment'>seeded</span>",
+        "comment": "seeded",
+        "other": ",",
+        "name": "vanilla sapotes",
+        "input": "2 vanilla sapotes, seeded",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>cherimoya</span><span class='comment'>, peeled and seeded</span>",
+        "qty": "1",
+        "comment": "large, peeled and seeded",
+        "input": "1 large cherimoya, peeled and seeded",
+        "name": "cherimoya"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>bananas</span><span class='other'>,</span><span class='comment'>peeled , frozen , and cut into chunks</span>",
+        "comment": "peeled, frozen, and cut into chunks",
+        "other": ",",
+        "name": "bananas",
+        "input": "2 bananas, peeled, frozen, and cut into chunks",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Seeds from</span><span class='qty'>1/2</span><span class='name'>vanilla bean</span><span class='comment'>( optional )</span>",
+        "qty": "1/2",
+        "comment": "Seeds from (optional)",
+        "input": "Seeds from 1/2 vanilla bean (optional)",
+        "name": "vanilla bean"
+    }
+]

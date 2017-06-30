@@ -1,0 +1,25 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>kimchi</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": ",",
+        "unit": "cup",
+        "name": "kimchi",
+        "input": "3 cups kimchi, finely chopped",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>cider vinegar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup cider vinegar",
+        "name": "cider vinegar"
+    }
+]

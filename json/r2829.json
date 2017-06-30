@@ -1,0 +1,69 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "3 tablespoons fresh lemon juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='comment'>a 15-ounce can</span><span class='name'>black beans</span><span class='comment'>, rinsed and drained</span>",
+        "comment": "a 15-ounce can, rinsed and drained",
+        "input": "a 15-ounce can black beans, rinsed and drained",
+        "name": "black beans"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>cooked fresh</span><span class='name'>corn kernels</span><span class='comment'>( from about 2 ears )</span>",
+        "comment": "cooked fresh (from about 2 ears)",
+        "unit": "cup",
+        "name": "corn kernels",
+        "input": "1 cup cooked fresh corn kernels (from about 2 ears)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>plum tomato</span><span class='other'>,</span><span class='comment'>seeded and chopped</span>",
+        "comment": "seeded and chopped",
+        "other": ",",
+        "name": "plum tomato",
+        "input": "1 plum tomato, seeded and chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>scallion</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "name": "scallion",
+        "input": "1 scallion, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>minced fresh</span><span class='name'>parsley leaves</span>",
+        "comment": "minced fresh",
+        "unit": "tablespoon",
+        "name": "parsley leaves",
+        "input": "2 tablespoons minced fresh parsley leaves",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>a</span><span class='unit'>pinch</span><span class='name'>cayenne</span>",
+        "unit": "pinch",
+        "other": "a",
+        "input": "a pinch cayenne",
+        "name": "cayenne"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>large Boston</span><span class='name'>lettuce leaves</span><span class='comment'>, rinsed and spun dry</span>",
+        "qty": "4",
+        "comment": "large Boston, rinsed and spun dry",
+        "input": "4 large Boston lettuce leaves, rinsed and spun dry",
+        "name": "lettuce leaves"
+    }
+]

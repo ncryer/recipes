@@ -1,0 +1,118 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>organic</span><span class='name'>all-purpose flour</span>",
+        "comment": "organic",
+        "unit": "cup",
+        "name": "all-purpose flour",
+        "input": "1 1/2 cups organic all-purpose flour",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>organic whole</span><span class='name'>wheat flour</span>",
+        "comment": "organic whole",
+        "unit": "cup",
+        "name": "wheat flour",
+        "input": "1 1/2 cups organic whole wheat flour",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>baking powder</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon baking powder",
+        "name": "baking powder"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>baking soda</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon baking soda",
+        "name": "baking soda"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>organic ground</span><span class='name'>ginger</span>",
+        "comment": "organic ground",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "1 teaspoon organic ground ginger",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>minced organic crystallized</span><span class='name'>ginger</span>",
+        "comment": "minced organic crystallized",
+        "unit": "cup",
+        "name": "ginger",
+        "input": "3/4 cup minced organic crystallized ginger",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='comment'>organic</span><span class='name'>cane sugar</span>",
+        "comment": "organic",
+        "unit": "cup",
+        "name": "cane sugar",
+        "input": "1 1/4 cups organic cane sugar",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>organic ground</span><span class='name'>flaxseed</span>",
+        "comment": "organic ground",
+        "unit": "tablespoon",
+        "name": "flaxseed",
+        "input": "2 tablespoons organic ground flaxseed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>organic</span><span class='name'>unsweetened applesauce*</span>",
+        "comment": "organic",
+        "unit": "cup",
+        "name": "unsweetened applesauce*",
+        "input": "1/2 cup organic unsweetened applesauce*",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>organic</span><span class='name'>canola oil</span>",
+        "comment": "organic",
+        "unit": "cup",
+        "name": "canola oil",
+        "input": "1/4 cup organic canola oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>grated organic</span><span class='name'>lemon</span><span class='comment'>zest</span>",
+        "comment": "grated organic zest",
+        "unit": "teaspoon",
+        "name": "lemon",
+        "input": "1 teaspoon grated organic lemon zest",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh organic</span><span class='name'>lemon juice</span>",
+        "comment": "fresh organic",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh organic lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>organic</span><span class='name'>vanilla extract</span>",
+        "comment": "organic",
+        "unit": "teaspoon",
+        "name": "vanilla extract",
+        "input": "1/2 teaspoon organic vanilla extract",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>*Note:</span><span class='name'>Tip</span><span class='comment'>for parents: Snack packs of applesauce come in 1/2-cup servings.</span>",
+        "qty": "*Note:",
+        "comment": "for parents: Snack packs of applesauce come in 1/2-cup servings.",
+        "input": "*Note: Tip for parents: Snack packs of applesauce come in 1/2-cup servings.",
+        "name": "Tip"
+    }
+]

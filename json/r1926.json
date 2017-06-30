@@ -1,0 +1,17 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='name'>asparagus</span><span class='other'>,</span><span class='comment'>trimmed</span>",
+        "comment": "trimmed",
+        "other": ",",
+        "unit": "pound",
+        "name": "asparagus",
+        "input": "1 1/2 pounds asparagus, trimmed",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='comment'>Nonstick</span><span class='name'>olive oil spray</span>",
+        "comment": "Nonstick",
+        "input": "Nonstick olive oil spray",
+        "name": "olive oil spray"
+    }
+]

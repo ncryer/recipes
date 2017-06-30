@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>cold</span><span class='name'>water</span>",
+        "comment": "cold",
+        "unit": "cup",
+        "name": "water",
+        "input": "1 cup cold water",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>frozen pitted</span><span class='name'>cherries</span>",
+        "comment": "frozen pitted",
+        "unit": "cup",
+        "name": "cherries",
+        "input": "1 cup frozen pitted cherries",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>banana</span>",
+        "qty": "1",
+        "comment": "small",
+        "input": "1 small banana",
+        "name": "banana"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>a\u00e7ai berry frozen</span><span class='name'>smoothie pack</span><span class='comment'>( such as Sambazon )</span>",
+        "qty": "1",
+        "comment": "a\u00e7ai berry frozen (such as Sambazon)",
+        "input": "1 a\u00e7ai berry frozen smoothie pack (such as Sambazon)",
+        "name": "smoothie pack"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>chocolate protein powder</span><span class='comment'>( such as Muscle Milk )</span>",
+        "comment": "(such as Muscle Milk)",
+        "unit": "tablespoon",
+        "name": "chocolate protein powder",
+        "input": "3 tablespoons chocolate protein powder (such as Muscle Milk)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>raw</span><span class='name'>cacao powder</span><span class='other'>(</span><span class='comment'>at health food stores )</span>",
+        "comment": "raw at health food stores)",
+        "other": "(",
+        "unit": "tablespoon",
+        "name": "cacao powder",
+        "input": "2 tablespoons raw cacao powder (at health food stores)",
+        "qty": "2"
+    }
+]

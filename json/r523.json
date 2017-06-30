@@ -1,0 +1,153 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>teaspoons</span><span class='comment'>ground</span><span class='name'>sumac</span><span class='other'>,</span><span class='comment'>soaked in 4 teaspoons warm water for 15 minutes</span>",
+        "comment": "ground soaked in 4 teaspoons warm water for 15 minutes",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "sumac",
+        "input": "4 teaspoons ground sumac, soaked in 4 teaspoons warm water for 15 minutes",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>( or more ) fresh</span><span class='name'>lemon juice</span>",
+        "comment": "(or more) fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "3 tablespoons (or more) fresh lemon juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>( or more )</span><span class='name'>pomegranate molasses</span>",
+        "comment": "(or more)",
+        "unit": "tablespoon",
+        "name": "pomegranate molasses",
+        "input": "2 tablespoons (or more) pomegranate molasses",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>small</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": "small ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 small garlic cloves, minced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>( or more</span><span class='other'>)</span><span class='name'>white wine vinegar</span>",
+        "comment": "(or more",
+        "other": ")",
+        "unit": "teaspoon",
+        "name": "white wine vinegar",
+        "input": "2 teaspoons (or more) white wine vinegar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>mint</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "mint",
+        "input": "1/2 teaspoon dried mint",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "3/4 cup extra-virgin olive oil",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>8\"-diameter pita breads</span><span class='other'>,</span><span class='comment'>halved</span><span class='other'>,</span><span class='comment'>toasted until golden brown</span><span class='other'>,</span><span class='comment'>broken into bite-size pieces</span>",
+        "comment": "halved toasted until golden brown broken into bite-size pieces",
+        "other": ",, ,",
+        "name": "8\"-diameter pita breads",
+        "input": "2 8\"-diameter pita breads, halved, toasted until golden brown, broken into bite-size pieces",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium ripe</span><span class='name'>tomatoes</span><span class='other'>,</span><span class='comment'>chopped , or 4 cups cherry</span><span class='name'>tomatoes</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "medium ripe chopped, or 4 cups cherry halved",
+        "other": ", ,",
+        "name": "tomatoes tomatoes",
+        "input": "3 medium ripe tomatoes, chopped, or 4 cups cherry tomatoes, halved",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>Persian cucumbers</span><span class='other'>, or one</span><span class='comment'>1-pound English hothouse cucumber</span><span class='other'>,</span><span class='comment'>quartered lengthwise</span><span class='other'>,</span><span class='comment'>thinly sliced crosswise</span>",
+        "comment": "1-pound English hothouse cucumber quartered lengthwise thinly sliced crosswise",
+        "other": ", or one, ,",
+        "unit": "pound",
+        "name": "Persian cucumbers",
+        "input": "1 pound Persian cucumbers, or one 1-pound English hothouse cucumber, quartered lengthwise, thinly sliced crosswise",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "name": "scallions",
+        "input": "6 scallions, thinly sliced",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>Little Gem</span><span class='other'>or</span><span class='comment'>baby romaine lettuces</span><span class='other'>,</span><span class='comment'>or 1 small head romaine</span><span class='name'>lettuce</span><span class='comment'>, trimmed</span><span class='other'>,</span><span class='comment'>cut crosswise into 3/4\" strips</span>",
+        "comment": "baby romaine lettuces or 1 small head romaine, trimmed cut crosswise into 3/4\" strips",
+        "other": "or, ,",
+        "name": "Little Gem lettuce",
+        "input": "2 Little Gem or baby romaine lettuces, or 1 small head romaine lettuce, trimmed, cut crosswise into 3/4\" strips",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>( loosely packed ) flat-leaf</span><span class='name'>parsley leaves</span>",
+        "comment": "(loosely packed) flat-leaf",
+        "unit": "cup",
+        "name": "parsley leaves",
+        "input": "2 cups (loosely packed) flat-leaf parsley leaves",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>purslane leaves</span><span class='comment'>or additional 3/4\"-strips romaine</span><span class='name'>lettuce</span>",
+        "comment": "or additional 3/4\"-strips romaine",
+        "unit": "cup",
+        "name": "purslane leaves lettuce",
+        "input": "2 cups purslane leaves or additional 3/4\"-strips romaine lettuce",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>mint leaves</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "mint leaves",
+        "input": "1 cup fresh mint leaves",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Ground</span><span class='name'>sumac</span><span class='other'>(</span><span class='comment'>optional</span><span class='other'>)</span>",
+        "comment": "Ground optional",
+        "input": "Ground sumac (optional)",
+        "name": "sumac",
+        "other": "()"
+    }
+]

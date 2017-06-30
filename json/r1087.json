@@ -1,0 +1,66 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='name'>green onions</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "name": "green onions",
+        "input": "8 green onions, thinly sliced",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped fresh Italian</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh Italian",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1 cup chopped fresh Italian parsley",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>chopped pitted</span><span class='name'>Deglet Noor dates</span>",
+        "comment": "chopped pitted",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup chopped pitted Deglet Noor dates",
+        "name": "Deglet Noor dates"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>pine nuts</span><span class='other'>,</span>",
+        "other": ",",
+        "unit": "cup",
+        "name": "pine nuts",
+        "input": "1/2 cup pine nuts ,",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "6 tablespoons extra-virgin olive oil",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "3 tablespoons fresh lemon juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>finely grated</span><span class='name'>lemon peel</span>",
+        "comment": "finely grated",
+        "unit": "teaspoon",
+        "name": "lemon peel",
+        "input": "2 teaspoons finely grated lemon peel",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>( about ) minced seeded deveined habanero</span><span class='name'>chile</span><span class='comment'>( from 1 chile )</span>",
+        "comment": "(about) minced seeded deveined habanero (from 1 chile)",
+        "unit": "teaspoon",
+        "name": "chile",
+        "input": "2 teaspoons (about) minced seeded deveined habanero chile (from 1 chile)",
+        "qty": "2"
+    }
+]

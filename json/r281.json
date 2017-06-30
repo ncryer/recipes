@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>fingerling</span><span class='name'>potatoes</span><span class='comment'>, halved lengthwise</span>",
+        "comment": "fingerling, halved lengthwise",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "2 pounds fingerling potatoes, halved lengthwise",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>chopped fresh</span><span class='name'>rosemary</span>",
+        "comment": "chopped fresh",
+        "unit": "teaspoon",
+        "name": "rosemary",
+        "input": "2 teaspoons chopped fresh rosemary",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground pepper",
+        "name": "salt pepper",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>thinly sliced preserved</span><span class='name'>lemon peel</span>",
+        "comment": "thinly sliced preserved",
+        "unit": "tablespoon",
+        "name": "lemon peel",
+        "input": "3 tablespoons thinly sliced preserved lemon peel",
+        "qty": "3"
+    }
+]

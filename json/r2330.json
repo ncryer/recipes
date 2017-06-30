@@ -1,0 +1,34 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='name'>snow peas</span><span class='comment'>, trimmed and strings discarded</span>",
+        "comment": ", trimmed and strings discarded",
+        "unit": "pound",
+        "name": "snow peas",
+        "input": "1/2 pound snow peas, trimmed and strings discarded",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>Asian sesame oil</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon Asian sesame oil",
+        "name": "Asian sesame oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>scallion</span><span class='other'>,</span><span class='comment'>sliced thinly on diagonal</span>",
+        "comment": "sliced thinly on diagonal",
+        "other": ",",
+        "name": "scallion",
+        "input": "1 scallion, sliced thinly on diagonal",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>sesame seeds</span><span class='other'>,</span><span class='comment'>toasted lightly</span>",
+        "comment": "toasted lightly",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "sesame seeds",
+        "input": "2 teaspoons sesame seeds, toasted lightly",
+        "qty": "2"
+    }
+]

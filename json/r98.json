@@ -1,0 +1,68 @@
+[
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>store-bought</span><span class='name'>green curry paste</span>",
+        "comment": "store-bought",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup store-bought green curry paste",
+        "name": "green curry paste"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>13.5-ounce ) can</span><span class='name'>coconut milk</span>",
+        "comment": "13.5-ounce) can",
+        "other": "(",
+        "name": "coconut milk",
+        "input": "1 (13.5-ounce) can coconut milk",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3",
+        "input": "3 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='comment'>Sea</span><span class='name'>salt and cracked black pepper</span>",
+        "comment": "Sea",
+        "input": "Sea salt and cracked black pepper",
+        "name": "salt and cracked black pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>broccoli florets</span><span class='comment'>, chopped</span>",
+        "comment": ", chopped",
+        "unit": "pound",
+        "name": "broccoli florets",
+        "input": "1 pound broccoli florets, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>baby</span><span class='name'>spinach leaves</span><span class='comment'>, plus more to serve</span>",
+        "comment": "baby, plus more to serve",
+        "unit": "cup",
+        "name": "spinach leaves",
+        "input": "2 cups baby spinach leaves, plus more to serve",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>cilantro leaves</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups cilantro leaves",
+        "name": "cilantro leaves"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>shredded</span>",
+        "comment": "shredded",
+        "other": ",",
+        "name": "scallions",
+        "input": "2 scallions, shredded",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Store-bought crispy</span><span class='name'>shallots</span><span class='comment'>or onions , to serve</span>",
+        "comment": "Store-bought crispy or onions, to serve",
+        "input": "Store-bought crispy shallots or onions, to serve",
+        "name": "shallots"
+    }
+]

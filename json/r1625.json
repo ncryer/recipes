@@ -1,0 +1,117 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>shredded</span><span class='name'>red cabbage</span>",
+        "comment": "shredded",
+        "unit": "cup",
+        "name": "red cabbage",
+        "input": "2 cups shredded red cabbage",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='name'>Salt</span>",
+        "input": "Salt",
+        "name": "Salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>soy sauce</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>rice wine vinegar</span><span class='comment'>, or other</span><span class='name'>vinegar</span>",
+        "comment": ", or other",
+        "unit": "tablespoon",
+        "name": "rice wine vinegar vinegar",
+        "input": "1 tablespoon rice wine vinegar, or other vinegar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>minced</span><span class='name'>garlic</span>",
+        "comment": "minced",
+        "unit": "teaspoon",
+        "name": "garlic",
+        "input": "1 teaspoon minced garlic",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>chile pepper</span><span class='other'>(</span><span class='comment'>preferably Thai</span><span class='name'>chile</span><span class='other'>) ,</span><span class='comment'>minced</span><span class='other'>, or</span><span class='comment'>dried red pepper flakes</span><span class='other'>,</span><span class='comment'>to taste</span>",
+        "comment": "small preferably Thai minced dried red pepper flakes to taste",
+        "other": "(), , or ,",
+        "name": "chile pepper chile",
+        "input": "1 small chile pepper (preferably Thai chile), minced, or dried red pepper flakes, to taste",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>lime juice</span><span class='other'>,</span><span class='comment'>or to taste</span>",
+        "comment": "or to taste",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "lime juice",
+        "input": "1 teaspoon lime juice, or to taste",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>shredded</span><span class='name'>jicama</span>",
+        "comment": "shredded",
+        "unit": "cup",
+        "name": "jicama",
+        "input": "1 cup shredded jicama",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>shredded</span><span class='name'>carrot</span><span class='comment'>( optional</span><span class='other'>)</span>",
+        "comment": "shredded (optional",
+        "other": ")",
+        "unit": "cup",
+        "name": "carrot",
+        "input": "1/2 cup shredded carrot (optional)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>corn oil</span><span class='comment'>or canola oil</span>",
+        "comment": "or canola oil",
+        "unit": "teaspoon",
+        "name": "corn oil",
+        "input": "2 teaspoons corn oil or canola oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='name'>Salt and pepper</span><span class='comment'>, to taste</span>",
+        "comment": ", to taste",
+        "input": "Salt and pepper, to taste",
+        "name": "Salt and pepper"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>coarsely chopped</span><span class='name'>mint leaves</span>",
+        "comment": "coarsely chopped",
+        "unit": "cup",
+        "name": "mint leaves",
+        "input": "1/2 cup coarsely chopped mint leaves",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped candied</span><span class='name'>pecans</span><span class='comment'>or walnuts ( optional )</span>",
+        "comment": "chopped candied or walnuts (optional)",
+        "unit": "cup",
+        "name": "pecans",
+        "input": "1/4 cup chopped candied pecans or walnuts (optional)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>grapefruits</span><span class='comment'>, segmented</span><span class='other'>,</span><span class='comment'>tough membranes removed</span>",
+        "comment": ", segmented tough membranes removed",
+        "other": ",",
+        "name": "grapefruits",
+        "input": "2 grapefruits, segmented, tough membranes removed",
+        "qty": "2"
+    }
+]

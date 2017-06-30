@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>firm but ripe</span><span class='name'>mangoes</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>pitted</span><span class='other'>,</span><span class='comment'>cut into 1/4-inch dice</span>",
+        "comment": "firm but ripe peeled pitted cut into 1/4-inch dice",
+        "other": ",, ,",
+        "name": "mangoes",
+        "input": "3 firm but ripe mangoes, peeled, pitted, cut into 1/4-inch dice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>4 1/2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "4 1/2",
+        "input": "4 1/2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "3 tablespoons fresh lime juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>dark rum</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons dark rum",
+        "name": "dark rum"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>grated</span><span class='name'>lime peel</span>",
+        "comment": "grated",
+        "unit": "tablespoon",
+        "name": "lime peel",
+        "input": "1 tablespoon grated lime peel",
+        "qty": "1"
+    }
+]

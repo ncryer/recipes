@@ -1,0 +1,89 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>ounce</span><span class='name'>dried</span>",
+        "unit": "ounce",
+        "qty": "3/4",
+        "input": "3/4 ounce dried",
+        "name": "dried"
+    },
+    {
+        "display": "<span class='comment'>seaweed</span><span class='other'>(</span><span class='comment'>whole or cut</span><span class='other'>)</span>",
+        "comment": "seaweed whole or cut",
+        "input": "seaweed (whole or cut)",
+        "other": "()"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>rice vinegar</span><span class='other'>(</span><span class='comment'>not seasoned )</span>",
+        "comment": "not seasoned)",
+        "other": "(",
+        "unit": "tablespoon",
+        "name": "rice vinegar",
+        "input": "3 tablespoons rice vinegar (not seasoned)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>soy sauce</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>Asian sesame oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons Asian sesame oil",
+        "name": "Asian sesame oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>finely grated peeled fresh ginger</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon finely grated peeled fresh ginger",
+        "name": "finely grated peeled fresh ginger"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>minced</span><span class='name'>garlic</span>",
+        "comment": "minced",
+        "unit": "teaspoon",
+        "name": "garlic",
+        "input": "1/2 teaspoon minced garlic",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>tart apple</span><span class='comment'>( 1/4 pound ) such as Granny Smith</span>",
+        "qty": "1",
+        "comment": "small (1/4 pound) such as Granny Smith",
+        "input": "1 small tart apple (1/4 pound) such as Granny Smith",
+        "name": "tart apple"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "name": "scallions",
+        "input": "2 scallions, thinly sliced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "2 tablespoons chopped fresh cilantro",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span>",
+        "unit": "tablespoon",
+        "input": "1 tablespoon",
+        "qty": "1"
+    }
+]

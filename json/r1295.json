@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>( packed ) whole fresh basil leaves plus 3</span><span class='unit'>tablespoons</span><span class='comment'>thinly sliced fresh basil</span>",
+        "unit": "cup tablespoon",
+        "comment": "(packed) whole fresh basil leaves plus 3 thinly sliced fresh basil",
+        "input": "1 cup (packed) whole fresh basil leaves plus 3 tablespoons thinly sliced fresh basil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1/2 cup plus 2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin olive</span><span class='name'>oil</span>",
+        "comment": "extra-virgin olive",
+        "other": "1/2 cup plus 2",
+        "unit": "tablespoon",
+        "input": "1/2 cup plus 2 tablespoons extra-virgin olive oil",
+        "name": "oil"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>tablespoons</span><span class='comment'>unseasoned</span><span class='name'>rice vinegar</span>",
+        "comment": "unseasoned",
+        "unit": "tablespoon",
+        "name": "rice vinegar",
+        "input": "2 1/2 tablespoons unseasoned rice vinegar",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>Dijon mustard</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>red onion</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "red onion",
+        "input": "1/4 cup chopped red onion",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>medium Yukon Gold</span><span class='name'>potatoes</span><span class='comment'>, peeled</span>",
+        "comment": "medium Yukon Gold, peeled",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "2 pounds medium Yukon Gold potatoes, peeled",
+        "qty": "2"
+    }
+]

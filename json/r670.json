@@ -1,0 +1,93 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>( 340 g ) shelled and frozen edamame</span>",
+        "unit": "cup",
+        "comment": "(340 g) shelled and frozen edamame",
+        "input": "2 cups (340 g) shelled and frozen edamame",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>can</span><span class='other'>(</span><span class='comment'>15 ounces , or 420 g )</span><span class='name'>chickpeas</span><span class='comment'>, with liquid</span>",
+        "comment": "15 ounces, or 420 g), with liquid",
+        "other": "(",
+        "unit": "can",
+        "name": "chickpeas",
+        "input": "1 can (15 ounces, or 420 g) chickpeas, with liquid",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>ounces</span><span class='comment'>( 227 g ) sliced</span><span class='name'>mushrooms</span>",
+        "comment": "(227 g) sliced",
+        "unit": "ounce",
+        "name": "mushrooms",
+        "input": "8 ounces (227 g) sliced mushrooms",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( 65 g ) finely ground raw cashews</span>",
+        "unit": "cup",
+        "comment": "(65 g) finely ground raw cashews",
+        "input": "1/2 cup (65 g) finely ground raw cashews",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( 60 g )</span><span class='name'>nutritional yeast</span>",
+        "comment": "(60 g)",
+        "unit": "cup",
+        "name": "nutritional yeast",
+        "input": "1/2 cup (60 g) nutritional yeast",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cloves</span><span class='name'>garlic</span>",
+        "unit": "clove",
+        "qty": "4",
+        "input": "4 cloves garlic",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1/2 teaspoon ground cumin",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>liquid smoke</span><span class='other'>(</span><span class='comment'>optional )</span>",
+        "comment": "optional)",
+        "other": "(",
+        "unit": "teaspoon",
+        "name": "liquid smoke",
+        "input": "1/4 teaspoon liquid smoke (optional)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>Bragg's Liquid Aminos or soy sauce</span>",
+        "unit": "teaspoon",
+        "comment": "Bragg's Liquid Aminos or soy sauce",
+        "input": "1 teaspoon Bragg's Liquid Aminos or soy sauce",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Salt and pepper</span><span class='comment'>, to taste</span>",
+        "comment": ", to taste",
+        "input": "Salt and pepper, to taste",
+        "name": "Salt and pepper"
+    },
+    {
+        "display": "<span class='qty'>3 1/2</span><span class='unit'>cups</span><span class='comment'>( 420 g )</span><span class='name'>chickpea flour</span>",
+        "comment": "(420 g)",
+        "unit": "cup",
+        "name": "chickpea flour",
+        "input": "3 1/2 cups (420 g) chickpea flour",
+        "qty": "3 1/2"
+    },
+    {
+        "display": "<span class='name'>Oil</span><span class='other'>,</span><span class='comment'>for frying</span>",
+        "comment": "for frying",
+        "input": "Oil, for frying",
+        "name": "Oil",
+        "other": ","
+    }
+]

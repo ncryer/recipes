@@ -1,0 +1,31 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>lb carrots</span><span class='other'>,</span><span class='comment'>cut into 3 1/2- by 1/2-inch sticks</span>",
+        "comment": "cut into 3 1/2- by 1/2-inch sticks",
+        "other": ",",
+        "name": "lb carrots",
+        "input": "2 lb carrots, cut into 3 1/2- by 1/2-inch sticks",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>balsamic vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons balsamic vinegar",
+        "name": "balsamic vinegar"
+    }
+]

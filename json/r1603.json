@@ -1,0 +1,69 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>lb baby spinach</span>",
+        "qty": "2",
+        "input": "2 lb baby spinach",
+        "name": "lb baby spinach"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sesame seeds</span><span class='other'>,</span><span class='comment'>lightly</span>",
+        "comment": "lightly",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "sesame seeds",
+        "input": "2 tablespoons sesame seeds, lightly",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>and</span><span class='comment'>cooled</span>",
+        "comment": "cooled",
+        "input": "and cooled",
+        "other": "and"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>peanut oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup peanut oil",
+        "name": "peanut oil"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>rice vinegar</span><span class='other'>(</span><span class='comment'>not seasoned )</span>",
+        "comment": "not seasoned)",
+        "other": "(",
+        "unit": "tablespoon",
+        "name": "rice vinegar",
+        "input": "1 1/2 tablespoons rice vinegar (not seasoned)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>mirin</span><span class='other'>(</span><span class='comment'>Japanese sweet rice wine</span><span class='other'>)</span>",
+        "comment": "Japanese sweet rice wine",
+        "other": "()",
+        "unit": "tablespoon",
+        "name": "mirin",
+        "input": "2 tablespoons mirin (Japanese sweet rice wine)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>shoyu ( Japanese all-purpose soy sauce )</span>",
+        "unit": "teaspoon",
+        "comment": "shoyu (Japanese all-purpose soy sauce)",
+        "input": "2 teaspoons shoyu (Japanese all-purpose soy sauce)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>Asian sesame oil</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon Asian sesame oil",
+        "name": "Asian sesame oil"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon salt",
+        "name": "salt"
+    }
+]

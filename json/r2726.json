@@ -1,0 +1,43 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, minced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>tablespoon</span><span class='name'>corn oil</span>",
+        "unit": "tablespoon",
+        "qty": "1/2",
+        "input": "1/2 tablespoon corn oil",
+        "name": "corn oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>19-oz ) can</span><span class='name'>black beans</span><span class='comment'>, including liquid</span>",
+        "comment": "19-oz) can, including liquid",
+        "other": "(",
+        "name": "black beans",
+        "input": "1 (19-oz) can black beans, including liquid",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='other'>to</span><span class='range_end'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "other": "to",
+        "unit": "cup",
+        "name": "water",
+        "range_end": "1",
+        "input": "1/2 to 1 cup water",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/4 cup chopped fresh cilantro",
+        "qty": "1/4"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>salt</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>packed</span><span class='name'>golden brown sugar</span>",
+        "comment": "packed",
+        "unit": "tablespoon",
+        "name": "golden brown sugar",
+        "input": "3 tablespoons packed golden brown sugar",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>paprika</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons paprika",
+        "name": "paprika"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>chili powder</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons chili powder",
+        "name": "chili powder"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>ground</span><span class='name'>black pepper</span>",
+        "comment": "ground",
+        "unit": "tablespoon",
+        "name": "black pepper",
+        "input": "1 tablespoon ground black pepper",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2 1/4</span><span class='unit'>teaspoons</span><span class='name'>garlic powder</span>",
+        "unit": "teaspoon",
+        "qty": "2 1/4",
+        "input": "2 1/4 teaspoons garlic powder",
+        "name": "garlic powder"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>cayenne pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons cayenne pepper",
+        "name": "cayenne pepper"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>dried</span><span class='name'>basil</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "basil",
+        "input": "1 1/2 teaspoons dried basil",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='name'>Assorted vegetables</span><span class='comment'>( such as zucchini</span><span class='other'>,</span><span class='name'>bell peppers</span><span class='other'>,</span><span class='comment'>red onions and large</span><span class='name'>mushrooms</span><span class='comment'>)</span>",
+        "comment": "(such as zucchini red onions and large)",
+        "input": "Assorted vegetables (such as zucchini, bell peppers, red onions and large mushrooms)",
+        "name": "Assorted vegetables bell peppers mushrooms",
+        "other": ", ,"
+    },
+    {
+        "display": "<span class='name'>Olive oil</span>",
+        "input": "Olive oil",
+        "name": "Olive oil"
+    }
+]

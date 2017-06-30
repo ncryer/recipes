@@ -1,0 +1,32 @@
+[
+    {
+        "display": "<span class='comment'>Baby</span><span class='name'>potatoes</span>",
+        "comment": "Baby",
+        "input": "Baby potatoes",
+        "name": "potatoes"
+    },
+    {
+        "display": "<span class='comment'>Fresh</span><span class='name'>thyme</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "Fresh chopped",
+        "input": "Fresh thyme, chopped",
+        "name": "thyme",
+        "other": ","
+    },
+    {
+        "display": "<span class='comment'>Fresh</span><span class='name'>rosemary</span><span class='comment'>, chopped</span>",
+        "comment": "Fresh, chopped",
+        "input": "Fresh rosemary, chopped",
+        "name": "rosemary"
+    },
+    {
+        "display": "<span class='name'>Garlic</span><span class='comment'>, chopped</span>",
+        "comment": ", chopped",
+        "input": "Garlic, chopped",
+        "name": "Garlic"
+    },
+    {
+        "display": "<span class='name'>Olive oil</span>",
+        "input": "Olive oil",
+        "name": "Olive oil"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>pounds</span><span class='comment'>Swiss</span><span class='name'>chard</span>",
+        "comment": "Swiss",
+        "unit": "pound",
+        "name": "chard",
+        "input": "3 pounds Swiss chard",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>clove</span>",
+        "other": "large",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 large garlic clove",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive",
+        "name": "olive"
+    }
+]

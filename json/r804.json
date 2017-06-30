@@ -1,0 +1,18 @@
+[
+    {
+        "display": "<span class='qty'>1 3/4</span><span class='unit'>cups</span><span class='name'>peanut oil</span>",
+        "unit": "cup",
+        "qty": "1 3/4",
+        "input": "1 3/4 cups peanut oil",
+        "name": "peanut oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>onions</span><span class='other'>,</span><span class='comment'>very thinly sliced ( 4 cups )</span>",
+        "comment": "very thinly sliced (4 cups)",
+        "other": ",",
+        "unit": "pound",
+        "name": "onions",
+        "input": "1 pound onions, very thinly sliced (4 cups)",
+        "qty": "1"
+    }
+]

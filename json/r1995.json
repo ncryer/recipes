@@ -1,0 +1,46 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>cuminseed</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon cuminseed",
+        "name": "cuminseed"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>couscous</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup couscous",
+        "name": "couscous"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>thinly sliced</span><span class='name'>scallion</span>",
+        "comment": "thinly sliced",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup thinly sliced scallion",
+        "name": "scallion"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>minced fresh</span><span class='name'>parsley leaves</span>",
+        "comment": "minced fresh",
+        "unit": "tablespoon",
+        "name": "parsley leaves",
+        "input": "3 tablespoons minced fresh parsley leaves",
+        "qty": "3"
+    }
+]

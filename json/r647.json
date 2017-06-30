@@ -1,0 +1,39 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>sliced</span><span class='name'>kiwi fruit</span>",
+        "qty": "1",
+        "comment": "sliced",
+        "input": "1 sliced kiwi fruit",
+        "name": "kiwi fruit"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>sliced</span><span class='name'>strawberries</span>",
+        "comment": "sliced",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup sliced strawberries",
+        "name": "strawberries"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoon</span><span class='comment'>sliced</span><span class='name'>almonds</span>",
+        "comment": "sliced",
+        "unit": "teaspoon",
+        "name": "almonds",
+        "input": "2 teaspoon sliced almonds",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sparkling water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup sparkling water",
+        "name": "sparkling water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>pomegranate juice</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup pomegranate juice",
+        "name": "pomegranate juice"
+    }
+]

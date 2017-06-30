@@ -1,0 +1,71 @@
+[
+    {
+        "display": "<span class='name'>Nonstick vegetable oil spray</span>",
+        "input": "Nonstick vegetable oil spray",
+        "name": "Nonstick vegetable oil spray"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>tarragon vinegar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup tarragon vinegar",
+        "name": "tarragon vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>vegetable oil</span><span class='other'>plus</span><span class='comment'>additional for brushing</span>",
+        "comment": "additional for brushing",
+        "other": "plus",
+        "unit": "cup",
+        "name": "vegetable oil",
+        "input": "1/2 cup vegetable oil plus additional for brushing",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>Dijon mustard</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>tarragon</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "tarragon",
+        "input": "1 tablespoon chopped fresh tarragon",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>medium</span><span class='unit'>head</span><span class='comment'>of red</span><span class='name'>cabbage</span><span class='comment'>( about 1 3/4 pounds ) , quartered through core</span>",
+        "comment": "of red (about 1 3/4 pounds), quartered through core",
+        "other": "medium",
+        "unit": "head",
+        "name": "cabbage",
+        "input": "1 medium head of red cabbage (about 1 3/4 pounds), quartered through core",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>medium</span><span class='unit'>head</span><span class='comment'>of green</span><span class='name'>cabbage</span><span class='comment'>( about 13/4 pounds ) , quartered through core</span>",
+        "comment": "of green (about 13/4 pounds), quartered through core",
+        "other": "medium",
+        "unit": "head",
+        "name": "cabbage",
+        "input": "1 medium head of green cabbage (about 13/4 pounds), quartered through core",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='comment'>green</span><span class='name'>onions</span><span class='comment'>( about 6 ) , trimmed</span>",
+        "comment": "green (about 6), trimmed",
+        "unit": "bunch",
+        "name": "onions",
+        "input": "1 bunch green onions (about 6), trimmed",
+        "qty": "1"
+    }
+]

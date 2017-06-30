@@ -1,0 +1,54 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>tablespoon</span><span class='name'>chili powder</span>",
+        "unit": "tablespoon",
+        "qty": "1/2",
+        "input": "1/2 tablespoon chili powder",
+        "name": "chili powder"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1/2 teaspoon ground cumin",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>garlic powder</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon garlic powder",
+        "name": "garlic powder"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>oregano</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "oregano",
+        "input": "1/4 teaspoon dried oregano",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>tomato paste</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons tomato paste",
+        "name": "tomato paste"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>long-grain white</span><span class='name'>rice</span>",
+        "comment": "long-grain white",
+        "unit": "cup",
+        "name": "rice",
+        "input": "2 cups long-grain white rice",
+        "qty": "2"
+    }
+]

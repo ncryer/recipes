@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>bunches</span><span class='name'>Tuscan kale</span><span class='comment'>, ribs and stems removed</span><span class='other'>,</span><span class='comment'>leaves torn</span>",
+        "comment": ", ribs and stems removed leaves torn",
+        "other": ",",
+        "unit": "bunch",
+        "name": "Tuscan kale",
+        "input": "2 bunches Tuscan kale, ribs and stems removed, leaves torn",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>toasted</span><span class='name'>sesame oil</span>",
+        "comment": "toasted",
+        "unit": "teaspoon",
+        "name": "sesame oil",
+        "input": "2 teaspoons toasted sesame oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground pepper",
+        "name": "salt pepper",
+        "other": ","
+    }
+]

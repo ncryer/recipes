@@ -1,0 +1,63 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>dry crab boil seasoning</span><span class='comment'>( such as Zatarain's</span><span class='other'>or</span><span class='comment'>Old Bay )</span>",
+        "comment": "(such as Zatarain's Old Bay)",
+        "other": "or",
+        "unit": "cup",
+        "name": "dry crab boil seasoning",
+        "input": "1 cup dry crab boil seasoning (such as Zatarain's or Old Bay)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "cup",
+        "name": "salt",
+        "input": "1/4 cup kosher salt",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>yellow onions</span><span class='other'>,</span><span class='comment'>quartered</span>",
+        "comment": "quartered",
+        "other": ",",
+        "name": "yellow onions",
+        "input": "2 yellow onions, quartered",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>garlic</span><span class='unit'>cloves</span>",
+        "unit": "clove",
+        "qty": "6",
+        "input": "6 garlic cloves",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>lemons</span><span class='other'>,</span><span class='comment'>halved crosswise</span>",
+        "comment": "halved crosswise",
+        "other": ",",
+        "name": "lemons",
+        "input": "3 lemons, halved crosswise",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>1-pounds</span><span class='unit'>heads</span><span class='other'>of</span><span class='name'>cauliflower</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>trimmed into 2\" florets</span>",
+        "comment": "cored trimmed into 2\" florets",
+        "other": "1-pounds of, ,",
+        "unit": "head",
+        "name": "cauliflower",
+        "input": "2 1-pounds heads of cauliflower, cored, trimmed into 2\" florets",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='name'>Cocktail sauce</span>",
+        "input": "Cocktail sauce",
+        "name": "Cocktail sauce"
+    },
+    {
+        "display": "<span class='name'>Crab boil seasoning is</span><span class='comment'>available at most supermarkets in the seafood</span><span class='other'>or</span><span class='comment'>spice section</span><span class='other'>,</span><span class='comment'>and at specialty foods stores.</span>",
+        "comment": "available at most supermarkets in the seafood spice section and at specialty foods stores.",
+        "input": "Crab boil seasoning is available at most supermarkets in the seafood or spice section, and at specialty foods stores.",
+        "name": "Crab boil seasoning is",
+        "other": "or ,"
+    }
+]

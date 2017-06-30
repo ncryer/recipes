@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>red beet</span><span class='comment'>, trimmed</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>quartered</span>",
+        "comment": "small, trimmed peeled quartered",
+        "other": ", ,",
+        "name": "red beet",
+        "input": "1 small red beet, trimmed, peeled, quartered",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>red</span><span class='name'>chile</span><span class='comment'>( such as Fresno ) , halved lengthwise ( optional )</span>",
+        "qty": "1",
+        "comment": "red (such as Fresno), halved lengthwise (optional)",
+        "input": "1 red chile (such as Fresno), halved lengthwise (optional)",
+        "name": "chile"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>small</span><span class='name'>turnips</span><span class='comment'>, trimmed</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>quartered</span>",
+        "comment": "small, trimmed peeled quartered",
+        "other": ", ,",
+        "unit": "pound",
+        "name": "turnips",
+        "input": "1 pound small turnips, trimmed, peeled, quartered",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>red wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "2 tablespoons kosher salt",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sugar",
+        "name": "sugar"
+    }
+]

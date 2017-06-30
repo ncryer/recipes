@@ -1,0 +1,16 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>basmati rice</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups basmati rice",
+        "name": "basmati rice"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3",
+        "input": "3 cups water",
+        "name": "water"
+    }
+]

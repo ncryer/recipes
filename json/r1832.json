@@ -1,0 +1,90 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>white-wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons white-wine vinegar",
+        "name": "white-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced and mashed to a paste with 1/4 teaspoon</span><span class='name'>salt</span>",
+        "comment": "minced and mashed to a paste with 1/4 teaspoon",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic salt",
+        "input": "2 garlic cloves, minced and mashed to a paste with 1/4 teaspoon salt",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>grated peeled fresh</span><span class='name'>gingerroot</span>",
+        "comment": "grated peeled fresh",
+        "unit": "teaspoon",
+        "name": "gingerroot",
+        "input": "1 1/2 teaspoons grated peeled fresh gingerroot",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span><span class='other'>,</span><span class='comment'>or to taste</span>",
+        "comment": "ground or to taste",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1 teaspoon ground cumin, or to taste",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>cayenne</span><span class='comment'>or dried hot</span><span class='name'>red pepper flakes</span><span class='other'>, or</span><span class='comment'>to taste</span>",
+        "comment": "or dried hot to taste",
+        "other": ", or",
+        "unit": "teaspoon",
+        "name": "cayenne red pepper flakes",
+        "input": "1/4 teaspoon cayenne or dried hot red pepper flakes, or to taste",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='comment'>four 19-ounce cans</span><span class='name'>chick-peas</span><span class='comment'>, rinsed and drained well</span>",
+        "comment": "four 19-ounce cans, rinsed and drained well",
+        "input": "four 19-ounce cans chick-peas, rinsed and drained well",
+        "name": "chick-peas"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>yellow bell peppers</span><span class='other'>,</span><span class='comment'>chopped fine</span>",
+        "comment": "chopped fine",
+        "other": ",",
+        "name": "yellow bell peppers",
+        "input": "2 yellow bell peppers, chopped fine",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>small</span><span class='unit'>bunch</span><span class='other'>of</span><span class='name'>scallions</span><span class='comment'>, sliced thin</span>",
+        "comment": ", sliced thin",
+        "other": "small of",
+        "unit": "bunch",
+        "name": "scallions",
+        "input": "1 small bunch of scallions, sliced thin",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>finely chopped fresh</span><span class='name'>coriander</span><span class='comment'>, or to taste</span>",
+        "comment": "finely chopped fresh, or to taste",
+        "unit": "cup",
+        "name": "coriander",
+        "input": "1/2 cup finely chopped fresh coriander, or to taste",
+        "qty": "1/2"
+    }
+]

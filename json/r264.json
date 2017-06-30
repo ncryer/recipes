@@ -1,0 +1,36 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>lemon</span>",
+        "qty": "1/2",
+        "input": "1/2 lemon",
+        "name": "lemon"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>spinach</span>",
+        "unit": "cup",
+        "qty": "3",
+        "input": "3 cups spinach",
+        "name": "spinach"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>Granny Smith apples</span><span class='comment'>, sliced</span>",
+        "qty": "2",
+        "comment": ", sliced",
+        "input": "2 Granny Smith apples, sliced",
+        "name": "Granny Smith apples"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>cubed</span><span class='name'>pineapple</span>",
+        "comment": "cubed",
+        "unit": "cup",
+        "name": "pineapple",
+        "input": "2 cups cubed pineapple",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='name'>mint leaves</span>",
+        "qty": "8",
+        "input": "8 mint leaves",
+        "name": "mint leaves"
+    }
+]

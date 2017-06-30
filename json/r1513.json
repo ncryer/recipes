@@ -1,0 +1,65 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>soybean sprouts</span>",
+        "unit": "pound",
+        "qty": "1",
+        "input": "1 pound soybean sprouts",
+        "name": "soybean sprouts"
+    },
+    {
+        "display": "<span class='name'>Water</span>",
+        "input": "Water",
+        "name": "Water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>green onions</span><span class='other'>,</span><span class='comment'>thinly chopped</span>",
+        "comment": "thinly chopped",
+        "other": ",",
+        "name": "green onions",
+        "input": "2 green onions, thinly chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 garlic cloves, minced",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>toasted</span><span class='name'>sesame seeds</span><span class='other'>,</span><span class='comment'>crushed</span>",
+        "comment": "toasted crushed",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "sesame seeds",
+        "input": "1 tablespoon toasted sesame seeds, crushed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sesame oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sesame oil",
+        "name": "sesame oil"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='other'>to</span><span class='range_end'>2</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "other": "to",
+        "unit": "teaspoon",
+        "name": "salt",
+        "range_end": "2",
+        "input": "1 1/2 to 2 teaspoons salt",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>to</span><span class='range_end'>2</span><span class='unit'>teaspoons</span><span class='name'>chili powder</span>",
+        "other": "to",
+        "unit": "teaspoon",
+        "name": "chili powder",
+        "range_end": "2",
+        "input": "1 to 2 teaspoons chili powder",
+        "qty": "1"
+    }
+]

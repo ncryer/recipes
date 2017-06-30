@@ -1,0 +1,24 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>lb</span><span class='name'>green beans</span><span class='other'>,</span><span class='comment'>trimmed</span>",
+        "comment": "lb trimmed",
+        "other": ",",
+        "name": "green beans",
+        "input": "1 lb green beans, trimmed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Coarse</span><span class='name'>gray</span><span class='comment'>sea</span><span class='name'>salt</span><span class='comment'>to taste</span>",
+        "comment": "Coarse sea to taste",
+        "input": "Coarse gray sea salt to taste",
+        "name": "gray salt"
+    }
+]

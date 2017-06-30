@@ -1,0 +1,71 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large Japanese</span><span class='name'>eggplants</span><span class='comment'>, trimmed , quartered lengthwise</span>",
+        "qty": "2",
+        "comment": "large Japanese, trimmed, quartered lengthwise",
+        "input": "2 large Japanese eggplants, trimmed, quartered lengthwise",
+        "name": "eggplants"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>zucchini</span><span class='other'>,</span><span class='comment'>trimmed , quartered lengthwise</span>",
+        "comment": "trimmed, quartered lengthwise",
+        "other": ",",
+        "name": "zucchini",
+        "input": "2 zucchini, trimmed, quartered lengthwise",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>yellow squash</span><span class='comment'>, trimmed , quartered lengthwise</span>",
+        "qty": "2",
+        "comment": ", trimmed, quartered lengthwise",
+        "input": "2 yellow squash, trimmed, quartered lengthwise",
+        "name": "yellow squash"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large whole</span><span class='name'>tomatoes</span>",
+        "qty": "2",
+        "comment": "large whole",
+        "input": "2 large whole tomatoes",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>ear</span><span class='other'>of</span><span class='name'>yellow corn</span><span class='comment'>, husked</span>",
+        "comment": "ear, husked",
+        "other": "of",
+        "name": "yellow corn",
+        "input": "1 ear of yellow corn, husked",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small white</span><span class='name'>onion</span><span class='comment'>, quartered through stem end with some core still attached to each piece</span>",
+        "qty": "1",
+        "comment": "small white, quartered through stem end with some core still attached to each piece",
+        "input": "1 small white onion, quartered through stem end with some core still attached to each piece",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>thinly sliced fresh</span><span class='name'>basil</span>",
+        "comment": "thinly sliced fresh",
+        "unit": "cup",
+        "name": "basil",
+        "input": "1/2 cup thinly sliced fresh basil",
+        "qty": "1/2"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>shallots</span><span class='other'>,</span><span class='comment'>cut in half</span>",
+        "comment": "cut in half",
+        "other": ",",
+        "unit": "cup",
+        "name": "shallots",
+        "input": "1/2 cup shallots, cut in half",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>brussels sprouts</span><span class='other'>,</span><span class='comment'>leaves separated from the hearts</span>",
+        "comment": "leaves separated from the hearts",
+        "other": ",",
+        "unit": "cup",
+        "name": "brussels sprouts",
+        "input": "2 cups brussels sprouts, leaves separated from the hearts",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>butternut squash</span><span class='other'>,</span><span class='comment'>diced</span>",
+        "comment": "diced",
+        "other": ",",
+        "unit": "cup",
+        "name": "butternut squash",
+        "input": "1/2 cup butternut squash, diced",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>fresh</span><span class='name'>thyme</span><span class='comment'>, chopped</span>",
+        "comment": "fresh, chopped",
+        "unit": "teaspoon",
+        "name": "thyme",
+        "input": "1/2 teaspoon fresh thyme, chopped",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>organic</span><span class='name'>lemon</span><span class='comment'>, zest only</span>",
+        "qty": "1/2",
+        "comment": "organic, zest only",
+        "input": "1/2 organic lemon, zest only",
+        "name": "lemon"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>balsamic vinegar</span><span class='comment'>or Dr. Fuhrman\u2019s Black Fig Vinegar</span>",
+        "comment": "or Dr. Fuhrman\u2019s Black Fig Vinegar",
+        "unit": "tablespoon",
+        "name": "balsamic vinegar",
+        "input": "1 tablespoon balsamic vinegar or Dr. Fuhrman\u2019s Black Fig Vinegar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>dried</span><span class='name'>currants</span>",
+        "comment": "dried",
+        "unit": "tablespoon",
+        "name": "currants",
+        "input": "2 tablespoons dried currants",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>hemp seeds</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons hemp seeds",
+        "name": "hemp seeds"
+    }
+]

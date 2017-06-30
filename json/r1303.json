@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>tablespoons</span>",
+        "unit": "tablespoon",
+        "input": "2 1/2 tablespoons",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>ounces</span><span class='comment'>baby</span><span class='name'>spinach</span><span class='comment'>( 8 cups</span><span class='other'>)</span>",
+        "comment": "baby (8 cups",
+        "other": ")",
+        "unit": "ounce",
+        "name": "spinach",
+        "input": "5 ounces baby spinach (8 cups)",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='name'>strawberries</span><span class='other'>,</span><span class='comment'>cut lengthwise into thick slices ( 1 1/2 cups )</span>",
+        "comment": "cut lengthwise into thick slices (1 1/2 cups)",
+        "other": ",",
+        "unit": "pound",
+        "name": "strawberries",
+        "input": "1/2 pound strawberries, cut lengthwise into thick slices (1 1/2 cups)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>pecan</span><span class='comment'>halves ( 3 1/2 ounces ) ,</span>",
+        "comment": "halves (3 1/2 ounces) ,",
+        "unit": "cup",
+        "name": "pecan",
+        "input": "1/2 cup pecan halves (3 1/2 ounces) ,",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>and</span><span class='comment'>cooled</span>",
+        "comment": "cooled",
+        "input": "and cooled",
+        "other": "and"
+    }
+]

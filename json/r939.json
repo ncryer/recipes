@@ -1,0 +1,26 @@
+[
+    {
+        "display": "<span class='qty'>5</span><span class='name'>ice cubes</span><span class='other'>,</span><span class='comment'>slightly crushed</span>",
+        "comment": "slightly crushed",
+        "other": ",",
+        "name": "ice cubes",
+        "input": "5 ice cubes, slightly crushed",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>cubed ripe</span><span class='name'>cantaloupe</span>",
+        "comment": "cubed ripe",
+        "unit": "cup",
+        "name": "cantaloupe",
+        "input": "4 cups cubed ripe cantaloupe",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>orange juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "1/4 cup fresh orange juice",
+        "qty": "1/4"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "display": "<span class='comment'>1 15-ounce can cream of</span><span class='name'>coconut</span><span class='comment'>( such as Coco L\u00f2pez ) *</span>",
+        "comment": "1 15-ounce can cream of (such as Coco L\u00f2pez) *",
+        "input": "1 15-ounce can cream of coconut (such as Coco L\u00f2pez) *",
+        "name": "coconut"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>ice-cold</span><span class='name'>water</span>",
+        "comment": "ice-cold",
+        "unit": "cup",
+        "name": "water",
+        "input": "1 cup ice-cold water",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>rum extract</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon rum extract",
+        "name": "rum extract"
+    }
+]

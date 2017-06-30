@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>frozen</span><span class='name'>unsweetened boysenberry</span><span class='comment'>, thawed</span>",
+        "comment": "frozen, thawed",
+        "unit": "cup",
+        "name": "unsweetened boysenberry",
+        "input": "2 cups frozen unsweetened boysenberry, thawed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>chilled</span><span class='name'>orange juice</span><span class='comment'>( do not use freshly squeezed )</span>",
+        "comment": "chilled (do not use freshly squeezed)",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "3 cups chilled orange juice (do not use freshly squeezed)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>frozen</span><span class='name'>orange-peach-mango juice</span><span class='comment'>concentrate</span>",
+        "comment": "frozen concentrate",
+        "unit": "cup",
+        "name": "orange-peach-mango juice",
+        "input": "1 1/2 cups frozen orange-peach-mango juice concentrate",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>750-ml</span><span class='unit'>bottle</span><span class='other'>of</span><span class='comment'>chilled</span><span class='name'>dry champagne</span>",
+        "comment": "chilled",
+        "other": "750-ml of",
+        "unit": "bottle",
+        "name": "dry champagne",
+        "input": "1 750-ml bottle of chilled dry champagne",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>10</span><span class='comment'>small</span><span class='name'>orange slices</span>",
+        "qty": "10",
+        "comment": "small",
+        "input": "10 small orange slices",
+        "name": "orange slices"
+    }
+]

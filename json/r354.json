@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>plum tomatoes</span><span class='comment'>( about 6 ) , halved</span><span class='other'>,</span><span class='comment'>cored</span>",
+        "comment": "(about 6), halved cored",
+        "other": ",",
+        "unit": "pound",
+        "name": "plum tomatoes",
+        "input": "1 pound plum tomatoes (about 6), halved, cored",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>head</span><span class='other'>of</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>cloves separated</span>",
+        "comment": "cloves separated",
+        "other": "of ,",
+        "unit": "head",
+        "name": "garlic",
+        "input": "1 head of garlic, cloves separated",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>sprigs</span><span class='name'>rosemary</span>",
+        "unit": "sprig",
+        "qty": "2",
+        "input": "2 sprigs rosemary",
+        "name": "rosemary"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>sprigs</span><span class='name'>thyme</span>",
+        "unit": "sprig",
+        "qty": "2",
+        "input": "2 sprigs thyme",
+        "name": "thyme"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 teaspoon kosher salt",
+        "qty": "1"
+    }
+]

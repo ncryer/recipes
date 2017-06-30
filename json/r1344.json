@@ -1,0 +1,138 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "6",
+        "input": "6 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, finely chopped</span>",
+        "qty": "1",
+        "comment": "medium, finely chopped",
+        "input": "1 medium onion, finely chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/4",
+        "input": "1 1/4 teaspoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>2- by 1-inch ) piece peeled fresh</span><span class='name'>ginger</span><span class='comment'>, quartered</span>",
+        "comment": "2- by 1-inch) piece peeled fresh, quartered",
+        "other": "(",
+        "name": "ginger",
+        "input": "1 (2- by 1-inch) piece peeled fresh ginger, quartered",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>coarsely chopped</span>",
+        "comment": "coarsely chopped",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "5 large garlic cloves, coarsely chopped",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>5 1/3</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "5 1/3",
+        "input": "5 1/3 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>curry powder</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons curry powder",
+        "name": "curry powder"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>turmeric</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "turmeric",
+        "input": "3/4 teaspoon ground turmeric",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1/2 teaspoon ground cumin",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>red lentils</span><span class='other'>,</span><span class='comment'>picked over and rinsed</span>",
+        "comment": "picked over and rinsed",
+        "other": ",",
+        "unit": "cup",
+        "name": "red lentils",
+        "input": "1 cup red lentils, picked over and rinsed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium</span><span class='name'>carrots</span><span class='comment'>, quartered lengthwise , then cut crosswise into 1/2-inch pieces</span>",
+        "qty": "3",
+        "comment": "medium, quartered lengthwise, then cut crosswise into 1/2-inch pieces",
+        "input": "3 medium carrots, quartered lengthwise, then cut crosswise into 1/2-inch pieces",
+        "name": "carrots"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>chopped trimmed</span><span class='name'>spinach leaves</span><span class='comment'>( 3 ounces )</span>",
+        "comment": "chopped trimmed (3 ounces)",
+        "unit": "cup",
+        "name": "spinach leaves",
+        "input": "3 cups chopped trimmed spinach leaves (3 ounces)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>frozen</span><span class='name'>peas</span><span class='comment'>( not thawed</span><span class='other'>)</span>",
+        "comment": "frozen (not thawed",
+        "other": ")",
+        "unit": "cup",
+        "name": "peas",
+        "input": "1 cup frozen peas (not thawed)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/2 cup chopped fresh cilantro",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>cumin seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon cumin seeds",
+        "name": "cumin seeds"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>dried hot</span><span class='name'>red-pepper flakes</span>",
+        "comment": "dried hot",
+        "unit": "teaspoon",
+        "name": "red-pepper flakes",
+        "input": "1/4 teaspoon dried hot red-pepper flakes",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='name'>Accompaniments: basmati rice; basmati rice;</span>",
+        "input": "Accompaniments: basmati rice; basmati rice;",
+        "name": "Accompaniments: basmati rice; basmati rice;"
+    },
+    {
+        "display": "<span class='comment'>fresh</span><span class='name'>cilantro</span><span class='unit'>sprigs</span>",
+        "unit": "sprig",
+        "comment": "fresh",
+        "input": "fresh cilantro sprigs",
+        "name": "cilantro"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>cider vinegar</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup cider vinegar",
+        "name": "cider vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>pickling spice</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon pickling spice",
+        "name": "pickling spice"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>mustard seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon mustard seeds",
+        "name": "mustard seeds"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='name'>onion</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "halved",
+        "other": ",",
+        "name": "onion",
+        "input": "1/4 onion, halved",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>bay leaf</span><span class='comment'>( not California )</span>",
+        "qty": "1",
+        "comment": "small (not California)",
+        "input": "1 small bay leaf (not California)",
+        "name": "bay leaf"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>whole</span><span class='name'>black peppercorns</span>",
+        "comment": "whole",
+        "unit": "teaspoon",
+        "name": "black peppercorns",
+        "input": "3/4 teaspoon whole black peppercorns",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>bunch</span><span class='comment'>fresh</span><span class='name'>dill</span>",
+        "comment": "fresh",
+        "unit": "bunch",
+        "name": "dill",
+        "input": "1/4 bunch fresh dill",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>beets</span><span class='other'>(</span><span class='comment'>1 pound without tops</span><span class='other'>)</span>",
+        "comment": "1 pound without tops",
+        "other": "()",
+        "name": "beets",
+        "input": "3 beets (1 pound without tops)",
+        "qty": "3"
+    }
+]

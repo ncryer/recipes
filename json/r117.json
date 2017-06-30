@@ -1,0 +1,71 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>medium Canary</span><span class='name'>melon</span><span class='comment'>, rind removed and flesh cut into 1/2-inch pieces</span><span class='other'>(</span><span class='comment'>about 3 1/2 cups )</span>",
+        "comment": "medium Canary, rind removed and flesh cut into 1/2-inch pieces about 3 1/2 cups)",
+        "other": "(",
+        "name": "melon",
+        "input": "1/2 medium Canary melon, rind removed and flesh cut into 1/2-inch pieces (about 3 1/2 cups)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>medium</span><span class='name'>Charentais melon</span><span class='other'>,</span><span class='comment'>rind removed and flesh cut into 1/2-inch pieces</span><span class='other'>(</span><span class='comment'>about 3 1/2 cups )</span>",
+        "comment": "medium rind removed and flesh cut into 1/2-inch pieces about 3 1/2 cups)",
+        "other": ", (",
+        "name": "Charentais melon",
+        "input": "1/2 medium Charentais melon, rind removed and flesh cut into 1/2-inch pieces (about 3 1/2 cups)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='comment'>small</span><span class='name'>heirloom watermelon</span><span class='comment'>, rind removed and flesh cut into 1/2-inch pieces ( about 1 cup )</span>",
+        "qty": "1/4",
+        "comment": "small, rind removed and flesh cut into 1/2-inch pieces (about 1 cup)",
+        "input": "1/4 small heirloom watermelon, rind removed and flesh cut into 1/2-inch pieces (about 1 cup)",
+        "name": "heirloom watermelon"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span><span class='comment'>, plus more for seasoning</span>",
+        "comment": "kosher, plus more for seasoning",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 teaspoon kosher salt, plus more for seasoning",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>fennel bulb</span><span class='comment'>, thinly sliced</span>",
+        "qty": "1",
+        "comment": "medium, thinly sliced",
+        "input": "1 medium fennel bulb, thinly sliced",
+        "name": "fennel bulb"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>moscato vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons moscato vinegar",
+        "name": "moscato vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>loosely packed</span><span class='unit'>cups</span><span class='name'>baby arugula</span>",
+        "comment": "loosely packed",
+        "unit": "cup",
+        "name": "baby arugula",
+        "input": "2 loosely packed cups baby arugula",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>marjoram</span><span class='comment'>, large leaves</span><span class='name'>torn</span>",
+        "comment": "fresh, large leaves",
+        "unit": "tablespoon",
+        "name": "marjoram torn",
+        "input": "2 tablespoons fresh marjoram, large leaves torn",
+        "qty": "2"
+    }
+]

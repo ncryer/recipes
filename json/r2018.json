@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>bunches</span><span class='other'>of</span><span class='name'>broccoli</span><span class='comment'>( about 1 1/2 pounds each )</span>",
+        "comment": "(about 1 1/2 pounds each)",
+        "other": "of",
+        "unit": "bunch",
+        "name": "broccoli",
+        "input": "2 bunches of broccoli (about 1 1/2 pounds each)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>the zest</span><span class='comment'>of</span><span class='qty'>1</span><span class='name'>lemon</span><span class='comment'>removed with a vegetable peeler and minced</span>",
+        "comment": "of removed with a vegetable peeler and minced",
+        "other": "the zest",
+        "qty": "1",
+        "input": "the zest of 1 lemon removed with a vegetable peeler and minced",
+        "name": "lemon"
+    },
+    {
+        "display": "<span class='comment'>dried</span><span class='name'>hot red pepper flakes</span><span class='comment'>to taste</span>",
+        "comment": "dried to taste",
+        "input": "dried hot red pepper flakes to taste",
+        "name": "hot red pepper flakes"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    }
+]

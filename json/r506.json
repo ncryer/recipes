@@ -1,0 +1,87 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>shallot</span><span class='comment'>, chopped</span>",
+        "qty": "1",
+        "comment": "small, chopped",
+        "input": "1 small shallot, chopped",
+        "name": "shallot"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped flat-leaf</span><span class='name'>parsley</span>",
+        "comment": "chopped flat-leaf",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "2 tablespoons chopped flat-leaf parsley",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>red wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>thyme leaves</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "thyme leaves",
+        "input": "2 teaspoons fresh thyme leaves",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground pepper",
+        "name": "salt pepper",
+        "other": ","
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup extra-virgin olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>cooked</span><span class='name'>basmati rice</span><span class='comment'>, cooled</span>",
+        "comment": "cooked, cooled",
+        "unit": "cup",
+        "name": "basmati rice",
+        "input": "2 cups cooked basmati rice, cooled",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>bite-size pieces assorted vegetables</span><span class='comment'>( such as radishes</span><span class='other'>,</span><span class='comment'>tomatoes</span><span class='other'>,</span><span class='comment'>peas</span><span class='other'>,</span><span class='comment'>summer squash ) or carrot ribbons</span>",
+        "comment": "(such as radishes tomatoes peas summer squash) or carrot ribbons",
+        "other": ",, ,",
+        "unit": "cup",
+        "name": "bite-size pieces assorted vegetables",
+        "input": "2 cups bite-size pieces assorted vegetables (such as radishes, tomatoes, peas, summer squash) or carrot ribbons",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>torn</span><span class='name'>mixed leafy greens , sprouts , and herbs</span>",
+        "comment": "torn",
+        "unit": "cup",
+        "name": "mixed leafy greens, sprouts, and herbs",
+        "input": "3/4 cup torn mixed leafy greens, sprouts, and herbs",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>chopped red</span><span class='other'>,</span><span class='comment'>yellow , or white onion or scallions</span>",
+        "unit": "cup",
+        "comment": "chopped red yellow, or white onion or scallions",
+        "input": "1/3 cup chopped red, yellow, or white onion or scallions",
+        "other": "1/3 ,"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>toasted</span><span class='name'>pine nuts</span><span class='comment'>( optional )</span>",
+        "comment": "toasted (optional)",
+        "unit": "tablespoon",
+        "name": "pine nuts",
+        "input": "2 tablespoons toasted pine nuts (optional)",
+        "qty": "2"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "display": "<span class='name'>Nonstick vegetable oil spray</span>",
+        "input": "Nonstick vegetable oil spray",
+        "name": "Nonstick vegetable oil spray"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>pounds</span><span class='comment'>unpeeled fingerling</span><span class='name'>potatoes</span><span class='comment'>in assorted colors ( such as red</span><span class='other'>,</span><span class='comment'>white</span><span class='other'>,</span><span class='comment'>and purple )</span><span class='other'>,</span><span class='comment'>rinsed</span><span class='other'>,</span><span class='comment'>halved lengthwise</span>",
+        "comment": "unpeeled fingerling in assorted colors (such as red white and purple) rinsed halved lengthwise",
+        "other": ",, , ,",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "4 pounds unpeeled fingerling potatoes in assorted colors (such as red, white, and purple), rinsed, halved lengthwise",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1 cup extra-virgin olive oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/2 cup fresh lemon juice",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>dill</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "dill",
+        "input": "6 tablespoons chopped fresh dill",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>teaspoons</span><span class='comment'>finely grated</span><span class='name'>lemon peel</span>",
+        "comment": "finely grated",
+        "unit": "teaspoon",
+        "name": "lemon peel",
+        "input": "4 teaspoons finely grated lemon peel",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>24</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>sliced</span>",
+        "comment": "sliced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "24 garlic cloves, sliced",
+        "qty": "24"
+    }
+]

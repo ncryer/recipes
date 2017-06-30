@@ -1,0 +1,31 @@
+[
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>chopped crystallized</span><span class='name'>ginger</span>",
+        "comment": "chopped crystallized",
+        "unit": "tablespoon",
+        "name": "ginger",
+        "input": "3 tablespoons chopped crystallized ginger",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>vanilla extract</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon vanilla extract",
+        "name": "vanilla extract"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>large</span><span class='name'>pink grapefruits</span>",
+        "qty": "6",
+        "comment": "large",
+        "input": "6 large pink grapefruits",
+        "name": "pink grapefruits"
+    }
+]

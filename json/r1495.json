@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>12</span><span class='unit'>ounces</span><span class='comment'>purchased shredded three-color coleslaw mix ( about 7 cups )</span>",
+        "unit": "ounce",
+        "comment": "purchased shredded three-color coleslaw mix (about 7 cups)",
+        "input": "12 ounces purchased shredded three-color coleslaw mix (about 7 cups)",
+        "qty": "12"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>coarsely chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "coarsely chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1 cup coarsely chopped fresh cilantro",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>canola oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons canola oil",
+        "name": "canola oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "3 tablespoons fresh lime juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>coarse kosher</span><span class='name'>salt</span>",
+        "comment": "coarse kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/2 teaspoon coarse kosher salt",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>black pepper</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/2 teaspoon ground black pepper",
+        "qty": "1/2"
+    }
+]

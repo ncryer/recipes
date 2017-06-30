@@ -1,0 +1,71 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>eggplant</span><span class='comment'>, cut lengthwise into quarters</span>",
+        "qty": "1",
+        "comment": "large, cut lengthwise into quarters",
+        "input": "1 large eggplant, cut lengthwise into quarters",
+        "name": "eggplant"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span><span class='other'>,</span><span class='comment'>plus more for drizzling</span>",
+        "comment": "plus more for drizzling",
+        "other": ",",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup olive oil, plus more for drizzling",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt and freshly ground black pepper",
+        "name": "salt and black pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>clove</span><span class='name'>garlic</span><span class='comment'>finely grated</span>",
+        "comment": "finely grated",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 clove garlic finely grated",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>finely grated</span><span class='name'>lemon</span><span class='comment'>zest</span>",
+        "comment": "finely grated zest",
+        "unit": "teaspoon",
+        "name": "lemon",
+        "input": "1 teaspoon finely grated lemon zest",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>tahini</span><span class='other'>(</span><span class='comment'>sesame seed paste</span><span class='other'>)</span>",
+        "comment": "sesame seed paste",
+        "other": "()",
+        "unit": "tablespoon",
+        "name": "tahini",
+        "input": "1 tablespoon tahini (sesame seed paste)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "3/4 teaspoon ground cumin",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='comment'>Toasted</span><span class='name'>sesame seeds</span>",
+        "comment": "Toasted",
+        "input": "Toasted sesame seeds",
+        "name": "sesame seeds"
+    }
+]

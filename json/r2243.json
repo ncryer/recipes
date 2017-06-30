@@ -1,0 +1,77 @@
+[
+    {
+        "display": "<span class='qty'>10</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "10 tablespoons extra-virgin olive oil",
+        "qty": "10"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>lb medium</span><span class='name'>tomatoes</span><span class='comment'>( about 6 ) , cut crosswise into 1/2-inch-thick slices</span>",
+        "qty": "2",
+        "comment": "lb medium (about 6), cut crosswise into 1/2-inch-thick slices",
+        "input": "2 lb medium tomatoes (about 6), cut crosswise into 1/2-inch-thick slices",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='comment'>About</span><span class='qty'>13/4</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "comment": "About",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "About 13/4 teaspoons salt",
+        "qty": "13/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>lb</span><span class='comment'>medium red</span><span class='name'>potatoes</span><span class='comment'>, scrubbed well</span>",
+        "comment": "medium red, scrubbed well",
+        "unit": "lb",
+        "name": "potatoes",
+        "input": "2 lb medium red potatoes, scrubbed well",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span>",
+        "unit": "clove",
+        "qty": "1",
+        "input": "1 garlic clove",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>plain fine dry</span><span class='name'>bread crumbs</span>",
+        "comment": "plain fine dry",
+        "unit": "cup",
+        "name": "bread crumbs",
+        "input": "1/2 cup plain fine dry bread crumbs",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>finely chopped fresh</span><span class='name'>basil</span>",
+        "comment": "finely chopped fresh",
+        "unit": "cup",
+        "name": "basil",
+        "input": "1/4 cup finely chopped fresh basil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>chopped fresh</span><span class='name'>thyme</span>",
+        "comment": "chopped fresh",
+        "unit": "teaspoon",
+        "name": "thyme",
+        "input": "1 1/2 teaspoons chopped fresh thyme",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='name'>Special</span><span class='comment'>equipment: a 3-qt shallow flameproof gratin or casserole dish ( about 2 inches deep; not glass )</span>",
+        "comment": "equipment: a 3-qt shallow flameproof gratin or casserole dish (about 2 inches deep; not glass)",
+        "input": "Special equipment: a 3-qt shallow flameproof gratin or casserole dish (about 2 inches deep; not glass)",
+        "name": "Special"
+    }
+]

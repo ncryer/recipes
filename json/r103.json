@@ -1,0 +1,39 @@
+[
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>tablespoons</span><span class='comment'>kosher</span><span class='name'>salt</span><span class='comment'>, plus more</span>",
+        "comment": "kosher, plus more",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "5 tablespoons kosher salt, plus more",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>3 1/2</span><span class='unit'>pound</span><span class='comment'>large red-skin</span><span class='name'>potatoes</span><span class='comment'>, scrubbed</span><span class='other'>,</span><span class='comment'>cut into 1/4\"-thick sticks</span>",
+        "comment": "large red-skin, scrubbed cut into 1/4\"-thick sticks",
+        "other": ",",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "3 1/2 pound large red-skin potatoes, scrubbed, cut into 1/4\"-thick sticks",
+        "qty": "3 1/2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='other'>leaves</span><span class='name'>Napa cabbage</span>",
+        "qty": "4",
+        "name": "Napa cabbage",
+        "input": "4 leaves Napa cabbage",
+        "other": "leaves"
+    },
+    {
+        "display": "<span class='name'>Rice bran</span><span class='other'>or</span><span class='comment'>grapeseed</span><span class='name'>oil</span><span class='comment'>( for frying; about 6 cups )</span>",
+        "comment": "grapeseed (for frying; about 6 cups)",
+        "input": "Rice bran or grapeseed oil (for frying; about 6 cups)",
+        "name": "Rice bran oil",
+        "other": "or"
+    },
+    {
+        "display": "<span class='comment'>A</span><span class='name'>deep-fry thermometer</span>",
+        "comment": "A",
+        "input": "A deep-fry thermometer",
+        "name": "deep-fry thermometer"
+    }
+]

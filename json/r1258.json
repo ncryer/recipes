@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>ripe but firm</span><span class='name'>bananas</span>",
+        "qty": "2",
+        "comment": "ripe but firm",
+        "input": "2 ripe but firm bananas",
+        "name": "bananas"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>ounces</span><span class='comment'>dark</span><span class='name'>chocolate</span><span class='comment'>, chopped , or semisweet chocolate chips</span>",
+        "comment": "dark, chopped, or semisweet chocolate chips",
+        "unit": "ounce",
+        "name": "chocolate",
+        "input": "6 ounces dark chocolate, chopped, or semisweet chocolate chips",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>granola</span><span class='other'>,</span><span class='comment'>chopped pecans and walnuts , or sprinkles ( optional )</span>",
+        "comment": "chopped pecans and walnuts, or sprinkles (optional)",
+        "other": ",",
+        "unit": "cup",
+        "name": "granola",
+        "input": "1/2 cup granola, chopped pecans and walnuts, or sprinkles (optional)",
+        "qty": "1/2"
+    }
+]

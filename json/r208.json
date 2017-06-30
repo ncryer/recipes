@@ -1,0 +1,51 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>Sherry vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons Sherry vinegar",
+        "name": "Sherry vinegar"
+    },
+    {
+        "display": "<span class='name'>Salt</span>",
+        "input": "Salt",
+        "name": "Salt"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>thinly sliced small</span><span class='name'>shallot</span>",
+        "qty": "1",
+        "comment": "thinly sliced small",
+        "input": "1 thinly sliced small shallot",
+        "name": "shallot"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>torn fresh</span><span class='name'>herbs</span><span class='comment'>( such as dill</span><span class='other'>,</span><span class='comment'>mint , and/or chives )</span>",
+        "comment": "torn fresh (such as dill mint, and/or chives)",
+        "other": ",",
+        "unit": "cup",
+        "name": "herbs",
+        "input": "1/2 cup torn fresh herbs (such as dill, mint, and/or chives)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>raw or cooled blanched fresh</span><span class='name'>corn kernels</span>",
+        "comment": "raw or cooled blanched fresh",
+        "unit": "cup",
+        "name": "corn kernels",
+        "input": "3 cups raw or cooled blanched fresh corn kernels",
+        "qty": "3"
+    }
+]

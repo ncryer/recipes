@@ -1,0 +1,35 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='other'>thick</span><span class='name'>lemongrass</span><span class='unit'>stalks</span><span class='comment'>, cut into 2-inch pieces</span>",
+        "comment": ", cut into 2-inch pieces",
+        "other": "thick",
+        "unit": "stalk",
+        "name": "lemongrass",
+        "input": "2 thick lemongrass stalks, cut into 2-inch pieces",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>( 400 grams )</span><span class='name'>sugar</span><span class='comment'>, plus more as needed</span>",
+        "comment": "(400 grams), plus more as needed",
+        "unit": "cup",
+        "name": "sugar",
+        "input": "2 cups (400 grams) sugar, plus more as needed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>ginger juice</span><span class='comment'>( from about 160 grams peeled fresh ginger; see Cooks' Note )</span>",
+        "comment": "fresh (from about 160 grams peeled fresh ginger; see Cooks' Note)",
+        "unit": "cup",
+        "name": "ginger juice",
+        "input": "1/2 cup fresh ginger juice (from about 160 grams peeled fresh ginger; see Cooks' Note)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lime juice</span><span class='comment'>( from about 8 limes )</span>",
+        "comment": "fresh (from about 8 limes)",
+        "unit": "cup",
+        "name": "lime juice",
+        "input": "1/2 cup fresh lime juice (from about 8 limes)",
+        "qty": "1/2"
+    }
+]

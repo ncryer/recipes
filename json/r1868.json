@@ -1,0 +1,39 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>dried</span><span class='name'>apricots</span><span class='comment'>( about 6 ounces )</span>",
+        "comment": "dried (about 6 ounces)",
+        "unit": "cup",
+        "name": "apricots",
+        "input": "1 cup dried apricots (about 6 ounces)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>two 12-ounce bags fresh or unthawed frozen</span><span class='name'>cranberries</span><span class='comment'>( about 7 cups total )</span>",
+        "comment": "two 12-ounce bags fresh or unthawed frozen (about 7 cups total)",
+        "input": "two 12-ounce bags fresh or unthawed frozen cranberries (about 7 cups total)",
+        "name": "cranberries"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sugar</span><span class='other'>,</span><span class='comment'>or to taste</span>",
+        "comment": "or to taste",
+        "other": ",",
+        "unit": "cup",
+        "name": "sugar",
+        "input": "1 cup sugar, or to taste",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>large</span><span class='name'>shallots</span>",
+        "qty": "3",
+        "comment": "large",
+        "input": "3 large shallots",
+        "name": "shallots"
+    }
+]

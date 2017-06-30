@@ -1,0 +1,32 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='comment'>unpasteurized</span><span class='name'>apple cider</span>",
+        "comment": "unpasteurized",
+        "unit": "cup",
+        "name": "apple cider",
+        "input": "6 cups unpasteurized apple cider",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='comment'>a 3-inch</span><span class='name'>cinnamon</span><span class='unit'>stick</span>",
+        "unit": "stick",
+        "comment": "a 3-inch",
+        "input": "a 3-inch cinnamon stick",
+        "name": "cinnamon"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>strained fresh</span><span class='name'>lemon juice</span>",
+        "comment": "strained fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "2 teaspoons strained fresh lemon juice",
+        "qty": "2"
+    }
+]

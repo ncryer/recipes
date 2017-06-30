@@ -1,0 +1,65 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>ounces</span><span class='name'>green beans</span><span class='other'>,</span><span class='comment'>trimmed</span>",
+        "comment": "trimmed",
+        "other": ",",
+        "unit": "ounce",
+        "name": "green beans",
+        "input": "8 ounces green beans, trimmed",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>ounces</span><span class='name'>orzo</span><span class='other'>(</span><span class='comment'>1 1/4 cups</span><span class='other'>)</span>",
+        "comment": "1 1/4 cups",
+        "other": "()",
+        "unit": "ounce",
+        "name": "orzo",
+        "input": "8 ounces orzo (1 1/4 cups)",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>( packed ) chopped fresh</span><span class='name'>dill</span>",
+        "comment": "(packed) chopped fresh",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup (packed) chopped fresh dill",
+        "name": "dill"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>white balsamic vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons white balsamic vinegar",
+        "name": "white balsamic vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>1/3-inch cubes unpeeled English hothouse cucumber ( about 8 ounces )</span>",
+        "unit": "cup",
+        "comment": "1/3-inch cubes unpeeled English hothouse cucumber (about 8 ounces)",
+        "input": "2 cups 1/3-inch cubes unpeeled English hothouse cucumber (about 8 ounces)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>diced fresh</span><span class='name'>fennel bulb</span>",
+        "comment": "diced fresh",
+        "unit": "cup",
+        "name": "fennel bulb",
+        "input": "3/4 cup diced fresh fennel bulb",
+        "qty": "3/4"
+    }
+]

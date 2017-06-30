@@ -1,0 +1,43 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>fresh</span><span class='name'>pineapple</span><span class='comment'>cut into 1/2-inch cubes</span>",
+        "comment": "fresh cut into 1/2-inch cubes",
+        "unit": "cup",
+        "name": "pineapple",
+        "input": "2 cups fresh pineapple cut into 1/2-inch cubes",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>thinly slivered fresh</span><span class='name'>mint</span><span class='comment'>or lemon verbena</span>",
+        "comment": "thinly slivered fresh or lemon verbena",
+        "unit": "tablespoon",
+        "name": "mint",
+        "input": "3 tablespoons thinly slivered fresh mint or lemon verbena",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>to</span><span class='range_end'>2</span><span class='name'>jalape\u00f1o peppers</span><span class='other'>(</span><span class='comment'>preferably red</span><span class='other'>) ,</span><span class='comment'>seeded and minced ( for a hotter \"salsa</span><span class='other'>,</span><span class='comment'>\" leave</span><span class='other'>the</span><span class='comment'>seeds in )</span>",
+        "comment": "preferably red seeded and minced (for a hotter \"salsa \" leave seeds in)",
+        "other": "to (), , the",
+        "name": "jalape\u00f1o peppers",
+        "range_end": "2",
+        "input": "1 to 2 jalape\u00f1o peppers (preferably red), seeded and minced (for a hotter \"salsa, \" leave the seeds in)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span><span class='comment'>, or more to taste</span>",
+        "comment": "fresh, or more to taste",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "2 tablespoons fresh lime juice, or more to taste",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>light</span><span class='name'>brown sugar</span><span class='comment'>, or more to taste</span>",
+        "comment": "light, or more to taste",
+        "unit": "tablespoon",
+        "name": "brown sugar",
+        "input": "1 tablespoon light brown sugar, or more to taste",
+        "qty": "1"
+    }
+]

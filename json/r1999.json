@@ -1,0 +1,78 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "4",
+        "input": "4 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>1-pound unpeeled</span><span class='name'>eggplant</span><span class='comment'>, cut into 3/4-inch cubes</span>",
+        "qty": "1",
+        "comment": "1-pound unpeeled, cut into 3/4-inch cubes",
+        "input": "1 1-pound unpeeled eggplant, cut into 3/4-inch cubes",
+        "name": "eggplant"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>onions</span><span class='other'>,</span><span class='comment'>halved , thinly sliced</span>",
+        "comment": "halved, thinly sliced",
+        "other": ",",
+        "name": "onions",
+        "input": "2 onions, halved, thinly sliced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "5 garlic cloves, minced",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>red bell peppers</span><span class='comment'>, cored , cut into 1/2-inch strips</span>",
+        "qty": "2",
+        "comment": ", cored, cut into 1/2-inch strips",
+        "input": "2 red bell peppers, cored, cut into 1/2-inch strips",
+        "name": "red bell peppers"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>turmeric</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "turmeric",
+        "input": "3/4 teaspoon ground turmeric",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>diced canned</span><span class='name'>tomatoes</span><span class='comment'>with juices</span>",
+        "comment": "diced canned with juices",
+        "unit": "cup",
+        "name": "tomatoes",
+        "input": "1 1/2 cups diced canned tomatoes with juices",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='other'>Pinch of</span><span class='name'>sugar</span>",
+        "other": "Pinch of",
+        "input": "Pinch of sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "1 tablespoons chopped fresh cilantro",
+        "qty": "1"
+    }
+]

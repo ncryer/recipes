@@ -1,0 +1,61 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>liquid coconut oil</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup liquid coconut oil",
+        "name": "liquid coconut oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>agave syrup</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons agave syrup",
+        "name": "agave syrup"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lavender flowers</span><span class='comment'>or 1 1/2 tablespoons dried</span>",
+        "comment": "fresh or 1 1/2 tablespoons dried",
+        "unit": "cup",
+        "name": "lavender flowers",
+        "input": "1/4 cup fresh lavender flowers or 1 1/2 tablespoons dried",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>cacao powder</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup cacao powder",
+        "name": "cacao powder"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>almond butter</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup almond butter",
+        "name": "almond butter"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>almonds</span><span class='comment'>, coarsely chopped by pulsing in food processor</span>",
+        "comment": ", coarsely chopped by pulsing in food processor",
+        "unit": "cup",
+        "name": "almonds",
+        "input": "1 cup almonds, coarsely chopped by pulsing in food processor",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>raisins</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup raisins",
+        "name": "raisins"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>sliced</span><span class='name'>almonds</span>",
+        "comment": "sliced",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup sliced almonds",
+        "name": "almonds"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='other'>or</span><span class='range_end'>4</span><span class='comment'>small to medium heirloom</span><span class='name'>tomatoes</span><span class='comment'>, in assorted colors</span><span class='other'>,</span><span class='comment'>cored and cut into 3/4-inch chunks</span>",
+        "comment": "small to medium heirloom, in assorted colors cored and cut into 3/4-inch chunks",
+        "other": "or ,",
+        "name": "tomatoes",
+        "range_end": "4",
+        "input": "3 or 4 small to medium heirloom tomatoes, in assorted colors, cored and cut into 3/4-inch chunks",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>English</span><span class='comment'>or regular cucumber</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>and cut into 3/4-inch cubes</span>",
+        "comment": "small or regular cucumber peeled seeded and cut into 3/4-inch cubes",
+        "other": ",, ,",
+        "name": "English",
+        "input": "1 small English or regular cucumber, peeled, seeded, and cut into 3/4-inch cubes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>3/4-inch-cubed yellow or red seedless watermelon flesh</span>",
+        "unit": "cup",
+        "comment": "3/4-inch-cubed yellow or red seedless watermelon flesh",
+        "input": "1 cup 3/4-inch-cubed yellow or red seedless watermelon flesh",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>Hass avocado</span><span class='other'>,</span><span class='comment'>halved</span><span class='other'>,</span><span class='comment'>pitted</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>and cut into 3/4-inch cubes</span>",
+        "comment": "halved pitted peeled and cut into 3/4-inch cubes",
+        "other": ",, , ,",
+        "name": "Hass avocado",
+        "input": "1 Hass avocado, halved, pitted, peeled, and cut into 3/4-inch cubes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped mixed fresh</span><span class='name'>herbs</span><span class='comment'>, in any combination: basil</span><span class='other'>,</span><span class='comment'>tarragon</span><span class='other'>,</span><span class='comment'>chives</span><span class='other'>,</span><span class='comment'>and cilantro</span>",
+        "comment": "chopped mixed fresh, in any combination: basil tarragon chives and cilantro",
+        "other": ",, ,",
+        "unit": "tablespoon",
+        "name": "herbs",
+        "input": "1 tablespoon chopped mixed fresh herbs, in any combination: basil, tarragon, chives, and cilantro",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>coriander seed</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon coriander seed",
+        "name": "coriander seed"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>aged</span><span class='name'>balsamic vinegar</span>",
+        "comment": "aged",
+        "unit": "tablespoon",
+        "name": "balsamic vinegar",
+        "input": "3 tablespoons aged balsamic vinegar",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt and freshly ground black pepper",
+        "name": "salt and black pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "qty": "1",
+        "comment": "freshly ground",
+        "input": "1 freshly ground black pepper",
+        "name": "black pepper"
+    }
+]

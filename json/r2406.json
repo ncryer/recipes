@@ -1,0 +1,70 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>750-ml bottle</span><span class='name'>Vin du Glacier wine</span><span class='other'>or</span><span class='comment'>Essencia ( orange Muscat wine )</span>",
+        "comment": "750-ml bottle Essencia (orange Muscat wine)",
+        "other": "or",
+        "name": "Vin du Glacier wine",
+        "input": "1 750-ml bottle Vin du Glacier wine or Essencia (orange Muscat wine)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>cinnamon</span><span class='unit'>stick</span><span class='other'>,</span><span class='comment'>broken in half</span>",
+        "comment": "broken in half",
+        "other": ",",
+        "unit": "stick",
+        "name": "cinnamon",
+        "input": "1 cinnamon stick, broken in half",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='comment'>whole</span><span class='name'>cloves</span>",
+        "qty": "5",
+        "comment": "whole",
+        "input": "5 whole cloves",
+        "name": "cloves"
+    },
+    {
+        "display": "<span class='comment'>2 8-ounce firm but ripe</span><span class='name'>pears</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>halved</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>each half cut into 4 wedges</span>",
+        "comment": "2 8-ounce firm but ripe peeled halved cored each half cut into 4 wedges",
+        "input": "2 8-ounce firm but ripe pears, peeled, halved, cored, each half cut into 4 wedges",
+        "name": "pears",
+        "other": ",, , ,"
+    },
+    {
+        "display": "<span class='qty'>18</span><span class='comment'>dried</span><span class='name'>Calimyrna figs</span><span class='comment'>, quartered</span>",
+        "qty": "18",
+        "comment": "dried, quartered",
+        "input": "18 dried Calimyrna figs, quartered",
+        "name": "Calimyrna figs"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>dried</span><span class='name'>apricots</span><span class='comment'>, halved</span>",
+        "comment": "dried, halved",
+        "unit": "cup",
+        "name": "apricots",
+        "input": "3/4 cup dried apricots, halved",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='comment'>dried</span><span class='name'>pear halves</span><span class='other'>,</span><span class='comment'>each cut into 3 wedges</span>",
+        "comment": "dried each cut into 3 wedges",
+        "other": ",",
+        "name": "pear halves",
+        "input": "8 dried pear halves, each cut into 3 wedges",
+        "qty": "8"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='name'>large ripe avocados</span><span class='other'>,</span><span class='comment'>halved</span><span class='other'>,</span><span class='comment'>pitted</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>coarsely chopped</span>",
+        "comment": "halved pitted peeled coarsely chopped",
+        "other": ",, , ,",
+        "name": "large ripe avocados",
+        "input": "3 large ripe avocados, halved, pitted, peeled, coarsely chopped",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>ounces</span><span class='comment'>fresh</span><span class='name'>tomatillos</span><span class='comment'>, husked , rinsed</span><span class='other'>,</span><span class='comment'>coarsely chopped</span>",
+        "comment": "fresh, husked, rinsed coarsely chopped",
+        "other": ",",
+        "unit": "ounce",
+        "name": "tomatillos",
+        "input": "8 ounces fresh tomatillos, husked, rinsed, coarsely chopped",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>serrano chiles</span><span class='other'>,</span><span class='comment'>seeded , coarsely chopped</span>",
+        "comment": "seeded, coarsely chopped",
+        "other": ",",
+        "name": "serrano chiles",
+        "input": "2 serrano chiles, seeded, coarsely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped white</span><span class='name'>onion</span>",
+        "comment": "chopped white",
+        "unit": "tablespoon",
+        "name": "onion",
+        "input": "2 tablespoons chopped white onion",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>coarsely chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "coarsely chopped fresh",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "2 tablespoons coarsely chopped fresh cilantro",
+        "qty": "2"
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>sweet or mild mini</span><span class='name'>bell peppers</span><span class='comment'>, sliced crosswise into 1/4-inch-thick rounds</span><span class='other'>,</span><span class='comment'>seeded</span>",
+        "comment": "sweet or mild mini, sliced crosswise into 1/4-inch-thick rounds seeded",
+        "other": ",",
+        "unit": "pound",
+        "name": "bell peppers",
+        "input": "1 pound sweet or mild mini bell peppers, sliced crosswise into 1/4-inch-thick rounds, seeded",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>shallots</span><span class='comment'>, thinly sliced</span><span class='other'>,</span><span class='comment'>separated into rings</span>",
+        "comment": "large, thinly sliced separated into rings",
+        "other": ",",
+        "name": "shallots",
+        "input": "2 large shallots, thinly sliced, separated into rings",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>white wine vinegar</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups white wine vinegar",
+        "name": "white wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>water</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='comment'>fresh</span><span class='name'>thyme</span><span class='comment'>sprigs</span>",
+        "qty": "5",
+        "comment": "fresh sprigs",
+        "input": "5 fresh thyme sprigs",
+        "name": "thyme"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 large garlic cloves, thinly sliced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>dried crushed</span><span class='name'>red pepper</span>",
+        "comment": "dried crushed",
+        "unit": "teaspoon",
+        "name": "red pepper",
+        "input": "1/4 teaspoon dried crushed red pepper",
+        "qty": "1/4"
+    },
+    {
+        "other": "Pinch of",
+        "display": "<span class='other'>Pinch of</span><span class='comment'>coarse kosher</span><span class='name'>salt</span>",
+        "comment": "coarse kosher",
+        "input": "Pinch of coarse kosher salt",
+        "name": "salt"
+    }
+]

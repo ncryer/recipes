@@ -1,0 +1,75 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>tomatoes</span>",
+        "qty": "2",
+        "comment": "medium",
+        "input": "2 medium tomatoes",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>onions</span><span class='comment'>, chopped</span>",
+        "qty": "2",
+        "comment": "medium, chopped",
+        "input": "2 medium onions, chopped",
+        "name": "onions"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup extra-virgin olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>green beans</span><span class='comment'>, trimmed and halved crosswise</span>",
+        "comment": ", trimmed and halved crosswise",
+        "unit": "pound",
+        "name": "green beans",
+        "input": "1 pound green beans, trimmed and halved crosswise",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='name'>lemon wedges; thick Turkish</span><span class='comment'>or Greek yogurt</span>",
+        "comment": "or Greek yogurt",
+        "input": "lemon wedges; thick Turkish or Greek yogurt",
+        "name": "lemon wedges; thick Turkish"
+    }
+]

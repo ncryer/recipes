@@ -1,0 +1,81 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>pounds</span><span class='name'>vine-ripened tomatoes</span><span class='other'>(</span><span class='comment'>about 8 medium )</span>",
+        "comment": "about 8 medium)",
+        "other": "(",
+        "unit": "pound",
+        "name": "vine-ripened tomatoes",
+        "input": "3 pounds vine-ripened tomatoes (about 8 medium)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>balsamic vinegar</span><span class='other'>,</span><span class='comment'>or to taste</span>",
+        "comment": "or to taste",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "balsamic vinegar",
+        "input": "2 teaspoons balsamic vinegar, or to taste",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sugar</span><span class='other'>,</span><span class='comment'>or to taste</span>",
+        "comment": "or to taste",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "sugar",
+        "input": "1 teaspoon sugar, or to taste",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span><span class='comment'>, or to taste</span>",
+        "comment": "fresh, or to taste",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "1 teaspoon fresh lemon juice, or to taste",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>ice</span><span class='name'>water</span>",
+        "comment": "ice",
+        "unit": "cup",
+        "name": "water",
+        "input": "1 1/2 cups ice water",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>finely chopped fresh</span><span class='name'>tarragon leaves</span>",
+        "comment": "finely chopped fresh",
+        "unit": "tablespoon",
+        "name": "tarragon leaves",
+        "input": "1 tablespoon finely chopped fresh tarragon leaves",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='comment'>vine-ripened</span><span class='name'>yellow cherry tomatoes</span>",
+        "qty": "8",
+        "comment": "vine-ripened",
+        "input": "8 vine-ripened yellow cherry tomatoes",
+        "name": "yellow cherry tomatoes"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>zucchini</span>",
+        "comment": "finely chopped",
+        "unit": "cup",
+        "name": "zucchini",
+        "input": "1/4 cup finely chopped zucchini",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>red onion</span>",
+        "comment": "finely chopped",
+        "unit": "cup",
+        "name": "red onion",
+        "input": "1/4 cup finely chopped red onion",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='name'>Accompaniment:</span>",
+        "input": "Accompaniment:",
+        "name": "Accompaniment:"
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "display": "<span class='comment'>1 can ( 14.5 ounces ) diced</span><span class='name'>tomatoes</span>",
+        "comment": "1 can (14.5 ounces) diced",
+        "input": "1 can (14.5 ounces) diced tomatoes",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>canned</span><span class='name'>chickpeas</span><span class='comment'>, rinsed and drained</span>",
+        "comment": "canned, rinsed and drained",
+        "unit": "cup",
+        "name": "chickpeas",
+        "input": "1 cup canned chickpeas, rinsed and drained",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span>",
+        "unit": "cup",
+        "input": "1/2 cup",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span>",
+        "unit": "cup",
+        "input": "1/2 cup",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>oregano</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "oregano",
+        "input": "1/4 teaspoon dried oregano",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>red pepper flakes</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon red pepper flakes",
+        "name": "red pepper flakes"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>artichoke</span><span class='comment'>hearts in water , drained and quartered</span>",
+        "qty": "4",
+        "comment": "hearts in water, drained and quartered",
+        "input": "4 artichoke hearts in water, drained and quartered",
+        "name": "artichoke"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>frozen</span><span class='name'>peas</span>",
+        "comment": "frozen",
+        "unit": "cup",
+        "name": "peas",
+        "input": "1/2 cup frozen peas",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>sliced</span><span class='name'>black olives</span>",
+        "comment": "sliced",
+        "unit": "cup",
+        "name": "black olives",
+        "input": "1/4 cup sliced black olives",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>whole-wheat</span><span class='name'>penne</span><span class='comment'>, cooked</span>",
+        "comment": "whole-wheat, cooked",
+        "unit": "cup",
+        "name": "penne",
+        "input": "1/2 cup whole-wheat penne, cooked",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>basil</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "basil",
+        "input": "1/4 cup chopped fresh basil",
+        "qty": "1/4"
+    }
+]

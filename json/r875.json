@@ -1,0 +1,84 @@
+[
+    {
+        "display": "<span class='name'>600 ml</span><span class='other'>(</span><span class='comment'>1 pint 2 cups</span><span class='other'>)</span>",
+        "comment": "1 pint 2 cups",
+        "input": "600 ml (1 pint 2 cups)",
+        "name": "600 ml",
+        "other": "()"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium</span><span class='name'>shallots</span><span class='comment'>, quartered and crushed</span>",
+        "qty": "3",
+        "comment": "medium, quartered and crushed",
+        "input": "3 medium shallots, quartered and crushed",
+        "name": "shallots"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>tbsp</span><span class='comment'>julienned</span><span class='name'>galangal</span>",
+        "qty": "3",
+        "comment": "julienned",
+        "input": "3 tbsp julienned galangal",
+        "name": "tbsp galangal"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>tbsp finely diagonally sliced lemongrass</span>",
+        "qty": "3",
+        "input": "3 tbsp finely diagonally sliced lemongrass",
+        "name": "tbsp finely diagonally sliced lemongrass"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>kaffir</span><span class='name'>lime leaves</span><span class='comment'>, finely sliced</span>",
+        "qty": "3",
+        "comment": "kaffir, finely sliced",
+        "input": "3 kaffir lime leaves, finely sliced",
+        "name": "lime leaves"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>bird's eye chiles</span><span class='other'>,</span><span class='comment'>pressed</span>",
+        "comment": "pressed",
+        "other": ",",
+        "name": "bird's eye chiles",
+        "input": "3 bird's eye chiles, pressed",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='name'>90 g</span><span class='comment'>( 3 1/4 oz</span><span class='other'>)</span><span class='name'>oyster mushrooms</span><span class='other'>,</span><span class='comment'>sliced</span>",
+        "comment": "(3 1/4 oz sliced",
+        "input": "90 g (3 1/4 oz) oyster mushrooms, sliced",
+        "name": "90 g oyster mushrooms",
+        "other": ") ,"
+    },
+    {
+        "display": "<span class='name'>90 g</span><span class='comment'>( 3 1/4 oz ) straw</span><span class='name'>mushrooms</span><span class='comment'>, trimmed and halved</span>",
+        "comment": "(3 1/4 oz) straw, trimmed and halved",
+        "input": "90 g (3 1/4 oz) straw mushrooms, trimmed and halved",
+        "name": "90 g mushrooms"
+    },
+    {
+        "display": "<span class='qty'>60</span><span class='name'>g</span><span class='comment'>( 2 1/4 oz ) cherry</span><span class='name'>tomatoes</span><span class='comment'>, halved</span>",
+        "qty": "60",
+        "comment": "(2 1/4 oz) cherry, halved",
+        "input": "60 g (2 1/4 oz) cherry tomatoes, halved",
+        "name": "g tomatoes"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>tbsp miso paste</span>",
+        "qty": "4",
+        "input": "4 tbsp miso paste",
+        "name": "tbsp miso paste"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>tbsp</span><span class='name'>lime juice</span>",
+        "qty": "3",
+        "comment": "tbsp",
+        "input": "3 tbsp lime juice",
+        "name": "lime juice"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>tbsp</span><span class='name'>apple</span><span class='comment'>concentrate or honey</span>",
+        "qty": "1",
+        "comment": "tbsp concentrate or honey",
+        "input": "1 tbsp apple concentrate or honey",
+        "name": "apple"
+    }
+]

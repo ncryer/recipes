@@ -1,0 +1,72 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>basmati rice</span><span class='comment'>( 20 ounces</span><span class='other'>)</span>",
+        "comment": "(20 ounces",
+        "other": ")",
+        "unit": "cup",
+        "name": "basmati rice",
+        "input": "3 cups basmati rice (20 ounces)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>sweetened flaked</span><span class='name'>coconut</span>",
+        "comment": "sweetened flaked",
+        "unit": "cup",
+        "name": "coconut",
+        "input": "3/4 cup sweetened flaked coconut",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>finely chopped peeled fresh ginger</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon finely chopped peeled fresh ginger",
+        "name": "finely chopped peeled fresh ginger"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>finely chopped fresh</span><span class='name'>jalape\u00f1o including seeds</span><span class='other'>(</span><span class='comment'>from 1 chile )</span>",
+        "comment": "finely chopped fresh from 1 chile)",
+        "other": "(",
+        "unit": "tablespoon",
+        "name": "jalape\u00f1o including seeds",
+        "input": "1 tablespoon finely chopped fresh jalape\u00f1o including seeds (from 1 chile)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "4",
+        "input": "4 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>packed fresh</span><span class='name'>cilantro</span><span class='comment'>sprigs</span>",
+        "comment": "packed fresh sprigs",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "2 cups packed fresh cilantro sprigs",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>scallions</span><span class='comment'>, chopped ( 1 cup</span><span class='other'>)</span>",
+        "comment": ", chopped (1 cup",
+        "other": ")",
+        "name": "scallions",
+        "input": "4 scallions, chopped (1 cup)",
+        "qty": "4"
+    }
+]

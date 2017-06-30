@@ -1,0 +1,71 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>1/4-inch-dice fresh</span><span class='name'>pineapple</span>",
+        "comment": "1/4-inch-dice fresh",
+        "unit": "cup",
+        "name": "pineapple",
+        "input": "1 cup 1/4-inch-dice fresh pineapple",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>plum tomatoes , seeded and cut into 1/4-inch dice</span>",
+        "qty": "2",
+        "input": "2 plum tomatoes, seeded and cut into 1/4-inch dice",
+        "name": "plum tomatoes, seeded and cut into 1/4-inch dice"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>firm-ripe</span><span class='name'>California avocado , cut into 1/4-inch dice</span>",
+        "qty": "1",
+        "comment": "firm-ripe",
+        "input": "1 firm-ripe California avocado, cut into 1/4-inch dice",
+        "name": "California avocado, cut into 1/4-inch dice"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>sweet onion</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "sweet onion",
+        "input": "1/2 cup chopped sweet onion",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/4 cup chopped fresh cilantro",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>minced fresh</span><span class='name'>jalape\u00f1o chile</span><span class='comment'>, including seeds</span>",
+        "comment": "minced fresh, including seeds",
+        "unit": "teaspoon",
+        "name": "jalape\u00f1o chile",
+        "input": "1 1/2 teaspoons minced fresh jalape\u00f1o chile, including seeds",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "3 tablespoons fresh lime juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>orange juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "orange juice",
+        "input": "3 tablespoons fresh orange juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    }
+]

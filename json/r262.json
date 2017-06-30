@@ -1,0 +1,23 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='comment'>medium</span><span class='name'>red apples</span>",
+        "qty": "1 1/2",
+        "comment": "medium",
+        "input": "1 1/2 medium red apples",
+        "name": "red apples"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='comment'>medium</span><span class='name'>carrots</span>",
+        "qty": "5",
+        "comment": "medium",
+        "input": "5 medium carrots",
+        "name": "carrots"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>orange</span><span class='comment'>, peeled</span>",
+        "qty": "1",
+        "comment": "medium, peeled",
+        "input": "1 medium orange, peeled",
+        "name": "orange"
+    }
+]

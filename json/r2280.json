@@ -1,0 +1,68 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='name'>small leeks</span><span class='other'>,</span><span class='comment'>white and pale green parts only</span><span class='other'>,</span><span class='comment'>halved lengthwise</span><span class='other'>,</span><span class='comment'>sliced thin crosswise</span><span class='other'>,</span><span class='comment'>washed thoroughly</span><span class='other'>, and</span><span class='comment'>patted dry</span><span class='other'>(</span><span class='comment'>about 1 1/2 cups )</span>",
+        "comment": "white and pale green parts only halved lengthwise sliced thin crosswise washed thoroughly patted dry about 1 1/2 cups)",
+        "other": ",, ,, , and (",
+        "name": "small leeks",
+        "input": "4 small leeks, white and pale green parts only, halved lengthwise, sliced thin crosswise, washed thoroughly, and patted dry (about 1 1/2 cups)",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='comment'>fresh</span><span class='name'>shiitake mushrooms</span><span class='other'>,</span><span class='comment'>stems discarded and caps sliced</span>",
+        "comment": "fresh stems discarded and caps sliced",
+        "other": ",",
+        "unit": "pound",
+        "name": "shiitake mushrooms",
+        "input": "1/2 pound fresh shiitake mushrooms, stems discarded and caps sliced",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>sliced thin</span>",
+        "comment": "sliced thin",
+        "other": ",",
+        "name": "scallions",
+        "input": "4 scallions, sliced thin",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>soy sauce</span><span class='other'>,</span><span class='comment'>or to taste</span>",
+        "comment": "or to taste",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "soy sauce",
+        "input": "2 tablespoons soy sauce, or to taste",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>rice vinegar</span><span class='other'>,</span><span class='comment'>or to taste</span>",
+        "comment": "or to taste",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "rice vinegar",
+        "input": "2 teaspoons rice vinegar, or to taste",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>an</span><span class='name'>8-</span><span class='comment'>or 9-ounce package</span><span class='name'>soba</span><span class='comment'>( buckwheat noodles )</span>",
+        "qty": "an",
+        "comment": "or 9-ounce package (buckwheat noodles)",
+        "input": "an 8- or 9-ounce package soba (buckwheat noodles)",
+        "name": "8- soba"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='name'>pea shoots</span><span class='other'>,</span><span class='comment'>washed well and spun dry</span>",
+        "comment": "washed well and spun dry",
+        "other": ",",
+        "unit": "pound",
+        "name": "pea shoots",
+        "input": "1/2 pound pea shoots, washed well and spun dry",
+        "qty": "1/2"
+    }
+]

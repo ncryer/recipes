@@ -1,0 +1,61 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>scallions</span><span class='comment'>, white and green parts thinly sliced separately</span>",
+        "qty": "4",
+        "comment": ", white and green parts thinly sliced separately",
+        "input": "4 scallions, white and green parts thinly sliced separately",
+        "name": "scallions"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>mustard seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon mustard seeds",
+        "name": "mustard seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>basmati</span><span class='name'>rice</span><span class='comment'>, rinsed until water runs clear , then drained</span>",
+        "comment": "basmati, rinsed until water runs clear, then drained",
+        "unit": "cup",
+        "name": "rice",
+        "input": "1 cup basmati rice, rinsed until water runs clear, then drained",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>fresh</span><span class='name'>jalape\u00f1o chile</span><span class='other'>,</span><span class='comment'>minced , including seeds</span>",
+        "comment": "fresh minced, including seeds",
+        "other": ",",
+        "name": "jalape\u00f1o chile",
+        "input": "1 fresh jalape\u00f1o chile, minced, including seeds",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>lb</span><span class='name'>sugar snap peas</span><span class='other'>,</span><span class='comment'>cut diagonally into 1/4-inch pieces (</span><span class='qty'>2</span><span class='comment'>cups )</span>",
+        "comment": "lb cut diagonally into 1/4-inch pieces (cups)",
+        "other": ",",
+        "name": "sugar snap peas",
+        "input": "1/2 lb sugar snap peas, cut diagonally into 1/4-inch pieces (2 cups)",
+        "qty": "1/2 2"
+    }
+]

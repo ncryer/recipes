@@ -1,0 +1,76 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "6",
+        "input": "6 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/4 cup chopped fresh cilantro",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "3 tablespoons fresh lemon juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 garlic cloves, finely chopped",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>chili powder</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons chili powder",
+        "name": "chili powder"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1 teaspoon ground cumin",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>honey</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon honey",
+        "name": "honey"
+    },
+    {
+        "display": "<span class='comment'>Nonstick</span><span class='name'>olive oil spray</span>",
+        "comment": "Nonstick",
+        "input": "Nonstick olive oil spray",
+        "name": "olive oil spray"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>medium</span><span class='name'>zucchini</span><span class='comment'>, trimmed , quartered lengthwise</span>",
+        "qty": "6",
+        "comment": "medium, trimmed, quartered lengthwise",
+        "input": "6 medium zucchini, trimmed, quartered lengthwise",
+        "name": "zucchini"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>large</span><span class='name'>plum tomatoes</span><span class='comment'>, quartered lengthwise</span>",
+        "qty": "6",
+        "comment": "large, quartered lengthwise",
+        "input": "6 large plum tomatoes, quartered lengthwise",
+        "name": "plum tomatoes"
+    }
+]

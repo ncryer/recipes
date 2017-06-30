@@ -1,0 +1,58 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>dried sour</span><span class='name'>cherries</span><span class='comment'>( 9 oz )</span>",
+        "comment": "dried sour (9 oz)",
+        "unit": "cup",
+        "name": "cherries",
+        "input": "1 1/2 cups dried sour cherries (9 oz)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>ruby Port</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup ruby Port",
+        "name": "ruby Port"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>dry red wine</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup dry red wine",
+        "name": "dry red wine"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "6",
+        "input": "6 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 2- to 3-inch ) piece of cinnamon stick</span>",
+        "comment": "(2- to 3-inch) piece of cinnamon stick",
+        "input": "1 (2- to 3-inch) piece of cinnamon stick",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>cornstarch</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons cornstarch",
+        "name": "cornstarch"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>red-wine vinegar</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons red-wine vinegar",
+        "name": "red-wine vinegar"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>Pinot Noir</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups Pinot Noir",
+        "name": "Pinot Noir"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='comment'>dried</span><span class='name'>figs</span><span class='comment'>, diced</span>",
+        "qty": "12",
+        "comment": "dried, diced",
+        "input": "12 dried figs, diced",
+        "name": "figs"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>strips</span><span class='name'>orange zest</span>",
+        "unit": "strip",
+        "qty": "3",
+        "input": "3 strips orange zest",
+        "name": "orange zest"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 2-inch )</span><span class='unit'>piece</span><span class='comment'>fresh</span><span class='name'>ginger</span><span class='comment'>, peeled and finely grated</span>",
+        "comment": "(2-inch) fresh, peeled and finely grated",
+        "unit": "piece",
+        "name": "ginger",
+        "input": "1 (2-inch) piece fresh ginger, peeled and finely grated",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>fresh or frozen</span><span class='name'>cranberries</span>",
+        "comment": "fresh or frozen",
+        "unit": "cup",
+        "name": "cranberries",
+        "input": "4 cups fresh or frozen cranberries",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt and freshly ground black pepper",
+        "name": "salt and black pepper"
+    }
+]

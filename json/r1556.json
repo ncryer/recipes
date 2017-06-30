@@ -1,0 +1,64 @@
+[
+    {
+        "display": "<span class='name'>Vegetable-oil cooking spray</span>",
+        "input": "Vegetable-oil cooking spray",
+        "name": "Vegetable-oil cooking spray"
+    },
+    {
+        "other": "2 cups plus 2 (",
+        "display": "<span class='other'>2 cups plus 2</span><span class='comment'>tbsp plain</span><span class='name'>rice milk</span><span class='other'>(</span><span class='comment'>or skim milk )</span>",
+        "comment": "tbsp plain or skim milk)",
+        "input": "2 cups plus 2 tbsp plain rice milk (or skim milk)",
+        "name": "rice milk"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>tbsp peeled</span><span class='name'>almonds</span>",
+        "qty": "2",
+        "comment": "tbsp peeled",
+        "input": "2 tbsp peeled almonds",
+        "name": "almonds"
+    },
+    {
+        "other": "1/8",
+        "display": "<span class='other'>1/8</span><span class='name'>tsp</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "input": "1/8 tsp freshly ground black pepper",
+        "name": "tsp black pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tsp</span><span class='comment'>minced roasted</span><span class='name'>garlic</span>",
+        "comment": "minced roasted",
+        "unit": "tsp",
+        "name": "garlic",
+        "input": "1 tsp minced roasted garlic",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>tsp sea salt</span>",
+        "qty": "1/2",
+        "input": "1/2 tsp sea salt",
+        "name": "tsp sea salt"
+    },
+    {
+        "other": "1/8 tsp",
+        "display": "<span class='other'>1/8 tsp</span><span class='comment'>ground</span><span class='name'>nutmeg</span>",
+        "comment": "ground",
+        "input": "1/8 tsp ground nutmeg",
+        "name": "nutmeg"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>tbsp</span><span class='name'>cornstarch</span>",
+        "qty": "2",
+        "comment": "tbsp",
+        "input": "2 tbsp cornstarch",
+        "name": "cornstarch"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>russet potatoes</span><span class='other'>,</span><span class='comment'>peeled and sliced as thinly</span><span class='other'>as</span><span class='comment'>possible</span>",
+        "comment": "peeled and sliced as thinly possible",
+        "other": ", as",
+        "name": "russet potatoes",
+        "input": "3 russet potatoes, peeled and sliced as thinly as possible",
+        "qty": "3"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='comment'>medium-size red-skinned</span><span class='name'>potatoes</span>",
+        "qty": "8",
+        "comment": "medium-size red-skinned",
+        "input": "8 medium-size red-skinned potatoes",
+        "name": "potatoes"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>40</span><span class='comment'>small</span><span class='name'>bay leaves</span>",
+        "qty": "40",
+        "comment": "small",
+        "input": "40 small bay leaves",
+        "name": "bay leaves"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>coarse sea</span><span class='name'>salt</span>",
+        "comment": "coarse sea",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "1 tablespoon coarse sea salt",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>herbes de Provence*</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons herbes de Provence*",
+        "name": "herbes de Provence*"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>coarsely cracked</span><span class='name'>black pepper</span>",
+        "comment": "coarsely cracked",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1 1/2 teaspoons coarsely cracked black pepper",
+        "qty": "1 1/2"
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>unseasoned</span><span class='name'>rice vinegar</span>",
+        "comment": "unseasoned",
+        "unit": "tablespoon",
+        "name": "rice vinegar",
+        "input": "3 tablespoons unseasoned rice vinegar",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>white miso</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons white miso",
+        "name": "white miso"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>minced peeled fresh</span><span class='name'>ginger</span>",
+        "comment": "minced peeled fresh",
+        "unit": "tablespoon",
+        "name": "ginger",
+        "input": "1 tablespoon minced peeled fresh ginger",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>vegetable oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>16-ounce</span><span class='unit'>bag</span><span class='name'>broccoli slaw</span>",
+        "other": "16-ounce",
+        "unit": "bag",
+        "name": "broccoli slaw",
+        "input": "1 16-ounce bag broccoli slaw",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>large</span><span class='name'>green onions</span><span class='comment'>, thinly sliced</span>",
+        "qty": "3",
+        "comment": "large, thinly sliced",
+        "input": "3 large green onions, thinly sliced",
+        "name": "green onions"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/2 cup chopped fresh cilantro",
+        "qty": "1/2"
+    }
+]

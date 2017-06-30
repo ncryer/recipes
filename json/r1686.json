@@ -1,0 +1,54 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>bunches</span><span class='name'>baby carrots</span><span class='other'>,</span><span class='comment'>peeled and trimmed</span><span class='other'>,</span><span class='comment'>leaving 1/2 inch of stems intact</span>",
+        "comment": "peeled and trimmed leaving 1/2 inch of stems intact",
+        "other": ", ,",
+        "unit": "bunch",
+        "name": "baby carrots",
+        "input": "6 bunches baby carrots, peeled and trimmed, leaving 1/2 inch of stems intact",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>fennel</span><span class='unit'>bulbs</span><span class='comment'>, stalks discarded and bulbs cut into 1/2-inch-thick wedges</span>",
+        "comment": "medium, stalks discarded and bulbs cut into 1/2-inch-thick wedges",
+        "unit": "bulb",
+        "name": "fennel",
+        "input": "2 medium fennel bulbs, stalks discarded and bulbs cut into 1/2-inch-thick wedges",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>water</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>fennel seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon fennel seeds",
+        "name": "fennel seeds"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    }
+]

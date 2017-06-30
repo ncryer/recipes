@@ -1,0 +1,71 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>onion</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "onion",
+        "input": "2 cups chopped onion",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>celery</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "celery",
+        "input": "2 cups chopped celery",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>green bell peppers</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "green bell peppers",
+        "input": "2 cups chopped green bell peppers",
+        "qty": "2"
+    },
+    {
+        "other": "28-ounce ,",
+        "display": "<span class='comment'>1</span><span class='other'>28-ounce</span><span class='comment'>can diced</span><span class='name'>tomatoes</span><span class='comment'>in juice , drained</span><span class='other'>,</span><span class='comment'>juice reserved</span>",
+        "comment": "1 can diced in juice, drained juice reserved",
+        "input": "1 28-ounce can diced tomatoes in juice, drained, juice reserved",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>1-pound bags frozen small</span><span class='name'>white corn kernels</span>",
+        "qty": "2",
+        "comment": "1-pound bags frozen small",
+        "input": "2 1-pound bags frozen small white corn kernels",
+        "name": "white corn kernels"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>minced peeled fresh</span><span class='name'>ginger</span>",
+        "comment": "minced peeled fresh",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "1 teaspoon minced peeled fresh ginger",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>grated</span><span class='name'>lemon peel</span>",
+        "comment": "grated",
+        "unit": "teaspoon",
+        "name": "lemon peel",
+        "input": "1/2 teaspoon grated lemon peel",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/2 teaspoon freshly ground black pepper",
+        "qty": "1/2"
+    }
+]

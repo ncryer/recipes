@@ -1,0 +1,61 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>teaspoons</span><span class='name'>Dijon mustard</span>",
+        "unit": "teaspoon",
+        "qty": "2 1/2",
+        "input": "2 1/2 teaspoons Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 large garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "6",
+        "input": "6 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>14-ounce can</span><span class='name'>hearts of palm</span><span class='other'>,</span><span class='comment'>drained</span><span class='other'>,</span><span class='comment'>sliced into rounds</span>",
+        "comment": "14-ounce can drained sliced into rounds",
+        "other": ", ,",
+        "name": "hearts of palm",
+        "input": "1 14-ounce can hearts of palm, drained, sliced into rounds",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>1 14-ounce can</span><span class='name'>artichoke hearts</span><span class='comment'>, drained , quartered</span>",
+        "comment": "1 14-ounce can, drained, quartered",
+        "input": "1 14-ounce can artichoke hearts, drained, quartered",
+        "name": "artichoke hearts"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>head</span><span class='name'>butter lettuce</span>",
+        "unit": "head",
+        "qty": "1",
+        "input": "1 head butter lettuce",
+        "name": "butter lettuce"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='name'>cherry tomatoes</span><span class='comment'>, halved</span>",
+        "qty": "12",
+        "comment": ", halved",
+        "input": "12 cherry tomatoes, halved",
+        "name": "cherry tomatoes"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>sprigs</span><span class='name'>hearty herbs</span><span class='comment'>( such as thyme</span><span class='other'>,</span><span class='comment'>rosemary , and/or sage )</span>",
+        "comment": "(such as thyme rosemary, and/or sage)",
+        "other": ",",
+        "unit": "sprig",
+        "name": "hearty herbs",
+        "input": "8 sprigs hearty herbs (such as thyme, rosemary, and/or sage)",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>unpeeled</span><span class='other'>,</span><span class='comment'>lightly crushed</span>",
+        "comment": "unpeeled lightly crushed",
+        "other": ", ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 garlic cloves, unpeeled, lightly crushed",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>pounds</span><span class='comment'>Yukon Gold</span><span class='name'>potatoes</span><span class='other'>,</span><span class='comment'>unpeeled</span><span class='other'>,</span><span class='comment'>cut into 3/4\" pieces</span>",
+        "comment": "Yukon Gold unpeeled cut into 3/4\" pieces",
+        "other": ", ,",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "3 pounds Yukon Gold potatoes, unpeeled, cut into 3/4\" pieces",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground pepper",
+        "name": "salt pepper",
+        "other": ","
+    }
+]

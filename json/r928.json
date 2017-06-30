@@ -1,0 +1,50 @@
+[
+    {
+        "display": "<span class='qty'>16</span><span class='comment'>medium Yukon Gold</span><span class='name'>potatoes</span><span class='comment'>( about 2 inches in diameter ) , halved</span>",
+        "qty": "16",
+        "comment": "medium Yukon Gold (about 2 inches in diameter), halved",
+        "input": "16 medium Yukon Gold potatoes (about 2 inches in diameter), halved",
+        "name": "potatoes"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>coarse kosher</span><span class='name'>salt</span>",
+        "comment": "coarse kosher",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "3 tablespoons coarse kosher salt",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>unpeeled large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>smashed</span>",
+        "comment": "unpeeled large smashed",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 unpeeled large garlic cloves, smashed",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>chopped fresh</span><span class='name'>thyme</span>",
+        "comment": "chopped fresh",
+        "unit": "teaspoon",
+        "name": "thyme",
+        "input": "1 teaspoon chopped fresh thyme",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>finely chopped fresh</span><span class='name'>rosemary leaves</span>",
+        "comment": "finely chopped fresh",
+        "unit": "teaspoon",
+        "name": "rosemary leaves",
+        "input": "1/2 teaspoon finely chopped fresh rosemary leaves",
+        "qty": "1/2"
+    }
+]

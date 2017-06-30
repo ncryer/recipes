@@ -1,0 +1,58 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>tomatoes</span><span class='other'>,</span><span class='comment'>halved horizontally and seeded</span>",
+        "comment": "halved horizontally and seeded",
+        "other": ",",
+        "name": "tomatoes",
+        "input": "2 tomatoes, halved horizontally and seeded",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>fine fresh</span><span class='name'>bread crumbs</span>",
+        "comment": "fine fresh",
+        "unit": "cup",
+        "name": "bread crumbs",
+        "input": "1/2 cup fine fresh bread crumbs",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>onion</span>",
+        "comment": "finely chopped",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1/4 cup finely chopped onion",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>minced</span><span class='name'>garlic</span>",
+        "comment": "minced",
+        "unit": "teaspoon",
+        "name": "garlic",
+        "input": "1/2 teaspoon minced garlic",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>finely chopped fresh</span><span class='name'>basil leaves</span>",
+        "comment": "finely chopped fresh",
+        "unit": "cup",
+        "name": "basil leaves",
+        "input": "1/2 cup finely chopped fresh basil leaves",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>thyme</span><span class='comment'>, crumbled</span>",
+        "comment": "dried, crumbled",
+        "unit": "teaspoon",
+        "name": "thyme",
+        "input": "1/4 teaspoon dried thyme, crumbled",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "teaspoon",
+        "name": "olive oil",
+        "input": "2 teaspoons extra-virgin olive oil",
+        "qty": "2"
+    }
+]

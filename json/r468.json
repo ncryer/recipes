@@ -1,0 +1,30 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>Roma tomatoes</span>",
+        "qty": "2",
+        "input": "2 Roma tomatoes",
+        "name": "Roma tomatoes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>fresh</span><span class='name'>jalape\u00f1os</span>",
+        "qty": "2",
+        "comment": "fresh",
+        "input": "2 fresh jalape\u00f1os",
+        "name": "jalape\u00f1os"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>clove</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>unpeeled</span>",
+        "comment": "unpeeled",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 clove garlic, unpeeled",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    }
+]

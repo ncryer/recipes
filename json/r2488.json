@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": ", divided",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "6 tablespoons olive oil, divided",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium Golden Delicious</span><span class='name'>apples</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>cored , cut into 1/2-inch cubes</span>",
+        "comment": "medium Golden Delicious peeled cored, cut into 1/2-inch cubes",
+        "other": ", ,",
+        "name": "apples",
+        "input": "2 medium Golden Delicious apples, peeled, cored, cut into 1/2-inch cubes",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>pine nuts</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup pine nuts",
+        "name": "pine nuts"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>shallots</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": ",",
+        "name": "shallots",
+        "input": "3 shallots, finely chopped",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>raisins</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup raisins",
+        "name": "raisins"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='other'>9-ounce</span><span class='comment'>packages fresh</span><span class='name'>spinach</span>",
+        "comment": "packages fresh",
+        "other": "9-ounce",
+        "name": "spinach",
+        "input": "3 9-ounce packages fresh spinach",
+        "qty": "3"
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>eggplant</span><span class='comment'>( 1/2 pound ) , cut into 1/2-inch cubes</span>",
+        "qty": "1",
+        "comment": "small (1/2 pound), cut into 1/2-inch cubes",
+        "input": "1 small eggplant (1/2 pound), cut into 1/2-inch cubes",
+        "name": "eggplant"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>salt</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>onions</span><span class='comment'>, finely chopped</span>",
+        "qty": "2",
+        "comment": "medium, finely chopped",
+        "input": "2 medium onions, finely chopped",
+        "name": "onions"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>white basmati rice</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup white basmati rice",
+        "name": "white basmati rice"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>raisins</span><span class='comment'>or dried</span><span class='name'>currants</span>",
+        "comment": "or dried",
+        "unit": "cup",
+        "name": "raisins currants",
+        "input": "1/4 cup raisins or dried currants",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>cinnamon</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon cinnamon",
+        "name": "cinnamon"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>tomato</span><span class='comment'>, peeled seeded , and finely chopped</span>",
+        "qty": "1",
+        "comment": "large, peeled seeded, and finely chopped",
+        "input": "1 large tomato, peeled seeded, and finely chopped",
+        "name": "tomato"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>dill</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "dill",
+        "input": "1/4 cup chopped fresh dill",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>shelled natural</span><span class='name'>pistachios</span><span class='comment'>, coarsely chopped</span>",
+        "comment": "shelled natural, coarsely chopped",
+        "unit": "cup",
+        "name": "pistachios",
+        "input": "1/4 cup shelled natural pistachios, coarsely chopped",
+        "qty": "1/4"
+    }
+]

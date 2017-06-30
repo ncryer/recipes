@@ -1,0 +1,38 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>dried</span><span class='name'>black beans</span>",
+        "comment": "dried",
+        "unit": "cup",
+        "name": "black beans",
+        "input": "4 cups dried black beans",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, halved</span>",
+        "qty": "1",
+        "comment": "medium, halved",
+        "input": "1 medium onion, halved",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span>",
+        "unit": "clove",
+        "qty": "2",
+        "input": "2 cloves garlic",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>canola oil</span><span class='comment'>or lard</span>",
+        "comment": "or lard",
+        "unit": "tablespoon",
+        "name": "canola oil",
+        "input": "2 tablespoons canola oil or lard",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    }
+]

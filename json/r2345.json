@@ -1,0 +1,100 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>onion</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1 cup chopped onion",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>teaspoons</span><span class='comment'>minced</span><span class='name'>garlic</span>",
+        "comment": "minced",
+        "unit": "teaspoon",
+        "name": "garlic",
+        "input": "5 teaspoons minced garlic",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span><span class='other'>(</span><span class='comment'>preferably extra-virgin</span><span class='other'>)</span>",
+        "comment": "preferably extra-virgin",
+        "other": "()",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons olive oil (preferably extra-virgin)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>1-pound</span><span class='name'>eggplant</span><span class='comment'>, trimmed</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>cut into 1/2-inch pieces</span>",
+        "comment": "1-pound, trimmed peeled cut into 1/2-inch pieces",
+        "other": ", ,",
+        "name": "eggplant",
+        "input": "1 1-pound eggplant, trimmed, peeled, cut into 1/2-inch pieces",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>1/2-inch pieces</span><span class='name'>zucchini</span>",
+        "comment": "1/2-inch pieces",
+        "unit": "cup",
+        "name": "zucchini",
+        "input": "2 cups 1/2-inch pieces zucchini",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>1/2-inch pieces</span><span class='name'>red bell pepper</span>",
+        "comment": "1/2-inch pieces",
+        "unit": "cup",
+        "name": "red bell pepper",
+        "input": "1 cup 1/2-inch pieces red bell pepper",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>tomato paste</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons tomato paste",
+        "name": "tomato paste"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>red wine vinegar</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>chopped fresh</span><span class='name'>thyme</span>",
+        "comment": "chopped fresh",
+        "unit": "teaspoon",
+        "name": "thyme",
+        "input": "1 teaspoon chopped fresh thyme",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>Pinch of</span><span class='name'>cayenne pepper</span>",
+        "other": "Pinch of",
+        "input": "Pinch of cayenne pepper",
+        "name": "cayenne pepper"
+    },
+    {
+        "other": "four 4-to-5",
+        "display": "<span class='other'>four 4-to-5</span><span class='comment'>inch-diameter portobello</span><span class='name'>mushrooms</span><span class='comment'>, stems removed</span>",
+        "comment": "inch-diameter portobello, stems removed",
+        "input": "four 4-to-5 inch-diameter portobello mushrooms, stems removed",
+        "name": "mushrooms"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped Italian</span><span class='name'>parsley</span>",
+        "comment": "chopped Italian",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/4 cup chopped Italian parsley",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='comment'>1 10-ounce package ready-to-use</span><span class='name'>spinach leaves</span>",
+        "comment": "1 10-ounce package ready-to-use",
+        "input": "1 10-ounce package ready-to-use spinach leaves",
+        "name": "spinach leaves"
+    }
+]

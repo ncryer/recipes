@@ -1,0 +1,25 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>14-ounce cans unsweetened</span><span class='name'>coconut milk</span>",
+        "qty": "2",
+        "comment": "14-ounce cans unsweetened",
+        "input": "2 14-ounce cans unsweetened coconut milk",
+        "name": "coconut milk"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>( packed )</span><span class='name'>golden brown sugar</span>",
+        "comment": "(packed)",
+        "unit": "cup",
+        "name": "golden brown sugar",
+        "input": "1 1/2 cups (packed) golden brown sugar",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>coarse kosher</span><span class='name'>salt</span>",
+        "comment": "coarse kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/2 teaspoon coarse kosher salt",
+        "qty": "1/2"
+    }
+]

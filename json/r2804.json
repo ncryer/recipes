@@ -1,0 +1,87 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>onions</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "onions",
+        "input": "2 cups chopped onions",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>celery</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "celery",
+        "input": "1 cup chopped celery",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 garlic cloves, minced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>canned</span><span class='name'>vegetable broth</span>",
+        "comment": "canned",
+        "unit": "cup",
+        "name": "vegetable broth",
+        "input": "4 cups canned vegetable broth",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='comment'>2 15-ounce cans</span><span class='name'>pinto beans</span><span class='comment'>, drained</span>",
+        "comment": "2 15-ounce cans, drained",
+        "input": "2 15-ounce cans pinto beans, drained",
+        "name": "pinto beans"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>14 1/2-ounce can diced</span><span class='name'>tomatoes</span><span class='comment'>in juice</span>",
+        "qty": "1",
+        "comment": "14 1/2-ounce can diced in juice",
+        "input": "1 14 1/2-ounce can diced tomatoes in juice",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>1/2-inch pieces peeled seeded</span><span class='name'>butternut squash</span>",
+        "comment": "1/2-inch pieces peeled seeded",
+        "unit": "cup",
+        "name": "butternut squash",
+        "input": "2 cups 1/2-inch pieces peeled seeded butternut squash",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>oregano</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "oregano",
+        "input": "1 teaspoon dried oregano",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>dried crushed</span><span class='name'>red pepper</span>",
+        "comment": "dried crushed",
+        "unit": "teaspoon",
+        "name": "red pepper",
+        "input": "1/2 teaspoon dried crushed red pepper",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>basil</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "basil",
+        "input": "6 tablespoons chopped fresh basil",
+        "qty": "6"
+    }
+]

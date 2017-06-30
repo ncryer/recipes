@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>pound</span><span class='comment'>( about 1/2 large bunch )</span><span class='name'>Swiss chard</span><span class='other'>,</span><span class='comment'>washed well and drained</span>",
+        "comment": "(about 1/2 large bunch) washed well and drained",
+        "other": ",",
+        "unit": "pound",
+        "name": "Swiss chard",
+        "input": "3/4 pound (about 1/2 large bunch) Swiss chard, washed well and drained",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>onion</span><span class='other'>,</span><span class='comment'>chopped fine</span>",
+        "comment": "chopped fine",
+        "other": ",",
+        "name": "onion",
+        "input": "1/2 onion, chopped fine",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>golden</span><span class='name'>raisins</span><span class='comment'>, chopped fine</span>",
+        "comment": "golden, chopped fine",
+        "unit": "tablespoon",
+        "name": "raisins",
+        "input": "2 tablespoons golden raisins, chopped fine",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>Kalamata or other large brine-cured</span><span class='name'>black olives</span><span class='other'>,</span><span class='comment'>pitted and chopped fine</span>",
+        "comment": "Kalamata or other large brine-cured pitted and chopped fine",
+        "other": ",",
+        "name": "black olives",
+        "input": "6 Kalamata or other large brine-cured black olives, pitted and chopped fine",
+        "qty": "6"
+    }
+]

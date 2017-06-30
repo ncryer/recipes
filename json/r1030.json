@@ -1,0 +1,109 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium-size red</span><span class='name'>onion</span><span class='comment'>, thinly sliced ( about 2 cups )</span>",
+        "qty": "1",
+        "comment": "medium-size red, thinly sliced (about 2 cups)",
+        "input": "1 medium-size red onion, thinly sliced (about 2 cups)",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>Champagne vinegar</span><span class='comment'>or white wine</span><span class='name'>vinegar</span>",
+        "comment": "or white wine",
+        "unit": "tablespoon",
+        "name": "Champagne vinegar vinegar",
+        "input": "1 tablespoon Champagne vinegar or white wine vinegar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>red wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "other": "1/8",
+        "unit": "teaspoon",
+        "input": "1/8 teaspoon freshly ground black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>grapeseed oil</span><span class='comment'>or vegetable oil</span>",
+        "comment": "or vegetable oil",
+        "unit": "cup",
+        "name": "grapeseed oil",
+        "input": "1/4 cup grapeseed oil or vegetable oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>750-ml bottle</span><span class='name'>ruby Port</span>",
+        "qty": "1",
+        "comment": "750-ml bottle",
+        "input": "1 750-ml bottle ruby Port",
+        "name": "ruby Port"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>dried black Mission</span><span class='name'>figs</span><span class='comment'>, stems removed</span><span class='other'>,</span><span class='comment'>figs halved</span>",
+        "comment": "dried black Mission, stems removed figs halved",
+        "other": ",",
+        "unit": "pound",
+        "name": "figs",
+        "input": "1 pound dried black Mission figs, stems removed, figs halved",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>bunches</span><span class='name'>watercress</span><span class='comment'>, thick stems removed ( about 8 cups )</span>",
+        "comment": ", thick stems removed (about 8 cups)",
+        "unit": "bunch",
+        "name": "watercress",
+        "input": "3 bunches watercress, thick stems removed (about 8 cups)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>heads</span><span class='comment'>of Belgian</span><span class='name'>endive</span><span class='other'>,</span><span class='comment'>trimmed</span><span class='other'>,</span><span class='comment'>cut crosswise into 1/4-inch-thick slices</span>",
+        "comment": "of Belgian trimmed cut crosswise into 1/4-inch-thick slices",
+        "other": ", ,",
+        "unit": "head",
+        "name": "endive",
+        "input": "6 heads of Belgian endive, trimmed, cut crosswise into 1/4-inch-thick slices",
+        "qty": "6"
+    }
+]

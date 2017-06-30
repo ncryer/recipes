@@ -1,0 +1,122 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>lb Asian</span><span class='name'>eggplants</span><span class='comment'>( about 6 ) , cut crosswise into 1/3-inch-thick rounds</span>",
+        "qty": "3",
+        "comment": "lb Asian (about 6), cut crosswise into 1/3-inch-thick rounds",
+        "input": "3 lb Asian eggplants (about 6), cut crosswise into 1/3-inch-thick rounds",
+        "name": "eggplants"
+    },
+    {
+        "display": "<span class='qty'>1 3/4</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1 3/4",
+        "input": "1 3/4 teaspoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 large garlic clove, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>finely chopped peeled fresh ginger</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon finely chopped peeled fresh ginger",
+        "name": "finely chopped peeled fresh ginger"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>chopped fresh</span><span class='name'>jalape\u00f1o</span><span class='comment'>chile including seeds</span>",
+        "comment": "chopped fresh chile including seeds",
+        "unit": "teaspoon",
+        "name": "jalape\u00f1o",
+        "input": "2 teaspoons chopped fresh jalape\u00f1o chile including seeds",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>yellow or brown</span><span class='name'>mustard seeds</span>",
+        "comment": "yellow or brown",
+        "unit": "teaspoon",
+        "name": "mustard seeds",
+        "input": "1 teaspoon yellow or brown mustard seeds",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>cumin seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon cumin seeds",
+        "name": "cumin seeds"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>turmeric</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon turmeric",
+        "name": "turmeric"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>onion</span><span class='comment'>, halved lengthwise and thinly sliced lengthwise</span>",
+        "qty": "1",
+        "comment": "large, halved lengthwise and thinly sliced lengthwise",
+        "input": "1 large onion, halved lengthwise and thinly sliced lengthwise",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>3-inch</span><span class='other'>)</span><span class='name'>cinnamon stick</span>",
+        "comment": "3-inch",
+        "other": "()",
+        "name": "cinnamon stick",
+        "input": "1 (3-inch) cinnamon stick",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>packed</span><span class='name'>brown sugar</span>",
+        "comment": "packed",
+        "unit": "tablespoon",
+        "name": "brown sugar",
+        "input": "1 tablespoon packed brown sugar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "3 tablespoons chopped fresh cilantro",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>roasted</span><span class='name'>cashews</span><span class='comment'>( 1 1/4 oz ) , chopped</span>",
+        "comment": "roasted (1 1/4 oz), chopped",
+        "unit": "cup",
+        "name": "cashews",
+        "input": "1/4 cup roasted cashews (1 1/4 oz), chopped",
+        "qty": "1/4"
+    },
+    {
+        "other": "Accompaniment:",
+        "display": "<span class='other'>Accompaniment:</span><span class='comment'>steamed basmati or jasmine</span><span class='name'>rice</span>",
+        "comment": "steamed basmati or jasmine",
+        "input": "Accompaniment: steamed basmati or jasmine rice",
+        "name": "rice"
+    }
+]

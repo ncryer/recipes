@@ -1,0 +1,65 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>Champagne vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon Champagne vinegar",
+        "name": "Champagne vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>minced</span><span class='name'>shallot</span>",
+        "comment": "minced",
+        "unit": "tablespoon",
+        "name": "shallot",
+        "input": "1 tablespoon minced shallot",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>Dijon mustard</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>small</span><span class='unit'>heads</span><span class='other'>of</span><span class='name'>butter lettuce</span><span class='comment'>, outer leaves removed</span>",
+        "comment": ", outer leaves removed",
+        "other": "small of",
+        "unit": "head",
+        "name": "butter lettuce",
+        "input": "2 small heads of butter lettuce, outer leaves removed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>thinly sliced</span><span class='name'>radishes</span>",
+        "qty": "4",
+        "comment": "thinly sliced",
+        "input": "4 thinly sliced radishes",
+        "name": "radishes"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>avocado</span><span class='other'>,</span><span class='comment'>peeled , pitted</span><span class='other'>,</span><span class='comment'>sliced 1/2 inch thick</span>",
+        "comment": "peeled, pitted sliced 1/2 inch thick",
+        "other": ", ,",
+        "name": "avocado",
+        "input": "1 avocado, peeled, pitted, sliced 1/2 inch thick",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>assorted whole fresh</span><span class='name'>herb leaves</span><span class='comment'>( such as tarragon</span><span class='other'>,</span><span class='comment'>chervil</span><span class='other'>,</span><span class='comment'>parsley</span><span class='other'>,</span><span class='comment'>and cilantro )</span>",
+        "comment": "assorted whole fresh (such as tarragon chervil parsley and cilantro)",
+        "other": ",, ,",
+        "unit": "cup",
+        "name": "herb leaves",
+        "input": "1/2 cup assorted whole fresh herb leaves (such as tarragon, chervil, parsley, and cilantro)",
+        "qty": "1/2"
+    }
+]

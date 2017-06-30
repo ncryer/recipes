@@ -1,0 +1,42 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>white-wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon white-wine vinegar",
+        "name": "white-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='name'>green beans</span><span class='other'>,</span><span class='comment'>trimmed</span>",
+        "comment": "trimmed",
+        "other": ",",
+        "unit": "pound",
+        "name": "green beans",
+        "input": "1/2 pound green beans, trimmed",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>pound</span><span class='name'>snow peas</span><span class='comment'>, trimmed and strings discarded</span>",
+        "comment": ", trimmed and strings discarded",
+        "unit": "pound",
+        "name": "snow peas",
+        "input": "1/4 pound snow peas, trimmed and strings discarded",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>shelled</span><span class='name'>sunflower seeds</span><span class='other'>,</span><span class='comment'>toasted lightly</span>",
+        "comment": "shelled toasted lightly",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "sunflower seeds",
+        "input": "2 tablespoons shelled sunflower seeds, toasted lightly",
+        "qty": "2"
+    }
+]

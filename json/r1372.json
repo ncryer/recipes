@@ -1,0 +1,42 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='other'>medium-size</span><span class='unit'>bunch</span><span class='comment'>( about 13 ounces</span><span class='other'>)</span><span class='comment'>tender Asian greens</span><span class='other'>,</span><span class='comment'>such as bok choi</span><span class='other'>,</span><span class='comment'>baby bok choi</span><span class='other'>,</span><span class='comment'>baby Shanghai choi</span><span class='other'>,</span><span class='comment'>choi sum</span><span class='other'>,</span><span class='comment'>baby kai lan</span><span class='other'>, or</span><span class='comment'>water spinach</span>",
+        "comment": "(about 13 ounces tender Asian greens such as bok choi baby bok choi baby Shanghai choi choi sum baby kai lan water spinach",
+        "other": "medium-size), ,, ,, , or",
+        "unit": "bunch",
+        "input": "1 medium-size bunch (about 13 ounces) tender Asian greens, such as bok choi, baby bok choi, baby Shanghai choi, choi sum, baby kai lan, or water spinach",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>peanut oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons peanut oil",
+        "name": "peanut oil"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>bruised until juicy with a flat side of knife</span><span class='other'>,</span><span class='comment'>and coarsely chopped into</span><span class='qty'>3</span><span class='other'>or</span><span class='comment'>4 chunks</span>",
+        "comment": "peeled bruised until juicy with a flat side of knife and coarsely chopped into 4 chunks",
+        "other": ",, , or",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 cloves garlic, peeled, bruised until juicy with a flat side of knife, and coarsely chopped into 3 or 4 chunks",
+        "qty": "4 3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>to</span><span class='range_end'>2</span><span class='name'>fresh red Holland chiles</span><span class='other'>or</span><span class='comment'>other hot fresh red long chiles</span><span class='other'>,</span><span class='comment'>such as Fresno</span><span class='other'>or</span><span class='comment'>cayenne</span><span class='other'>,</span><span class='comment'>stemmed and sliced on the diagonal into thin pieces ( optional</span><span class='other'>,</span><span class='comment'>but the chiles add appealing color and gentle heat; see Cook's Note</span><span class='other'>,</span><span class='comment'>below</span><span class='other'>)</span>",
+        "comment": "other hot fresh red long chiles such as Fresno cayenne stemmed and sliced on the diagonal into thin pieces (optional but the chiles add appealing color and gentle heat; see Cook's Note below",
+        "other": "to or, or, ,,)",
+        "name": "fresh red Holland chiles",
+        "range_end": "2",
+        "input": "1 to 2 fresh red Holland chiles or other hot fresh red long chiles, such as Fresno or cayenne, stemmed and sliced on the diagonal into thin pieces (optional, but the chiles add appealing color and gentle heat; see Cook's Note, below)",
+        "qty": "1"
+    }
+]

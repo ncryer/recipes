@@ -1,0 +1,53 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>lb red bell peppers</span><span class='comment'>,</span>",
+        "qty": "2",
+        "comment": ",",
+        "input": "2 lb red bell peppers ,",
+        "name": "lb red bell peppers"
+    },
+    {
+        "display": "<span class='comment'>1 ( 1 1/2-lb )</span><span class='name'>eggplant</span><span class='comment'>, peeled and cut into 1-inch pieces</span>",
+        "comment": "1 (1 1/2-lb), peeled and cut into 1-inch pieces",
+        "input": "1 (1 1/2-lb) eggplant, peeled and cut into 1-inch pieces",
+        "name": "eggplant"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>smashed</span>",
+        "comment": "smashed",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 large garlic cloves, smashed",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 28-oz ) can whole tomatoes in juice , drained and coarsely chopped</span>",
+        "comment": "(28-oz) can whole tomatoes in juice, drained and coarsely chopped",
+        "input": "1 (28-oz) can whole tomatoes in juice, drained and coarsely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1 cup extra-virgin olive oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>dried hot</span><span class='name'>red-pepper flakes</span>",
+        "comment": "dried hot",
+        "unit": "teaspoon",
+        "name": "red-pepper flakes",
+        "input": "1/2 teaspoon dried hot red-pepper flakes",
+        "qty": "1/2"
+    }
+]

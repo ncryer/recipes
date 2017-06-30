@@ -1,0 +1,26 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>pounds</span><span class='comment'>medium sweet</span><span class='name'>potatoes</span>",
+        "comment": "medium sweet",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "6 pounds medium sweet potatoes",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>well-stirred canned unsweetened</span><span class='name'>coconut milk</span>",
+        "comment": "well-stirred canned unsweetened",
+        "unit": "cup",
+        "name": "coconut milk",
+        "input": "1 cup well-stirred canned unsweetened coconut milk",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>packed dark</span><span class='name'>brown sugar</span><span class='comment'>, or to taste</span>",
+        "comment": "packed dark, or to taste",
+        "unit": "tablespoon",
+        "name": "brown sugar",
+        "input": "3 tablespoons packed dark brown sugar, or to taste",
+        "qty": "3"
+    }
+]

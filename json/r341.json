@@ -1,0 +1,80 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>small</span><span class='name'>dried chiles</span>",
+        "qty": "2",
+        "comment": "small",
+        "input": "2 small dried chiles",
+        "name": "dried chiles"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>seeded</span><span class='comment'>thinly sliced</span><span class='name'>jalape\u00f1o</span>",
+        "comment": "thinly sliced",
+        "unit": "seeded",
+        "name": "jalape\u00f1o",
+        "input": "1 seeded thinly sliced jalape\u00f1o",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='comment'>thinly sliced medium</span><span class='name'>red onion</span>",
+        "qty": "1/4",
+        "comment": "thinly sliced medium",
+        "input": "1/4 thinly sliced medium red onion",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>corn kernels</span><span class='other'>(</span><span class='comment'>from about 2 ears )</span>",
+        "comment": "from about 2 ears)",
+        "other": "(",
+        "unit": "cup",
+        "name": "corn kernels",
+        "input": "2 cups corn kernels (from about 2 ears)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>cilantro leaves</span><span class='comment'>with tender stems</span>",
+        "comment": "fresh with tender stems",
+        "unit": "cup",
+        "name": "cilantro leaves",
+        "input": "1/4 cup fresh cilantro leaves with tender stems",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lime juice",
+        "input": "1/4 cup fresh lime juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>coarsely ground</span><span class='name'>black pepper</span>",
+        "comment": "coarsely ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/4 teaspoon coarsely ground black pepper",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>white wine vinegar</span><span class='comment'>or apple cider</span><span class='name'>vinegar</span>",
+        "comment": "or apple cider",
+        "unit": "cup",
+        "name": "white wine vinegar vinegar",
+        "input": "1/2 cup white wine vinegar or apple cider vinegar",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "2 teaspoons kosher salt",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sugar",
+        "name": "sugar"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>whole dried</span><span class='name'>shiitake mushrooms</span><span class='other'>,</span><span class='comment'>stemmed and caps sliced</span><span class='other'>, or</span><span class='comment'>1 cup dried shiitake slices</span>",
+        "comment": "whole dried stemmed and caps sliced 1 cup dried shiitake slices",
+        "other": ",, or",
+        "name": "shiitake mushrooms",
+        "input": "4 whole dried shiitake mushrooms, stemmed and caps sliced, or 1 cup dried shiitake slices",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>short-grain</span><span class='name'>brown rice</span><span class='comment'>, rinsed</span>",
+        "comment": "short-grain, rinsed",
+        "unit": "cup",
+        "name": "brown rice",
+        "input": "2 cups short-grain brown rice, rinsed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>piece</span><span class='comment'>dried</span><span class='name'>kombu</span><span class='comment'>( seaweed ) , rinsed ( optional )</span>",
+        "comment": "dried (seaweed), rinsed (optional)",
+        "unit": "piece",
+        "name": "kombu",
+        "input": "1 piece dried kombu (seaweed), rinsed (optional)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>soy sauce</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>thinly sliced</span><span class='name'>scallions</span><span class='comment'>( green part only )</span>",
+        "comment": "thinly sliced (green part only)",
+        "unit": "cup",
+        "name": "scallions",
+        "input": "1/4 cup thinly sliced scallions (green part only)",
+        "qty": "1/4"
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>minced</span><span class='name'>garlic</span>",
+        "comment": "minced",
+        "unit": "teaspoon",
+        "name": "garlic",
+        "input": "1 1/2 teaspoons minced garlic",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1 3/4</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1 3/4",
+        "input": "1 3/4 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='comment'>Rounded</span><span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "comment": "Rounded",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "Rounded 1/4 teaspoon salt",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>couscous</span><span class='other'>(</span><span class='comment'>10 oz</span><span class='other'>)</span>",
+        "comment": "10 oz",
+        "other": "()",
+        "unit": "cup",
+        "name": "couscous",
+        "input": "1 1/2 cups couscous (10 oz)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>16</span><span class='comment'>oil-cured black</span><span class='name'>olives</span><span class='comment'>, pitted and coarsely chopped</span>",
+        "qty": "16",
+        "comment": "oil-cured black, pitted and coarsely chopped",
+        "input": "16 oil-cured black olives, pitted and coarsely chopped",
+        "name": "olives"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>chopped fresh flat-leaf</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh flat-leaf",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup chopped fresh flat-leaf parsley",
+        "name": "parsley"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>finely grated</span>",
+        "unit": "teaspoon",
+        "comment": "finely grated",
+        "input": "1 1/2 teaspoons finely grated",
+        "qty": "1 1/2"
+    }
+]

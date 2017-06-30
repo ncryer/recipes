@@ -1,0 +1,118 @@
+[
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='name'>yellow split peas</span><span class='comment'>( 1/2 lb )</span>",
+        "comment": "(1/2 lb)",
+        "unit": "cup",
+        "name": "yellow split peas",
+        "input": "1 1/4 cups yellow split peas (1/2 lb)",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>coconut</span>",
+        "qty": "1",
+        "comment": "small",
+        "input": "1 small coconut",
+        "name": "coconut"
+    },
+    {
+        "display": "<span class='other'>1/2 cup plus 1</span><span class='unit'>tablespoon</span>",
+        "unit": "tablespoon",
+        "input": "1/2 cup plus 1 tablespoon",
+        "other": "1/2 cup plus 1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>finely grated peeled fresh ginger</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon finely grated peeled fresh ginger",
+        "name": "finely grated peeled fresh ginger"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>turmeric</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "turmeric",
+        "input": "1 teaspoon ground turmeric",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>small fresh</span><span class='name'>Thai chiles</span><span class='other'>(</span><span class='comment'>2 to 3 inches long; preferably green</span><span class='other'>) ,</span><span class='comment'>slit lengthwise on one side ( not all the way through )</span>",
+        "comment": "small fresh 2 to 3 inches long; preferably green slit lengthwise on one side (not all the way through)",
+        "other": "() ,",
+        "name": "Thai chiles",
+        "input": "6 small fresh Thai chiles (2 to 3 inches long; preferably green), slit lengthwise on one side (not all the way through)",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>garam masala</span><span class='other'>(</span><span class='comment'>Indian spice mixture )</span>",
+        "comment": "Indian spice mixture)",
+        "other": "(",
+        "unit": "tablespoon",
+        "name": "garam masala",
+        "input": "1 tablespoon garam masala (Indian spice mixture)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>to</span><span class='range_end'>4</span><span class='unit'>teaspoons</span><span class='name'>sugar</span>",
+        "other": "to",
+        "unit": "teaspoon",
+        "name": "sugar",
+        "range_end": "4",
+        "input": "2 to 4 teaspoons sugar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>dried</span><span class='name'>hot chiles</span><span class='comment'>( about 3 inches long ) , stems removed</span>",
+        "qty": "2",
+        "comment": "dried (about 3 inches long), stems removed",
+        "input": "2 dried hot chiles (about 3 inches long), stems removed",
+        "name": "hot chiles"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>cumin seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon cumin seeds",
+        "name": "cumin seeds"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>Turkish</span><span class='comment'>or 1 1/2 California</span><span class='name'>bay leaves</span>",
+        "qty": "3",
+        "comment": "or 1 1/2 California",
+        "input": "3 Turkish or 1 1/2 California bay leaves",
+        "name": "Turkish bay leaves"
+    },
+    {
+        "display": "<span class='comment'>1 ( 1-inch ) piece</span><span class='name'>cinnamon stick</span><span class='other'>,</span><span class='comment'>broken in half</span>",
+        "comment": "1 (1-inch) piece broken in half",
+        "input": "1 (1-inch) piece cinnamon stick, broken in half",
+        "name": "cinnamon stick",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>whole</span><span class='name'>cardamom pods</span>",
+        "qty": "2",
+        "comment": "whole",
+        "input": "2 whole cardamom pods",
+        "name": "cardamom pods"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>whole</span><span class='name'>cloves</span>",
+        "qty": "2",
+        "comment": "whole",
+        "input": "2 whole cloves",
+        "name": "cloves"
+    },
+    {
+        "display": "<span class='name'>Special equipment: a wok; an adjustable-blade slicer</span>",
+        "input": "Special equipment: a wok; an adjustable-blade slicer",
+        "name": "Special equipment: a wok; an adjustable-blade slicer"
+    }
+]

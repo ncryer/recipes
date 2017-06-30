@@ -1,0 +1,63 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "6",
+        "input": "6 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>small ( 1/8-inch ) pearl tapioca ( not quick-cooking )</span>",
+        "unit": "cup",
+        "comment": "small (1/8-inch) pearl tapioca (not quick-cooking)",
+        "input": "1 cup small (1/8-inch) pearl tapioca (not quick-cooking)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>20-ounces ) can</span><span class='name'>lychees</span><span class='comment'>in syrup</span>",
+        "comment": "20-ounces) can in syrup",
+        "other": "(",
+        "name": "lychees",
+        "input": "1 (20-ounces) can lychees in syrup",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>(</span><span class='comment'>3-inch</span><span class='other'>)</span><span class='unit'>strips</span><span class='name'>lime zest</span>",
+        "comment": "3-inch",
+        "other": "()",
+        "unit": "strip",
+        "name": "lime zest",
+        "input": "2 (3-inch) strips lime zest",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>2-inch ) piece peeled</span><span class='name'>ginger</span><span class='comment'>, thinly sliced</span>",
+        "comment": "2-inch) piece peeled, thinly sliced",
+        "other": "(",
+        "name": "ginger",
+        "input": "1 (2-inch) piece peeled ginger, thinly sliced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large ripe</span><span class='name'>mango</span><span class='comment'>, peeled and cut into 1/2-inch pieces</span>",
+        "qty": "1",
+        "comment": "large ripe, peeled and cut into 1/2-inch pieces",
+        "input": "1 large ripe mango, peeled and cut into 1/2-inch pieces",
+        "name": "mango"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lime juice",
+        "input": "1 teaspoon fresh lime juice",
+        "qty": "1"
+    }
+]

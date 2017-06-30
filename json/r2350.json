@@ -1,0 +1,21 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>medium orange-fleshed</span><span class='name'>sweet potatoes</span><span class='comment'>( sometimes known as yams ) , peeled</span>",
+        "qty": "4",
+        "comment": "medium orange-fleshed (sometimes known as yams), peeled",
+        "input": "4 medium orange-fleshed sweet potatoes (sometimes known as yams), peeled",
+        "name": "sweet potatoes"
+    },
+    {
+        "display": "<span class='name'>Vegetable oil</span><span class='other'>(</span><span class='comment'>for deep frying</span><span class='other'>)</span>",
+        "comment": "for deep frying",
+        "input": "Vegetable oil (for deep frying)",
+        "name": "Vegetable oil",
+        "other": "()"
+    },
+    {
+        "display": "<span class='name'>Salt</span>",
+        "input": "Salt",
+        "name": "Salt"
+    }
+]

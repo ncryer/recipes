@@ -1,0 +1,72 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>walnuts</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "walnuts",
+        "input": "1/4 cup chopped walnuts",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped drained roasted</span><span class='name'>red peppers</span><span class='comment'>( from a 7-ounce jar )</span>",
+        "comment": "chopped drained roasted (from a 7-ounce jar)",
+        "unit": "cup",
+        "name": "red peppers",
+        "input": "1/2 cup chopped drained roasted red peppers (from a 7-ounce jar)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>slice</span><span class='comment'>firm</span><span class='name'>white sandwich bread</span><span class='comment'>, torn into pieces</span>",
+        "comment": "firm, torn into pieces",
+        "unit": "slice",
+        "name": "white sandwich bread",
+        "input": "1 slice firm white sandwich bread, torn into pieces",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>or to taste , minced and mashed to a paste with 1/4 teaspoon salt</span>",
+        "comment": "medium or to taste, minced and mashed to a paste with 1/4 teaspoon salt",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 medium garlic clove, or to taste, minced and mashed to a paste with 1/4 teaspoon salt",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span><span class='comment'>, or to taste</span>",
+        "comment": "fresh, or to taste",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice, or to taste",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1/2 teaspoon ground cumin",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>cayenne pepper</span><span class='other'>,</span><span class='comment'>or to taste</span>",
+        "comment": "or to taste",
+        "other": "1/8 ,",
+        "unit": "teaspoon",
+        "input": "1/8 teaspoon cayenne pepper, or to taste",
+        "name": "cayenne pepper"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/2 cup extra-virgin olive oil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='name'>Salt</span>",
+        "input": "Salt",
+        "name": "Salt"
+    }
+]

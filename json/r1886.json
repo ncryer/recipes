@@ -1,0 +1,63 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>15 1/2-ounce cans</span><span class='name'>garbanzo beans</span><span class='comment'>( chickpeas ) , drained</span>",
+        "qty": "2",
+        "comment": "15 1/2-ounce cans (chickpeas), drained",
+        "input": "2 15 1/2-ounce cans garbanzo beans (chickpeas), drained",
+        "name": "garbanzo beans"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>corn oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup corn oil",
+        "name": "corn oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>coarse sea</span><span class='name'>salt</span>",
+        "comment": "coarse sea",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 teaspoon coarse sea salt",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1 teaspoon ground cumin",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>black pepper</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1 teaspoon ground black pepper",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>cayenne pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon cayenne pepper",
+        "name": "cayenne pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>shelled raw</span><span class='name'>pistachios</span>",
+        "comment": "shelled raw",
+        "unit": "cup",
+        "name": "pistachios",
+        "input": "1 cup shelled raw pistachios",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>thyme leaves</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "thyme leaves",
+        "input": "2 teaspoons fresh thyme leaves",
+        "qty": "2"
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>pounds</span><span class='comment'>fresh</span><span class='name'>brussels sprouts</span><span class='other'>,</span><span class='comment'>ends trimmed , halved through stem end</span>",
+        "comment": "fresh ends trimmed, halved through stem end",
+        "other": ",",
+        "unit": "pound",
+        "name": "brussels sprouts",
+        "input": "3 pounds fresh brussels sprouts, ends trimmed, halved through stem end",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/4 cup fresh lemon juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='other'>1 tablespoon plus 1</span><span class='unit'>teaspoon</span><span class='name'>Dijon mustard</span>",
+        "unit": "teaspoon",
+        "other": "1 tablespoon plus 1",
+        "input": "1 tablespoon plus 1 teaspoon Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>thyme</span><span class='comment'>or 1 teaspoon dried</span>",
+        "comment": "chopped fresh or 1 teaspoon dried",
+        "unit": "tablespoon",
+        "name": "thyme",
+        "input": "1 tablespoon chopped fresh thyme or 1 teaspoon dried",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>heads</span><span class='name'>Belgian endive</span><span class='other'>,</span><span class='comment'>cut into 1 1/2-inch pieces</span>",
+        "comment": "cut into 1 1/2-inch pieces",
+        "other": ",",
+        "unit": "head",
+        "name": "Belgian endive",
+        "input": "6 heads Belgian endive, cut into 1 1/2-inch pieces",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='unit'>head</span><span class='name'>radicchio</span><span class='other'>,</span><span class='comment'>cut into 1 1/2-inch pieces</span>",
+        "comment": "cut into 1 1/2-inch pieces",
+        "other": "large ,",
+        "unit": "head",
+        "name": "radicchio",
+        "input": "1 large head radicchio, cut into 1 1/2-inch pieces",
+        "qty": "1"
+    }
+]

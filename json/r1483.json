@@ -1,0 +1,23 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>red</span><span class='name'>onions</span><span class='comment'>, sliced</span>",
+        "qty": "2",
+        "comment": "red, sliced",
+        "input": "2 red onions, sliced",
+        "name": "onions"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>cider vinegar</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup cider vinegar",
+        "name": "cider vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    }
+]

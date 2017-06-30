@@ -1,0 +1,69 @@
+[
+    {
+        "display": "<span class='comment'>1 16-ounce can</span><span class='name'>black beans</span><span class='comment'>, rinsed</span><span class='other'>,</span><span class='comment'>drained</span>",
+        "comment": "1 16-ounce can, rinsed drained",
+        "input": "1 16-ounce can black beans, rinsed, drained",
+        "name": "black beans",
+        "other": ","
+    },
+    {
+        "display": "<span class='comment'>1 10-ounce package frozen</span><span class='name'>corn</span><span class='comment'>, thawed</span><span class='other'>,</span><span class='comment'>drained</span>",
+        "comment": "1 10-ounce package frozen, thawed drained",
+        "input": "1 10-ounce package frozen corn, thawed, drained",
+        "name": "corn",
+        "other": ","
+    },
+    {
+        "other": "7 1/2-ounce, ,",
+        "display": "<span class='comment'>1</span><span class='other'>7 1/2-ounce</span><span class='comment'>can</span><span class='name'>hearts of palm</span><span class='other'>,</span><span class='comment'>drained</span><span class='other'>,</span><span class='comment'>cut into 1/4-inch-thick rounds</span>",
+        "comment": "1 can drained cut into 1/4-inch-thick rounds",
+        "input": "1 7 1/2-ounce can hearts of palm, drained, cut into 1/4-inch-thick rounds",
+        "name": "hearts of palm"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>tomatoes</span><span class='comment'>, seeded , diced</span>",
+        "qty": "2",
+        "comment": "large, seeded, diced",
+        "input": "2 large tomatoes, seeded, diced",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>red onion</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "name": "red onion",
+        "input": "1/2 red onion, minced",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/2 cup chopped fresh cilantro",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "3 tablespoons fresh lime juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>coriander</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "coriander",
+        "input": "1 teaspoon ground coriander",
+        "qty": "1"
+    }
+]

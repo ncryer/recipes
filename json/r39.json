@@ -1,0 +1,11 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>ears</span><span class='other'>of</span><span class='name'>corn</span><span class='other'>,</span><span class='comment'>in husk</span>",
+        "comment": "in husk",
+        "other": "of ,",
+        "unit": "ear",
+        "name": "corn",
+        "input": "4 ears of corn, in husk",
+        "qty": "4"
+    }
+]

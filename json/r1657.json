@@ -1,0 +1,45 @@
+[
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='comment'>lb firm-ripe black or red</span><span class='name'>plums</span><span class='comment'>( about 4 ) , halved lengthwise and pitted</span>",
+        "qty": "1 1/4",
+        "comment": "lb firm-ripe black or red (about 4), halved lengthwise and pitted",
+        "input": "1 1/4 lb firm-ripe black or red plums (about 4), halved lengthwise and pitted",
+        "name": "plums"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>3-inch-long ) fresh</span><span class='name'>rosemary sprig</span>",
+        "comment": "3-inch-long) fresh",
+        "other": "(",
+        "name": "rosemary sprig",
+        "input": "1 (3-inch-long) fresh rosemary sprig",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>slivovitz</span><span class='other'>(</span><span class='comment'>plum brandy ) or grappa</span>",
+        "comment": "plum brandy) or grappa",
+        "other": "(",
+        "unit": "tablespoon",
+        "name": "slivovitz",
+        "input": "2 tablespoons slivovitz (plum brandy) or grappa",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='name'>Special equipment: an adjustable-blade slicer</span>",
+        "input": "Special equipment: an adjustable-blade slicer",
+        "name": "Special equipment: an adjustable-blade slicer"
+    }
+]

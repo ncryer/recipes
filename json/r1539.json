@@ -1,0 +1,53 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span>",
+        "unit": "cup",
+        "input": "1 cup",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>flour plus 1/2 cup all-purpose flour;</span><span class='other'>or</span><span class='comment'>3/4 cup whole wheat flour plus 3/4 cup all-purpose flour ( all measured by scooping flour with measuring cups and leveling off with a spatula</span><span class='other'>or</span><span class='comment'>knife )</span>",
+        "comment": "3/4 cup whole wheat flour plus 3/4 cup all-purpose flour (all measured by scooping flour with measuring cups and leveling off with a spatula knife)",
+        "input": "flour plus 1/2 cup all-purpose flour; or 3/4 cup whole wheat flour plus 3/4 cup all-purpose flour (all measured by scooping flour with measuring cups and leveling off with a spatula or knife)",
+        "name": "flour plus 1/2 cup all-purpose flour;",
+        "other": "or or"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/4 teaspoon Kosher salt",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='other'>, plus 1</span><span class='unit'>teaspoon</span><span class='name'>light vegetable oil</span>",
+        "other": ", plus 1",
+        "unit": "tablespoon teaspoon",
+        "name": "light vegetable oil",
+        "input": "2 tablespoons, plus 1 teaspoon light vegetable oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>warm</span><span class='name'>water</span><span class='comment'>( 90\u00b0-100\u00b0F</span><span class='other'>)</span>",
+        "comment": "warm (90\u00b0-100\u00b0F",
+        "other": ")",
+        "unit": "cup",
+        "name": "water",
+        "input": "1/2 cup warm water (90\u00b0-100\u00b0F)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>flour</span><span class='comment'>for dusting</span>",
+        "comment": "for dusting",
+        "unit": "cup",
+        "name": "flour",
+        "input": "1/2 cup flour for dusting",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>Peanut or corn oil enough to fill a fryer to a depth of 3 inches</span>",
+        "comment": "Peanut or corn oil enough to fill a fryer to a depth of 3 inches",
+        "input": "Peanut or corn oil enough to fill a fryer to a depth of 3 inches"
+    }
+]

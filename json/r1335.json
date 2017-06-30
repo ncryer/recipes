@@ -1,0 +1,61 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pound</span><span class='name'>potatoes</span><span class='other'>,</span><span class='comment'>peeled and cut into 1-inch cubes</span>",
+        "comment": "peeled and cut into 1-inch cubes",
+        "other": ",",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "2 pound potatoes, peeled and cut into 1-inch cubes",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>cumin seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon cumin seeds",
+        "name": "cumin seeds"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>turmeric</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon turmeric",
+        "name": "turmeric"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>ginger</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "1/4 teaspoon ground ginger",
+        "qty": "1/4"
+    },
+    {
+        "other": "Pinch",
+        "display": "<span class='other'>Pinch</span><span class='comment'>ground</span><span class='name'>cloves</span>",
+        "comment": "ground",
+        "input": "Pinch ground cloves",
+        "name": "cloves"
+    }
+]

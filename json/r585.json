@@ -1,0 +1,61 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 12-ounce ) package fresh or frozen ( don't thaw )</span><span class='name'>cranberries</span>",
+        "qty": "1",
+        "comment": "(12-ounce) package fresh or frozen (don't thaw)",
+        "input": "1 (12-ounce) package fresh or frozen (don't thaw) cranberries",
+        "name": "cranberries"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>unsweetened</span><span class='name'>pineapple juice</span>",
+        "comment": "unsweetened",
+        "unit": "cup",
+        "name": "pineapple juice",
+        "input": "1 cup unsweetened pineapple juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>packed light</span><span class='name'>brown sugar</span>",
+        "comment": "packed light",
+        "unit": "cup",
+        "name": "brown sugar",
+        "input": "3/4 cup packed light brown sugar",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>golden raisins</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup golden raisins",
+        "name": "golden raisins"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>apple cider vinegar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup apple cider vinegar",
+        "name": "apple cider vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>hot red-pepper flakes</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon hot red-pepper flakes",
+        "name": "hot red-pepper flakes"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cloves</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cloves",
+        "input": "1/4 teaspoon ground cloves",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    }
+]

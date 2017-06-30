@@ -1,0 +1,69 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>dried chipotle chiles or chipotle chiles in adobo sauce</span><span class='other'>,</span><span class='comment'>2 pasilla de Oaxaca chiles</span><span class='other'>, or</span><span class='comment'>4 jalape\u00f1o chiles</span>",
+        "qty": "2",
+        "comment": "dried chipotle chiles or chipotle chiles in adobo sauce 2 pasilla de Oaxaca chiles 4 jalape\u00f1o chiles",
+        "input": "2 dried chipotle chiles or chipotle chiles in adobo sauce, 2 pasilla de Oaxaca chiles, or 4 jalape\u00f1o chiles",
+        "other": ",, or"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>poblano chiles</span><span class='other'>,</span><span class='comment'>charred</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>and seeded and then chopped medium-fine</span>",
+        "comment": "charred peeled and seeded and then chopped medium-fine",
+        "other": ",, ,",
+        "name": "poblano chiles",
+        "input": "2 poblano chiles, charred, peeled, and seeded and then chopped medium-fine",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>mango</span><span class='other'>,</span><span class='comment'>about 1 pound</span>",
+        "comment": "about 1 pound",
+        "other": ",",
+        "name": "mango",
+        "input": "1 mango, about 1 pound",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>pineapple</span><span class='other'>,</span><span class='comment'>preferably Golden</span>",
+        "comment": "preferably Golden",
+        "other": ",",
+        "name": "pineapple",
+        "input": "1/2 pineapple, preferably Golden",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>Hawaiian</span><span class='comment'>or 1/2 Mexican</span><span class='name'>papaya</span>",
+        "qty": "1",
+        "comment": "or 1/2 Mexican",
+        "input": "1 Hawaiian or 1/2 Mexican papaya",
+        "name": "Hawaiian papaya"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>red onion</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": ",",
+        "name": "red onion",
+        "input": "1 red onion, finely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>finely chopped fresh</span><span class='name'>cilantro</span><span class='comment'>, chopped at the last minute</span>",
+        "comment": "finely chopped fresh, chopped at the last minute",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "3 tablespoons finely chopped fresh cilantro, chopped at the last minute",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "3 tablespoons fresh lime juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='name'>Salt</span>",
+        "input": "Salt",
+        "name": "Salt"
+    }
+]

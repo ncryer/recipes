@@ -1,0 +1,95 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>unsalted natural pistachios</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups unsalted natural pistachios",
+        "name": "unsalted natural pistachios"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped pitted</span><span class='name'>dates</span>",
+        "comment": "chopped pitted",
+        "unit": "cup",
+        "name": "dates",
+        "input": "1/2 cup chopped pitted dates",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped dried</span><span class='name'>cherries</span><span class='comment'>or dried</span><span class='name'>cranberries</span>",
+        "comment": "chopped dried or dried",
+        "unit": "cup",
+        "name": "cherries cranberries",
+        "input": "1/2 cup chopped dried cherries or dried cranberries",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped dried</span><span class='name'>apricots</span>",
+        "comment": "chopped dried",
+        "unit": "cup",
+        "name": "apricots",
+        "input": "1/2 cup chopped dried apricots",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sweet passover wine</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sweet passover wine",
+        "name": "sweet passover wine"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>pure</span><span class='name'>pomegranate juice</span>",
+        "comment": "pure",
+        "unit": "cup",
+        "name": "pomegranate juice",
+        "input": "1/4 cup pure pomegranate juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>honey</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon honey",
+        "name": "honey"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "1 1/2 teaspoons fresh lemon juice",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>finely grated</span><span class='name'>orange peel</span>",
+        "comment": "finely grated",
+        "unit": "teaspoon",
+        "name": "orange peel",
+        "input": "1 teaspoon finely grated orange peel",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cinnamon</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cinnamon",
+        "input": "1 teaspoon ground cinnamon",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>freshly grated</span><span class='name'>nutmeg</span>",
+        "comment": "freshly grated",
+        "unit": "teaspoon",
+        "name": "nutmeg",
+        "input": "1/4 teaspoon freshly grated nutmeg",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='comment'>Fresh</span><span class='name'>mint</span><span class='unit'>sprigs</span><span class='other'>(</span><span class='comment'>for garnish</span><span class='other'>)</span>",
+        "comment": "Fresh for garnish",
+        "other": "()",
+        "unit": "sprig",
+        "input": "Fresh mint sprigs (for garnish)",
+        "name": "mint"
+    }
+]

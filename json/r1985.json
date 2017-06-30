@@ -1,0 +1,72 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>white wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup white wine vinegar",
+        "name": "white wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>dry white wine</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup dry white wine",
+        "name": "dry white wine"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small dried</span><span class='name'>chile pepper</span>",
+        "qty": "1",
+        "comment": "small dried",
+        "input": "1 small dried chile pepper",
+        "name": "chile pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>thyme</span><span class='comment'>sprig</span>",
+        "qty": "1",
+        "comment": "small sprig",
+        "input": "1 small thyme sprig",
+        "name": "thyme"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>rosemary sprig</span>",
+        "qty": "1",
+        "comment": "small",
+        "input": "1 small rosemary sprig",
+        "name": "rosemary sprig"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>bay leaf</span>",
+        "qty": "1",
+        "comment": "small",
+        "input": "1 small bay leaf",
+        "name": "bay leaf"
+    },
+    {
+        "display": "<span class='qty'>10</span><span class='name'>black peppercorns</span>",
+        "qty": "10",
+        "input": "10 black peppercorns",
+        "name": "black peppercorns"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>pickling salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon pickling salt",
+        "name": "pickling salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>peeled fresh</span><span class='name'>garlic</span><span class='comment'>cloves</span>",
+        "comment": "peeled fresh cloves",
+        "unit": "cup",
+        "name": "garlic",
+        "input": "1 cup peeled fresh garlic cloves",
+        "qty": "1"
+    }
+]

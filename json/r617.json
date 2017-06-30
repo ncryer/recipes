@@ -1,0 +1,34 @@
+[
+    {
+        "display": "<span class='qty'>10</span><span class='comment'>large or 20 small mandarin</span><span class='name'>oranges</span>",
+        "qty": "10",
+        "comment": "large or 20 small mandarin",
+        "input": "10 large or 20 small mandarin oranges",
+        "name": "oranges"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "3",
+        "input": "3 cups sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>St-Germain</span><span class='other'>(</span><span class='comment'>elderflower liqueur</span><span class='other'>)</span>",
+        "comment": "elderflower liqueur",
+        "other": "()",
+        "unit": "tablespoon",
+        "name": "St-Germain",
+        "input": "3 tablespoons St-Germain (elderflower liqueur)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh ( or frozen , thawed</span><span class='other'>)</span><span class='name'>cranberries</span>",
+        "comment": "fresh (or frozen, thawed",
+        "other": ")",
+        "unit": "cup",
+        "name": "cranberries",
+        "input": "1 cup fresh (or frozen, thawed) cranberries",
+        "qty": "1"
+    }
+]

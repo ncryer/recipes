@@ -1,0 +1,81 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>vanilla bean</span><span class='other'>,</span><span class='comment'>split lengthwise</span>",
+        "comment": "split lengthwise",
+        "other": ",",
+        "name": "vanilla bean",
+        "input": "1/2 vanilla bean, split lengthwise",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>bunches</span><span class='comment'>fresh</span><span class='name'>mint</span><span class='other'>,</span><span class='comment'>stems trimmed</span>",
+        "comment": "fresh stems trimmed",
+        "other": ",",
+        "unit": "bunch",
+        "name": "mint",
+        "input": "2 bunches fresh mint, stems trimmed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>to</span><span class='range_end'>3</span><span class='other'>drops</span><span class='comment'>pure</span><span class='name'>peppermint extract</span>",
+        "comment": "pure",
+        "other": "to drops",
+        "name": "peppermint extract",
+        "range_end": "3",
+        "input": "2 to 3 drops pure peppermint extract",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>1-pint</span><span class='comment'>basket</span><span class='name'>strawberries</span><span class='comment'>, hulled</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "basket, hulled halved",
+        "other": "1-pint ,",
+        "name": "strawberries",
+        "input": "1 1-pint basket strawberries, hulled, halved",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>bananas</span><span class='other'>,</span><span class='comment'>peeled , cut into 1-inch pieces</span>",
+        "comment": "peeled, cut into 1-inch pieces",
+        "other": ",",
+        "name": "bananas",
+        "input": "2 bananas, peeled, cut into 1-inch pieces",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>kiwis</span><span class='comment'>, peeled</span><span class='other'>,</span><span class='comment'>each cut into 1-inch pieces</span>",
+        "comment": ", peeled each cut into 1-inch pieces",
+        "other": ",",
+        "name": "kiwis",
+        "input": "3 kiwis, peeled, each cut into 1-inch pieces",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>cantaloupe</span><span class='other'>,</span><span class='comment'>peeled , cut into 1-inch pieces</span>",
+        "comment": "peeled, cut into 1-inch pieces",
+        "other": ",",
+        "name": "cantaloupe",
+        "input": "1/2 cantaloupe, peeled, cut into 1-inch pieces",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>Fresh</span><span class='name'>mint</span><span class='unit'>sprigs</span>",
+        "unit": "sprig",
+        "comment": "Fresh",
+        "input": "Fresh mint sprigs",
+        "name": "mint"
+    }
+]

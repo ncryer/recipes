@@ -1,0 +1,78 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>tomatoes</span><span class='other'>,</span><span class='comment'>quartered</span>",
+        "comment": "quartered",
+        "other": ",",
+        "unit": "pound",
+        "name": "tomatoes",
+        "input": "2 pounds tomatoes, quartered",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>onion</span><span class='comment'>, cut into 1/2-inch-thick wedges</span>",
+        "qty": "1",
+        "comment": "large, cut into 1/2-inch-thick wedges",
+        "input": "1 large onion, cut into 1/2-inch-thick wedges",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='comment'>1 15-ounce can</span><span class='name'>garbanzo beans</span><span class='comment'>( chickpeas ) , drained</span>",
+        "comment": "1 15-ounce can (chickpeas), drained",
+        "input": "1 15-ounce can garbanzo beans (chickpeas), drained",
+        "name": "garbanzo beans"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>crushed</span>",
+        "comment": "crushed",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 garlic cloves, crushed",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "2 1/2",
+        "input": "2 1/2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>bulgur*</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups bulgur*",
+        "name": "bulgur*"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "4 tablespoons chopped fresh parsley",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>dill</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "dill",
+        "input": "2 tablespoons chopped fresh dill",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    }
+]

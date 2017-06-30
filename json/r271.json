@@ -1,0 +1,65 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='name'>avocados</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "name": "avocados",
+        "input": "4 avocados, chopped",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>celery</span><span class='unit'>stalk</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": ",",
+        "unit": "stalk",
+        "name": "celery",
+        "input": "1 celery stalk, finely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>serrano</span><span class='name'>chiles</span><span class='comment'>, seeds removed if desired</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "serrano, seeds removed if desired finely chopped",
+        "other": ",",
+        "name": "chiles",
+        "input": "2 serrano chiles, seeds removed if desired, finely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>finely grated</span>",
+        "comment": "finely grated",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, finely grated",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "3 tablespoons fresh lime juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='comment'>small red</span><span class='name'>onion</span><span class='comment'>, chopped , divided</span>",
+        "qty": "1/4",
+        "comment": "small red, chopped, divided",
+        "input": "1/4 small red onion, chopped, divided",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span><span class='comment'>, plus leaves for serving</span>",
+        "comment": "chopped fresh, plus leaves for serving",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/2 cup chopped fresh cilantro, plus leaves for serving",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    }
+]

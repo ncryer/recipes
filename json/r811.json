@@ -1,0 +1,46 @@
+[
+    {
+        "display": "<span class='comment'>2</span><span class='other'>10-ounce</span><span class='comment'>packages pickled mustard greens ( such as Caravelle brand cai chua ) *</span>",
+        "comment": "2 packages pickled mustard greens (such as Caravelle brand cai chua) *",
+        "input": "2 10-ounce packages pickled mustard greens (such as Caravelle brand cai chua) *",
+        "other": "10-ounce"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>vegetable oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, minced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>red</span><span class='other'>jalape\u00f1o</span><span class='name'>chile</span><span class='other'>,</span><span class='comment'>seeded , chopped</span>",
+        "comment": "red seeded, chopped",
+        "other": "jalape\u00f1o ,",
+        "name": "chile",
+        "input": "1 red jalape\u00f1o chile, seeded, chopped",
+        "qty": "1"
+    }
+]

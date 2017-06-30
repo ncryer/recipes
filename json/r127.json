@@ -1,0 +1,120 @@
+[
+    {
+        "display": "<span class='name'>Coconut oil</span><span class='comment'>or olive oil cooking spray</span><span class='other'>,</span><span class='comment'>for the baking dish</span>",
+        "comment": "or olive oil cooking spray for the baking dish",
+        "input": "Coconut oil or olive oil cooking spray, for the baking dish",
+        "name": "Coconut oil",
+        "other": ","
+    },
+    {
+        "display": "<span class='name'>Flaxseed egg: 1 tablespoon flaxseed meal</span><span class='other'>,</span><span class='comment'>plus 3 tablespoons warm water</span>",
+        "comment": "plus 3 tablespoons warm water",
+        "input": "Flaxseed egg: 1 tablespoon flaxseed meal, plus 3 tablespoons warm water",
+        "name": "Flaxseed egg: 1 tablespoon flaxseed meal",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>gluten- free all- purpose flour</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup gluten- free all- purpose flour",
+        "name": "gluten- free all- purpose flour"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>unsweetened</span><span class='name'>cocoa powder</span>",
+        "comment": "unsweetened",
+        "unit": "cup",
+        "name": "cocoa powder",
+        "input": "3/4 cup unsweetened cocoa powder",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>aluminum- free baking powder</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon aluminum- free baking powder",
+        "name": "aluminum- free baking powder"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>spirulina powder</span><span class='other'>(</span><span class='comment'>optional )</span>",
+        "comment": "optional)",
+        "other": "(",
+        "unit": "teaspoon",
+        "name": "spirulina powder",
+        "input": "1/2 teaspoon spirulina powder (optional)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>sea</span><span class='name'>salt</span>",
+        "comment": "sea",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/4 teaspoon sea salt",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>ripe</span><span class='name'>avocado</span><span class='comment'>, pitted</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>and mashed until smooth</span>",
+        "comment": "ripe, pitted peeled and mashed until smooth",
+        "other": ", ,",
+        "name": "avocado",
+        "input": "1/2 ripe avocado, pitted, peeled, and mashed until smooth",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>unrefined</span><span class='name'>coconut oil</span>",
+        "comment": "unrefined",
+        "unit": "cup",
+        "name": "coconut oil",
+        "input": "1/2 cup unrefined coconut oil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>hot</span><span class='name'>water</span>",
+        "comment": "hot",
+        "unit": "cup",
+        "name": "water",
+        "input": "1/4 cup hot water",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>organic</span><span class='name'>vanilla extract</span>",
+        "comment": "organic",
+        "unit": "teaspoon",
+        "name": "vanilla extract",
+        "input": "1 teaspoon organic vanilla extract",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>packed organic light or dark</span><span class='name'>brown sugar</span>",
+        "comment": "packed organic light or dark",
+        "unit": "cup",
+        "name": "brown sugar",
+        "input": "1/2 cup packed organic light or dark brown sugar",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>baking soda</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon baking soda",
+        "name": "baking soda"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>raw</span><span class='other'>,</span><span class='comment'>unfiltered apple cider</span><span class='name'>vinegar</span>",
+        "comment": "raw unfiltered apple cider",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "vinegar",
+        "input": "1 tablespoon raw, unfiltered apple cider vinegar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>semisweet</span><span class='other'>or</span><span class='comment'>bittersweet chocolate chips ( preferably with</span><span class='other'>a</span><span class='comment'>minimum of 65 percent cacao ) or 1</span><span class='unit'>cup</span><span class='other'>chopped</span><span class='comment'>bittersweet</span><span class='name'>chocolate</span><span class='comment'>( not milk</span><span class='other'>or</span><span class='comment'>dairy chocolate</span><span class='other'>)</span>",
+        "comment": "semisweet bittersweet chocolate chips (preferably with minimum of 65 percent cacao) or 1 bittersweet (not milk dairy chocolate",
+        "other": "or a chopped or)",
+        "unit": "cup cup",
+        "name": "chocolate",
+        "input": "1 cup semisweet or bittersweet chocolate chips (preferably with a minimum of 65 percent cacao) or 1 cup chopped bittersweet chocolate (not milk or dairy chocolate)",
+        "qty": "1"
+    }
+]

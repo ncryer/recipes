@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>canola</span><span class='other'>,</span><span class='comment'>vegetable</span><span class='other'>, or</span><span class='comment'>other neutral oil , plus more for greasing the pan</span>",
+        "comment": "vegetable other neutral oil, plus more for greasing the pan",
+        "other": ",, or",
+        "unit": "tablespoon",
+        "name": "canola",
+        "input": "2 tablespoons canola, vegetable, or other neutral oil, plus more for greasing the pan",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>( 11 1/8 ounces 314 grams ) walnut halves</span>",
+        "unit": "cup",
+        "comment": "(11 1/8 ounces 314 grams) walnut halves",
+        "input": "3 cups (11 1/8 ounces 314 grams) walnut halves",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>9</span><span class='comment'>( 7</span><span class='unit'>ounces</span><span class='comment'>200 grams ) dried</span><span class='name'>dates</span><span class='other'>,</span><span class='comment'>preferably Medjool</span><span class='other'>or</span><span class='comment'>Barhi</span><span class='other'>, pitted</span>",
+        "comment": "(7 200 grams) dried preferably Medjool Barhi",
+        "other": ", or, pitted",
+        "unit": "ounce",
+        "name": "dates",
+        "input": "9 (7 ounces 200 grams) dried dates, preferably Medjool or Barhi, pitted",
+        "qty": "9"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>( 22 1/4 ounces 632 grams ) maltose</span>",
+        "unit": "cup",
+        "comment": "(22 1/4 ounces 632 grams) maltose",
+        "input": "2 cups (22 1/4 ounces 632 grams) maltose",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cinnamon</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cinnamon",
+        "input": "1 teaspoon ground cinnamon",
+        "qty": "1"
+    }
+]

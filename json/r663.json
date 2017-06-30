@@ -1,0 +1,58 @@
+[
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>coarse sea</span><span class='name'>salt</span>",
+        "comment": "coarse sea",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup coarse sea salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>small , tender green beans or yellow wax</span><span class='name'>beans</span><span class='comment'>, trimmed</span>",
+        "comment": "small, tender green beans or yellow wax, trimmed",
+        "unit": "pound",
+        "name": "beans",
+        "input": "2 pounds small, tender green beans or yellow wax beans, trimmed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>fresh</span><span class='name'>dill sprigs</span>",
+        "qty": "6",
+        "comment": "fresh",
+        "input": "6 fresh dill sprigs",
+        "name": "dill sprigs"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>small</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>smashed</span>",
+        "comment": "small smashed",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "6 small garlic cloves, smashed",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>small dried</span><span class='name'>red chiles</span><span class='comment'>( such as cayenne</span><span class='other'>or</span><span class='comment'>chile de \u00e1rbol )</span>",
+        "comment": "small dried (such as cayenne chile de \u00e1rbol)",
+        "other": "or",
+        "name": "red chiles",
+        "input": "3 small dried red chiles (such as cayenne or chile de \u00e1rbol)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>dill seeds</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon dill seeds",
+        "name": "dill seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>black peppercorns</span><span class='other'>,</span><span class='comment'>crushed</span>",
+        "comment": "crushed",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "black peppercorns",
+        "input": "1 teaspoon black peppercorns, crushed",
+        "qty": "1"
+    }
+]

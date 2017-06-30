@@ -1,0 +1,50 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>finely chopped</span><span class='name'>onion</span>",
+        "comment": "finely chopped",
+        "unit": "cup",
+        "name": "onion",
+        "input": "2 cups finely chopped onion",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>fresh</span><span class='name'>Seville</span><span class='comment'>( bitter )</span><span class='name'>orange juice</span>",
+        "comment": "fresh (bitter)",
+        "unit": "cup",
+        "name": "Seville orange juice",
+        "input": "1 1/2 cups fresh Seville (bitter) orange juice",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>dried</span><span class='name'>oregano</span><span class='comment'>( preferably Mexican ) , crumbled</span>",
+        "comment": "dried (preferably Mexican), crumbled",
+        "unit": "teaspoon",
+        "name": "oregano",
+        "input": "2 teaspoons dried oregano (preferably Mexican), crumbled",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>or to taste</span>",
+        "comment": "or to taste",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 teaspoon salt, or to taste",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>to</span><span class='range_end'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped seeded fresh</span>",
+        "comment": "chopped seeded fresh",
+        "other": "to",
+        "unit": "tablespoon",
+        "range_end": "2",
+        "input": "1 to 2 tablespoons chopped seeded fresh",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>chile (</span><span class='comment'>1 to 2 chiles</span><span class='other'>)</span>",
+        "comment": "1 to 2 chiles",
+        "input": "chile (1 to 2 chiles)",
+        "other": "chile ()"
+    }
+]

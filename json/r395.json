@@ -1,0 +1,84 @@
+[
+    {
+        "display": "<span class='other'>1/2 cup plus 1</span><span class='unit'>tablespoon</span><span class='name'>canola oil</span><span class='other'>,</span><span class='comment'>plus more for brushing</span>",
+        "comment": "plus more for brushing",
+        "other": "1/2 cup plus 1 ,",
+        "unit": "tablespoon",
+        "input": "1/2 cup plus 1 tablespoon canola oil, plus more for brushing",
+        "name": "canola oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>shallot</span><span class='comment'>, chopped</span>",
+        "qty": "1",
+        "comment": "large, chopped",
+        "input": "1 large shallot, chopped",
+        "name": "shallot"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>apple cider vinegar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup apple cider vinegar",
+        "name": "apple cider vinegar"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='name'>juniper berries</span>",
+        "qty": "8",
+        "input": "8 juniper berries",
+        "name": "juniper berries"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>caraway seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon caraway seeds",
+        "name": "caraway seeds"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>yellow mustard seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon yellow mustard seeds",
+        "name": "yellow mustard seeds"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>fresh</span><span class='name'>thyme</span><span class='comment'>sprigs</span>",
+        "qty": "3",
+        "comment": "fresh sprigs",
+        "input": "3 fresh thyme sprigs",
+        "name": "thyme"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>to</span><span class='range_end'>2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span><span class='other'>,</span><span class='comment'>to taste</span>",
+        "comment": "to taste",
+        "other": "to ,",
+        "unit": "tablespoon",
+        "name": "sugar",
+        "range_end": "2",
+        "input": "1 to 2 tablespoons sugar, to taste",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt and freshly ground black pepper",
+        "name": "salt and black pepper"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>heads</span><span class='name'>radicchio</span><span class='other'>,</span><span class='comment'>halved lengthwise</span>",
+        "comment": "halved lengthwise",
+        "other": ",",
+        "unit": "head",
+        "name": "radicchio",
+        "input": "3 heads radicchio, halved lengthwise",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>big</span><span class='unit'>bunches</span><span class='name'>kale</span><span class='comment'>, soaked in cold water</span>",
+        "comment": "big, soaked in cold water",
+        "unit": "bunch",
+        "name": "kale",
+        "input": "2 big bunches kale, soaked in cold water",
+        "qty": "2"
+    }
+]

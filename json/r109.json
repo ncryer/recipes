@@ -1,0 +1,135 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>sweet potatoes</span>",
+        "unit": "pound",
+        "qty": "2",
+        "input": "2 pounds sweet potatoes",
+        "name": "sweet potatoes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>granulated</span><span class='name'>garlic powder</span>",
+        "comment": "granulated",
+        "unit": "tablespoon",
+        "name": "garlic powder",
+        "input": "1 tablespoon granulated garlic powder",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>reduced-sodium tamari</span><span class='name'>soy sauce</span>",
+        "comment": "reduced-sodium tamari",
+        "unit": "tablespoon",
+        "name": "soy sauce",
+        "input": "2 tablespoons reduced-sodium tamari soy sauce",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>Worcestershire sauce</span><span class='comment'>( omit for vegan )</span>",
+        "comment": "(omit for vegan)",
+        "unit": "tablespoon",
+        "name": "Worcestershire sauce",
+        "input": "3 tablespoons Worcestershire sauce (omit for vegan)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='name'>yellow onion</span><span class='other'>,</span><span class='comment'>roughly chopped</span>",
+        "comment": "roughly chopped",
+        "other": ",",
+        "name": "yellow onion",
+        "input": "1/4 yellow onion, roughly chopped",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>chickpeas</span><span class='comment'>( garbanzo</span><span class='name'>beans</span><span class='comment'>) , rinsed and drained</span>",
+        "comment": "(garbanzo), rinsed and drained",
+        "unit": "cup",
+        "name": "chickpeas beans",
+        "input": "1 cup chickpeas (garbanzo beans), rinsed and drained",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='comment'>organic rolled</span><span class='name'>oats</span>",
+        "comment": "organic rolled",
+        "unit": "cup",
+        "name": "oats",
+        "input": "1 1/4 cups organic rolled oats",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>raw</span><span class='name'>walnuts</span><span class='comment'>, crushed</span>",
+        "comment": "raw, crushed",
+        "unit": "cup",
+        "name": "walnuts",
+        "input": "3/4 cup raw walnuts, crushed",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>flaxseed meal</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup flaxseed meal",
+        "name": "flaxseed meal"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>unrefined</span><span class='name'>coconut oil</span>",
+        "comment": "unrefined",
+        "unit": "tablespoon",
+        "name": "coconut oil",
+        "input": "2 tablespoons unrefined coconut oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='name'>Whole-wheat</span><span class='comment'>or gluten-free</span><span class='name'>buns</span>",
+        "comment": "or gluten-free",
+        "input": "Whole-wheat or gluten-free buns",
+        "name": "Whole-wheat buns"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>ripe</span><span class='name'>avocados</span><span class='comment'>, thinly sliced ( 2 to 3 slices per burger )</span>",
+        "qty": "2",
+        "comment": "ripe, thinly sliced (2 to 3 slices per burger)",
+        "input": "2 ripe avocados, thinly sliced (2 to 3 slices per burger)",
+        "name": "avocados"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>Worcestershire sauce</span><span class='comment'>( per burger; omit for vegan )</span>",
+        "comment": "(per burger; omit for vegan)",
+        "unit": "teaspoon",
+        "name": "Worcestershire sauce",
+        "input": "1 teaspoon Worcestershire sauce (per burger; omit for vegan)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='name'>red onion</span><span class='comment'>, thinly sliced</span>",
+        "qty": "1/4",
+        "comment": ", thinly sliced",
+        "input": "1/4 red onion, thinly sliced",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>to</span><span class='range_end'>2</span><span class='comment'>town lacinato kale leaves per burger</span>",
+        "comment": "town lacinato kale leaves per burger",
+        "other": "to",
+        "range_end": "2",
+        "input": "1 to 2 town lacinato kale leaves per burger",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Dijon mustard</span>",
+        "input": "Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='name'>Olive oil mayonnaise</span><span class='comment'>( omit for vegan )</span>",
+        "comment": "(omit for vegan)",
+        "input": "Olive oil mayonnaise (omit for vegan)",
+        "name": "Olive oil mayonnaise"
+    }
+]

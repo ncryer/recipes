@@ -1,0 +1,95 @@
+[
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='comment'>lb small fresh</span><span class='name'>okra</span><span class='other'>,</span><span class='comment'>left untrimmed</span><span class='other'>, or</span><span class='comment'>2 ( 10-oz ) packages frozen whole okra ( not thawed )</span>",
+        "comment": "lb small fresh left untrimmed 2 (10-oz) packages frozen whole okra (not thawed)",
+        "other": ",, or",
+        "name": "okra",
+        "input": "1 1/4 lb small fresh okra, left untrimmed, or 2 (10-oz) packages frozen whole okra (not thawed)",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, chopped</span>",
+        "qty": "1",
+        "comment": "medium, chopped",
+        "input": "1 medium onion, chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, finely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>teaspoons</span><span class='name'>finely chopped peeled fresh ginger</span>",
+        "unit": "teaspoon",
+        "qty": "4",
+        "input": "4 teaspoons finely chopped peeled fresh ginger",
+        "name": "finely chopped peeled fresh ginger"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>curry powder</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons curry powder",
+        "name": "curry powder"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 14- to 15-oz ) can whole</span><span class='name'>tomatoes</span><span class='other'>in</span><span class='comment'>juice</span><span class='other'>,</span><span class='name'>tomatoes chopped , reserving juice</span>",
+        "comment": "(14- to 15-oz) can whole juice",
+        "other": "in ,",
+        "name": "tomatoes tomatoes chopped, reserving juice",
+        "input": "1 (14- to 15-oz) can whole tomatoes in juice, tomatoes chopped, reserving juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>19-oz )</span><span class='name'>can chickpeas</span><span class='other'>,</span><span class='comment'>drained and rinsed ( 2 cups )</span>",
+        "comment": "19-oz) drained and rinsed (2 cups)",
+        "other": "(,",
+        "name": "can chickpeas",
+        "input": "1 (19-oz) can chickpeas, drained and rinsed (2 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='name'>Accompaniment:</span>",
+        "input": "Accompaniment:",
+        "name": "Accompaniment:"
+    },
+    {
+        "display": "<span class='comment'>or basmati</span><span class='name'>rice</span>",
+        "comment": "or basmati",
+        "input": "or basmati rice",
+        "name": "rice"
+    }
+]

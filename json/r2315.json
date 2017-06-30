@@ -1,0 +1,46 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "6 tablespoons fresh lime juice",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span>",
+        "unit": "tablespoon",
+        "input": "3 tablespoons",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>water</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>soy sauce</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>finely grated fresh</span><span class='name'>ginger</span>",
+        "comment": "finely grated fresh",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "1 teaspoon finely grated fresh ginger",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>coarse</span><span class='name'>salt</span>",
+        "comment": "coarse",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 teaspoon coarse salt",
+        "qty": "1"
+    }
+]

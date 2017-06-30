@@ -1,0 +1,27 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>pounds</span><span class='name'>plum tomatoes</span><span class='comment'>, halved lengthwise</span>",
+        "comment": ", halved lengthwise",
+        "unit": "pound",
+        "name": "plum tomatoes",
+        "input": "4 pounds plum tomatoes, halved lengthwise",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "6 garlic cloves, minced",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "5 tablespoons extra-virgin olive oil",
+        "qty": "5"
+    }
+]

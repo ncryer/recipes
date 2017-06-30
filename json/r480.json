@@ -1,0 +1,83 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>mixed tender herbs</span><span class='other'>(</span><span class='comment'>such as basil</span><span class='other'>,</span><span class='comment'>Thai basil</span><span class='other'>,</span><span class='comment'>mint</span><span class='other'>, cilantro ,</span><span class='comment'>tarragon</span><span class='other'>,</span><span class='comment'>and celery leaves )</span><span class='other'>, divided</span>",
+        "comment": "such as basil Thai basil mint tarragon and celery leaves)",
+        "other": "(, ,, cilantro, ,, divided",
+        "unit": "cup",
+        "name": "mixed tender herbs",
+        "input": "3 cups mixed tender herbs (such as basil, Thai basil, mint, cilantro, tarragon, and celery leaves), divided",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>thinly sliced</span><span class='name'>scallions</span><span class='comment'>, divided</span>",
+        "comment": "thinly sliced, divided",
+        "unit": "cup",
+        "name": "scallions",
+        "input": "1/2 cup thinly sliced scallions, divided",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2\"</span><span class='unit'>piece</span><span class='comment'>peeled</span><span class='name'>ginger</span><span class='other'>,</span><span class='comment'>sliced</span>",
+        "comment": "peeled sliced",
+        "other": ",",
+        "unit": "piece",
+        "name": "ginger",
+        "input": "1 1/2\" piece peeled ginger, sliced",
+        "qty": "1 1/2\""
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span>",
+        "unit": "clove",
+        "qty": "1",
+        "input": "1 garlic clove",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>7</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "vegetable oil",
+        "input": "7 tablespoons vegetable oil, divided",
+        "qty": "7"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>unseasoned</span><span class='name'>rice vinegar</span>",
+        "comment": "unseasoned",
+        "unit": "tablespoon",
+        "name": "rice vinegar",
+        "input": "2 tablespoons unseasoned rice vinegar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sesame seeds</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons sesame seeds",
+        "name": "sesame seeds"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt and freshly ground black pepper",
+        "name": "salt and black pepper"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>cooked , cooled</span><span class='name'>wheat berries</span><span class='other'>,</span><span class='comment'>farro , or brown</span><span class='name'>rice</span>",
+        "comment": "cooked, cooled farro, or brown",
+        "other": ",",
+        "unit": "cup",
+        "name": "wheat berries rice",
+        "input": "2 cups cooked, cooled wheat berries, farro, or brown rice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>chopped mixed</span><span class='name'>summer vegetables</span><span class='comment'>( such as</span><span class='name'>bell peppers</span><span class='other'>,</span><span class='comment'>eggplant</span><span class='other'>,</span><span class='comment'>chiles</span><span class='other'>,</span><span class='comment'>zucchini</span><span class='other'>,</span><span class='comment'>summer squash</span><span class='other'>,</span><span class='comment'>carrots</span><span class='other'>,</span><span class='comment'>celery</span><span class='other'>,</span><span class='comment'>radishes</span><span class='other'>,</span><span class='comment'>and cherry tomatoes )</span>",
+        "comment": "chopped mixed (such as eggplant chiles zucchini summer squash carrots celery radishes and cherry tomatoes)",
+        "other": ",, ,, ,, , ,",
+        "unit": "cup",
+        "name": "summer vegetables bell peppers",
+        "input": "4 cups chopped mixed summer vegetables (such as bell peppers, eggplant, chiles, zucchini, summer squash, carrots, celery, radishes, and cherry tomatoes)",
+        "qty": "4"
+    }
+]

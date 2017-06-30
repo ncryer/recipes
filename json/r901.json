@@ -1,0 +1,41 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>smashed</span>",
+        "comment": "smashed",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, smashed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>finely chopped</span><span class='name'>oregano</span>",
+        "comment": "finely chopped",
+        "unit": "tablespoon",
+        "name": "oregano",
+        "input": "2 tablespoons finely chopped oregano",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='other'>(</span><span class='comment'>6-to 8-inch</span><span class='other'>)</span><span class='name'>pocketless pita bread rounds</span>",
+        "comment": "6-to 8-inch",
+        "other": "()",
+        "name": "pocketless pita bread rounds",
+        "input": "6 (6-to 8-inch) pocketless pita bread rounds",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='comment'>to taste</span>",
+        "comment": "Kosher to taste",
+        "input": "Kosher salt to taste",
+        "name": "salt"
+    }
+]

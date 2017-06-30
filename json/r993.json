@@ -1,0 +1,84 @@
+[
+    {
+        "display": "<span class='comment'>One 1-pound bag dried</span><span class='name'>chickpeas</span><span class='comment'>, soaked overnight in cold water to cover</span>",
+        "comment": "One 1-pound bag dried, soaked overnight in cold water to cover",
+        "input": "One 1-pound bag dried chickpeas, soaked overnight in cold water to cover",
+        "name": "chickpeas"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>crushed</span><span class='name'>red pepper flakes</span>",
+        "comment": "crushed",
+        "unit": "tablespoon",
+        "name": "red pepper flakes",
+        "input": "1 tablespoon crushed red pepper flakes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>quarts</span><span class='name'>vegetable stock</span><span class='comment'>or water</span>",
+        "comment": "or water",
+        "unit": "quart",
+        "name": "vegetable stock",
+        "input": "2 quarts vegetable stock or water",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='name'>Salt</span>",
+        "input": "Salt",
+        "name": "Salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>freshly squeezed</span><span class='name'>lemon juice</span>",
+        "comment": "freshly squeezed",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/4 cup freshly squeezed lemon juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>red wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "3/4 cup extra-virgin olive oil",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>grated</span><span class='name'>carrots</span><span class='other'>(</span><span class='comment'>from 2 large or 4 medium carrots )</span>",
+        "comment": "grated from 2 large or 4 medium carrots)",
+        "other": "(",
+        "unit": "cup",
+        "name": "carrots",
+        "input": "2 cups grated carrots (from 2 large or 4 medium carrots)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>red onion , cut into 1/4-inch dice</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup red onion, cut into 1/4-inch dice",
+        "name": "red onion, cut into 1/4-inch dice"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped flat-leaf</span><span class='name'>parsley</span>",
+        "comment": "chopped flat-leaf",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/2 cup chopped flat-leaf parsley",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>minced</span><span class='name'>garlic</span>",
+        "comment": "minced",
+        "unit": "teaspoon",
+        "name": "garlic",
+        "input": "1 teaspoon minced garlic",
+        "qty": "1"
+    }
+]

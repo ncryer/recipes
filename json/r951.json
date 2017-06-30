@@ -1,0 +1,80 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( 60 g ) salted dry-roasted</span><span class='name'>peanuts</span>",
+        "comment": "(60 g) salted dry-roasted",
+        "unit": "cup",
+        "name": "peanuts",
+        "input": "1/2 cup (60 g) salted dry-roasted peanuts",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( 60 g ) roasted sunflower seed kernels</span><span class='other'>, or</span><span class='comment'>use more peanuts</span><span class='other'>or</span><span class='comment'>other nuts</span>",
+        "comment": "(60 g) roasted sunflower seed kernels use more peanuts other nuts",
+        "other": ", or or",
+        "unit": "cup",
+        "input": "1/2 cup (60 g) roasted sunflower seed kernels, or use more peanuts or other nuts",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( 80 g ) raisins or other dried fruit</span>",
+        "unit": "cup",
+        "comment": "(80 g) raisins or other dried fruit",
+        "input": "1/2 cup (80 g) raisins or other dried fruit",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>( 160 g ) uncooked oatmeal , old-fashioned or instant</span>",
+        "unit": "cup",
+        "comment": "(160 g) uncooked oatmeal, old-fashioned or instant",
+        "input": "2 cups (160 g) uncooked oatmeal, old-fashioned or instant",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>( 50 g ) toasted</span><span class='name'>rice</span><span class='comment'>cereal</span><span class='other'>,</span><span class='comment'>such as Rice Krispies</span>",
+        "comment": "(50 g) toasted cereal such as Rice Krispies",
+        "other": ",",
+        "unit": "cup",
+        "name": "rice",
+        "input": "2 cups (50 g) toasted rice cereal, such as Rice Krispies",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( 130 g ) peanut</span><span class='name'>butter</span><span class='comment'>, crunchy or creamy</span>",
+        "comment": "(130 g) peanut, crunchy or creamy",
+        "unit": "cup",
+        "name": "butter",
+        "input": "1/2 cup (130 g) peanut butter, crunchy or creamy",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( 100 g ) packed</span><span class='name'>brown sugar</span>",
+        "comment": "(100 g) packed",
+        "unit": "cup",
+        "name": "brown sugar",
+        "input": "1/2 cup (100 g) packed brown sugar",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( 120 ml )</span><span class='name'>light corn syrup</span>",
+        "comment": "(120 ml)",
+        "unit": "cup",
+        "name": "light corn syrup",
+        "input": "1/2 cup (120 ml) light corn syrup",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>vanilla</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon vanilla",
+        "name": "vanilla"
+    },
+    {
+        "display": "<span class='comment'>Optional:</span><span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>toasted</span><span class='name'>wheat germ</span>",
+        "comment": "Optional: toasted",
+        "unit": "cup",
+        "name": "wheat germ",
+        "input": "Optional: 1/4 cup toasted wheat germ",
+        "qty": "1/4"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>walnuts</span><span class='other'>(</span><span class='comment'>2 oz ) ,</span>",
+        "comment": "2 oz) ,",
+        "other": "(",
+        "unit": "cup",
+        "name": "walnuts",
+        "input": "1/2 cup walnuts (2 oz) ,",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>,</span><span class='comment'>cooled</span><span class='other'>,</span><span class='comment'>and finely chopped with a knife</span>",
+        "comment": "cooled and finely chopped with a knife",
+        "input": ", cooled, and finely chopped with a knife",
+        "other": ", ,"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='name'>Special</span><span class='comment'>equipment: a nonstick bakeware liner such as Silpat ( optional )</span>",
+        "comment": "equipment: a nonstick bakeware liner such as Silpat (optional)",
+        "input": "Special equipment: a nonstick bakeware liner such as Silpat (optional)",
+        "name": "Special"
+    }
+]

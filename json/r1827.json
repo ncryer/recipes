@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>sliced</span><span class='name'>almonds</span>",
+        "comment": "sliced",
+        "unit": "cup",
+        "name": "almonds",
+        "input": "1 cup sliced almonds",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>7</span><span class='name'>red bell peppers</span><span class='other'>(</span><span class='comment'>about 3 1/2 pounds )</span>",
+        "comment": "about 3 1/2 pounds)",
+        "other": "(",
+        "name": "red bell peppers",
+        "input": "7 red bell peppers (about 3 1/2 pounds)",
+        "qty": "7"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>pounds</span><span class='name'>haricots verts</span><span class='comment'>( French thin green</span><span class='name'>beans</span><span class='comment'>) or regular green</span><span class='name'>beans</span>",
+        "comment": "(French thin green) or regular green",
+        "unit": "pound",
+        "name": "haricots verts beans beans",
+        "input": "2 1/2 pounds haricots verts (French thin green beans) or regular green beans",
+        "qty": "2 1/2"
+    }
+]

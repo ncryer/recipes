@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>cups</span><span class='name'>raspberries</span><span class='other'>(</span><span class='comment'>6 ounces</span><span class='other'>)</span>",
+        "comment": "6 ounces",
+        "other": "()",
+        "unit": "cup",
+        "name": "raspberries",
+        "input": "2 1/2 cups raspberries (6 ounces)",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>blueberries</span><span class='other'>(</span><span class='comment'>10 ounces</span><span class='other'>)</span>",
+        "comment": "10 ounces",
+        "other": "()",
+        "unit": "cup",
+        "name": "blueberries",
+        "input": "3 cups blueberries (10 ounces)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='comment'>lightly packed shaved ice ( made with an ice shaver , preferably manual )</span>",
+        "unit": "cup",
+        "comment": "lightly packed shaved ice (made with an ice shaver, preferably manual)",
+        "input": "8 cups lightly packed shaved ice (made with an ice shaver, preferably manual)",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='name'>Special equipment: an ice shaver</span><span class='comment'>, preferably manual</span>",
+        "comment": ", preferably manual",
+        "input": "Special equipment: an ice shaver, preferably manual",
+        "name": "Special equipment: an ice shaver"
+    }
+]

@@ -1,0 +1,69 @@
+[
+    {
+        "display": "<span class='comment'>1 15 1/4-ounce can</span><span class='name'>kidney beans</span><span class='comment'>, rinsed</span><span class='other'>,</span><span class='comment'>drained</span>",
+        "comment": "1 15 1/4-ounce can, rinsed drained",
+        "input": "1 15 1/4-ounce can kidney beans, rinsed, drained",
+        "name": "kidney beans",
+        "other": ","
+    },
+    {
+        "other": "15-ounce ,",
+        "display": "<span class='comment'>1</span><span class='other'>15-ounce</span><span class='comment'>can</span><span class='name'>garbanzo beans</span><span class='comment'>( chick-peas ) , rinsed</span><span class='other'>,</span><span class='comment'>drained</span>",
+        "comment": "1 can (chick-peas), rinsed drained",
+        "input": "1 15-ounce can garbanzo beans (chick-peas), rinsed, drained",
+        "name": "garbanzo beans"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>9-ounce package frozen</span><span class='name'>French-cut green beans</span><span class='comment'>, thawed</span><span class='other'>,</span><span class='comment'>drained</span>",
+        "comment": "9-ounce package frozen, thawed drained",
+        "other": ",",
+        "name": "French-cut green beans",
+        "input": "1 9-ounce package frozen French-cut green beans, thawed, drained",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>red</span><span class='name'>onion</span><span class='comment'>, finely chopped</span>",
+        "qty": "1/2",
+        "comment": "red, finely chopped",
+        "input": "1/2 red onion, finely chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>large</span><span class='name'>red bell pepper</span><span class='comment'>, diced</span>",
+        "qty": "1/2",
+        "comment": "large, diced",
+        "input": "1/2 large red bell pepper, diced",
+        "name": "red bell pepper"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>red wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>pressed</span>",
+        "comment": "pressed",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 large garlic clove, pressed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>basil</span><span class='comment'>, crumbled</span>",
+        "comment": "dried, crumbled",
+        "unit": "teaspoon",
+        "name": "basil",
+        "input": "1 teaspoon dried basil, crumbled",
+        "qty": "1"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>packed</span><span class='name'>brown sugar</span><span class='comment'>or maple syrup</span>",
+        "comment": "packed or maple syrup",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup packed brown sugar or maple syrup",
+        "name": "brown sugar"
+    },
+    {
+        "display": "<span class='comment'>Juice of</span><span class='qty'>2</span><span class='name'>oranges</span>",
+        "qty": "2",
+        "comment": "Juice of",
+        "input": "Juice of 2 oranges",
+        "name": "oranges"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>nectarines</span><span class='other'>or peaches ,</span><span class='comment'>halved and pitted</span>",
+        "comment": "halved and pitted",
+        "other": "or peaches ,",
+        "name": "nectarines",
+        "input": "2 nectarines or peaches, halved and pitted",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>plums</span><span class='other'>,</span><span class='comment'>halved and pitted</span>",
+        "comment": "halved and pitted",
+        "other": ",",
+        "name": "plums",
+        "input": "3 plums, halved and pitted",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>bananas</span><span class='other'>,</span><span class='comment'>halved lengthwise</span>",
+        "comment": "halved lengthwise",
+        "other": ",",
+        "name": "bananas",
+        "input": "2 bananas, halved lengthwise",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>pineapple</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>cored , and cut into chunks</span>",
+        "comment": "peeled cored, and cut into chunks",
+        "other": ", ,",
+        "name": "pineapple",
+        "input": "1 pineapple, peeled, cored, and cut into chunks",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Fresh</span><span class='name'>mint leaves</span><span class='other'>,</span><span class='comment'>for garnish</span>",
+        "comment": "Fresh for garnish",
+        "input": "Fresh mint leaves, for garnish",
+        "name": "mint leaves",
+        "other": ","
+    }
+]

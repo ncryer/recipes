@@ -1,0 +1,51 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>lb fris\u00e9e</span><span class='other'>(</span><span class='comment'>French curly endive</span><span class='other'>) or</span><span class='comment'>chicory</span><span class='other'>, white and pale</span><span class='comment'>green ribs and leaves cut into bite-size pieces ( 6 cups</span><span class='other'>)</span>",
+        "comment": "French curly endive chicory green ribs and leaves cut into bite-size pieces (6 cups",
+        "other": "() or, white and pale)",
+        "name": "lb fris\u00e9e",
+        "input": "1/2 lb fris\u00e9e (French curly endive) or chicory, white and pale green ribs and leaves cut into bite-size pieces (6 cups)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>lb escarole</span><span class='other'>,</span><span class='comment'>white and pale green ribs and leaves cut into bite-size pieces ( 4 cups )</span>",
+        "comment": "white and pale green ribs and leaves cut into bite-size pieces (4 cups)",
+        "other": ",",
+        "name": "lb escarole",
+        "input": "1 lb escarole, white and pale green ribs and leaves cut into bite-size pieces (4 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>lb red</span><span class='other'>or</span><span class='comment'>green Belgian</span><span class='name'>endive</span><span class='other'>,</span><span class='comment'>trimmed and cut crosswise into 1/2-inch-thick slices ( 4 cups )</span>",
+        "comment": "lb red green Belgian trimmed and cut crosswise into 1/2-inch-thick slices (4 cups)",
+        "other": "or ,",
+        "name": "endive",
+        "input": "1 lb red or green Belgian endive, trimmed and cut crosswise into 1/2-inch-thick slices (4 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span><span class='comment'>, or to taste</span>",
+        "comment": "kosher, or to taste",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "3/4 teaspoon kosher salt, or to taste",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span><span class='comment'>, or to taste</span>",
+        "comment": "extra-virgin, or to taste",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil, or to taste",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>red-wine vinegar</span><span class='other'>,</span><span class='comment'>or to taste</span>",
+        "comment": "or to taste",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "red-wine vinegar",
+        "input": "1 tablespoon red-wine vinegar, or to taste",
+        "qty": "1"
+    }
+]

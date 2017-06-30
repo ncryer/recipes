@@ -1,0 +1,43 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium</span><span class='name'>Gala</span><span class='comment'>or Fuji</span><span class='name'>apples</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>and finely diced</span>",
+        "comment": "medium or Fuji peeled cored and finely diced",
+        "other": ",, ,",
+        "name": "Gala apples",
+        "input": "3 medium Gala or Fuji apples, peeled, cored, and finely diced",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>walnut halves , lightly toasted</span><span class='other'>,</span><span class='comment'>cooled</span><span class='other'>,</span><span class='comment'>and coarsely chopped</span>",
+        "comment": "cooled and coarsely chopped",
+        "other": ", ,",
+        "unit": "cup",
+        "name": "walnut halves, lightly toasted",
+        "input": "1 1/2 cups walnut halves, lightly toasted, cooled, and coarsely chopped",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sweet red wine</span><span class='comment'>such as Manischewitz Extra Heavy Malaga</span>",
+        "comment": "such as Manischewitz Extra Heavy Malaga",
+        "unit": "cup",
+        "name": "sweet red wine",
+        "input": "1/2 cup sweet red wine such as Manischewitz Extra Heavy Malaga",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>ground</span><span class='name'>cinnamon</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cinnamon",
+        "input": "1 1/2 teaspoons ground cinnamon",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>packed</span><span class='name'>brown sugar</span>",
+        "comment": "packed",
+        "unit": "tablespoon",
+        "name": "brown sugar",
+        "input": "1 tablespoon packed brown sugar",
+        "qty": "1"
+    }
+]

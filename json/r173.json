@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>organic raw almonds</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup organic raw almonds",
+        "name": "organic raw almonds"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>agave nectar</span><span class='comment'>or honey</span>",
+        "comment": "or honey",
+        "unit": "tablespoon",
+        "name": "agave nectar",
+        "input": "2 tablespoons agave nectar or honey",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>vanilla extract</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon vanilla extract",
+        "name": "vanilla extract"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>filtered water</span><span class='other'>,</span><span class='comment'>plus extra for soaking</span>",
+        "comment": "plus extra for soaking",
+        "other": ",",
+        "unit": "cup",
+        "name": "filtered water",
+        "input": "4 cups filtered water, plus extra for soaking",
+        "qty": "4"
+    }
+]

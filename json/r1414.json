@@ -1,0 +1,46 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>lb</span><span class='name'>pumpkin</span><span class='comment'>or butternut squash</span><span class='other'>,</span><span class='comment'>halved lengthwise</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>and cut into 1/2-inch cubes</span>",
+        "comment": "lb or butternut squash halved lengthwise peeled seeded and cut into 1/2-inch cubes",
+        "other": ",, , ,",
+        "name": "pumpkin",
+        "input": "2 lb pumpkin or butternut squash, halved lengthwise, peeled, seeded, and cut into 1/2-inch cubes",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>dry white wine</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup dry white wine",
+        "name": "dry white wine"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>golden raisins</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup golden raisins",
+        "name": "golden raisins"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>dry</span><span class='name'>mustard</span><span class='comment'>such as Colman's</span>",
+        "comment": "dry such as Colman's",
+        "unit": "tablespoon",
+        "name": "mustard",
+        "input": "2 tablespoons dry mustard such as Colman's",
+        "qty": "2"
+    }
+]

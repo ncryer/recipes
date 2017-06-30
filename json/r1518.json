@@ -1,0 +1,24 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>frozen</span><span class='name'>unsweetened strawberries</span>",
+        "comment": "frozen",
+        "unit": "cup",
+        "name": "unsweetened strawberries",
+        "input": "1 cup frozen unsweetened strawberries",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>lemon juice</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon lemon juice",
+        "name": "lemon juice"
+    }
+]

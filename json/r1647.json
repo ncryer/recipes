@@ -1,0 +1,64 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>quart</span><span class='name'>( 4 cups ) fresh sour cherries</span><span class='other'>, pitted and</span><span class='comment'>halved</span><span class='other'>,</span><span class='comment'>with juice ( or substitute 1 quart frozen pitted sour cherries</span><span class='other'>,</span><span class='comment'>whole and unthawed</span><span class='other'>)</span>",
+        "comment": "halved with juice (or substitute 1 quart frozen pitted sour cherries whole and unthawed",
+        "other": ", pitted and, ,)",
+        "unit": "quart",
+        "name": "(4 cups) fresh sour cherries",
+        "input": "1 quart (4 cups) fresh sour cherries, pitted and halved, with juice (or substitute 1 quart frozen pitted sour cherries, whole and unthawed)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>nectarines</span><span class='other'>,</span><span class='comment'>unpeeled</span><span class='other'>,</span><span class='comment'>cut into 1/2-inch cubes</span>",
+        "comment": "unpeeled cut into 1/2-inch cubes",
+        "other": ", ,",
+        "name": "nectarines",
+        "input": "2 nectarines, unpeeled, cut into 1/2-inch cubes",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>freshly squeezed</span><span class='name'>lime juice</span>",
+        "comment": "freshly squeezed",
+        "unit": "cup",
+        "name": "lime juice",
+        "input": "1/4 cup freshly squeezed lime juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>medium red</span><span class='name'>onion</span><span class='comment'>, finely diced ( about 1/2 cup )</span>",
+        "qty": "1/2",
+        "comment": "medium red, finely diced (about 1/2 cup)",
+        "input": "1/2 medium red onion, finely diced (about 1/2 cup)",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>fresh</span><span class='name'>jalape\u00f1o peppers</span><span class='other'>,</span><span class='comment'>seeded and minced</span>",
+        "comment": "fresh seeded and minced",
+        "other": ",",
+        "name": "jalape\u00f1o peppers",
+        "input": "2 fresh jalape\u00f1o peppers, seeded and minced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "2 tablespoons chopped fresh cilantro",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    }
+]

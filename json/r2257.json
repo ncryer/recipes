@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>basil</span><span class='comment'>or 2 teaspoons dried</span>",
+        "comment": "chopped fresh or 2 teaspoons dried",
+        "unit": "tablespoon",
+        "name": "basil",
+        "input": "3 tablespoons chopped fresh basil or 2 teaspoons dried",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>white wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons white wine vinegar",
+        "name": "white wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>plum tomatoes</span><span class='comment'>, cut into wedges</span>",
+        "comment": ", cut into wedges",
+        "unit": "pound",
+        "name": "plum tomatoes",
+        "input": "1 pound plum tomatoes, cut into wedges",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>14-ounce can</span><span class='name'>hearts of palm</span><span class='other'>,</span><span class='comment'>drained</span><span class='other'>,</span><span class='comment'>cut crosswise into 1-inch pieces</span>",
+        "comment": "14-ounce can drained cut crosswise into 1-inch pieces",
+        "other": ", ,",
+        "name": "hearts of palm",
+        "input": "1 14-ounce can hearts of palm, drained, cut crosswise into 1-inch pieces",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, thinly sliced</span>",
+        "qty": "1",
+        "comment": "medium, thinly sliced",
+        "input": "1 medium onion, thinly sliced",
+        "name": "onion"
+    }
+]

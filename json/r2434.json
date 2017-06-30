@@ -1,0 +1,32 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='comment'>roasted and peeled</span><span class='name'>green chilies</span><span class='comment'>( anaheim</span><span class='other'>,</span><span class='comment'>poblano</span><span class='other'>,</span><span class='comment'>etc. )</span>",
+        "comment": "roasted and peeled (anaheim poblano etc.)",
+        "other": ", ,",
+        "unit": "pound",
+        "name": "green chilies",
+        "input": "1 1/2 pounds roasted and peeled green chilies (anaheim, poblano, etc.)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='name'>salt</span><span class='comment'>to taste</span>",
+        "comment": "to taste",
+        "input": "salt to taste",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>clove</span><span class='name'>garlic</span>",
+        "unit": "clove",
+        "qty": "1",
+        "input": "1 clove garlic",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>quart</span><span class='name'>water</span><span class='comment'>or enough to barely cover chopped</span><span class='name'>peppers</span>",
+        "comment": "or enough to barely cover chopped",
+        "unit": "quart",
+        "name": "water peppers",
+        "input": "1/2 quart water or enough to barely cover chopped peppers",
+        "qty": "1/2"
+    }
+]

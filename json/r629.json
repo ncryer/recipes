@@ -1,0 +1,62 @@
+[
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>tablespoons</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "5 tablespoons kosher salt",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>cayenne pepper</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons cayenne pepper",
+        "name": "cayenne pepper"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>garlic powder</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons garlic powder",
+        "name": "garlic powder"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sweet paprika</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons sweet paprika",
+        "name": "sweet paprika"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>dried</span><span class='name'>oregano</span>",
+        "comment": "dried",
+        "unit": "tablespoon",
+        "name": "oregano",
+        "input": "1 tablespoon dried oregano",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>dried</span><span class='name'>thyme</span>",
+        "comment": "dried",
+        "unit": "tablespoon",
+        "name": "thyme",
+        "input": "1 tablespoon dried thyme",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "tablespoon",
+        "name": "black pepper",
+        "input": "1 tablespoon freshly ground black pepper",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>onion powder</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon onion powder",
+        "name": "onion powder"
+    }
+]

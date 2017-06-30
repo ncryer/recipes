@@ -1,0 +1,59 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='other'>medium</span><span class='unit'>head</span><span class='name'>red cabbage</span><span class='comment'>( about 2 1/2 pounds )</span>",
+        "comment": "(about 2 1/2 pounds)",
+        "other": "medium",
+        "unit": "head",
+        "name": "red cabbage",
+        "input": "1 medium head red cabbage (about 2 1/2 pounds)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>dry red wine</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup dry red wine",
+        "name": "dry red wine"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>red-wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup red-wine vinegar",
+        "name": "red-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>bay leaf</span>",
+        "qty": "1",
+        "input": "1 bay leaf",
+        "name": "bay leaf"
+    },
+    {
+        "display": "<span class='other'>a 4-inch</span><span class='name'>cinnamon</span><span class='unit'>stick</span>",
+        "unit": "stick",
+        "other": "a 4-inch",
+        "input": "a 4-inch cinnamon stick",
+        "name": "cinnamon"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>whole</span><span class='name'>cloves</span>",
+        "qty": "2",
+        "comment": "whole",
+        "input": "2 whole cloves",
+        "name": "cloves"
+    }
+]

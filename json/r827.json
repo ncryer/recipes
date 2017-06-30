@@ -1,0 +1,61 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>lingonberry preserves</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "lingonberry preserves",
+        "input": "3 tablespoons lingonberry preserves, divided",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>Dijon mustard</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>red wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>canola oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup canola oil",
+        "name": "canola oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large unpeeled</span><span class='name'>Granny Smith apple</span><span class='other'>,</span><span class='comment'>coarsely grated</span><span class='other'>, divided</span>",
+        "comment": "large unpeeled coarsely grated",
+        "other": ",, divided",
+        "name": "Granny Smith apple",
+        "input": "1 large unpeeled Granny Smith apple, coarsely grated, divided",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>walnut halves</span><span class='other'>,</span>",
+        "other": ",",
+        "unit": "cup",
+        "name": "walnut halves",
+        "input": "1/2 cup walnut halves ,",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>, divided</span>",
+        "input": ", divided",
+        "other": ", divided"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>thinly sliced red</span><span class='name'>cabbage</span>",
+        "comment": "thinly sliced red",
+        "unit": "cup",
+        "name": "cabbage",
+        "input": "4 cups thinly sliced red cabbage",
+        "qty": "4"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>frozen</span><span class='name'>blackberries</span><span class='comment'>, thawed</span>",
+        "comment": "frozen, thawed",
+        "unit": "cup",
+        "name": "blackberries",
+        "input": "2 cups frozen blackberries, thawed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>black raspberry preserves</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup black raspberry preserves",
+        "name": "black raspberry preserves"
+    }
+]

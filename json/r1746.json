@@ -1,0 +1,39 @@
+[
+    {
+        "display": "<span class='name'>Nonstick vegetable oil spray</span>",
+        "input": "Nonstick vegetable oil spray",
+        "name": "Nonstick vegetable oil spray"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large fresh</span><span class='name'>fennel bulbs</span><span class='comment'>, trimmed</span>",
+        "qty": "2",
+        "comment": "large fresh, trimmed",
+        "input": "2 large fresh fennel bulbs, trimmed",
+        "name": "fennel bulbs"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>pound</span><span class='name'>shallots</span><span class='other'>,</span><span class='comment'>peeled , halved through root end</span>",
+        "comment": "peeled, halved through root end",
+        "other": ",",
+        "unit": "pound",
+        "name": "shallots",
+        "input": "3/4 pound shallots, peeled, halved through root end",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": ", divided",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "5 tablespoons olive oil, divided",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>haricots verts or small slender green</span><span class='name'>beans</span><span class='comment'>, trimmed</span>",
+        "comment": "haricots verts or small slender green, trimmed",
+        "unit": "pound",
+        "name": "beans",
+        "input": "1 pound haricots verts or small slender green beans, trimmed",
+        "qty": "1"
+    }
+]

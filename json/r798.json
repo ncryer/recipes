@@ -1,0 +1,30 @@
+[
+    {
+        "display": "<span class='qty'>2 1/4</span><span class='other'>to</span><span class='range_end'>2 1/2</span><span class='unit'>pounds</span><span class='comment'>medium Yukon Gold</span><span class='name'>potatoes</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>quartered</span>",
+        "comment": "medium Yukon Gold peeled quartered",
+        "other": "to, ,",
+        "unit": "pound",
+        "qty": "2 1/4",
+        "range_end": "2 1/2",
+        "input": "2 1/4 to 2 1/2 pounds medium Yukon Gold potatoes, peeled, quartered",
+        "name": "potatoes"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='other'>to</span><span class='range_end'>4</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "other": "to",
+        "unit": "tablespoon",
+        "qty": "3",
+        "range_end": "4",
+        "input": "3 to 4 tablespoons extra-virgin olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>prepared</span><span class='name'>white horseradish</span>",
+        "comment": "prepared",
+        "unit": "tablespoon",
+        "name": "white horseradish",
+        "input": "2 tablespoons prepared white horseradish",
+        "qty": "2"
+    }
+]

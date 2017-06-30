@@ -1,0 +1,17 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>organic</span><span class='name'>lemon</span><span class='other'>,</span><span class='comment'>washed well</span>",
+        "comment": "organic washed well",
+        "other": ",",
+        "name": "lemon",
+        "input": "1 organic lemon, washed well",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "2 1/2",
+        "input": "2 1/2 cups sugar",
+        "name": "sugar"
+    }
+]

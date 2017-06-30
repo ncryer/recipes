@@ -1,0 +1,178 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>coriander seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon coriander seeds",
+        "name": "coriander seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>cumin seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon cumin seeds",
+        "name": "cumin seeds"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>caraway seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon caraway seeds",
+        "name": "caraway seeds"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>dried crushed</span><span class='name'>red pepper</span>",
+        "comment": "dried crushed",
+        "unit": "teaspoon",
+        "name": "red pepper",
+        "input": "1/2 teaspoon dried crushed red pepper",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>turmeric</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon turmeric",
+        "name": "turmeric"
+    },
+    {
+        "display": "<span class='qty'>4 1/2</span><span class='unit'>teaspoons</span><span class='comment'>coarse kosher</span><span class='name'>salt</span><span class='comment'>, divided</span>",
+        "comment": "coarse kosher, divided",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "4 1/2 teaspoons coarse kosher salt, divided",
+        "qty": "4 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/2 cup fresh lemon juice",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>onion</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1 1/2 cups chopped onion",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 garlic cloves, minced",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>tomato paste</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons tomato paste",
+        "name": "tomato paste"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='comment'>1/2-inch cubes peeled</span><span class='name'>carrots</span>",
+        "comment": "1/2-inch cubes peeled",
+        "unit": "cup",
+        "name": "carrots",
+        "input": "1 1/4 cups 1/2-inch cubes peeled carrots",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>celery</span><span class='unit'>stalk</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "unit": "stalk",
+        "name": "celery",
+        "input": "1 celery stalk, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "4",
+        "input": "4 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>pounds</span><span class='comment'>red-skinned sweet</span><span class='name'>potatoes</span>",
+        "comment": "red-skinned sweet",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "1 1/4 pounds red-skinned sweet potatoes",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='comment'>( yams ) , peeled , cut into 1-inch cubes</span>",
+        "comment": "(yams), peeled, cut into 1-inch cubes",
+        "input": "(yams), peeled, cut into 1-inch cubes"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>turnips</span><span class='other'>(</span><span class='comment'>about 2 medium ) , peeled</span><span class='other'>,</span><span class='comment'>cut into 3/4-inch wedges</span>",
+        "comment": "about 2 medium), peeled cut into 3/4-inch wedges",
+        "other": "(,",
+        "unit": "pound",
+        "name": "turnips",
+        "input": "1 pound turnips (about 2 medium), peeled, cut into 3/4-inch wedges",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>brine-cured</span><span class='name'>green olives</span><span class='comment'>, pitted</span><span class='other'>,</span><span class='comment'>coarsely chopped</span>",
+        "comment": "brine-cured, pitted coarsely chopped",
+        "other": ",",
+        "unit": "cup",
+        "name": "green olives",
+        "input": "3/4 cup brine-cured green olives, pitted, coarsely chopped",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sun-dried tomatoes</span><span class='comment'>( about 1 ounce; not oil-packed ) , thinly sliced</span>",
+        "comment": "(about 1 ounce; not oil-packed), thinly sliced",
+        "unit": "cup",
+        "name": "sun-dried tomatoes",
+        "input": "1/4 cup sun-dried tomatoes (about 1 ounce; not oil-packed), thinly sliced",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh Italian</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh Italian",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/4 cup chopped fresh Italian parsley",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "2 tablespoons chopped fresh cilantro",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>mint</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "mint",
+        "input": "1 teaspoon dried mint",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>1 10-ounce box plain couscous ( cooked according to package directions )</span>",
+        "comment": "1 10-ounce box plain couscous (cooked according to package directions)",
+        "input": "1 10-ounce box plain couscous (cooked according to package directions)"
+    }
+]

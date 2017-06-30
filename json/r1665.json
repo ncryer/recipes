@@ -1,0 +1,32 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>hot</span><span class='name'>water</span>",
+        "comment": "hot",
+        "unit": "cup",
+        "name": "water",
+        "input": "1 cup hot water",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>sliced hulled strawberries ( 1 pound whole berries ) plus additional berries for garnish</span>",
+        "unit": "cup",
+        "comment": "sliced hulled strawberries (1 pound whole berries) plus additional berries for garnish",
+        "input": "3 cups sliced hulled strawberries (1 pound whole berries) plus additional berries for garnish",
+        "qty": "3"
+    }
+]

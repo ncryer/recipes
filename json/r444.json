@@ -1,0 +1,53 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>brussels sprouts</span>",
+        "unit": "pound",
+        "qty": "1",
+        "input": "1 pound brussels sprouts",
+        "name": "brussels sprouts"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>white wine</span><span class='comment'>or champagne vinegar</span>",
+        "comment": "or champagne vinegar",
+        "unit": "tablespoon",
+        "name": "white wine",
+        "input": "1 tablespoon white wine or champagne vinegar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>maple syrup</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon maple syrup",
+        "name": "maple syrup"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>baby spinach</span>",
+        "unit": "cup",
+        "qty": "4",
+        "input": "4 cups baby spinach",
+        "name": "baby spinach"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>generous pinches of sea salt</span>",
+        "qty": "2",
+        "input": "2 generous pinches of sea salt",
+        "name": "generous pinches of sea salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>Marcona</span><span class='name'>almonds</span>",
+        "comment": "Marcona",
+        "unit": "cup",
+        "name": "almonds",
+        "input": "1/2 cup Marcona almonds",
+        "qty": "1/2"
+    }
+]

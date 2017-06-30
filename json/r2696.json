@@ -1,0 +1,55 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='name'>tomatoes</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "name": "tomatoes",
+        "input": "3 tomatoes, chopped",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>cucumber</span><span class='comment'>, peeled and chopped</span>",
+        "qty": "1",
+        "comment": "large, peeled and chopped",
+        "input": "1 large cucumber, peeled and chopped",
+        "name": "cucumber"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "name": "scallions",
+        "input": "4 scallions, thinly sliced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh flat-leaf</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh flat-leaf",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/4 cup chopped fresh flat-leaf parsley",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span><span class='comment'>, or to taste</span>",
+        "comment": "fresh, or to taste",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons fresh lemon juice, or to taste",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='name'>Accompaniments: warm pita bread , olive oil</span><span class='comment'>, and</span>",
+        "comment": ", and",
+        "input": "Accompaniments: warm pita bread, olive oil, and",
+        "name": "Accompaniments: warm pita bread, olive oil"
+    }
+]

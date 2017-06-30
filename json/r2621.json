@@ -1,0 +1,64 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>pounds</span><span class='comment'>medium Yukon Gold</span><span class='name'>potatoes</span><span class='comment'>( each about 3 inches in diameter )</span>",
+        "comment": "medium Yukon Gold (each about 3 inches in diameter)",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "3 pounds medium Yukon Gold potatoes (each about 3 inches in diameter)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>finely chopped fresh</span><span class='name'>chives</span><span class='comment'>or green onion tops</span>",
+        "comment": "finely chopped fresh or green onion tops",
+        "unit": "cup",
+        "name": "chives",
+        "input": "1/2 cup finely chopped fresh chives or green onion tops",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/2 cup chopped fresh parsley",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>drained</span><span class='name'>capers</span>",
+        "comment": "drained",
+        "unit": "tablespoon",
+        "name": "capers",
+        "input": "2 tablespoons drained capers",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>white wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons white wine vinegar",
+        "name": "white wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>caper liquid from jar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon caper liquid from jar",
+        "name": "caper liquid from jar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>coarse-grained</span><span class='name'>Dijon mustard</span>",
+        "comment": "coarse-grained",
+        "unit": "teaspoon",
+        "name": "Dijon mustard",
+        "input": "1 teaspoon coarse-grained Dijon mustard",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/2 cup extra-virgin olive oil",
+        "qty": "1/2"
+    }
+]

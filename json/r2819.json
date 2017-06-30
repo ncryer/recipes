@@ -1,0 +1,24 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>lb red potatoes</span><span class='comment'>, cut into 1/4-inch-thick slices</span>",
+        "qty": "2",
+        "comment": ", cut into 1/4-inch-thick slices",
+        "input": "2 lb red potatoes, cut into 1/4-inch-thick slices",
+        "name": "lb red potatoes"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>rosemary</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "rosemary",
+        "input": "2 tablespoons chopped fresh rosemary",
+        "qty": "2"
+    }
+]

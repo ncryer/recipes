@@ -1,0 +1,130 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>lb</span><span class='name'>eggplant</span><span class='comment'>( preferably small but not Asian )</span>",
+        "qty": "2",
+        "comment": "lb (preferably small but not Asian)",
+        "input": "2 lb eggplant (preferably small but not Asian)",
+        "name": "eggplant"
+    },
+    {
+        "other": "2 tablespoons",
+        "display": "<span class='other'>2 tablespoons</span><span class='comment'>plus 1 teaspoon coarse sea</span><span class='name'>salt</span><span class='comment'>( preferably Sicilian )</span>",
+        "comment": "plus 1 teaspoon coarse sea (preferably Sicilian)",
+        "input": "2 tablespoons plus 1 teaspoon coarse sea salt (preferably Sicilian)",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2 1/4</span><span class='other'>to</span><span class='range_end'>2 1/2</span><span class='unit'>cups</span><span class='name'>olive oil</span>",
+        "other": "to",
+        "unit": "cup",
+        "name": "olive oil",
+        "range_end": "2 1/2",
+        "input": "2 1/4 to 2 1/2 cups olive oil",
+        "qty": "2 1/4"
+    },
+    {
+        "display": "<span class='qty'>11</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>(</span><span class='comment'>from 2 heads ) , chopped</span>",
+        "comment": "from 2 heads), chopped",
+        "other": "(",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "11 garlic cloves (from 2 heads), chopped",
+        "qty": "11"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>tomato paste</span><span class='other'>(</span><span class='comment'>preferably from a tube )</span>",
+        "comment": "preferably from a tube)",
+        "other": "(",
+        "unit": "tablespoon",
+        "name": "tomato paste",
+        "input": "2 tablespoons tomato paste (preferably from a tube)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 28-oz ) can whole Italian</span><span class='name'>tomatoes</span><span class='comment'>, finely chopped and juice reserved</span>",
+        "qty": "1",
+        "comment": "(28-oz) can whole Italian, finely chopped and juice reserved",
+        "input": "1 (28-oz) can whole Italian tomatoes, finely chopped and juice reserved",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='name'>celery ribs</span><span class='other'>,</span><span class='comment'>cut into 1/2-inch pieces</span>",
+        "comment": "cut into 1/2-inch pieces",
+        "other": ",",
+        "name": "celery ribs",
+        "input": "5 celery ribs, cut into 1/2-inch pieces",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>onion</span><span class='comment'>, chopped</span>",
+        "qty": "1",
+        "comment": "large, chopped",
+        "input": "1 large onion, chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large red or yellow</span><span class='name'>bell pepper</span><span class='comment'>, cut into 1/2-inch pieces</span>",
+        "qty": "1",
+        "comment": "large red or yellow, cut into 1/2-inch pieces",
+        "input": "1 large red or yellow bell pepper, cut into 1/2-inch pieces",
+        "name": "bell pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>large green Sicilian</span><span class='name'>olives</span><span class='comment'>( 6 oz ) , pitted and cut into 1/4-inch pieces</span>",
+        "comment": "large green Sicilian (6 oz), pitted and cut into 1/4-inch pieces",
+        "unit": "cup",
+        "name": "olives",
+        "input": "1 cup large green Sicilian olives (6 oz), pitted and cut into 1/4-inch pieces",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>drained bottled</span><span class='name'>capers</span><span class='comment'>, rinsed</span>",
+        "comment": "drained bottled, rinsed",
+        "unit": "cup",
+        "name": "capers",
+        "input": "1/4 cup drained bottled capers, rinsed",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>red-wine vinegar</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup red-wine vinegar",
+        "name": "red-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh flat-leaf</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh flat-leaf",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/4 cup chopped fresh flat-leaf parsley",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>basil</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "basil",
+        "input": "1/4 cup chopped fresh basil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='name'>Special equipment: a deep-fat thermometer</span>",
+        "input": "Special equipment: a deep-fat thermometer",
+        "name": "Special equipment: a deep-fat thermometer"
+    }
+]

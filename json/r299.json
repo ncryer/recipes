@@ -1,0 +1,88 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>large cucumbers</span><span class='comment'>, peeled ( about 1 1/2 pounds )</span>",
+        "qty": "2",
+        "comment": ", peeled (about 1 1/2 pounds)",
+        "input": "2 large cucumbers, peeled (about 1 1/2 pounds)",
+        "name": "large cucumbers"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>daikon radish</span><span class='comment'>, peeled</span>",
+        "qty": "1",
+        "comment": "large, peeled",
+        "input": "1 large daikon radish, peeled",
+        "name": "daikon radish"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>scallions</span>",
+        "qty": "4",
+        "input": "4 scallions",
+        "name": "scallions"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='name'>sea beans</span><span class='other'>,</span><span class='comment'>ends trimmed</span>",
+        "comment": "ends trimmed",
+        "other": ",",
+        "unit": "pound",
+        "name": "sea beans",
+        "input": "1/2 pound sea beans, ends trimmed",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>rice wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons rice wine vinegar",
+        "name": "rice wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>canola oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons canola oil",
+        "name": "canola oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>toasted</span><span class='name'>sesame oil</span>",
+        "comment": "toasted",
+        "unit": "tablespoon",
+        "name": "sesame oil",
+        "input": "2 tablespoons toasted sesame oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>tamari</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons tamari",
+        "name": "tamari"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>black sesame seeds</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons black sesame seeds",
+        "name": "black sesame seeds"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>white sesame seeds</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons white sesame seeds",
+        "name": "white sesame seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>fresh</span><span class='name'>shiso leaves</span><span class='comment'>, finely chopped</span>",
+        "qty": "2",
+        "comment": "fresh, finely chopped",
+        "input": "2 fresh shiso leaves, finely chopped",
+        "name": "shiso leaves"
+    }
+]

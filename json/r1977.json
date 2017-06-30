@@ -1,0 +1,42 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>long-grain</span><span class='name'>brown rice</span>",
+        "comment": "long-grain",
+        "unit": "cup",
+        "name": "brown rice",
+        "input": "3/4 cup long-grain brown rice",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>green beans</span><span class='other'>,</span><span class='comment'>cut diagonally into 1-inch pieces</span>",
+        "comment": "cut diagonally into 1-inch pieces",
+        "other": ",",
+        "unit": "cup",
+        "name": "green beans",
+        "input": "1 cup green beans, cut diagonally into 1-inch pieces",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>chopped fresh</span><span class='name'>tarragon leaves</span>",
+        "comment": "chopped fresh",
+        "unit": "teaspoon",
+        "name": "tarragon leaves",
+        "input": "2 teaspoons chopped fresh tarragon leaves",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    }
+]

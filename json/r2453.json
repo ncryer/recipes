@@ -1,0 +1,75 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>dried red</span><span class='name'>kidney beans</span><span class='comment'>( 6 1/2 ounces )</span>",
+        "comment": "dried red (6 1/2 ounces)",
+        "unit": "cup",
+        "name": "kidney beans",
+        "input": "1 cup dried red kidney beans (6 1/2 ounces)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "4",
+        "input": "4 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>coconut</span>",
+        "qty": "1",
+        "input": "1 coconut",
+        "name": "coconut"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>boiling-hot water</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups boiling-hot water",
+        "name": "boiling-hot water"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>teaspoons</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "5 teaspoons kosher salt",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>trimmed and left whole</span>",
+        "comment": "trimmed and left whole",
+        "other": ",",
+        "name": "scallions",
+        "input": "2 scallions, trimmed and left whole",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>fresh</span><span class='name'>thyme</span><span class='comment'>sprigs</span>",
+        "qty": "2",
+        "comment": "fresh sprigs",
+        "input": "2 fresh thyme sprigs",
+        "name": "thyme"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>whole green</span><span class='name'>Scotch bonnet</span><span class='comment'>or habanero</span><span class='name'>chile</span>",
+        "qty": "1",
+        "comment": "whole green or habanero",
+        "input": "1 whole green Scotch bonnet or habanero chile",
+        "name": "Scotch bonnet chile"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "5",
+        "input": "5 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>long-grain</span><span class='name'>rice</span><span class='comment'>( not converted )</span>",
+        "comment": "long-grain (not converted)",
+        "unit": "cup",
+        "name": "rice",
+        "input": "4 cups long-grain rice (not converted)",
+        "qty": "4"
+    }
+]

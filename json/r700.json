@@ -1,0 +1,77 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>grapeseed oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup grapeseed oil",
+        "name": "grapeseed oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>soy sauce</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>yuzu</span><span class='name'>juice</span>",
+        "comment": "yuzu",
+        "unit": "tablespoon",
+        "name": "juice",
+        "input": "3 tablespoons yuzu juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 large garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt and</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt and freshly ground pepper",
+        "name": "salt and pepper"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>assorted wild</span><span class='name'>mushrooms</span><span class='comment'>( such as wood ear</span><span class='other'>,</span><span class='comment'>maitake</span><span class='other'>,</span><span class='comment'>enoki</span><span class='other'>,</span><span class='comment'>chanterelle</span><span class='other'>,</span><span class='comment'>oyster</span><span class='other'>, and</span><span class='comment'>stemmed shiitake ) , thickly sliced</span>",
+        "comment": "assorted wild (such as wood ear maitake enoki chanterelle oyster stemmed shiitake), thickly sliced",
+        "other": ",, ,, , and",
+        "unit": "pound",
+        "name": "mushrooms",
+        "input": "2 pounds assorted wild mushrooms (such as wood ear, maitake, enoki, chanterelle, oyster, and stemmed shiitake), thickly sliced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sake</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sake",
+        "name": "sake"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>5-ounce package</span><span class='name'>baby greens</span>",
+        "qty": "1",
+        "comment": "5-ounce package",
+        "input": "1 5-ounce package baby greens",
+        "name": "baby greens"
+    },
+    {
+        "display": "<span class='comment'>Chopped</span><span class='name'>fresh chives</span><span class='other'>(</span><span class='comment'>for garnish</span><span class='other'>)</span>",
+        "comment": "Chopped for garnish",
+        "input": "Chopped fresh chives (for garnish)",
+        "name": "fresh chives",
+        "other": "()"
+    }
+]

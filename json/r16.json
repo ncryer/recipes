@@ -1,0 +1,43 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>jicama</span><span class='comment'>, peeled , cut into 1/2-inch-thick sticks</span>",
+        "qty": "1",
+        "comment": "large, peeled, cut into 1/2-inch-thick sticks",
+        "input": "1 large jicama, peeled, cut into 1/2-inch-thick sticks",
+        "name": "jicama"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>Persian cucumbers , quartered lengthwise</span>",
+        "qty": "4",
+        "input": "4 Persian cucumbers, quartered lengthwise",
+        "name": "Persian cucumbers, quartered lengthwise"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>14-ounce ) can</span><span class='name'>hearts of palm , drained</span><span class='other'>,</span><span class='comment'>halved lengthwise if large</span>",
+        "comment": "14-ounce) can halved lengthwise if large",
+        "other": "(,",
+        "name": "hearts of palm, drained",
+        "input": "1 (14-ounce) can hearts of palm, drained, halved lengthwise if large",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>lime</span><span class='other'>,</span><span class='comment'>halved crosswise , seeds removed</span>",
+        "comment": "halved crosswise, seeds removed",
+        "other": ",",
+        "name": "lime",
+        "input": "1 lime, halved crosswise, seeds removed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>Taj\u00edn Cl\u00e1sico seasoning or other spice mix</span>",
+        "unit": "tablespoon",
+        "comment": "Taj\u00edn Cl\u00e1sico seasoning or other spice mix",
+        "input": "1 tablespoon Taj\u00edn Cl\u00e1sico seasoning or other spice mix",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Flaky sea salt</span>",
+        "input": "Flaky sea salt",
+        "name": "Flaky sea salt"
+    }
+]

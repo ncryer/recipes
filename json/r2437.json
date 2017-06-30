@@ -1,0 +1,56 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>1-pound loaves frozen</span><span class='name'>white bread dough</span><span class='other'>,</span><span class='comment'>thawed</span><span class='other'>,</span><span class='comment'>room temperature</span>",
+        "comment": "1-pound loaves frozen thawed room temperature",
+        "other": ", ,",
+        "name": "white bread dough",
+        "input": "2 1-pound loaves frozen white bread dough, thawed, room temperature",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>9</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "9",
+        "input": "9 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>black pepper</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/2 teaspoon ground black pepper",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>onions</span><span class='comment'>, chopped</span>",
+        "qty": "2",
+        "comment": "medium, chopped",
+        "input": "2 medium onions, chopped",
+        "name": "onions"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "5 large garlic cloves, minced",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>red bell peppers</span><span class='comment'>, chopped</span>",
+        "qty": "2",
+        "comment": "large, chopped",
+        "input": "2 large red bell peppers, chopped",
+        "name": "red bell peppers"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='unit'>bunch</span><span class='comment'>green Swiss</span><span class='name'>chard</span><span class='comment'>, ribs removed and thinly sliced , leaves thinly sliced</span>",
+        "comment": "large green Swiss, ribs removed and thinly sliced, leaves thinly sliced",
+        "unit": "bunch",
+        "name": "chard",
+        "input": "1 large bunch green Swiss chard, ribs removed and thinly sliced, leaves thinly sliced",
+        "qty": "1"
+    }
+]

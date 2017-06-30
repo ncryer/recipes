@@ -1,0 +1,23 @@
+[
+    {
+        "display": "<span class='comment'>About</span><span class='qty'>4</span><span class='unit'>cups</span><span class='name'>vegetable oil</span>",
+        "comment": "About",
+        "unit": "cup",
+        "name": "vegetable oil",
+        "input": "About 4 cups vegetable oil",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>green plantains</span>",
+        "unit": "pound",
+        "qty": "2",
+        "input": "2 pounds green plantains",
+        "name": "green plantains"
+    },
+    {
+        "display": "<span class='comment'>Equipment: a</span><span class='name'>deep-fat</span><span class='comment'>thermometer; an adjustable-blade slicer or Y-shaped vegetable peeler</span>",
+        "comment": "Equipment: a thermometer; an adjustable-blade slicer or Y-shaped vegetable peeler",
+        "input": "Equipment: a deep-fat thermometer; an adjustable-blade slicer or Y-shaped vegetable peeler",
+        "name": "deep-fat"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>bulgur</span><span class='comment'>( not quick-cooking</span><span class='other'>)</span>",
+        "comment": "(not quick-cooking",
+        "other": ")",
+        "unit": "cup",
+        "name": "bulgur",
+        "input": "1 cup bulgur (not quick-cooking)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='other'>medium</span><span class='unit'>head</span><span class='name'>green cabbage</span><span class='other'>,</span><span class='comment'>cut into 1\"-thick wedges</span><span class='other'>,</span><span class='comment'>then very thinly sliced crosswise ( about 4 cups )</span>",
+        "comment": "cut into 1\"-thick wedges then very thinly sliced crosswise (about 4 cups)",
+        "other": "medium, ,",
+        "unit": "head",
+        "name": "green cabbage",
+        "input": "1/2 medium head green cabbage, cut into 1\"-thick wedges, then very thinly sliced crosswise (about 4 cups)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small sweet</span><span class='name'>onion</span><span class='comment'>( such as Vidalia ) , finely chopped</span>",
+        "qty": "1",
+        "comment": "small sweet (such as Vidalia), finely chopped",
+        "input": "1 small sweet onion (such as Vidalia), finely chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>assorted small</span><span class='name'>tomatoes</span><span class='comment'>, halved , quartered if large</span>",
+        "comment": "assorted small, halved, quartered if large",
+        "unit": "cup",
+        "name": "tomatoes",
+        "input": "4 cups assorted small tomatoes, halved, quartered if large",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>coarsely chopped fresh</span><span class='name'>mint</span>",
+        "comment": "coarsely chopped fresh",
+        "unit": "cup",
+        "name": "mint",
+        "input": "3 cups coarsely chopped fresh mint",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/4 cup fresh lemon juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>Aleppo pepper</span><span class='comment'>or 1/2 teaspoon crushed red pepper flakes</span>",
+        "comment": "or 1/2 teaspoon crushed red pepper flakes",
+        "unit": "teaspoon",
+        "name": "Aleppo pepper",
+        "input": "1 teaspoon Aleppo pepper or 1/2 teaspoon crushed red pepper flakes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    }
+]

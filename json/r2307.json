@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>large</span><span class='name'>red bell peppers</span>",
+        "qty": "6",
+        "comment": "large",
+        "input": "6 large red bell peppers",
+        "name": "red bell peppers"
+    },
+    {
+        "display": "<span class='qty'>40</span><span class='name'>2-inch-diameter 1/2-inch-thick diagonal baguette slices</span>",
+        "qty": "40",
+        "input": "40 2-inch-diameter 1/2-inch-thick diagonal baguette slices",
+        "name": "2-inch-diameter 1/2-inch-thick diagonal baguette slices"
+    },
+    {
+        "display": "<span class='qty'>3 1/2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3 1/2",
+        "input": "3 1/2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>4 1/2</span><span class='unit'>tablespoons</span><span class='comment'>sliced fresh</span><span class='name'>basil</span>",
+        "comment": "sliced fresh",
+        "unit": "tablespoon",
+        "name": "basil",
+        "input": "4 1/2 tablespoons sliced fresh basil",
+        "qty": "4 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 large garlic cloves, minced",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "halved",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 garlic cloves, halved",
+        "qty": "3"
+    }
+]

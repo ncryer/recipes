@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='name'>Olive oil</span><span class='other'>(</span><span class='comment'>for pan</span><span class='other'>)</span>",
+        "comment": "for pan",
+        "input": "Olive oil (for pan)",
+        "name": "Olive oil",
+        "other": "()"
+    },
+    {
+        "display": "<span class='qty'>5 1/2</span><span class='unit'>pounds</span><span class='comment'>sweet</span><span class='name'>potatoes</span><span class='comment'>, peeled , cut into 1 1/2\" pieces</span>",
+        "comment": "sweet, peeled, cut into 1 1/2\" pieces",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "5 1/2 pounds sweet potatoes, peeled, cut into 1 1/2\" pieces",
+        "qty": "5 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>kosher</span><span class='name'>salt</span><span class='comment'>, divided , plus more</span>",
+        "comment": "kosher, divided, plus more",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "2 teaspoons kosher salt, divided, plus more",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='comment'>pure</span><span class='name'>maple syrup</span><span class='comment'>, divided</span>",
+        "comment": "pure, divided",
+        "unit": "cup",
+        "name": "maple syrup",
+        "input": "1 1/4 cups pure maple syrup, divided",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>pecan</span><span class='comment'>halves ( about 7 ounces )</span>",
+        "comment": "halves (about 7 ounces)",
+        "unit": "cup",
+        "name": "pecan",
+        "input": "2 cups pecan halves (about 7 ounces)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span><span class='comment'>, divided</span>",
+        "comment": "freshly ground, divided",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1 1/2 teaspoons freshly ground black pepper, divided",
+        "qty": "1 1/2"
+    }
+]

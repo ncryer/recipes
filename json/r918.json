@@ -1,0 +1,106 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>buckwheat flour</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup buckwheat flour",
+        "name": "buckwheat flour"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>quinoa flour</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup quinoa flour",
+        "name": "quinoa flour"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>corn flour</span><span class='comment'>( not cornmeal;</span><span class='name'>corn flour is finer )</span>",
+        "comment": "(not cornmeal;",
+        "unit": "cup",
+        "name": "corn flour corn flour is finer)",
+        "input": "1/4 cup corn flour (not cornmeal; corn flour is finer)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>tapioca flour</span><span class='comment'>( cornstarch or arrowroot would be okay , too )</span>",
+        "comment": "(cornstarch or arrowroot would be okay, too)",
+        "unit": "tablespoon",
+        "name": "tapioca flour",
+        "input": "2 tablespoons tapioca flour (cornstarch or arrowroot would be okay, too)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>ground</span><span class='name'>flax seeds</span><span class='other'>(</span><span class='comment'>or flax meal )</span>",
+        "comment": "ground or flax meal)",
+        "other": "(",
+        "unit": "tablespoon",
+        "name": "flax seeds",
+        "input": "1 tablespoon ground flax seeds (or flax meal)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>baking powder</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon baking powder",
+        "name": "baking powder"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>cinnamon</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon cinnamon",
+        "name": "cinnamon"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>soy milk</span><span class='other'>(</span><span class='comment'>or other nondairy milk )</span>",
+        "comment": "or other nondairy milk)",
+        "other": "(",
+        "unit": "cup",
+        "name": "soy milk",
+        "input": "1/2 cup soy milk (or other nondairy milk)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>pure</span><span class='name'>maple syrup</span>",
+        "comment": "pure",
+        "unit": "tablespoon",
+        "name": "maple syrup",
+        "input": "2 tablespoons pure maple syrup",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>canola oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons canola oil",
+        "name": "canola oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>pure</span><span class='name'>vanilla extract</span>",
+        "comment": "pure",
+        "unit": "teaspoon",
+        "name": "vanilla extract",
+        "input": "1/2 teaspoon pure vanilla extract",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='name'>Cooking spray</span>",
+        "input": "Cooking spray",
+        "name": "Cooking spray"
+    }
+]

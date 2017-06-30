@@ -1,0 +1,35 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "3/4 cup extra-virgin olive oil",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>20</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='comment'>, peeled , thinly sliced</span>",
+        "comment": ", peeled, thinly sliced",
+        "other": "large",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "20 large garlic cloves, peeled, thinly sliced",
+        "qty": "20"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>dried crushed</span><span class='name'>red pepper</span>",
+        "comment": "dried crushed",
+        "unit": "teaspoon",
+        "name": "red pepper",
+        "input": "1 teaspoon dried crushed red pepper",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>pounds</span><span class='name'>broccoli rabe</span><span class='comment'>( rapini ) , thick stems trimmed</span>",
+        "comment": "(rapini), thick stems trimmed",
+        "unit": "pound",
+        "name": "broccoli rabe",
+        "input": "4 pounds broccoli rabe (rapini), thick stems trimmed",
+        "qty": "4"
+    }
+]

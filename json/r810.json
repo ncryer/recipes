@@ -1,0 +1,93 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>long-grain brown basmati</span><span class='name'>rice</span><span class='comment'>, rinsed</span>",
+        "comment": "long-grain brown basmati, rinsed",
+        "unit": "cup",
+        "name": "rice",
+        "input": "1 cup long-grain brown basmati rice, rinsed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 3/4</span><span class='unit'>cups</span><span class='comment'>cold</span><span class='name'>water</span>",
+        "comment": "cold",
+        "unit": "cup",
+        "name": "water",
+        "input": "1 3/4 cups cold water",
+        "qty": "1 3/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "vegetable oil",
+        "input": "3 tablespoons vegetable oil, divided",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>coriander seeds</span><span class='other'>,</span><span class='comment'>slightly crushed</span>",
+        "comment": "slightly crushed",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "coriander seeds",
+        "input": "1 tablespoon coriander seeds, slightly crushed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>cumin seeds</span><span class='other'>,</span><span class='comment'>slightly crushed</span>",
+        "comment": "slightly crushed",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "cumin seeds",
+        "input": "1/2 teaspoon cumin seeds, slightly crushed",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 garlic cloves, minced",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>zucchini</span><span class='comment'>( 1 1/4 pound ) , cut into 1/2-inch pieces</span>",
+        "qty": "2",
+        "comment": "medium (1 1/4 pound), cut into 1/2-inch pieces",
+        "input": "2 medium zucchini (1 1/4 pound), cut into 1/2-inch pieces",
+        "name": "zucchini"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped mixed</span><span class='name'>herbs</span><span class='comment'>such as cilantro</span><span class='other'>,</span><span class='comment'>parsley</span><span class='other'>,</span><span class='comment'>and mint</span>",
+        "comment": "chopped mixed such as cilantro parsley and mint",
+        "other": ", ,",
+        "unit": "cup",
+        "name": "herbs",
+        "input": "1/2 cup chopped mixed herbs such as cilantro, parsley, and mint",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>pecans</span><span class='other'>(</span><span class='comment'>2 ounces ) ,</span>",
+        "comment": "2 ounces) ,",
+        "other": "(",
+        "unit": "cup",
+        "name": "pecans",
+        "input": "1/2 cup pecans (2 ounces) ,",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>and</span><span class='comment'>coarsely chopped</span>",
+        "comment": "coarsely chopped",
+        "input": "and coarsely chopped",
+        "other": "and"
+    }
+]

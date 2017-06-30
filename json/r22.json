@@ -1,0 +1,56 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>pounds</span><span class='name'>mixed hardy greens</span><span class='comment'>( such as Tuscan kale</span><span class='other'>,</span><span class='comment'>curly kale , Swiss chard</span><span class='other'>,</span><span class='comment'>and/or collard greens; about 6 bunches</span><span class='other'>) ,</span><span class='comment'>ribs</span><span class='other'>and</span><span class='comment'>stems removed</span>",
+        "comment": "(such as Tuscan kale curly kale, Swiss chard and/or collard greens; about 6 bunches ribs stems removed",
+        "other": ",,), and",
+        "unit": "pound",
+        "name": "mixed hardy greens",
+        "input": "4 pounds mixed hardy greens (such as Tuscan kale, curly kale, Swiss chard, and/or collard greens; about 6 bunches), ribs and stems removed",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>lightly crushed</span>",
+        "comment": "lightly crushed",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 garlic cloves, lightly crushed",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>olive oil</span><span class='other'>,</span><span class='comment'>plus more for drizzling</span>",
+        "comment": "plus more for drizzling",
+        "other": ",",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/2 cup olive oil, plus more for drizzling",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>chiles de \u00e1rbol</span><span class='comment'>or 1/2 teaspoon crushed red pepper flakes</span>",
+        "qty": "2",
+        "comment": "or 1/2 teaspoon crushed red pepper flakes",
+        "input": "2 chiles de \u00e1rbol or 1/2 teaspoon crushed red pepper flakes",
+        "name": "chiles de \u00e1rbol"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground black pepper",
+        "name": "black pepper"
+    }
+]

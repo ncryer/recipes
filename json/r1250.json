@@ -1,0 +1,89 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>apple cider vinegar</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups apple cider vinegar",
+        "name": "apple cider vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>onion</span>",
+        "comment": "finely chopped",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1 cup finely chopped onion",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>finely chopped peeled fresh</span><span class='name'>ginger</span><span class='comment'>( from about 2-ounce piece )</span>",
+        "comment": "finely chopped peeled fresh (from about 2-ounce piece)",
+        "unit": "cup",
+        "name": "ginger",
+        "input": "1/4 cup finely chopped peeled fresh ginger (from about 2-ounce piece)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>teaspoons</span><span class='comment'>finely grated</span><span class='name'>lemon peel</span>",
+        "comment": "finely grated",
+        "unit": "teaspoon",
+        "name": "lemon peel",
+        "input": "2 1/2 teaspoons finely grated lemon peel",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>teaspoons</span><span class='comment'>finely grated</span><span class='name'>orange peel</span>",
+        "comment": "finely grated",
+        "unit": "teaspoon",
+        "name": "orange peel",
+        "input": "2 1/2 teaspoons finely grated orange peel",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>cinnamon</span><span class='unit'>stick</span><span class='other'>,</span><span class='comment'>broken in half</span>",
+        "comment": "broken in half",
+        "other": ",",
+        "unit": "stick",
+        "name": "cinnamon",
+        "input": "1 cinnamon stick, broken in half",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>dried crushed</span><span class='name'>red pepper</span>",
+        "comment": "dried crushed",
+        "unit": "teaspoon",
+        "name": "red pepper",
+        "input": "1/2 teaspoon dried crushed red pepper",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cloves</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cloves",
+        "input": "1/4 teaspoon ground cloves",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>12-ounce bag fresh</span><span class='name'>cranberries</span>",
+        "qty": "1",
+        "comment": "12-ounce bag fresh",
+        "input": "1 12-ounce bag fresh cranberries",
+        "name": "cranberries"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='comment'>( packed )</span><span class='name'>golden brown sugar</span>",
+        "comment": "(packed)",
+        "unit": "cup",
+        "name": "golden brown sugar",
+        "input": "1 1/4 cups (packed) golden brown sugar",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large firm</span><span class='name'>Bosc pears</span><span class='comment'>( about 18 ounces total )</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>cut into 3/4-inch cubes ( about 2 1/2 cups )</span>",
+        "comment": "large firm (about 18 ounces total) peeled cored cut into 3/4-inch cubes (about 2 1/2 cups)",
+        "other": ",, ,",
+        "name": "Bosc pears",
+        "input": "2 large firm Bosc pears (about 18 ounces total), peeled, cored, cut into 3/4-inch cubes (about 2 1/2 cups)",
+        "qty": "2"
+    }
+]

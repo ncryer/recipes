@@ -1,0 +1,23 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>tender ripe</span><span class='name'>green kiwifruit</span>",
+        "comment": "tender ripe",
+        "unit": "pound",
+        "name": "green kiwifruit",
+        "input": "2 pounds tender ripe green kiwifruit",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>superfine granulated</span><span class='name'>sugar</span>",
+        "comment": "superfine granulated",
+        "unit": "cup",
+        "name": "sugar",
+        "input": "3/4 cup superfine granulated sugar",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='name'>Equipment: an ice cream maker</span>",
+        "input": "Equipment: an ice cream maker",
+        "name": "Equipment: an ice cream maker"
+    }
+]

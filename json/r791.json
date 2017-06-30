@@ -1,0 +1,37 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='other'>(</span><span class='comment'>200 g</span><span class='other'>)</span><span class='name'>sugar</span>",
+        "comment": "200 g",
+        "other": "()",
+        "unit": "cup",
+        "name": "sugar",
+        "input": "1 cup (200 g) sugar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='other'>(</span><span class='comment'>180 ml</span><span class='other'>)</span><span class='name'>water</span>",
+        "comment": "180 ml",
+        "other": "()",
+        "unit": "cup",
+        "name": "water",
+        "input": "3/4 cup (180 ml) water",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bottle</span><span class='comment'>( 750 ml ) fruity</span><span class='name'>red wine</span><span class='other'>,</span><span class='comment'>such as Merlot</span><span class='other'>,</span><span class='comment'>Zinfandel</span><span class='other'>,</span><span class='comment'>or Beaujolais</span>",
+        "comment": "(750 ml) fruity such as Merlot Zinfandel or Beaujolais",
+        "other": ",, ,",
+        "unit": "bottle",
+        "name": "red wine",
+        "input": "1 bottle (750 ml) fruity red wine, such as Merlot, Zinfandel, or Beaujolais",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>( 15 ounces 400 g )</span><span class='name'>raspberries</span>",
+        "comment": "(15 ounces 400 g)",
+        "unit": "cup",
+        "name": "raspberries",
+        "input": "3 cups (15 ounces 400 g) raspberries",
+        "qty": "3"
+    }
+]

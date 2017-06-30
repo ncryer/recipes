@@ -1,0 +1,64 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>pitted</span><span class='name'>dates</span>",
+        "qty": "2",
+        "comment": "pitted",
+        "input": "2 pitted dates",
+        "name": "dates"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='other'>plus 1/4 cup</span><span class='name'>vegetable oil</span><span class='other'>, divided</span>",
+        "unit": "cup",
+        "other": "1/3 plus 1/4 cup, divided",
+        "input": "1/3 cup plus 1/4 cup vegetable oil, divided",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>finely grated</span><span class='name'>lime</span><span class='comment'>zest</span>",
+        "comment": "finely grated zest",
+        "unit": "teaspoon",
+        "name": "lime",
+        "input": "1 teaspoon finely grated lime zest",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>lime juice</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup lime juice",
+        "name": "lime juice"
+    },
+    {
+        "display": "<span class='name'>Salt</span>",
+        "input": "Salt",
+        "name": "Salt"
+    },
+    {
+        "display": "<span class='name'>Pepper</span>",
+        "input": "Pepper",
+        "name": "Pepper"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>thinly sliced large</span><span class='name'>shallots</span>",
+        "qty": "4",
+        "comment": "thinly sliced large",
+        "input": "4 thinly sliced large shallots",
+        "name": "shallots"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>trimmed</span><span class='unit'>bunch</span><span class='comment'>flat-leaf</span><span class='name'>spinach</span>",
+        "comment": "trimmed flat-leaf",
+        "unit": "bunch",
+        "name": "spinach",
+        "input": "1 trimmed bunch flat-leaf spinach",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>dates</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "dates",
+        "input": "3/4 cup chopped dates",
+        "qty": "3/4"
+    }
+]

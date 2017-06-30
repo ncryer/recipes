@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>pounds</span><span class='name'>spinach</span>",
+        "unit": "pound",
+        "qty": "2 1/2",
+        "input": "2 1/2 pounds spinach",
+        "name": "spinach"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>to</span><span class='range_end'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "other": "to",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "range_end": "3",
+        "input": "2 to 3 tablespoons olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>small yellow</span><span class='name'>onions</span><span class='comment'>or 6 green</span><span class='name'>onions</span><span class='comment'>, minced</span>",
+        "qty": "2",
+        "comment": "small yellow or 6 green, minced",
+        "input": "2 small yellow onions or 6 green onions, minced",
+        "name": "onions onions"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='name'>raisins</span><span class='comment'>, plumped in hot water and drained</span>",
+        "comment": ", plumped in hot water and drained",
+        "unit": "tablespoon",
+        "name": "raisins",
+        "input": "4 tablespoons raisins, plumped in hot water and drained",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='name'>pine nuts</span><span class='other'>,</span><span class='comment'>toasted</span>",
+        "comment": "toasted",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "pine nuts",
+        "input": "4 tablespoons pine nuts, toasted",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='name'>Salt and</span><span class='comment'>freshly ground</span><span class='name'>pepper</span><span class='comment'>to taste</span>",
+        "comment": "freshly ground to taste",
+        "input": "Salt and freshly ground pepper to taste",
+        "name": "Salt and pepper"
+    }
+]

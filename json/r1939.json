@@ -1,0 +1,38 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>ripe</span><span class='name'>quinces</span>",
+        "comment": "ripe",
+        "unit": "pound",
+        "name": "quinces",
+        "input": "2 pounds ripe quinces",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>1 cup plus 2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "other": "1 cup plus 2",
+        "input": "1 cup plus 2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "8",
+        "input": "8 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>poire William</span><span class='other'>(</span><span class='comment'>pear eau-de-vie</span><span class='other'>)</span>",
+        "comment": "pear eau-de-vie",
+        "other": "()",
+        "unit": "tablespoon",
+        "name": "poire William",
+        "input": "2 tablespoons poire William (pear eau-de-vie)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='name'>Special equipment: an ice cream maker</span>",
+        "input": "Special equipment: an ice cream maker",
+        "name": "Special equipment: an ice cream maker"
+    }
+]

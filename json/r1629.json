@@ -1,0 +1,39 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='other'>(</span><span class='comment'>4- by 1-inch ) strips fresh</span><span class='name'>orange</span><span class='other'>zest</span>",
+        "comment": "4- by 1-inch) strips fresh",
+        "other": "(zest",
+        "name": "orange",
+        "input": "3 (4- by 1-inch) strips fresh orange zest",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>orange juice</span>",
+        "comment": "fresh",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup fresh orange juice",
+        "name": "orange juice"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>small clusters fresh</span><span class='name'>rosemary leaves</span>",
+        "qty": "6",
+        "comment": "small clusters fresh",
+        "input": "6 small clusters fresh rosemary leaves",
+        "name": "rosemary leaves"
+    }
+]

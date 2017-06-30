@@ -1,0 +1,110 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium</span><span class='name'>sweet potatoes</span><span class='comment'>( 1 3/4</span><span class='unit'>pound</span><span class='other'>total ) ,</span><span class='comment'>peeled and cut into 1-inch pieces ( about 5 cups )</span>",
+        "comment": "medium (1 3/4 peeled and cut into 1-inch pieces (about 5 cups)",
+        "other": "total) ,",
+        "unit": "pound",
+        "name": "sweet potatoes",
+        "input": "3 medium sweet potatoes (1 3/4 pound total), peeled and cut into 1-inch pieces (about 5 cups)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>water</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "unit": "cup",
+        "name": "water",
+        "input": "2 cups water, divided",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>turmeric</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "turmeric",
+        "input": "1/4 teaspoon ground turmeric",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>cayenne pepper</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon cayenne pepper",
+        "name": "cayenne pepper"
+    },
+    {
+        "display": "<span class='name'>Salt</span>",
+        "input": "Salt",
+        "name": "Salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>grated dried unsweetened</span><span class='name'>coconut</span>",
+        "comment": "grated dried unsweetened",
+        "unit": "cup",
+        "name": "coconut",
+        "input": "1/2 cup grated dried unsweetened coconut",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>canned</span><span class='name'>kidney beans</span><span class='comment'>, rinsed and drained</span>",
+        "comment": "canned, rinsed and drained",
+        "unit": "cup",
+        "name": "kidney beans",
+        "input": "1/2 cup canned kidney beans, rinsed and drained",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>minced</span><span class='name'>garlic</span>",
+        "comment": "minced",
+        "unit": "teaspoon",
+        "name": "garlic",
+        "input": "1/2 teaspoon minced garlic",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1/2 teaspoon ground cumin",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small fresh green</span><span class='name'>chile</span><span class='other'>,</span><span class='comment'>such as serrano</span><span class='other'>,</span><span class='comment'>Thai</span><span class='other'>, or</span><span class='comment'>jalape\u00f1o</span><span class='other'>,</span><span class='comment'>slit lengthwise with stem end intact</span>",
+        "comment": "small fresh green such as serrano Thai jalape\u00f1o slit lengthwise with stem end intact",
+        "other": ",, , or ,",
+        "name": "chile",
+        "input": "1 small fresh green chile, such as serrano, Thai, or jalape\u00f1o, slit lengthwise with stem end intact",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>brown mustard seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon brown mustard seeds",
+        "name": "brown mustard seeds"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='comment'>hot</span><span class='name'>red pepper flakes</span>",
+        "comment": "hot",
+        "other": "1/8",
+        "unit": "teaspoon",
+        "input": "1/8 teaspoon hot red pepper flakes",
+        "name": "red pepper flakes"
+    },
+    {
+        "display": "<span class='qty'>10</span><span class='comment'>fresh</span><span class='name'>curry leaves</span><span class='comment'>( optional</span><span class='other'>)</span>",
+        "comment": "fresh (optional",
+        "other": ")",
+        "name": "curry leaves",
+        "input": "10 fresh curry leaves (optional)",
+        "qty": "10"
+    }
+]

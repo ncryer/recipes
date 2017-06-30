@@ -1,0 +1,64 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='name'>bananas</span><span class='other'>,</span><span class='comment'>peeled , cut into pieces</span>",
+        "comment": "peeled, cut into pieces",
+        "other": ",",
+        "name": "bananas",
+        "input": "4 bananas, peeled, cut into pieces",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>chilled</span><span class='name'>orange juice</span>",
+        "comment": "chilled",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "2 cups chilled orange juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>fresh</span><span class='name'>pineapple</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>cored , cut into chunks</span>",
+        "comment": "fresh peeled cored, cut into chunks",
+        "other": ", ,",
+        "name": "pineapple",
+        "input": "1/2 fresh pineapple, peeled, cored, cut into chunks",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>cold</span><span class='name'>water</span>",
+        "comment": "cold",
+        "unit": "cup",
+        "name": "water",
+        "input": "1 cup cold water",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>tablespoons</span><span class='comment'>pure</span><span class='name'>maple syrup</span>",
+        "comment": "pure",
+        "unit": "tablespoon",
+        "name": "maple syrup",
+        "input": "2 1/2 tablespoons pure maple syrup",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>grenadine</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons grenadine",
+        "name": "grenadine"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>fresh</span><span class='name'>strawberries</span>",
+        "qty": "6",
+        "comment": "fresh",
+        "input": "6 fresh strawberries",
+        "name": "strawberries"
+    }
+]

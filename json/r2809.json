@@ -1,0 +1,74 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sugar snap peas</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup sugar snap peas",
+        "name": "sugar snap peas"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>snow peas</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup snow peas",
+        "name": "snow peas"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>fresh or thawed frozen</span><span class='name'>green peas</span>",
+        "comment": "fresh or thawed frozen",
+        "unit": "cup",
+        "name": "green peas",
+        "input": "1/2 cup fresh or thawed frozen green peas",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>rice vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon rice vinegar",
+        "name": "rice vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>Asian</span><span class='comment'>( toasted )</span><span class='name'>sesame oil</span>",
+        "comment": "(toasted)",
+        "unit": "tablespoon",
+        "name": "Asian sesame oil",
+        "input": "1 tablespoon Asian (toasted) sesame oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>sesame seeds</span><span class='other'>,</span><span class='comment'>toasted lightly</span>",
+        "comment": "toasted lightly",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "sesame seeds",
+        "input": "2 teaspoons sesame seeds, toasted lightly",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='other'>to</span><span class='range_end'>1</span><span class='unit'>tablespoon</span><span class='comment'>firmly packed light</span><span class='name'>brown sugar</span>",
+        "comment": "firmly packed light",
+        "other": "to",
+        "unit": "tablespoon",
+        "qty": "1/2",
+        "range_end": "1",
+        "input": "1/2 to 1 tablespoon firmly packed light brown sugar",
+        "name": "brown sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>soy sauce</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='name'>pea shoots</span><span class='other'>,</span><span class='comment'>washed well and spun dry</span>",
+        "comment": "washed well and spun dry",
+        "other": ",",
+        "unit": "cup",
+        "name": "pea shoots",
+        "input": "6 cups pea shoots, washed well and spun dry",
+        "qty": "6"
+    }
+]

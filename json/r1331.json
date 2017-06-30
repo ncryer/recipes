@@ -1,0 +1,54 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pound</span><span class='name'>cabbage</span><span class='other'>,</span><span class='comment'>cored and thinly sliced ( 6 cups )</span>",
+        "comment": "cored and thinly sliced (6 cups)",
+        "other": ",",
+        "unit": "pound",
+        "name": "cabbage",
+        "input": "1 1/2 pound cabbage, cored and thinly sliced (6 cups)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "2 1/2",
+        "input": "2 1/2 teaspoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>red-wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons red-wine vinegar",
+        "name": "red-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>honey mustard</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons honey mustard",
+        "name": "honey mustard"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='name'>radishes</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "name": "radishes",
+        "input": "5 radishes, thinly sliced",
+        "qty": "5"
+    }
+]

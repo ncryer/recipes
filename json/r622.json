@@ -1,0 +1,76 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>medium</span><span class='name'>artichokes</span>",
+        "qty": "4",
+        "comment": "medium",
+        "input": "4 medium artichokes",
+        "name": "artichokes"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>to</span><span class='range_end'>3</span><span class='unit'>teaspoons</span><span class='comment'>crushed</span><span class='name'>rosemary</span>",
+        "comment": "crushed",
+        "other": "to",
+        "unit": "teaspoon",
+        "qty": "2",
+        "range_end": "3",
+        "input": "2 to 3 teaspoons crushed rosemary",
+        "name": "rosemary"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 cloves garlic, minced",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium sliced</span><span class='name'>onion</span>",
+        "qty": "1",
+        "comment": "medium sliced",
+        "input": "1 medium sliced onion",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>lemon</span><span class='other'>,</span><span class='comment'>sliced in rounds</span>",
+        "comment": "sliced in rounds",
+        "other": ",",
+        "name": "lemon",
+        "input": "1 lemon, sliced in rounds",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>white wine</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup white wine",
+        "name": "white wine"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>bay leaves</span>",
+        "qty": "2",
+        "input": "2 bay leaves",
+        "name": "bay leaves"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground pepper",
+        "name": "pepper"
+    }
+]

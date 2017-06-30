@@ -1,0 +1,55 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>large</span><span class='name'>onion</span><span class='comment'>, sliced lengthwise 1/4 inch thick ( 1 cup )</span>",
+        "qty": "1/2",
+        "comment": "large, sliced lengthwise 1/4 inch thick (1 cup)",
+        "input": "1/2 large onion, sliced lengthwise 1/4 inch thick (1 cup)",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": "extra-virgin, divided",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 1/2 tablespoons extra-virgin olive oil, divided",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>Spanish smoked paprika</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon Spanish smoked paprika",
+        "name": "Spanish smoked paprika"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>Swiss chard</span><span class='other'>,</span><span class='comment'>center ribs discarded and leaves coarsely chopped</span>",
+        "comment": "center ribs discarded and leaves coarsely chopped",
+        "other": ",",
+        "unit": "pound",
+        "name": "Swiss chard",
+        "input": "2 pounds Swiss chard, center ribs discarded and leaves coarsely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>golden raisins</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup golden raisins",
+        "name": "golden raisins"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>coarsely chopped</span><span class='name'>almonds</span><span class='comment'>with skins</span>",
+        "comment": "coarsely chopped with skins",
+        "unit": "cup",
+        "name": "almonds",
+        "input": "1/4 cup coarsely chopped almonds with skins",
+        "qty": "1/4"
+    }
+]

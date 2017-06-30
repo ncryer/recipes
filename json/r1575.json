@@ -1,0 +1,54 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>1-pound bag frozen unsweetened</span><span class='name'>blackberries</span><span class='comment'>, thawed</span>",
+        "qty": "1",
+        "comment": "1-pound bag frozen unsweetened, thawed",
+        "input": "1 1-pound bag frozen unsweetened blackberries, thawed",
+        "name": "blackberries"
+    },
+    {
+        "display": "<span class='other'>1 cup plus 2</span><span class='unit'>tablespoons</span><span class='name'>semidry white wine</span><span class='comment'>( such as Chenin Blanc )</span>",
+        "comment": "(such as Chenin Blanc)",
+        "other": "1 cup plus 2",
+        "unit": "tablespoon",
+        "input": "1 cup plus 2 tablespoons semidry white wine (such as Chenin Blanc)",
+        "name": "semidry white wine"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>( about</span><span class='other'>)</span><span class='name'>sugar</span><span class='other'>, divided</span>",
+        "comment": "(about",
+        "other": "), divided",
+        "unit": "tablespoon",
+        "name": "sugar",
+        "input": "6 tablespoons (about) sugar, divided",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>whole</span><span class='name'>cloves</span>",
+        "qty": "3",
+        "comment": "whole",
+        "input": "3 whole cloves",
+        "name": "cloves"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>Turkish bay leaves</span>",
+        "qty": "2",
+        "input": "2 Turkish bay leaves",
+        "name": "Turkish bay leaves"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>allspice</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "allspice",
+        "input": "1/4 teaspoon ground allspice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>brandy</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon brandy",
+        "name": "brandy"
+    }
+]

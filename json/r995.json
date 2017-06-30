@@ -1,0 +1,16 @@
+[
+    {
+        "display": "<span class='qty'>5</span><span class='comment'>large</span><span class='name'>red bell peppers</span><span class='other'>,</span><span class='comment'>halved lengthwise</span><span class='other'>,</span><span class='comment'>discarding stems and seeds</span>",
+        "comment": "large halved lengthwise discarding stems and seeds",
+        "other": ", ,",
+        "name": "red bell peppers",
+        "input": "5 large red bell peppers, halved lengthwise, discarding stems and seeds",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='name'>Olive oil</span><span class='comment'>for rubbing</span>",
+        "comment": "for rubbing",
+        "input": "Olive oil for rubbing",
+        "name": "Olive oil"
+    }
+]

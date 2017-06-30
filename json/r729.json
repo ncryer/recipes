@@ -1,0 +1,70 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>ounces</span><span class='name'>penne pasta</span>",
+        "unit": "ounce",
+        "qty": "8",
+        "input": "8 ounces penne pasta",
+        "name": "penne pasta"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>purchased plain hummus</span>",
+        "unit": "cup",
+        "comment": "purchased plain hummus",
+        "input": "1/2 cup purchased plain hummus",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>12-ounce</span><span class='comment'>bags cherry</span><span class='name'>tomatoes</span>",
+        "comment": "bags cherry",
+        "other": "12-ounce",
+        "name": "tomatoes",
+        "input": "2 12-ounce bags cherry tomatoes",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>1 15-ounce can</span><span class='name'>chickpeas</span><span class='comment'>( garbanzo beans ) , drained</span>",
+        "comment": "1 15-ounce can (garbanzo beans), drained",
+        "input": "1 15-ounce can chickpeas (garbanzo beans), drained",
+        "name": "chickpeas"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>pressed</span>",
+        "comment": "pressed",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 garlic cloves, pressed",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>smoked paprika</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon smoked paprika",
+        "name": "smoked paprika"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>halved pitted kalamata</span><span class='name'>olives</span>",
+        "comment": "halved pitted kalamata",
+        "unit": "cup",
+        "name": "olives",
+        "input": "1/2 cup halved pitted kalamata olives",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/2 cup chopped fresh cilantro",
+        "qty": "1/2"
+    }
+]

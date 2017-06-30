@@ -1,0 +1,76 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>beets</span><span class='comment'>( 3/4</span><span class='unit'>pound</span><span class='name'>without greens or 1 1/4</span><span class='unit'>pound</span><span class='comment'>with ) , trimmed</span>",
+        "comment": "(3/4 with), trimmed",
+        "unit": "bunch pound pound",
+        "name": "beets without greens or 1 1/4",
+        "input": "1 bunch beets (3/4 pound without greens or 1 1/4 pound with), trimmed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>sliced natural</span><span class='name'>almonds</span>",
+        "comment": "sliced natural",
+        "unit": "cup",
+        "name": "almonds",
+        "input": "1/4 cup sliced natural almonds",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>minced</span><span class='name'>shallot</span>",
+        "comment": "minced",
+        "unit": "tablespoon",
+        "name": "shallot",
+        "input": "1 tablespoon minced shallot",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>red-wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons red-wine vinegar",
+        "name": "red-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large Asian</span><span class='name'>pear</span>",
+        "qty": "1",
+        "comment": "large Asian",
+        "input": "1 large Asian pear",
+        "name": "pear"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>m\u00e2che or baby arugula ( 3 ounces )</span>",
+        "unit": "cup",
+        "comment": "m\u00e2che or baby arugula (3 ounces)",
+        "input": "3 cups m\u00e2che or baby arugula (3 ounces)",
+        "qty": "3"
+    }
+]

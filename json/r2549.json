@@ -1,0 +1,55 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>warm</span><span class='name'>water</span><span class='comment'>( 105\u00b0F; to 115\u00b0F; )</span>",
+        "comment": "warm (105\u00b0F; to 115\u00b0F;)",
+        "unit": "cup",
+        "name": "water",
+        "input": "2 cups warm water (105\u00b0F; to 115\u00b0F;)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>dry yeast</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons dry yeast",
+        "name": "dry yeast"
+    },
+    {
+        "display": "<span class='qty'>4 1/2</span><span class='unit'>cups</span><span class='comment'>( about ) all</span><span class='name'>purpose flour</span>",
+        "comment": "(about) all",
+        "unit": "cup",
+        "name": "purpose flour",
+        "input": "4 1/2 cups (about) all purpose flour",
+        "qty": "4 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>24</span><span class='comment'>black</span><span class='other'>or</span><span class='comment'>green brine-cured</span><span class='name'>olives</span><span class='comment'>( such as Kalamata</span><span class='other'>or</span><span class='comment'>Greek )</span><span class='other'>, pitted ,</span><span class='comment'>halved</span>",
+        "comment": "black green brine-cured (such as Kalamata Greek) halved",
+        "other": "or or, pitted ,",
+        "name": "olives",
+        "input": "24 black or green brine-cured olives (such as Kalamata or Greek), pitted, halved",
+        "qty": "24"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>rosemary</span><span class='comment'>or 1 1/2 teaspoons dried</span>",
+        "comment": "chopped fresh or 1 1/2 teaspoons dried",
+        "unit": "tablespoon",
+        "name": "rosemary",
+        "input": "1 tablespoon chopped fresh rosemary or 1 1/2 teaspoons dried",
+        "qty": "1"
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>finely chopped peeled cored fresh</span><span class='name'>pineapple</span>",
+        "comment": "finely chopped peeled cored fresh",
+        "unit": "cup",
+        "name": "pineapple",
+        "input": "1 cup finely chopped peeled cored fresh pineapple",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>red onion</span>",
+        "comment": "finely chopped",
+        "unit": "cup",
+        "name": "red onion",
+        "input": "1/2 cup finely chopped red onion",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>apricot-pineapple preserves</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup apricot-pineapple preserves",
+        "name": "apricot-pineapple preserves"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/4 cup chopped fresh cilantro",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "2 tablespoons fresh lime juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>minced seeded</span><span class='name'>jalape\u00f1o chili</span>",
+        "comment": "minced seeded",
+        "unit": "tablespoon",
+        "name": "jalape\u00f1o chili",
+        "input": "1 1/2 tablespoons minced seeded jalape\u00f1o chili",
+        "qty": "1 1/2"
+    }
+]

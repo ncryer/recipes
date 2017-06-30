@@ -1,0 +1,83 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "3 tablespoons fresh lemon juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>rice vinegar</span><span class='other'>(</span><span class='comment'>not seasoned )</span>",
+        "comment": "not seasoned)",
+        "other": "(",
+        "unit": "tablespoon",
+        "name": "rice vinegar",
+        "input": "1 1/2 tablespoons rice vinegar (not seasoned)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "3/4 teaspoon kosher salt",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>pound</span><span class='name'>jicama</span><span class='other'>,</span><span class='comment'>peeled and cut into thin matchsticks</span>",
+        "comment": "peeled and cut into thin matchsticks",
+        "other": ",",
+        "unit": "pound",
+        "name": "jicama",
+        "input": "3/4 pound jicama, peeled and cut into thin matchsticks",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>flat-leaf</span><span class='name'>parsley leaves</span><span class='comment'>( from 2 bunches )</span>",
+        "comment": "flat-leaf (from 2 bunches)",
+        "unit": "cup",
+        "name": "parsley leaves",
+        "input": "3 cups flat-leaf parsley leaves (from 2 bunches)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>celery leaves</span><span class='comment'>( from about 2 bunches )</span>",
+        "comment": "(from about 2 bunches)",
+        "unit": "cup",
+        "name": "celery leaves",
+        "input": "2 cups celery leaves (from about 2 bunches)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "name": "scallions",
+        "input": "6 scallions, thinly sliced",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>radish sprouts</span><span class='other'>(</span><span class='comment'>from a 3-ounces package )</span>",
+        "comment": "from a 3-ounces package)",
+        "other": "(",
+        "unit": "cup",
+        "name": "radish sprouts",
+        "input": "1 1/2 cups radish sprouts (from a 3-ounces package)",
+        "qty": "1 1/2"
+    }
+]

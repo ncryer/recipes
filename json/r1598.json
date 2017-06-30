@@ -1,0 +1,24 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>black rice</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup black rice",
+        "name": "black rice"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 13 1/2- to 15-oz ) can unsweetened</span><span class='name'>coconut milk</span><span class='other'>,</span><span class='comment'>stirred well</span>",
+        "comment": "(13 1/2- to 15-oz) can unsweetened stirred well",
+        "other": ",",
+        "name": "coconut milk",
+        "input": "1 (13 1/2- to 15-oz) can unsweetened coconut milk, stirred well",
+        "qty": "1"
+    }
+]

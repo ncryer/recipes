@@ -1,0 +1,86 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>farro</span><span class='comment'>( found at gourmet stores )</span>",
+        "comment": "(found at gourmet stores)",
+        "unit": "cup",
+        "name": "farro",
+        "input": "1 cup farro (found at gourmet stores)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>heirloom tomatoes</span>",
+        "qty": "2",
+        "comment": "large",
+        "input": "2 large heirloom tomatoes",
+        "name": "heirloom tomatoes"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>cucumber</span>",
+        "qty": "1",
+        "comment": "small",
+        "input": "1 small cucumber",
+        "name": "cucumber"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>clove</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 clove garlic, finely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>small</span><span class='name'>red onion</span><span class='comment'>, cut into 1/2-inch pieces</span>",
+        "qty": "1/2",
+        "comment": "small, cut into 1/2-inch pieces",
+        "input": "1/2 small red onion, cut into 1/2-inch pieces",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>pine nuts</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons pine nuts",
+        "name": "pine nuts"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>canned</span><span class='name'>chickpeas</span><span class='comment'>, rinsed and drained</span>",
+        "comment": "canned, rinsed and drained",
+        "unit": "cup",
+        "name": "chickpeas",
+        "input": "1 cup canned chickpeas, rinsed and drained",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='comment'>Juice from</span><span class='qty'>1</span><span class='name'>lemon</span>",
+        "qty": "1",
+        "comment": "Juice from",
+        "input": "Juice from 1 lemon",
+        "name": "lemon"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "3/4 cup chopped fresh parsley",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>small</span><span class='name'>jalape\u00f1o chile</span><span class='other'>,</span><span class='comment'>seeded and finely chopped</span>",
+        "comment": "small seeded and finely chopped",
+        "other": ",",
+        "name": "jalape\u00f1o chile",
+        "input": "1/2 small jalape\u00f1o chile, seeded and finely chopped",
+        "qty": "1/2"
+    }
+]

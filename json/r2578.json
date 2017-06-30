@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>lb thin green</span><span class='name'>beans</span><span class='comment'>such as haricots verts , trimmed</span>",
+        "qty": "1",
+        "comment": "lb thin green such as haricots verts, trimmed",
+        "input": "1 lb thin green beans such as haricots verts, trimmed",
+        "name": "beans"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "1 tablespoon extra-virgin olive oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "1 teaspoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>finely grated fresh</span><span class='name'>lemon zest</span>",
+        "comment": "finely grated fresh",
+        "unit": "teaspoon",
+        "name": "lemon zest",
+        "input": "1/2 teaspoon finely grated fresh lemon zest",
+        "qty": "1/2"
+    }
+]

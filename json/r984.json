@@ -1,0 +1,178 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>tahini</span><span class='other'>(</span><span class='comment'>sesame seed paste</span><span class='other'>)</span>",
+        "comment": "sesame seed paste",
+        "other": "()",
+        "unit": "cup",
+        "name": "tahini",
+        "input": "1/2 cup tahini (sesame seed paste)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>4 1/2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "4 1/2 teaspoons fresh lemon juice",
+        "qty": "4 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>small</span><span class='name'>onion</span><span class='comment'>, chopped ( about 1/4 cup )</span>",
+        "qty": "1/2",
+        "comment": "small, chopped (about 1/4 cup)",
+        "input": "1/2 small onion, chopped (about 1/4 cup)",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/2 teaspoon kosher salt",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>black pepper</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/2 teaspoon ground black pepper",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>dried</span><span class='name'>chickpeas</span><span class='comment'>, refrigerated overnight in water to cover by 2 inches</span><span class='other'>,</span><span class='comment'>then drained</span><span class='other'>, or</span><span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>canned</span><span class='name'>chickpeas</span><span class='other'>,</span><span class='comment'>drained</span>",
+        "comment": "dried, refrigerated overnight in water to cover by 2 inches then drained canned drained",
+        "other": ",, or ,",
+        "unit": "cup cup",
+        "name": "chickpeas chickpeas",
+        "input": "1 cup dried chickpeas, refrigerated overnight in water to cover by 2 inches, then drained, or 1 cup canned chickpeas, drained",
+        "qty": "1 1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>onion</span><span class='comment'>, diced ( about 1/2 cup )</span>",
+        "qty": "1",
+        "comment": "small, diced (about 1/2 cup)",
+        "input": "1 small onion, diced (about 1/2 cup)",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>peeled and smashed</span>",
+        "comment": "peeled and smashed",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 cloves garlic, peeled and smashed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>parsley</span><span class='comment'>, finely chopped</span>",
+        "comment": "fresh, finely chopped",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "2 tablespoons fresh parsley, finely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1 teaspoon ground cumin",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>coriander</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "coriander",
+        "input": "1 teaspoon ground coriander",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>red pepper flakes</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "red pepper flakes",
+        "input": "1/2 teaspoon dried red pepper flakes",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>baking soda</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon baking soda",
+        "name": "baking soda"
+    },
+    {
+        "display": "<span class='comment'>About</span><span class='qty'>6</span><span class='unit'>cups</span><span class='name'>vegetable oil</span><span class='comment'>for frying</span>",
+        "comment": "About for frying",
+        "unit": "cup",
+        "name": "vegetable oil",
+        "input": "About 6 cups vegetable oil for frying",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='other'>to</span><span class='range_end'>6</span><span class='name'>pita breads</span><span class='other'>,</span><span class='comment'>top 1/3 cut off each</span>",
+        "comment": "top 1/3 cut off each",
+        "other": "to ,",
+        "name": "pita breads",
+        "range_end": "6",
+        "input": "5 to 6 pita breads, top 1/3 cut off each",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>plum tomatoes</span><span class='other'>,</span><span class='comment'>seeded and diced</span>",
+        "comment": "seeded and diced",
+        "other": ",",
+        "name": "plum tomatoes",
+        "input": "2 plum tomatoes, seeded and diced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>onion</span><span class='comment'>, diced</span>",
+        "qty": "1",
+        "comment": "small, diced",
+        "input": "1 small onion, diced",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>green bell pepper</span><span class='comment'>, seeded and diced</span>",
+        "qty": "1",
+        "comment": ", seeded and diced",
+        "input": "1 green bell pepper, seeded and diced",
+        "name": "green bell pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>cucumber</span><span class='comment'>, peeled</span><span class='other'>,</span><span class='comment'>seeded , and diced</span>",
+        "comment": ", peeled seeded, and diced",
+        "other": ",",
+        "name": "cucumber",
+        "input": "1 cucumber, peeled, seeded, and diced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Pickled turnip*</span>",
+        "input": "Pickled turnip*",
+        "name": "Pickled turnip*"
+    },
+    {
+        "display": "<span class='name'>Mango amba</span><span class='other'>(</span><span class='comment'>pickle</span><span class='other'>)</span><span class='name'>*</span>",
+        "comment": "pickle",
+        "input": "Mango amba (pickle) *",
+        "name": "Mango amba *",
+        "other": "()"
+    },
+    {
+        "display": "<span class='comment'>*Available from</span><span class='name'>ethnicgrocer.com</span>",
+        "comment": "*Available from",
+        "input": "*Available from ethnicgrocer.com",
+        "name": "ethnicgrocer.com"
+    }
+]

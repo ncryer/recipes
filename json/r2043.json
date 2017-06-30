@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>frozen</span><span class='name'>peas</span>",
+        "comment": "frozen",
+        "unit": "cup",
+        "name": "peas",
+        "input": "1/2 cup frozen peas",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>couscous</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup couscous",
+        "name": "couscous"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>mint leaves</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "mint leaves",
+        "input": "1 tablespoon chopped fresh mint leaves",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "2 teaspoons fresh lemon juice",
+        "qty": "2"
+    }
+]

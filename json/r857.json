@@ -1,0 +1,83 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>balsamic vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup balsamic vinegar",
+        "name": "balsamic vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>clove</span>",
+        "other": "large",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 large garlic clove",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>whole-grain</span><span class='name'>mustard</span>",
+        "comment": "whole-grain",
+        "unit": "tablespoon",
+        "name": "mustard",
+        "input": "1 tablespoon whole-grain mustard",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>Dijon mustard</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>beet</span><span class='comment'>, trimmed and peeled</span>",
+        "qty": "1",
+        "comment": "medium, trimmed and peeled",
+        "input": "1 medium beet, trimmed and peeled",
+        "name": "beet"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>pound</span><span class='name'>escarole</span><span class='other'>,</span><span class='comment'>torn into bite-size pieces ( 10 cups )</span>",
+        "comment": "torn into bite-size pieces (10 cups)",
+        "other": ",",
+        "unit": "pound",
+        "name": "escarole",
+        "input": "3/4 pound escarole, torn into bite-size pieces (10 cups)",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>pound</span><span class='name'>fris\u00e9e</span><span class='other'>,</span><span class='comment'>torn into bite-size pieces ( 6 cups )</span>",
+        "comment": "torn into bite-size pieces (6 cups)",
+        "other": ",",
+        "unit": "pound",
+        "name": "fris\u00e9e",
+        "input": "1/4 pound fris\u00e9e, torn into bite-size pieces (6 cups)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>ounces</span><span class='comment'>radicchio ( 1 large head ) , torn into bite-size pieces</span>",
+        "unit": "ounce",
+        "comment": "radicchio (1 large head), torn into bite-size pieces",
+        "input": "6 ounces radicchio (1 large head), torn into bite-size pieces",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='name'>Equipment: an adjustable-blade slicer</span>",
+        "input": "Equipment: an adjustable-blade slicer",
+        "name": "Equipment: an adjustable-blade slicer"
+    }
+]

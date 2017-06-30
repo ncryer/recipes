@@ -1,0 +1,30 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>ounces</span><span class='name'>champagne</span>",
+        "unit": "ounce",
+        "qty": "3",
+        "input": "3 ounces champagne",
+        "name": "champagne"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>ounce</span><span class='name'>ginger beer</span>",
+        "unit": "ounce",
+        "qty": "1",
+        "input": "1 ounce ginger beer",
+        "name": "ginger beer"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>ounce</span><span class='name'>raspberry puree</span>",
+        "unit": "ounce",
+        "qty": "1/2",
+        "input": "1/2 ounce raspberry puree",
+        "name": "raspberry puree"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>ounce</span><span class='name'>raspberry liqueur</span>",
+        "unit": "ounce",
+        "qty": "1/2",
+        "input": "1/2 ounce raspberry liqueur",
+        "name": "raspberry liqueur"
+    }
+]

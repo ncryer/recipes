@@ -1,0 +1,72 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>walnuts</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup walnuts",
+        "name": "walnuts"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>red bell peppers</span><span class='comment'>( about 1 pound )</span>",
+        "qty": "2",
+        "comment": "(about 1 pound)",
+        "input": "2 red bell peppers (about 1 pound)",
+        "name": "red bell peppers"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>grated</span>",
+        "comment": "grated",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, grated",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>finely chopped fresh</span><span class='name'>mint</span>",
+        "comment": "finely chopped fresh",
+        "unit": "tablespoon",
+        "name": "mint",
+        "input": "1 tablespoon finely chopped fresh mint",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>( or more )</span><span class='name'>Aleppo pepper</span><span class='other'>or</span><span class='comment'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>hot smoked Spanish</span><span class='name'>paprika</span>",
+        "comment": "(or more) 1/2 hot smoked Spanish",
+        "other": "or",
+        "unit": "teaspoon teaspoon",
+        "name": "Aleppo pepper paprika",
+        "input": "1 teaspoon (or more) Aleppo pepper or 1/2 teaspoon hot smoked Spanish paprika",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>( or more ) fresh</span><span class='name'>lemon juice</span>",
+        "comment": "(or more) fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "1/2 teaspoon (or more) fresh lemon juice",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>pomegranate molasses</span><span class='comment'>or balsamic</span><span class='name'>vinegar</span>",
+        "comment": "or balsamic",
+        "unit": "teaspoon",
+        "name": "pomegranate molasses vinegar",
+        "input": "1/2 teaspoon pomegranate molasses or balsamic vinegar",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground black pepper",
+        "name": "salt black pepper",
+        "other": ","
+    }
+]

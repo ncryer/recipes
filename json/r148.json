@@ -1,0 +1,89 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>coarsely chopped</span><span class='name'>walnuts</span>",
+        "comment": "coarsely chopped",
+        "unit": "cup",
+        "name": "walnuts",
+        "input": "1/2 cup coarsely chopped walnuts",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>unsalted butter</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon unsalted butter",
+        "name": "unsalted butter"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, thinly sliced</span>",
+        "qty": "1/2",
+        "comment": "medium, thinly sliced",
+        "input": "1/2 medium onion, thinly sliced",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>teaspoons</span><span class='comment'>kosher</span><span class='name'>salt</span><span class='comment'>, divided</span>",
+        "comment": "kosher, divided",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 1/4 teaspoons kosher salt, divided",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span><span class='comment'>, divided</span>",
+        "comment": "freshly ground, divided",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/2 teaspoon freshly ground black pepper, divided",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='comment'>Swiss</span><span class='name'>chard</span><span class='comment'>( about 12 ounces )</span><span class='other'>,</span><span class='comment'>stems</span><span class='other'>and greens</span><span class='comment'>separated</span><span class='other'>,</span><span class='comment'>stems sliced crosswise into 1/2-inch pieces</span><span class='other'>,</span><span class='comment'>greens coarsely chopped</span>",
+        "comment": "Swiss (about 12 ounces) stems separated stems sliced crosswise into 1/2-inch pieces greens coarsely chopped",
+        "other": ", and greens, ,",
+        "unit": "bunch",
+        "name": "chard",
+        "input": "1 bunch Swiss chard (about 12 ounces), stems and greens separated, stems sliced crosswise into 1/2-inch pieces, greens coarsely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 garlic cloves, thinly sliced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>red pepper flakes</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon red pepper flakes",
+        "name": "red pepper flakes"
+    },
+    {
+        "display": "<span class='other'>Greens</span><span class='comment'>from</span><span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>beets</span><span class='comment'>, coarsely chopped ( about 1 1/2 cups greens )</span>",
+        "comment": "from, coarsely chopped (about 1 1/2 cups greens)",
+        "other": "Greens",
+        "unit": "bunch",
+        "qty": "1",
+        "input": "Greens from 1 bunch beets, coarsely chopped (about 1 1/2 cups greens)",
+        "name": "beets"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>teaspoons</span><span class='name'>white wine</span><span class='comment'>or Champagne</span><span class='name'>vinegar</span>",
+        "comment": "or Champagne",
+        "unit": "teaspoon",
+        "name": "white wine vinegar",
+        "input": "3 teaspoons white wine or Champagne vinegar",
+        "qty": "3"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>red pearl onions</span><span class='comment'>, unpeeled</span>",
+        "comment": ", unpeeled",
+        "unit": "pound",
+        "name": "red pearl onions",
+        "input": "1 pound red pearl onions, unpeeled",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Salt</span><span class='other'>,</span><span class='comment'>to taste</span>",
+        "comment": "to taste",
+        "input": "Salt, to taste",
+        "name": "Salt",
+        "other": ","
+    }
+]

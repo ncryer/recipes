@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>cashew</span><span class='name'>butter</span>",
+        "comment": "cashew",
+        "unit": "cup",
+        "name": "butter",
+        "input": "1/2 cup cashew butter",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>32-ounce containers vanilla almond milk</span>",
+        "qty": "2",
+        "input": "2 32-ounce containers vanilla almond milk",
+        "name": "32-ounce containers vanilla almond milk"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>agave nectar</span><span class='comment'>or maple syrup</span>",
+        "comment": "or maple syrup",
+        "unit": "cup",
+        "name": "agave nectar",
+        "input": "1/4 cup agave nectar or maple syrup",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>vanilla extract</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons vanilla extract",
+        "name": "vanilla extract"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>nutmeg</span><span class='comment'>, or to taste</span>",
+        "comment": "ground, or to taste",
+        "unit": "teaspoon",
+        "name": "nutmeg",
+        "input": "1/4 teaspoon ground nutmeg, or to taste",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>rum</span><span class='other'>,</span><span class='comment'>optional</span>",
+        "comment": "optional",
+        "other": ",",
+        "unit": "cup",
+        "name": "rum",
+        "input": "1 cup rum, optional",
+        "qty": "1"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "display": "<span class='name'>vegetable oil cooking spray</span>",
+        "input": "vegetable oil cooking spray",
+        "name": "vegetable oil cooking spray"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>light</span><span class='name'>corn syrup</span>",
+        "comment": "light",
+        "unit": "cup",
+        "name": "corn syrup",
+        "input": "1/4 cup light corn syrup",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>unsalted butter</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons unsalted butter",
+        "name": "unsalted butter"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>baking soda</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon baking soda",
+        "name": "baking soda"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "3/4 teaspoon kosher salt",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>pure</span><span class='name'>vanilla extract</span>",
+        "comment": "pure",
+        "unit": "teaspoon",
+        "name": "vanilla extract",
+        "input": "1/2 teaspoon pure vanilla extract",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>dry-roasted shelled</span><span class='name'>unsalted pistachios</span>",
+        "comment": "dry-roasted shelled",
+        "unit": "cup",
+        "name": "unsalted pistachios",
+        "input": "1 cup dry-roasted shelled unsalted pistachios",
+        "qty": "1"
+    }
+]

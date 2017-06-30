@@ -1,0 +1,78 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>malt vinegar</span><span class='comment'>or cider</span><span class='name'>vinegar</span>",
+        "comment": "or cider",
+        "unit": "tablespoon",
+        "name": "malt vinegar vinegar",
+        "input": "1 tablespoon malt vinegar or cider vinegar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>Dijon mustard</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>finely chopped fresh</span><span class='name'>thyme</span>",
+        "comment": "finely chopped fresh",
+        "unit": "teaspoon",
+        "name": "thyme",
+        "input": "1/2 teaspoon finely chopped fresh thyme",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>minced</span><span class='name'>garlic</span>",
+        "comment": "minced",
+        "unit": "teaspoon",
+        "name": "garlic",
+        "input": "1/4 teaspoon minced garlic",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>lb</span><span class='name'>Belgian endives</span><span class='comment'>( 4 large ) , cut crosswise into 1-inch pieces</span>",
+        "qty": "1",
+        "comment": "lb (4 large), cut crosswise into 1-inch pieces",
+        "input": "1 lb Belgian endives (4 large), cut crosswise into 1-inch pieces",
+        "name": "Belgian endives"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>oz red endive</span><span class='other'>or</span><span class='comment'>radicchio di Treviso</span><span class='other'>,</span><span class='comment'>cut crosswise into 1-inch pieces</span><span class='other'>,</span><span class='comment'>or 1 medium round head radicchio</span><span class='other'>,</span><span class='comment'>torn into bite-size pieces</span>",
+        "comment": "radicchio di Treviso cut crosswise into 1-inch pieces or 1 medium round head radicchio torn into bite-size pieces",
+        "other": "or, , ,",
+        "name": "oz red endive",
+        "input": "6 oz red endive or radicchio di Treviso, cut crosswise into 1-inch pieces, or 1 medium round head radicchio, torn into bite-size pieces",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>loosely packed</span><span class='name'>watercress sprigs</span><span class='comment'>( 2 ounces )</span>",
+        "comment": "loosely packed (2 ounces)",
+        "unit": "cup",
+        "name": "watercress sprigs",
+        "input": "2 cups loosely packed watercress sprigs (2 ounces)",
+        "qty": "2"
+    }
+]

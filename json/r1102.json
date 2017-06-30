@@ -1,0 +1,17 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>Chinese black</span><span class='name'>rice</span>",
+        "comment": "Chinese black",
+        "unit": "cup",
+        "name": "rice",
+        "input": "2 cups Chinese black rice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3 1/2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3 1/2",
+        "input": "3 1/2 cups water",
+        "name": "water"
+    }
+]

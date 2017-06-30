@@ -1,0 +1,79 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>coarsely chopped</span><span class='name'>onions</span>",
+        "comment": "coarsely chopped",
+        "unit": "cup",
+        "name": "onions",
+        "input": "1 cup coarsely chopped onions",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 3/4</span><span class='unit'>cups</span><span class='comment'>cooked navy or cannellini</span><span class='name'>beans</span><span class='other'>or</span><span class='comment'>1 ( 15-ounce ) can navy</span><span class='other'>or</span><span class='comment'>cannellini</span><span class='name'>beans</span><span class='other'>,</span><span class='comment'>drained ( rinsed if nonorganic</span><span class='other'>)</span>",
+        "comment": "cooked navy or cannellini 1 (15-ounce) can navy cannellini drained (rinsed if nonorganic",
+        "other": "or or,)",
+        "unit": "cup",
+        "name": "beans beans",
+        "input": "1 3/4 cups cooked navy or cannellini beans or 1 (15-ounce) can navy or cannellini beans, drained (rinsed if nonorganic)",
+        "qty": "1 3/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>10-ounce ) package frozen</span><span class='name'>spinach</span>",
+        "comment": "10-ounce) package frozen",
+        "other": "(",
+        "name": "spinach",
+        "input": "1 (10-ounce) package frozen spinach",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>instant vegetable stock powder</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon instant vegetable stock powder",
+        "name": "instant vegetable stock powder"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>dried</span><span class='name'>dill</span><span class='comment'>or 1/8 teaspoon freshly grated</span><span class='name'>nutmeg</span>",
+        "comment": "dried or 1/8 teaspoon freshly grated",
+        "unit": "teaspoon",
+        "name": "dill nutmeg",
+        "input": "2 teaspoons dried dill or 1/8 teaspoon freshly grated nutmeg",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>or to taste</span>",
+        "comment": "or to taste",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/2 teaspoon salt, or to taste",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>freshly squeezed</span><span class='name'>lemon juice</span><span class='comment'>( optional )</span>",
+        "comment": "freshly squeezed (optional)",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons freshly squeezed lemon juice (optional)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span><span class='comment'>to taste</span>",
+        "comment": "Freshly ground to taste",
+        "input": "Freshly ground black pepper to taste",
+        "name": "black pepper"
+    }
+]

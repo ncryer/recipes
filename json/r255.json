@@ -1,0 +1,86 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "6",
+        "input": "6 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>chopped fresh</span><span class='name'>cranberries</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cranberries",
+        "input": "1 1/2 cups chopped fresh cranberries",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>pearled barley</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup pearled barley",
+        "name": "pearled barley"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>packed light</span><span class='name'>brown sugar</span>",
+        "comment": "packed light",
+        "unit": "cup",
+        "name": "brown sugar",
+        "input": "3/4 cup packed light brown sugar",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>walnut pieces</span><span class='other'>,</span><span class='comment'>toasted and coarsely ground</span>",
+        "comment": "toasted and coarsely ground",
+        "other": ",",
+        "unit": "cup",
+        "name": "walnut pieces",
+        "input": "1/2 cup walnut pieces, toasted and coarsely ground",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>medium-ground</span><span class='name'>bulgur</span><span class='comment'>( or )</span>",
+        "comment": "medium-ground (or)",
+        "unit": "tablespoon",
+        "name": "bulgur",
+        "input": "6 tablespoons medium-ground bulgur (or)",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>corn</span><span class='comment'>( or hominy )</span><span class='name'>grits</span>",
+        "comment": "(or hominy)",
+        "unit": "tablespoon",
+        "name": "corn grits",
+        "input": "6 tablespoons corn (or hominy) grits",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>millet</span>",
+        "unit": "tablespoon",
+        "qty": "6",
+        "input": "6 tablespoons millet",
+        "name": "millet"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>maple syrup</span>",
+        "unit": "tablespoon",
+        "qty": "6",
+        "input": "6 tablespoons maple syrup",
+        "name": "maple syrup"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cinnamon</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cinnamon",
+        "input": "1/2 teaspoon ground cinnamon",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>finely grated</span><span class='name'>lemon</span><span class='comment'>zest</span>",
+        "comment": "finely grated zest",
+        "unit": "teaspoon",
+        "name": "lemon",
+        "input": "1 teaspoon finely grated lemon zest",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>finely grated</span><span class='name'>Meyer lemon zest</span>",
+        "comment": "finely grated",
+        "unit": "teaspoon",
+        "name": "Meyer lemon zest",
+        "input": "1 teaspoon finely grated Meyer lemon zest",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>Meyer lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "Meyer lemon juice",
+        "input": "1 tablespoon fresh Meyer lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>whole grain</span><span class='name'>mustard</span>",
+        "comment": "whole grain",
+        "unit": "tablespoon",
+        "name": "mustard",
+        "input": "1 tablespoon whole grain mustard",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span><span class='other'>,</span><span class='comment'>plus more</span>",
+        "comment": "plus more",
+        "other": ",",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup olive oil, plus more",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground pepper",
+        "name": "salt pepper",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>large</span><span class='unit'>bunches</span><span class='comment'>thick</span><span class='name'>asparagus</span><span class='comment'>, trimmed</span>",
+        "comment": "thick, trimmed",
+        "other": "large",
+        "unit": "bunch",
+        "name": "asparagus",
+        "input": "2 large bunches thick asparagus, trimmed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>bunches</span><span class='comment'>spring</span><span class='name'>onions</span><span class='comment'>, halved if large</span>",
+        "comment": "spring, halved if large",
+        "unit": "bunch",
+        "name": "onions",
+        "input": "2 bunches spring onions, halved if large",
+        "qty": "2"
+    }
+]

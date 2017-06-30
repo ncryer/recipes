@@ -1,0 +1,68 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>lb zucchini</span><span class='other'>(</span><span class='comment'>3 large</span><span class='other'>)</span>",
+        "comment": "3 large",
+        "other": "()",
+        "name": "lb zucchini",
+        "input": "2 lb zucchini (3 large)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 garlic cloves, finely chopped",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>lb dried</span><span class='name'>linguine</span>",
+        "qty": "1",
+        "comment": "lb dried",
+        "input": "1 lb dried linguine",
+        "name": "linguine"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>mint</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "mint",
+        "input": "3/4 cup chopped fresh mint",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>finely grated fresh</span><span class='name'>lemon</span>",
+        "comment": "finely grated fresh",
+        "unit": "tablespoon",
+        "name": "lemon",
+        "input": "1 tablespoon finely grated fresh lemon",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='name'>Special equipment: an adjustable-blade slicer</span>",
+        "input": "Special equipment: an adjustable-blade slicer",
+        "name": "Special equipment: an adjustable-blade slicer"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>artichokes</span>",
+        "qty": "2",
+        "input": "2 artichokes",
+        "name": "artichokes"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>lemon</span>",
+        "qty": "1/2",
+        "input": "1/2 lemon",
+        "name": "lemon"
+    },
+    {
+        "display": "<span class='qty'>10</span><span class='unit'>unpeeled</span><span class='name'>garlic</span><span class='unit'>cloves</span>",
+        "unit": "unpeeled clove",
+        "qty": "10",
+        "input": "10 unpeeled garlic cloves",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>white-wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons white-wine vinegar",
+        "name": "white-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>or\u00e9gano</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "or\u00e9gano",
+        "input": "1/4 teaspoon dried or\u00e9gano",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>saffron threads</span><span class='other'>,</span><span class='comment'>crumbled</span>",
+        "comment": "crumbled",
+        "other": "1/8 ,",
+        "unit": "teaspoon",
+        "input": "1/8 teaspoon saffron threads, crumbled",
+        "name": "saffron threads"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>minced fresh</span><span class='name'>parsley leaves</span>",
+        "comment": "minced fresh",
+        "unit": "tablespoon",
+        "name": "parsley leaves",
+        "input": "1 tablespoon minced fresh parsley leaves",
+        "qty": "1"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>peanut or vegetable</span><span class='name'>oil</span><span class='other'>, divided</span>",
+        "comment": "peanut or vegetable",
+        "other": ", divided",
+        "unit": "tablespoon",
+        "name": "oil",
+        "input": "2 tablespoons peanut or vegetable oil, divided",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>pine nuts</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons pine nuts",
+        "name": "pine nuts"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, finely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>coriander</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "coriander",
+        "input": "3/4 teaspoon ground coriander",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>hot</span><span class='name'>red-pepper flakes</span>",
+        "comment": "hot",
+        "unit": "teaspoon",
+        "name": "red-pepper flakes",
+        "input": "1/4 teaspoon hot red-pepper flakes",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>bunches</span><span class='name'>watercress</span><span class='comment'>( 1 lb ) , cut into 2-inch pieces</span>",
+        "comment": "(1 lb), cut into 2-inch pieces",
+        "unit": "bunch",
+        "name": "watercress",
+        "input": "3 bunches watercress (1 lb), cut into 2-inch pieces",
+        "qty": "3"
+    }
+]

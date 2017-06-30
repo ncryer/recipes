@@ -1,0 +1,73 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>pounds</span><span class='comment'>tender</span><span class='name'>green beans</span><span class='comment'>, trimmed</span>",
+        "comment": "tender, trimmed",
+        "unit": "pound",
+        "name": "green beans",
+        "input": "2 1/2 pounds tender green beans, trimmed",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>bunches</span><span class='name'>scallions</span><span class='comment'>, trimmed with 1\" green tops still attached</span><span class='other'>,</span><span class='comment'>halved lengthwise</span>",
+        "comment": ", trimmed with 1\" green tops still attached halved lengthwise",
+        "other": ",",
+        "unit": "bunch",
+        "name": "scallions",
+        "input": "3 bunches scallions, trimmed with 1\" green tops still attached, halved lengthwise",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>each cut lengthwise into 4 slices</span>",
+        "comment": "each cut lengthwise into 4 slices",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "6 large garlic cloves, each cut lengthwise into 4 slices",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>sage leaves</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "sage leaves",
+        "input": "2 tablespoons fresh sage leaves",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>rosemary leaves</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "rosemary leaves",
+        "input": "1 tablespoon fresh rosemary leaves",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>thyme leaves</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "thyme leaves",
+        "input": "1 tablespoon fresh thyme leaves",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "2 teaspoons kosher salt",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground black pepper",
+        "name": "black pepper"
+    }
+]

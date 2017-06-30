@@ -1,0 +1,78 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>black-currant syrup</span><span class='comment'>such as Ribena</span>",
+        "comment": "such as Ribena",
+        "unit": "cup",
+        "name": "black-currant syrup",
+        "input": "1/4 cup black-currant syrup such as Ribena",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>blackberries</span><span class='other'>(</span><span class='comment'>8 ounces</span><span class='other'>)</span>",
+        "comment": "8 ounces",
+        "other": "()",
+        "unit": "cup",
+        "name": "blackberries",
+        "input": "2 cups blackberries (8 ounces)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>raspberries</span><span class='other'>(</span><span class='comment'>8 ounces</span><span class='other'>)</span>",
+        "comment": "8 ounces",
+        "other": "()",
+        "unit": "cup",
+        "name": "raspberries",
+        "input": "2 cups raspberries (8 ounces)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>strawberry jelly</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups strawberry jelly",
+        "name": "strawberry jelly"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>vanilla</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon vanilla",
+        "name": "vanilla"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>tablespoons</span><span class='name'>arrowroot</span><span class='other'>,</span><span class='comment'>dissolved in 2 tablespoons cold water</span>",
+        "comment": "dissolved in 2 tablespoons cold water",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "arrowroot",
+        "input": "2 1/2 tablespoons arrowroot, dissolved in 2 tablespoons cold water",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>strawberries</span><span class='comment'>( 8 ounces ) , hulled , then quartered if large</span>",
+        "comment": "(8 ounces), hulled, then quartered if large",
+        "unit": "cup",
+        "name": "strawberries",
+        "input": "2 cups strawberries (8 ounces), hulled, then quartered if large",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='name'>Accompaniment:</span>",
+        "input": "Accompaniment:",
+        "name": "Accompaniment:"
+    }
+]

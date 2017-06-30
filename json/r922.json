@@ -1,0 +1,73 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( 120 ml ) canola</span><span class='name'>oil</span>",
+        "comment": "(120 ml) canola",
+        "unit": "cup",
+        "name": "oil",
+        "input": "1/2 cup (120 ml) canola oil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>( 340 g ) packed dark</span><span class='name'>brown sugar</span>",
+        "comment": "(340 g) packed dark",
+        "unit": "cup",
+        "name": "brown sugar",
+        "input": "1 1/2 cups (340 g) packed dark brown sugar",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>( 450 g ) pur\u00e9ed cooked ( boiled</span><span class='other'>or</span><span class='comment'>steamed )</span><span class='name'>red beets</span><span class='other'>( about</span><span class='comment'>3 medium-size beets )</span>",
+        "comment": "(450 g) pur\u00e9ed cooked (boiled steamed) 3 medium-size beets)",
+        "other": "or (about",
+        "unit": "cup",
+        "name": "red beets",
+        "input": "2 cups (450 g) pur\u00e9ed cooked (boiled or steamed) red beets (about 3 medium-size beets)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( 90 g ) nondairy semisweet</span><span class='name'>chocolate chips</span><span class='other'>,</span><span class='comment'>melted</span>",
+        "comment": "(90 g) nondairy semisweet melted",
+        "other": ",",
+        "unit": "cup",
+        "name": "chocolate chips",
+        "input": "1/2 cup (90 g) nondairy semisweet chocolate chips, melted",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>( 5 ml )</span><span class='name'>vanilla extract</span>",
+        "comment": "(5 ml)",
+        "unit": "teaspoon",
+        "name": "vanilla extract",
+        "input": "1 teaspoon (5 ml) vanilla extract",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>( 250 g )</span><span class='name'>all-purpose flour</span>",
+        "comment": "(250 g)",
+        "unit": "cup",
+        "name": "all-purpose flour",
+        "input": "2 cups (250 g) all-purpose flour",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>( 9 g ) baking powder ( look for aluminum-free )</span>",
+        "unit": "teaspoon",
+        "comment": "(9 g) baking powder (look for aluminum-free)",
+        "input": "2 teaspoons (9 g) baking powder (look for aluminum-free)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='name'>Confectioners' sugar</span><span class='other'>,</span><span class='comment'>for dusting</span>",
+        "comment": "for dusting",
+        "input": "Confectioners' sugar, for dusting",
+        "name": "Confectioners' sugar",
+        "other": ","
+    }
+]

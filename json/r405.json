@@ -1,0 +1,121 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='comment'>dried</span><span class='name'>shiitake mushrooms</span>",
+        "qty": "8",
+        "comment": "dried",
+        "input": "8 dried shiitake mushrooms",
+        "name": "shiitake mushrooms"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='comment'>dried</span><span class='name'>lily buds</span>",
+        "qty": "8",
+        "comment": "dried",
+        "input": "8 dried lily buds",
+        "name": "lily buds"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>bamboo shoots</span><span class='other'>(</span><span class='comment'>fresh or canned )</span>",
+        "comment": "fresh or canned)",
+        "other": "(",
+        "unit": "cup",
+        "name": "bamboo shoots",
+        "input": "1/4 cup bamboo shoots (fresh or canned)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>snow peas</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup snow peas",
+        "name": "snow peas"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>canned</span><span class='name'>water chestnuts</span>",
+        "comment": "canned",
+        "unit": "cup",
+        "name": "water chestnuts",
+        "input": "1/4 cup canned water chestnuts",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>ounces</span><span class='name'>bean thread noodles</span>",
+        "unit": "ounce",
+        "qty": "4",
+        "input": "4 ounces bean thread noodles",
+        "name": "bean thread noodles"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='comment'>extra-firm</span><span class='name'>tofu</span>",
+        "comment": "extra-firm",
+        "unit": "pound",
+        "name": "tofu",
+        "input": "1/2 pound extra-firm tofu",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>vegetable broth</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups vegetable broth",
+        "name": "vegetable broth"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>soy sauce</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>hoisin sauce</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons hoisin sauce",
+        "name": "hoisin sauce"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sesame oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sesame oil",
+        "name": "sesame oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>light</span><span class='name'>brown sugar</span>",
+        "comment": "light",
+        "unit": "tablespoon",
+        "name": "brown sugar",
+        "input": "1 tablespoon light brown sugar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>peanut or vegetable</span><span class='name'>oil</span>",
+        "comment": "peanut or vegetable",
+        "unit": "tablespoon",
+        "name": "oil",
+        "input": "1 tablespoon peanut or vegetable oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>minced fresh</span><span class='name'>ginger</span>",
+        "comment": "minced fresh",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "1 1/2 teaspoons minced fresh ginger",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>shredded napa</span><span class='name'>cabbage</span>",
+        "comment": "shredded napa",
+        "unit": "cup",
+        "name": "cabbage",
+        "input": "1 cup shredded napa cabbage",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Wok</span><span class='comment'>with lid , Dutch oven , or a deep 14-inch skillet</span>",
+        "comment": "with lid, Dutch oven, or a deep 14-inch skillet",
+        "input": "Wok with lid, Dutch oven, or a deep 14-inch skillet",
+        "name": "Wok"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='other'>1 1/4-pound</span><span class='name'>eggplant</span><span class='other'>,</span><span class='comment'>unpeeled</span><span class='other'>,</span><span class='comment'>cut into 1 1/2-inch pieces</span>",
+        "comment": "unpeeled cut into 1 1/2-inch pieces",
+        "other": "1 1/4-pound, ,",
+        "name": "eggplant",
+        "input": "1 1 1/4-pound eggplant, unpeeled, cut into 1 1/2-inch pieces",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>large</span><span class='name'>shallots</span><span class='comment'>, peeled , quartered</span>",
+        "qty": "4",
+        "comment": "large, peeled, quartered",
+        "input": "4 large shallots, peeled, quartered",
+        "name": "shallots"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>red bell pepper</span>",
+        "qty": "1",
+        "comment": "large",
+        "input": "1 large red bell pepper",
+        "name": "red bell pepper"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped pitted brine-cured</span><span class='name'>black olives</span><span class='comment'>( such as Kalamata )</span>",
+        "comment": "chopped pitted brine-cured (such as Kalamata)",
+        "unit": "cup",
+        "name": "black olives",
+        "input": "1/2 cup chopped pitted brine-cured black olives (such as Kalamata)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "finely chopped",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 large garlic cloves, finely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>artichokes</span><span class='comment'>, stems trimmed</span>",
+        "qty": "2",
+        "comment": "large, stems trimmed",
+        "input": "2 large artichokes, stems trimmed",
+        "name": "artichokes"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>ounces</span><span class='comment'>rigatoni or other tubular</span><span class='name'>pasta</span>",
+        "comment": "rigatoni or other tubular",
+        "unit": "ounce",
+        "name": "pasta",
+        "input": "8 ounces rigatoni or other tubular pasta",
+        "qty": "8"
+    }
+]

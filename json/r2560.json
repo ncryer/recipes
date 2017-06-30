@@ -1,0 +1,78 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>vegetable oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>stalks</span><span class='other'>of</span><span class='name'>lemongrass</span><span class='comment'>( available at Asian markets and some specialty produce markets ) , the outer leaves discarded</span><span class='other'>,</span><span class='comment'>ends trimmed</span><span class='other'>, and</span><span class='comment'>5</span><span class='other'>inches of the</span><span class='comment'>lower stalks</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "(available at Asian markets and some specialty produce markets), the outer leaves discarded ends trimmed 5 lower stalks minced",
+        "other": "of, , and inches of the ,",
+        "unit": "stalk",
+        "name": "lemongrass",
+        "input": "8 stalks of lemongrass (available at Asian markets and some specialty produce markets), the outer leaves discarded, ends trimmed, and 5 inches of the lower stalks, minced",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>shallots</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "name": "shallots",
+        "input": "4 shallots, minced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span><span class='comment'>, or to taste</span>",
+        "comment": "fresh, or to taste",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons fresh lemon juice, or to taste",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>finely grated fresh</span><span class='name'>lemon zest</span>",
+        "comment": "finely grated fresh",
+        "unit": "teaspoon",
+        "name": "lemon zest",
+        "input": "1/4 teaspoon finely grated fresh lemon zest",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>coriander seeds</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "coriander seeds",
+        "input": "1/4 teaspoon ground coriander seeds",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='name'>cayenne</span><span class='comment'>to taste</span>",
+        "comment": "to taste",
+        "input": "cayenne to taste",
+        "name": "cayenne"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>medium yellow</span><span class='name'>tomatoes</span><span class='comment'>( about 3 pounds ) , sliced crosswise</span>",
+        "qty": "6",
+        "comment": "medium yellow (about 3 pounds), sliced crosswise",
+        "input": "6 medium yellow tomatoes (about 3 pounds), sliced crosswise",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='comment'>whole</span><span class='name'>pear and currant tomatoes</span><span class='comment'>( available at specialty produce markets ) and cherry</span><span class='name'>tomatoes</span><span class='comment'>for garnish</span>",
+        "comment": "whole (available at specialty produce markets) and cherry for garnish",
+        "input": "whole pear and currant tomatoes (available at specialty produce markets) and cherry tomatoes for garnish",
+        "name": "pear and currant tomatoes tomatoes"
+    }
+]

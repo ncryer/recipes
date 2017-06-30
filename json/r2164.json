@@ -1,0 +1,64 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>ounces</span><span class='name'>green beans</span><span class='comment'>, trimmed , cut into 1 1/2-inch pieces</span>",
+        "comment": ", trimmed, cut into 1 1/2-inch pieces",
+        "unit": "ounce",
+        "name": "green beans",
+        "input": "8 ounces green beans, trimmed, cut into 1 1/2-inch pieces",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>pounds</span><span class='comment'>small red-skinned</span><span class='name'>potatoes</span><span class='comment'>, unpeeled</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "small red-skinned, unpeeled halved",
+        "other": ",",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "3 pounds small red-skinned potatoes, unpeeled, halved",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>dry vermouth</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons dry vermouth",
+        "name": "dry vermouth"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>white wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons white wine vinegar",
+        "name": "white wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>shallot</span><span class='comment'>, chopped</span>",
+        "qty": "1",
+        "comment": "large, chopped",
+        "input": "1 large shallot, chopped",
+        "name": "shallot"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>coarse-grained</span><span class='name'>Dijon mustard</span>",
+        "comment": "coarse-grained",
+        "unit": "tablespoon",
+        "name": "Dijon mustard",
+        "input": "1 tablespoon coarse-grained Dijon mustard",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup extra-virgin olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "2 tablespoons chopped fresh parsley",
+        "qty": "2"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>warm</span><span class='name'>water</span>",
+        "comment": "warm",
+        "unit": "teaspoon",
+        "name": "water",
+        "input": "1 teaspoon warm water",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>saffron</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon saffron",
+        "name": "saffron"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "1 tablespoon extra-virgin olive oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>diced</span><span class='name'>shallot</span>",
+        "comment": "diced",
+        "unit": "tablespoon",
+        "name": "shallot",
+        "input": "1 tablespoon diced shallot",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>brown basmati</span><span class='name'>rice</span><span class='comment'>, soaked</span><span class='other'>,</span><span class='comment'>rinsed</span><span class='other'>,</span><span class='comment'>and drained well</span>",
+        "comment": "brown basmati, soaked rinsed and drained well",
+        "other": ", ,",
+        "unit": "cup",
+        "name": "rice",
+        "input": "1 cup brown basmati rice, soaked, rinsed, and drained well",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 3/4</span><span class='unit'>cups</span><span class='name'>water</span><span class='other'>or</span><span class='comment'>vegetable</span><span class='name'>broth</span><span class='other'>,</span><span class='comment'>homemade or store-bought</span>",
+        "comment": "vegetable homemade or store-bought",
+        "other": "or ,",
+        "unit": "cup",
+        "name": "water broth",
+        "input": "1 3/4 cups water or vegetable broth, homemade or store-bought",
+        "qty": "1 3/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>sea salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon sea salt",
+        "name": "sea salt"
+    },
+    {
+        "display": "<span class='comment'>1 ( 1-inch ) piece unpeeled fresh</span><span class='name'>ginger</span>",
+        "comment": "1 (1-inch) piece unpeeled fresh",
+        "input": "1 (1-inch) piece unpeeled fresh ginger",
+        "name": "ginger"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>freshly squeezed</span><span class='name'>lemon juice</span>",
+        "comment": "freshly squeezed",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon freshly squeezed lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>lemon zest</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon lemon zest",
+        "name": "lemon zest"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>finely chopped fresh</span><span class='name'>parsley</span>",
+        "comment": "finely chopped fresh",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "1 tablespoon finely chopped fresh parsley",
+        "qty": "1"
+    }
+]

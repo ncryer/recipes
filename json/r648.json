@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='comment'>flat-leaf</span><span class='name'>parsley</span>",
+        "comment": "flat-leaf",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1 1/4 cups flat-leaf parsley",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>chervil leaves</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "chervil leaves",
+        "input": "1 cup fresh chervil leaves",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>tarragon leaves</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "tarragon leaves",
+        "input": "3/4 cup fresh tarragon leaves",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>garlic</span><span class='unit'>clove</span>",
+        "unit": "clove",
+        "qty": "1/2",
+        "input": "1/2 garlic clove",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    }
+]

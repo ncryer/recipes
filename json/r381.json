@@ -1,0 +1,35 @@
+[
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='name'>all-purpose flour</span>",
+        "unit": "cup",
+        "qty": "1 1/4",
+        "input": "1 1/4 cups all-purpose flour",
+        "name": "all-purpose flour"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='unit'>ounces</span><span class='name'>club soda</span>",
+        "unit": "ounce",
+        "qty": "12",
+        "input": "12 ounces club soda",
+        "name": "club soda"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='name'>vegetable oil</span>",
+        "input": "vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='comment'>trimmed</span><span class='name'>green beans</span>",
+        "comment": "trimmed",
+        "unit": "pound",
+        "name": "green beans",
+        "input": "1/2 pound trimmed green beans",
+        "qty": "1/2"
+    }
+]

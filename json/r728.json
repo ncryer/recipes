@@ -1,0 +1,62 @@
+[
+    {
+        "display": "<span class='qty'>5</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>peeled</span>",
+        "comment": "peeled",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "5 large garlic cloves, peeled",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped fresh Italian</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh Italian",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/4 cup chopped fresh Italian parsley",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>thyme</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "thyme",
+        "input": "2 tablespoons chopped fresh thyme",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>rosemary</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "rosemary",
+        "input": "2 tablespoons chopped fresh rosemary",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>pounds</span><span class='comment'>large fingerling</span><span class='name'>potatoes</span><span class='comment'>, halved lengthwise</span>",
+        "comment": "large fingerling, halved lengthwise",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "3 pounds large fingerling potatoes, halved lengthwise",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='name'>Coarse</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "input": "Coarse kosher salt",
+        "name": "Coarse salt"
+    },
+    {
+        "display": "<span class='comment'>Chopped fresh</span><span class='name'>Italian parsley</span><span class='comment'>( for garnish )</span>",
+        "comment": "Chopped fresh (for garnish)",
+        "input": "Chopped fresh Italian parsley (for garnish)",
+        "name": "Italian parsley"
+    }
+]

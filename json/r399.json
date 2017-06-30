@@ -1,0 +1,62 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>( packed )</span><span class='name'>light brown sugar</span>",
+        "comment": "(packed)",
+        "unit": "cup",
+        "name": "light brown sugar",
+        "input": "1 cup (packed) light brown sugar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>golden raisins</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup golden raisins",
+        "name": "golden raisins"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>red wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>finely chopped crystallized</span><span class='name'>ginger</span>",
+        "comment": "finely chopped crystallized",
+        "unit": "cup",
+        "name": "ginger",
+        "input": "1/4 cup finely chopped crystallized ginger",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>drained</span><span class='name'>capers</span>",
+        "comment": "drained",
+        "unit": "tablespoon",
+        "name": "capers",
+        "input": "1 tablespoon drained capers",
+        "qty": "1"
+    },
+    {
+        "other": "Pinch of",
+        "display": "<span class='other'>Pinch of</span><span class='comment'>crushed</span><span class='name'>red pepper flakes</span>",
+        "comment": "crushed",
+        "input": "Pinch of crushed red pepper flakes",
+        "name": "red pepper flakes"
+    },
+    {
+        "other": "Pinch of",
+        "display": "<span class='other'>Pinch of</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "input": "Pinch of freshly ground black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>rhubarb</span><span class='comment'>, trimmed , sliced 1/2\" thick</span>",
+        "comment": ", trimmed, sliced 1/2\" thick",
+        "unit": "pound",
+        "name": "rhubarb",
+        "input": "1 pound rhubarb, trimmed, sliced 1/2\" thick",
+        "qty": "1"
+    }
+]

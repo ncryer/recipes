@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>dry white wine</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup dry white wine",
+        "name": "dry white wine"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='other'>(</span><span class='comment'>2-inch )</span><span class='unit'>piece</span><span class='comment'>fresh</span><span class='name'>ginger</span><span class='comment'>, coarsely grated</span>",
+        "comment": "2-inch) fresh, coarsely grated",
+        "other": "(",
+        "unit": "piece",
+        "name": "ginger",
+        "input": "3/4 (2-inch) piece fresh ginger, coarsely grated",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>pound</span><span class='name'>peaches</span><span class='comment'>( 8</span><span class='other'>)</span>",
+        "comment": "(8",
+        "other": ")",
+        "unit": "pound",
+        "name": "peaches",
+        "input": "3/4 pound peaches (8)",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons fresh lemon juice",
+        "qty": "2"
+    }
+]

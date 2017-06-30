@@ -1,0 +1,56 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>brown sugar</span><span class='other'>,</span><span class='comment'>plus more , for sprinkling</span>",
+        "comment": "plus more, for sprinkling",
+        "other": ",",
+        "unit": "cup",
+        "name": "brown sugar",
+        "input": "1/2 cup brown sugar, plus more, for sprinkling",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lime juice",
+        "input": "1/4 cup fresh lime juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>basil leaves</span><span class='other'>,</span><span class='comment'>plus thinly sliced basil , for garnish</span>",
+        "comment": "plus thinly sliced basil, for garnish",
+        "other": ",",
+        "unit": "cup",
+        "name": "basil leaves",
+        "input": "1/4 cup basil leaves, plus thinly sliced basil, for garnish",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='name'>Vegetable oil</span><span class='other'>,</span><span class='comment'>for grilling</span>",
+        "comment": "for grilling",
+        "input": "Vegetable oil, for grilling",
+        "name": "Vegetable oil",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>large</span><span class='name'>peaches</span><span class='other'>,</span><span class='comment'>quartered and pitted</span>",
+        "comment": "large quartered and pitted",
+        "other": ",",
+        "name": "peaches",
+        "input": "4 large peaches, quartered and pitted",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground black pepper",
+        "name": "black pepper"
+    }
+]

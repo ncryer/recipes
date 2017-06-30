@@ -1,0 +1,26 @@
+[
+    {
+        "display": "<span class='qty'>12</span><span class='unit'>ounces</span><span class='name'>vodka</span><span class='other'>(</span><span class='comment'>1 1/2 cups</span><span class='other'>)</span>",
+        "comment": "1 1/2 cups",
+        "other": "()",
+        "unit": "ounce",
+        "name": "vodka",
+        "input": "12 ounces vodka (1 1/2 cups)",
+        "qty": "12"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='comment'>fresh</span><span class='name'>orange juice</span><span class='comment'>, chilled</span>",
+        "comment": "fresh, chilled",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "6 cups fresh orange juice, chilled",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='comment'>Garnish:</span><span class='name'>orange</span><span class='unit'>slices</span>",
+        "unit": "slice",
+        "comment": "Garnish:",
+        "input": "Garnish: orange slices",
+        "name": "orange"
+    }
+]

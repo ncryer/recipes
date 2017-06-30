@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>medium</span><span class='name'>avocados</span><span class='comment'>, halved</span><span class='other'>,</span><span class='comment'>pitted</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>diced</span>",
+        "comment": "medium, halved pitted peeled diced",
+        "other": ",, ,",
+        "name": "avocados",
+        "input": "6 medium avocados, halved, pitted, peeled, diced",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "3 tablespoons fresh lemon juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>basil</span><span class='comment'>plus leaves for garnish</span>",
+        "comment": "chopped fresh plus leaves for garnish",
+        "unit": "cup",
+        "name": "basil",
+        "input": "1/2 cup chopped fresh basil plus leaves for garnish",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>shallots</span>",
+        "comment": "finely chopped",
+        "unit": "cup",
+        "name": "shallots",
+        "input": "1/2 cup finely chopped shallots",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>Ciabatta</span><span class='name'>bread</span><span class='unit'>slices</span><span class='comment'>, toasted</span>",
+        "unit": "slice",
+        "comment": "Ciabatta, toasted",
+        "input": "Ciabatta bread slices, toasted",
+        "name": "bread"
+    },
+    {
+        "display": "<span class='name'>Assorted crudit\u00e9s</span><span class='other'>(</span><span class='comment'>such as mini</span><span class='name'>bell peppers</span><span class='other'>,</span><span class='comment'>celery</span><span class='other'>, fennel ,</span><span class='comment'>sugar snap peas</span><span class='other'>,</span><span class='comment'>and carrots</span><span class='other'>)</span>",
+        "comment": "such as mini celery sugar snap peas and carrots",
+        "input": "Assorted crudit\u00e9s (such as mini bell peppers, celery, fennel, sugar snap peas, and carrots)",
+        "name": "Assorted crudit\u00e9s bell peppers",
+        "other": "(, , fennel, ,)"
+    }
+]

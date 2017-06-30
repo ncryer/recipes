@@ -1,0 +1,155 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>pine nuts</span><span class='other'>,</span><span class='comment'>soaked 1 hour or more</span>",
+        "comment": "soaked 1 hour or more",
+        "other": ",",
+        "unit": "cup",
+        "name": "pine nuts",
+        "input": "4 cups pine nuts, soaked 1 hour or more",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/2 cup extra-virgin olive oil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>shallots</span><span class='comment'>, peeled and diced</span>",
+        "qty": "2",
+        "comment": "medium, peeled and diced",
+        "input": "2 medium shallots, peeled and diced",
+        "name": "shallots"
+    },
+    {
+        "other": "Zest of",
+        "display": "<span class='other'>Zest of</span><span class='qty'>1</span><span class='name'>lemon</span>",
+        "name": "lemon",
+        "input": "Zest of 1 lemon",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>freshly squeezed</span><span class='name'>lemon juice</span>",
+        "comment": "freshly squeezed",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/2 cup freshly squeezed lemon juice",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>teaspoons</span><span class='name'>nutritional yeast</span>",
+        "unit": "teaspoon",
+        "qty": "4",
+        "input": "4 teaspoons nutritional yeast",
+        "name": "nutritional yeast"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>teaspoons</span><span class='name'>sea salt</span>",
+        "unit": "teaspoon",
+        "qty": "2 1/2",
+        "input": "2 1/2 teaspoons sea salt",
+        "name": "sea salt"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>recipe Pine Nut \"Goat Cheese\"</span>",
+        "qty": "1/2",
+        "input": "1/2 recipe Pine Nut \"Goat Cheese\"",
+        "name": "recipe Pine Nut \"Goat Cheese\""
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>minced</span><span class='name'>rosemary</span>",
+        "comment": "minced",
+        "unit": "teaspoon",
+        "name": "rosemary",
+        "input": "1 teaspoon minced rosemary",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>freshly squeezed</span><span class='name'>lemon juice</span>",
+        "comment": "freshly squeezed",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon freshly squeezed lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>filtered</span><span class='name'>water</span>",
+        "comment": "filtered",
+        "unit": "cup",
+        "name": "water",
+        "input": "3/4 cup filtered water",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='other'>Pinch of</span><span class='name'>sea salt</span>",
+        "other": "Pinch of",
+        "input": "Pinch of sea salt",
+        "name": "sea salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>clove</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>peeled</span>",
+        "comment": "peeled",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 clove garlic, peeled",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>beets</span><span class='comment'>( 2 inches in diameter or more ) , peeled</span>",
+        "qty": "2",
+        "comment": "medium (2 inches in diameter or more), peeled",
+        "input": "2 medium beets (2 inches in diameter or more), peeled",
+        "name": "beets"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>macadamia oil</span><span class='comment'>, or other nut</span><span class='name'>oil</span><span class='comment'>, or extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": ", or other nut, or extra-virgin",
+        "unit": "tablespoon",
+        "name": "macadamia oil oil olive oil",
+        "input": "2 tablespoons macadamia oil, or other nut oil, or extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>freshly squeezed</span><span class='name'>lemon juice</span>",
+        "comment": "freshly squeezed",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon freshly squeezed lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>sea salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon sea salt",
+        "name": "sea salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>high-quality aged balsamic vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons high-quality aged balsamic vinegar",
+        "name": "high-quality aged balsamic vinegar"
+    },
+    {
+        "display": "<span class='comment'>Microgreens or other</span><span class='name'>herbs</span><span class='comment'>, for garnish</span>",
+        "comment": "Microgreens or other, for garnish",
+        "input": "Microgreens or other herbs, for garnish",
+        "name": "herbs"
+    }
+]

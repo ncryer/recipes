@@ -1,0 +1,128 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>long-grain white</span><span class='name'>rice</span><span class='comment'>( not converted; 10 oz )</span>",
+        "comment": "long-grain white (not converted; 10 oz)",
+        "unit": "cup",
+        "name": "rice",
+        "input": "1 1/2 cups long-grain white rice (not converted; 10 oz)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span>",
+        "unit": "cup",
+        "input": "3/4 cup",
+        "qty": "3/4"
+    },
+    {
+        "other": "()",
+        "display": "<span class='other'>(</span><span class='comment'>white</span><span class='name'>split lentils; 5 oz</span><span class='other'>)</span>",
+        "comment": "white",
+        "input": "(white split lentils; 5 oz)",
+        "name": "split lentils; 5 oz"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='other'>plus 1/3</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "other": "plus 1/3",
+        "unit": "cup cup",
+        "name": "water",
+        "input": "1 1/2 cups plus 1/3 cup water",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='comment'>About</span><span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>vegetable oil</span><span class='comment'>for cooking</span>",
+        "comment": "About for cooking",
+        "unit": "cup",
+        "name": "vegetable oil",
+        "input": "About 1/2 cup vegetable oil for cooking",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='comment'>lb Yukon Gold</span><span class='name'>potatoes</span><span class='comment'>, all about the same size ( 4 medium )</span>",
+        "qty": "1 1/2",
+        "comment": "lb Yukon Gold, all about the same size (4 medium)",
+        "input": "1 1/2 lb Yukon Gold potatoes, all about the same size (4 medium)",
+        "name": "potatoes"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>vegetable oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>black mustard seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon black mustard seeds",
+        "name": "black mustard seeds"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='comment'>fresh or thawed frozen</span><span class='name'>curry leaves</span>",
+        "qty": "8",
+        "comment": "fresh or thawed frozen",
+        "input": "8 fresh or thawed frozen curry leaves",
+        "name": "curry leaves"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>cumin seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon cumin seeds",
+        "name": "cumin seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, chopped</span>",
+        "qty": "1",
+        "comment": "medium, chopped",
+        "input": "1 medium onion, chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>fresh green</span><span class='name'>chile</span><span class='comment'>( such as Thai or serrano; 2 1/2 inches ) , minced</span><span class='other'>,</span><span class='comment'>including seeds</span>",
+        "comment": "fresh green (such as Thai or serrano; 2 1/2 inches), minced including seeds",
+        "other": ",",
+        "name": "chile",
+        "input": "1 fresh green chile (such as Thai or serrano; 2 1/2 inches), minced, including seeds",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>turmeric</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon turmeric",
+        "name": "turmeric"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='name'>Special</span><span class='comment'>equipment: a well-seasoned 10-inch round cast-iron griddle or a 10-inch nonstick heavy skillet</span>",
+        "comment": "equipment: a well-seasoned 10-inch round cast-iron griddle or a 10-inch nonstick heavy skillet",
+        "input": "Special equipment: a well-seasoned 10-inch round cast-iron griddle or a 10-inch nonstick heavy skillet",
+        "name": "Special"
+    },
+    {
+        "display": "<span class='name'>Accompaniment: bottled mango chutney</span>",
+        "input": "Accompaniment: bottled mango chutney",
+        "name": "Accompaniment: bottled mango chutney"
+    }
+]

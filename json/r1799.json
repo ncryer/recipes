@@ -1,0 +1,22 @@
+[
+    {
+        "display": "<span class='comment'>Crushed</span><span class='name'>ice</span>",
+        "comment": "Crushed",
+        "input": "Crushed ice",
+        "name": "ice"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>ounces</span><span class='name'>white cr\u00e8me de menthe</span>",
+        "unit": "ounce",
+        "qty": "2",
+        "input": "2 ounces white cr\u00e8me de menthe",
+        "name": "white cr\u00e8me de menthe"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>ounce</span><span class='name'>brandy</span>",
+        "unit": "ounce",
+        "qty": "1/2",
+        "input": "1/2 ounce brandy",
+        "name": "brandy"
+    }
+]

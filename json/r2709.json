@@ -1,0 +1,54 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>medium</span><span class='name'>beets</span><span class='comment'>, trimmed</span>",
+        "qty": "4",
+        "comment": "medium, trimmed",
+        "input": "4 medium beets, trimmed",
+        "name": "beets"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>rice vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons rice vinegar",
+        "name": "rice vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>reduced-sodium</span><span class='name'>soy sauce</span>",
+        "comment": "reduced-sodium",
+        "unit": "teaspoon",
+        "name": "soy sauce",
+        "input": "2 teaspoons reduced-sodium soy sauce",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>minced peeled fresh</span><span class='name'>ginger</span>",
+        "comment": "minced peeled fresh",
+        "unit": "teaspoon",
+        "name": "ginger",
+        "input": "2 teaspoons minced peeled fresh ginger",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>medium</span><span class='name'>red onion</span><span class='comment'>, thinly sliced</span>",
+        "qty": "1/2",
+        "comment": "medium, thinly sliced",
+        "input": "1/2 medium red onion, thinly sliced",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='comment'>fresh</span><span class='name'>spinach leaves</span><span class='comment'>( about 8 ounces ) , trimmed</span>",
+        "comment": "fresh (about 8 ounces), trimmed",
+        "unit": "cup",
+        "name": "spinach leaves",
+        "input": "8 cups fresh spinach leaves (about 8 ounces), trimmed",
+        "qty": "8"
+    }
+]

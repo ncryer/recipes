@@ -1,0 +1,42 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>Golden Delicious</span><span class='name'>apples</span><span class='other'>,</span><span class='comment'>unpeeled</span><span class='other'>,</span><span class='comment'>halved</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>thinly sliced lengthwise</span>",
+        "comment": "Golden Delicious unpeeled halved cored thinly sliced lengthwise",
+        "other": ",, , ,",
+        "name": "apples",
+        "input": "4 Golden Delicious apples, unpeeled, halved, cored, thinly sliced lengthwise",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>Bosc pears</span><span class='other'>,</span><span class='comment'>unpeeled</span><span class='other'>,</span><span class='comment'>halved</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>thinly sliced lengthwise</span>",
+        "comment": "unpeeled halved cored thinly sliced lengthwise",
+        "other": ",, , ,",
+        "name": "Bosc pears",
+        "input": "4 Bosc pears, unpeeled, halved, cored, thinly sliced lengthwise",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>minced fresh</span><span class='name'>rosemary</span>",
+        "comment": "minced fresh",
+        "unit": "tablespoon",
+        "name": "rosemary",
+        "input": "1 tablespoon minced fresh rosemary",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Fresh</span><span class='name'>rosemary</span><span class='unit'>sprigs</span><span class='other'>(</span><span class='comment'>optional</span><span class='other'>)</span>",
+        "comment": "Fresh optional",
+        "other": "()",
+        "unit": "sprig",
+        "input": "Fresh rosemary sprigs (optional)",
+        "name": "rosemary"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>wheat berries*</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup wheat berries*",
+        "name": "wheat berries*"
+    },
+    {
+        "display": "<span class='qty'>5 3/4</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "5 3/4",
+        "input": "5 3/4 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>basmati rice**</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup basmati rice**",
+        "name": "basmati rice**"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 garlic cloves, minced",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='comment'>1 6-ounce package baby</span><span class='name'>spinach leaves</span>",
+        "comment": "1 6-ounce package baby",
+        "input": "1 6-ounce package baby spinach leaves",
+        "name": "spinach leaves"
+    }
+]

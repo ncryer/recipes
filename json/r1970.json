@@ -1,0 +1,87 @@
+[
+    {
+        "display": "<span class='comment'>1 16-ounce package dried Great Northern</span><span class='name'>beans</span><span class='comment'>( about 2 1/2 cups )</span>",
+        "comment": "1 16-ounce package dried Great Northern (about 2 1/2 cups)",
+        "input": "1 16-ounce package dried Great Northern beans (about 2 1/2 cups)",
+        "name": "beans"
+    },
+    {
+        "display": "<span class='qty'>16</span><span class='unit'>cups</span><span class='comment'>( or more</span><span class='other'>)</span><span class='name'>water</span>",
+        "comment": "(or more",
+        "other": ")",
+        "unit": "cup",
+        "name": "water",
+        "input": "16 cups (or more) water",
+        "qty": "16"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>, unpeeled ,</span><span class='comment'>plus 3</span><span class='name'>garlic</span><span class='comment'>cloves</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "plus 3 cloves peeled chopped",
+        "other": ", unpeeled, , ,",
+        "unit": "clove",
+        "name": "garlic garlic",
+        "input": "5 garlic cloves, unpeeled, plus 3 garlic cloves, peeled, chopped",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>celery</span><span class='unit'>stalk</span><span class='other'>,</span><span class='comment'>cut in half</span>",
+        "comment": "cut in half",
+        "other": ",",
+        "unit": "stalk",
+        "name": "celery",
+        "input": "1 celery stalk, cut in half",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "5",
+        "input": "5 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>medium</span><span class='name'>onions</span><span class='comment'>, chopped ( about 3 cups )</span>",
+        "qty": "2",
+        "comment": "medium, chopped (about 3 cups)",
+        "input": "2 medium onions, chopped (about 3 cups)",
+        "name": "onions"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>14 1/2-ounce can diced</span><span class='name'>tomatoes</span><span class='comment'>in juice</span>",
+        "qty": "1",
+        "comment": "14 1/2-ounce can diced in juice",
+        "input": "1 14 1/2-ounce can diced tomatoes in juice",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>rosemary</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "rosemary",
+        "input": "1 tablespoon chopped fresh rosemary",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>sage</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "sage",
+        "input": "1 tablespoon chopped fresh sage",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>celery salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon celery salt",
+        "name": "celery salt"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>tubettini or elbow</span><span class='name'>macaroni</span><span class='comment'>( about 6 ounces )</span>",
+        "comment": "tubettini or elbow (about 6 ounces)",
+        "unit": "cup",
+        "name": "macaroni",
+        "input": "3/4 cup tubettini or elbow macaroni (about 6 ounces)",
+        "qty": "3/4"
+    }
+]

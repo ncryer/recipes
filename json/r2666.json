@@ -1,0 +1,96 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>cups</span><span class='comment'>1/2-inch cubes seeded</span><span class='name'>watermelon</span><span class='comment'>( from 2-pound piece )</span>",
+        "comment": "1/2-inch cubes seeded (from 2-pound piece)",
+        "unit": "cup",
+        "name": "watermelon",
+        "input": "2 1/2 cups 1/2-inch cubes seeded watermelon (from 2-pound piece)",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='name'>5-ounce disposable paper cups</span>",
+        "qty": "8",
+        "input": "8 5-ounce disposable paper cups",
+        "name": "5-ounce disposable paper cups"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='comment'>ice</span><span class='name'>pop</span><span class='comment'>sticks or wooden coffee stirrers</span>",
+        "qty": "8",
+        "comment": "ice sticks or wooden coffee stirrers",
+        "input": "8 ice pop sticks or wooden coffee stirrers",
+        "name": "pop"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/2 cup fresh lemon juice",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>orange juice</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup orange juice",
+        "name": "orange juice"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>vanilla extract</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon vanilla extract",
+        "name": "vanilla extract"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>fresh</span><span class='name'>blueberries</span><span class='comment'>( from three 1/2-pint containers )</span>",
+        "comment": "fresh (from three 1/2-pint containers)",
+        "unit": "cup",
+        "name": "blueberries",
+        "input": "2 cups fresh blueberries (from three 1/2-pint containers)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "5",
+        "input": "5 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "1 teaspoon fresh lemon juice",
+        "qty": "1"
+    }
+]

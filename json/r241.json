@@ -1,0 +1,58 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>blanched</span><span class='name'>hazelnuts</span>",
+        "comment": "blanched",
+        "unit": "cup",
+        "name": "hazelnuts",
+        "input": "1/2 cup blanched hazelnuts",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>rhubarb stalks</span><span class='other'>,</span><span class='comment'>thinly sliced on the diagonal</span>",
+        "comment": "thinly sliced on the diagonal",
+        "other": ",",
+        "name": "rhubarb stalks",
+        "input": "2 rhubarb stalks, thinly sliced on the diagonal",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>Cointreau</span><span class='comment'>or fresh</span><span class='name'>orange juice</span>",
+        "comment": "or fresh",
+        "unit": "tablespoon",
+        "name": "Cointreau orange juice",
+        "input": "1 tablespoon Cointreau or fresh orange juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>strawberries</span><span class='other'>,</span><span class='comment'>hulled , quartered</span>",
+        "comment": "hulled, quartered",
+        "other": ",",
+        "unit": "pound",
+        "name": "strawberries",
+        "input": "2 pounds strawberries, hulled, quartered",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>torn fresh</span><span class='name'>mint leaves</span>",
+        "comment": "torn fresh",
+        "unit": "cup",
+        "name": "mint leaves",
+        "input": "1/4 cup torn fresh mint leaves",
+        "qty": "1/4"
+    }
+]

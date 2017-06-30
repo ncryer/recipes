@@ -1,0 +1,37 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>pound</span><span class='name'>farfalle</span><span class='other'>(</span><span class='comment'>bow tie-shaped pasta</span><span class='other'>)</span>",
+        "comment": "bow tie-shaped pasta",
+        "other": "()",
+        "unit": "pound",
+        "name": "farfalle",
+        "input": "3/4 pound farfalle (bow tie-shaped pasta)",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='other'>to</span><span class='range_end'>4</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span><span class='comment'>, or to taste</span>",
+        "comment": "extra-virgin, or to taste",
+        "other": "to",
+        "unit": "tablespoon",
+        "qty": "3",
+        "range_end": "4",
+        "input": "3 to 4 tablespoons extra-virgin olive oil, or to taste",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>minced fresh</span><span class='name'>mint leaves</span>",
+        "comment": "minced fresh",
+        "unit": "tablespoon",
+        "name": "mint leaves",
+        "input": "2 tablespoons minced fresh mint leaves",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>minced fresh</span><span class='name'>parsley leaves</span>",
+        "comment": "minced fresh",
+        "unit": "tablespoon",
+        "name": "parsley leaves",
+        "input": "2 tablespoons minced fresh parsley leaves",
+        "qty": "2"
+    }
+]

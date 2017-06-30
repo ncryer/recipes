@@ -1,0 +1,25 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>pounds</span><span class='comment'>small boiling</span><span class='name'>potatoes</span>",
+        "comment": "small boiling",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "2 1/2 pounds small boiling potatoes",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>thyme leaves</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "thyme leaves",
+        "input": "1 tablespoon chopped fresh thyme leaves",
+        "qty": "1"
+    }
+]

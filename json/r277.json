@@ -1,0 +1,24 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>bunches</span><span class='name'>kale</span>",
+        "unit": "bunch",
+        "qty": "2",
+        "input": "2 bunches kale",
+        "name": "kale"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>mangoes</span><span class='other'>,</span><span class='comment'>pitted</span>",
+        "comment": "pitted",
+        "other": ",",
+        "name": "mangoes",
+        "input": "2 mangoes, pitted",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large Granny Smith</span><span class='name'>apple</span><span class='comment'>, sliced</span>",
+        "qty": "1",
+        "comment": "large Granny Smith, sliced",
+        "input": "1 large Granny Smith apple, sliced",
+        "name": "apple"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>small</span><span class='name'>red potatoes</span>",
+        "comment": "small",
+        "unit": "pound",
+        "name": "red potatoes",
+        "input": "1 pound small red potatoes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>asparagus</span><span class='other'>,</span><span class='comment'>trimmed and bottom 2 inches of stalks peeled</span>",
+        "comment": "trimmed and bottom 2 inches of stalks peeled",
+        "other": ",",
+        "unit": "pound",
+        "name": "asparagus",
+        "input": "2 pounds asparagus, trimmed and bottom 2 inches of stalks peeled",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "1 tablespoon extra-virgin olive oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>balsamic vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon balsamic vinegar",
+        "name": "balsamic vinegar"
+    },
+    {
+        "display": "<span class='comment'>coarse</span><span class='name'>salt</span><span class='comment'>to taste</span>",
+        "comment": "coarse to taste",
+        "input": "coarse salt to taste",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='comment'>freshly ground</span><span class='name'>black pepper</span><span class='comment'>to taste</span>",
+        "comment": "freshly ground to taste",
+        "input": "freshly ground black pepper to taste",
+        "name": "black pepper"
+    }
+]

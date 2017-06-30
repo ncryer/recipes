@@ -1,0 +1,25 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>green peas</span><span class='other'>(</span><span class='comment'>frozen and defrosted , or fresh\u2014not canned )</span>",
+        "comment": "frozen and defrosted, or fresh\u2014not canned)",
+        "other": "(",
+        "unit": "cup",
+        "name": "green peas",
+        "input": "3 cups green peas (frozen and defrosted, or fresh\u2014not canned)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>vegetable stock</span><span class='comment'>or broth</span>",
+        "comment": "or broth",
+        "unit": "cup",
+        "name": "vegetable stock",
+        "input": "2 cups vegetable stock or broth",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>mint leaves</span>",
+        "qty": "3",
+        "input": "3 mint leaves",
+        "name": "mint leaves"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>red bell pepper</span><span class='comment'>( about 1 small )</span>",
+        "comment": "chopped (about 1 small)",
+        "unit": "cup",
+        "name": "red bell pepper",
+        "input": "1 cup chopped red bell pepper (about 1 small)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>onion</span><span class='comment'>( about</span><span class='qty'>1</span><span class='comment'>small )</span>",
+        "comment": "chopped (about small)",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1/2 cup chopped onion (about 1 small)",
+        "qty": "1/2 1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>packed fresh</span><span class='name'>coriander</span><span class='comment'>sprigs</span><span class='other'>,</span><span class='comment'>washed well and spun dry</span>",
+        "comment": "packed fresh sprigs washed well and spun dry",
+        "other": ",",
+        "unit": "cup",
+        "name": "coriander",
+        "input": "1/4 cup packed fresh coriander sprigs, washed well and spun dry",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, minced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>oregano</span><span class='comment'>, crumbled</span>",
+        "comment": "dried, crumbled",
+        "unit": "teaspoon",
+        "name": "oregano",
+        "input": "1 teaspoon dried oregano, crumbled",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>cumin seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon cumin seeds",
+        "name": "cumin seeds"
+    },
+    {
+        "display": "<span class='comment'>twelve 1/4-inch-thick</span><span class='unit'>slices</span><span class='comment'>nonfat country-style</span><span class='name'>bread</span><span class='comment'>( 12 ounces total )</span>",
+        "unit": "slice",
+        "comment": "twelve 1/4-inch-thick nonfat country-style (12 ounces total)",
+        "input": "twelve 1/4-inch-thick slices nonfat country-style bread (12 ounces total)",
+        "name": "bread"
+    }
+]

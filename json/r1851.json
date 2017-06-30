@@ -1,0 +1,38 @@
+[
+    {
+        "display": "<span class='qty'>12</span><span class='unit'>ears</span><span class='name'>corn</span><span class='other'>,</span><span class='comment'>shucked</span>",
+        "comment": "shucked",
+        "other": ",",
+        "unit": "ear",
+        "name": "corn",
+        "input": "12 ears corn, shucked",
+        "qty": "12"
+    },
+    {
+        "display": "<span class='qty'>extra-virgin</span><span class='name'>olive oil</span><span class='comment'>to taste</span>",
+        "qty": "extra-virgin",
+        "comment": "to taste",
+        "input": "extra-virgin olive oil to taste",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1 teaspoon ground cumin",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>coarse</span><span class='name'>salt</span><span class='comment'>to taste</span>",
+        "comment": "coarse to taste",
+        "input": "coarse salt to taste",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='comment'>freshly ground</span><span class='name'>black pepper</span><span class='comment'>to taste</span>",
+        "comment": "freshly ground to taste",
+        "input": "freshly ground black pepper to taste",
+        "name": "black pepper"
+    }
+]

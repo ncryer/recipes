@@ -1,0 +1,60 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>vanilla bean</span><span class='other'>,</span><span class='comment'>halved lengthwise</span>",
+        "comment": "halved lengthwise",
+        "other": ",",
+        "name": "vanilla bean",
+        "input": "1/2 vanilla bean, halved lengthwise",
+        "qty": "1/2"
+    },
+    {
+        "other": ")",
+        "display": "<span class='comment'>1 ( 1/4-inch-thick</span><span class='other'>)</span><span class='name'>lemon slice</span>",
+        "comment": "1 (1/4-inch-thick",
+        "input": "1 (1/4-inch-thick) lemon slice",
+        "name": "lemon slice"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>cornstarch stirred</span><span class='comment'>with 2 tablespoons cold water</span>",
+        "comment": "with 2 tablespoons cold water",
+        "unit": "tablespoon",
+        "name": "cornstarch stirred",
+        "input": "1 tablespoon cornstarch stirred with 2 tablespoons cold water",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pints</span><span class='name'>strawberries</span><span class='comment'>( 1 1/2 lb ) , trimmed and large berries halved</span>",
+        "comment": "(1 1/2 lb), trimmed and large berries halved",
+        "unit": "pint",
+        "name": "strawberries",
+        "input": "2 pints strawberries (1 1/2 lb), trimmed and large berries halved",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>kirsch</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup kirsch",
+        "name": "kirsch"
+    },
+    {
+        "display": "<span class='comment'>Accompaniment:</span><span class='name'>vanilla ice cream</span>",
+        "comment": "Accompaniment:",
+        "input": "Accompaniment: vanilla ice cream",
+        "name": "vanilla ice cream"
+    }
+]

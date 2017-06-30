@@ -1,0 +1,46 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>pounds</span><span class='name'>green Swiss chard</span><span class='comment'>( 2 to 3 bunches; see Cooks' notes )</span>",
+        "comment": "(2 to 3 bunches; see Cooks' notes)",
+        "unit": "pound",
+        "name": "green Swiss chard",
+        "input": "3 pounds green Swiss chard (2 to 3 bunches; see Cooks' notes)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, halved lengthwise and thinly sliced</span>",
+        "qty": "1",
+        "comment": "medium, halved lengthwise and thinly sliced",
+        "input": "1 medium onion, halved lengthwise and thinly sliced",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>water</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>bottled</span><span class='name'>white horseradish</span><span class='comment'>( not drained ) , or to taste</span>",
+        "comment": "bottled (not drained), or to taste",
+        "unit": "tablespoon",
+        "name": "white horseradish",
+        "input": "1 1/2 tablespoons bottled white horseradish (not drained), or to taste",
+        "qty": "1 1/2"
+    }
+]

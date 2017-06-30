@@ -1,0 +1,54 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='other'>small</span><span class='unit'>bunch</span><span class='name'>broccoli</span><span class='comment'>( about 1 1/4 pounds )</span>",
+        "comment": "(about 1 1/4 pounds)",
+        "other": "small",
+        "unit": "bunch",
+        "name": "broccoli",
+        "input": "1 small bunch broccoli (about 1 1/4 pounds)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>very thin matchsticks of peeled fresh gingerroot</span>",
+        "unit": "tablespoon",
+        "comment": "very thin matchsticks of peeled fresh gingerroot",
+        "input": "3 tablespoons very thin matchsticks of peeled fresh gingerroot",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>sliced thin</span>",
+        "comment": "sliced thin",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, sliced thin",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>water</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>soy sauce</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons soy sauce",
+        "name": "soy sauce"
+    },
+    {
+        "display": "<span class='qty'>seasoned</span><span class='name'>rice vinegar</span>",
+        "qty": "seasoned",
+        "input": "seasoned rice vinegar",
+        "name": "rice vinegar"
+    }
+]

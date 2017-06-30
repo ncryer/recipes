@@ -1,0 +1,44 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>coconut butter</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup coconut butter",
+        "name": "coconut butter"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>raw cacao</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup raw cacao",
+        "name": "raw cacao"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>agave nectar</span>",
+        "unit": "tablespoon",
+        "qty": "6",
+        "input": "6 tablespoons agave nectar",
+        "name": "agave nectar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>sea salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon sea salt",
+        "name": "sea salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>vanilla extract</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons vanilla extract",
+        "name": "vanilla extract"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>cacao nibs</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup cacao nibs",
+        "name": "cacao nibs"
+    }
+]

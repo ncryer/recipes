@@ -1,0 +1,46 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>pounds</span><span class='name'>green beans</span><span class='comment'>, preferably haricot verts , trimmed</span>",
+        "comment": ", preferably haricot verts, trimmed",
+        "unit": "pound",
+        "name": "green beans",
+        "input": "2 1/2 pounds green beans, preferably haricot verts, trimmed",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span><span class='comment'>, plus more</span>",
+        "comment": "kosher, plus more",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 teaspoon kosher salt, plus more",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>lemons</span>",
+        "qty": "3",
+        "input": "3 lemons",
+        "name": "lemons"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>leeks</span><span class='comment'>, white and light-green parts only</span>",
+        "qty": "2",
+        "comment": "large, white and light-green parts only",
+        "input": "2 large leeks, white and light-green parts only",
+        "name": "leeks"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/2 teaspoon freshly ground black pepper",
+        "qty": "1/2"
+    }
+]

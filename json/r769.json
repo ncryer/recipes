@@ -1,0 +1,70 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>loosely packed fresh flat-leaf</span><span class='name'>parsley leaves</span>",
+        "comment": "loosely packed fresh flat-leaf",
+        "unit": "cup",
+        "name": "parsley leaves",
+        "input": "1/2 cup loosely packed fresh flat-leaf parsley leaves",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>drained</span><span class='name'>capers</span>",
+        "comment": "drained",
+        "unit": "tablespoon",
+        "name": "capers",
+        "input": "2 tablespoons drained capers",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>peeled and sliced</span>",
+        "comment": "medium peeled and sliced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 medium garlic clove, peeled and sliced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>oregano</span><span class='comment'>, preferably Sicilian</span>",
+        "comment": "dried, preferably Sicilian",
+        "unit": "teaspoon",
+        "name": "oregano",
+        "input": "1/2 teaspoon dried oregano, preferably Sicilian",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>minced peperoncini or red pepper flakes</span>",
+        "unit": "teaspoon",
+        "comment": "minced peperoncini or red pepper flakes",
+        "input": "1/4 teaspoon minced peperoncini or red pepper flakes",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt and freshly ground black pepper",
+        "name": "salt and black pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>eggplant</span><span class='comment'>( 3/4 pound ) , peeled and sliced about 1/3\" thick</span>",
+        "qty": "1",
+        "comment": "medium (3/4 pound), peeled and sliced about 1/3\" thick",
+        "input": "1 medium eggplant (3/4 pound), peeled and sliced about 1/3\" thick",
+        "name": "eggplant"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>balsamic vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons balsamic vinegar",
+        "name": "balsamic vinegar"
+    }
+]

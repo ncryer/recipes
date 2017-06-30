@@ -1,0 +1,57 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span>",
+        "other": "large",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 large garlic cloves",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/2 cup chopped fresh cilantro",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>ground</span><span class='name'>ginger</span>",
+        "comment": "ground",
+        "unit": "tablespoon",
+        "name": "ginger",
+        "input": "1 tablespoon ground ginger",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "tablespoon",
+        "name": "cumin",
+        "input": "1 tablespoon ground cumin",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='comment'>large</span><span class='name'>carrots</span><span class='comment'>( about 1 1/2 pounds ) , peeled</span><span class='other'>,</span><span class='comment'>cut into 1/4-inch-thick rounds</span>",
+        "comment": "large (about 1 1/2 pounds), peeled cut into 1/4-inch-thick rounds",
+        "other": ",",
+        "name": "carrots",
+        "input": "5 large carrots (about 1 1/2 pounds), peeled, cut into 1/4-inch-thick rounds",
+        "qty": "5"
+    }
+]

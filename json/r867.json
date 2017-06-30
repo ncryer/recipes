@@ -1,0 +1,50 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>white asparagus spears</span><span class='comment'>, rinsed and trimmed</span>",
+        "comment": ", rinsed and trimmed",
+        "unit": "pound",
+        "name": "white asparagus spears",
+        "input": "1 pound white asparagus spears, rinsed and trimmed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 cloves garlic, minced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='comment'>to taste</span>",
+        "comment": "Kosher to taste",
+        "input": "Kosher salt to taste",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span><span class='comment'>to taste</span>",
+        "comment": "Freshly ground to taste",
+        "input": "Freshly ground black pepper to taste",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>lemon</span><span class='comment'>for squeezing</span>",
+        "qty": "1/2",
+        "comment": "for squeezing",
+        "input": "1/2 lemon for squeezing",
+        "name": "lemon"
+    },
+    {
+        "display": "<span class='comment'>Fresh</span><span class='name'>thyme leaves</span><span class='comment'>( optional</span><span class='other'>)</span>",
+        "comment": "Fresh (optional",
+        "input": "Fresh thyme leaves (optional)",
+        "name": "thyme leaves",
+        "other": ")"
+    },
+    {
+        "display": "<span class='name'>Olive oil</span>",
+        "input": "Olive oil",
+        "name": "Olive oil"
+    }
+]

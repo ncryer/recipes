@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='name'>string beans</span>",
+        "unit": "pound",
+        "qty": "1 1/2",
+        "input": "1 1/2 pounds string beans",
+        "name": "string beans"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>shallots</span><span class='comment'>cut into 1/4-inch slices</span>",
+        "qty": "2",
+        "comment": "large cut into 1/4-inch slices",
+        "input": "2 large shallots cut into 1/4-inch slices",
+        "name": "shallots"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/2 teaspoon kosher salt",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "other": "1/8",
+        "unit": "teaspoon",
+        "input": "1/8 teaspoon freshly ground black pepper",
+        "name": "black pepper"
+    }
+]

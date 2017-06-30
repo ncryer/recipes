@@ -1,0 +1,88 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>fennel</span><span class='unit'>bulb</span><span class='comment'>( sometimes called anise )</span>",
+        "comment": "large (sometimes called anise)",
+        "unit": "bulb",
+        "name": "fennel",
+        "input": "1 large fennel bulb (sometimes called anise)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>Belgian endives</span><span class='other'>,</span><span class='comment'>trimmed</span>",
+        "comment": "trimmed",
+        "other": ",",
+        "name": "Belgian endives",
+        "input": "3 Belgian endives, trimmed",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='comment'>small ( not baby )</span><span class='name'>carrots</span><span class='comment'>with tops , greens trimmed to 2 inches</span>",
+        "qty": "12",
+        "comment": "small (not baby) with tops, greens trimmed to 2 inches",
+        "input": "12 small (not baby) carrots with tops, greens trimmed to 2 inches",
+        "name": "carrots"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>lb small zucchini</span><span class='comment'>, halved lengthwise</span>",
+        "qty": "2",
+        "comment": ", halved lengthwise",
+        "input": "2 lb small zucchini, halved lengthwise",
+        "name": "lb small zucchini"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pints</span><span class='comment'>red and yellow pear or cherry</span><span class='name'>tomatoes</span>",
+        "comment": "red and yellow pear or cherry",
+        "unit": "pint",
+        "name": "tomatoes",
+        "input": "2 pints red and yellow pear or cherry tomatoes",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>bunches</span><span class='name'>radishes</span><span class='other'>,</span><span class='comment'>trimmed</span>",
+        "comment": "trimmed",
+        "other": ",",
+        "unit": "bunch",
+        "name": "radishes",
+        "input": "2 bunches radishes, trimmed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>bunches</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>trimmed</span>",
+        "comment": "trimmed",
+        "other": ",",
+        "unit": "bunch",
+        "name": "scallions",
+        "input": "2 bunches scallions, trimmed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>lb</span><span class='name'>green beans</span><span class='other'>,</span><span class='comment'>trimmed</span>",
+        "comment": "lb trimmed",
+        "other": ",",
+        "name": "green beans",
+        "input": "2 lb green beans, trimmed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>lb cauliflower</span><span class='other'>,</span><span class='comment'>cut into florets</span>",
+        "comment": "cut into florets",
+        "other": ",",
+        "name": "lb cauliflower",
+        "input": "2 lb cauliflower, cut into florets",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>lb small</span><span class='name'>turnips</span><span class='comment'>, peeled</span>",
+        "qty": "2",
+        "comment": "lb small, peeled",
+        "input": "2 lb small turnips, peeled",
+        "name": "turnips"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='name'>lb</span><span class='comment'>fingerling , Yukon Gold , or red-skinned</span><span class='name'>potatoes</span>",
+        "qty": "1 1/2",
+        "comment": "fingerling, Yukon Gold, or red-skinned",
+        "input": "1 1/2 lb fingerling, Yukon Gold, or red-skinned potatoes",
+        "name": "lb potatoes"
+    }
+]

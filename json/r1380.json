@@ -1,0 +1,40 @@
+[
+    {
+        "display": "<span class='qty'>12</span><span class='name'>clementines</span><span class='other'>,</span><span class='comment'>peeled</span>",
+        "comment": "peeled",
+        "other": ",",
+        "name": "clementines",
+        "input": "12 clementines, peeled",
+        "qty": "12"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>orange-flavored liqueur</span><span class='comment'>( or dark rum</span><span class='other'>)</span>",
+        "comment": "(or dark rum",
+        "other": ")",
+        "unit": "cup",
+        "name": "orange-flavored liqueur",
+        "input": "1/4 cup orange-flavored liqueur (or dark rum)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>lemon juice</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons lemon juice",
+        "name": "lemon juice"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>pomegranate seeds</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup pomegranate seeds",
+        "name": "pomegranate seeds"
+    }
+]

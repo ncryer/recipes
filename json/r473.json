@@ -1,0 +1,46 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>long-grain white</span><span class='name'>rice</span>",
+        "comment": "long-grain white",
+        "unit": "cup",
+        "name": "rice",
+        "input": "2 cups long-grain white rice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>medium</span><span class='name'>onion</span>",
+        "qty": "1/2",
+        "comment": "medium",
+        "input": "1/2 medium onion",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span>",
+        "unit": "clove",
+        "qty": "2",
+        "input": "2 cloves garlic",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>canola oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons canola oil",
+        "name": "canola oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>sprigs</span><span class='comment'>fresh</span><span class='name'>cilantro</span><span class='comment'>or flat-leaf</span><span class='name'>parsley</span>",
+        "comment": "fresh or flat-leaf",
+        "unit": "sprig",
+        "name": "cilantro parsley",
+        "input": "2 sprigs fresh cilantro or flat-leaf parsley",
+        "qty": "2"
+    }
+]

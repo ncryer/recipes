@@ -1,0 +1,56 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>carrots</span><span class='other'>,</span><span class='comment'>peeled and cut into 1/4-inch slices</span>",
+        "comment": "peeled and cut into 1/4-inch slices",
+        "other": ",",
+        "unit": "pound",
+        "name": "carrots",
+        "input": "2 pounds carrots, peeled and cut into 1/4-inch slices",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>finely chopped fresh flat-leaf</span><span class='name'>parsley</span>",
+        "comment": "finely chopped fresh flat-leaf",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/4 cup finely chopped fresh flat-leaf parsley",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>minced</span><span class='name'>garlic</span>",
+        "comment": "minced",
+        "unit": "teaspoon",
+        "name": "garlic",
+        "input": "2 teaspoons minced garlic",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>finely grated fresh</span><span class='name'>lemon zest</span>",
+        "comment": "finely grated fresh",
+        "unit": "teaspoon",
+        "name": "lemon zest",
+        "input": "2 teaspoons finely grated fresh lemon zest",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    }
+]

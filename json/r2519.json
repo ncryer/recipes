@@ -1,0 +1,34 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 1-pound )</span><span class='name'>eggplant</span><span class='comment'>, halved lengthwise and flesh scored in a crosshatch pattern</span>",
+        "qty": "1",
+        "comment": "(1-pound), halved lengthwise and flesh scored in a crosshatch pattern",
+        "input": "1 (1-pound) eggplant, halved lengthwise and flesh scored in a crosshatch pattern",
+        "name": "eggplant"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "4 tablespoons extra-virgin olive oil",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>Kalamata or other brine-cured</span><span class='name'>black olives</span><span class='other'>,</span><span class='comment'>rinsed</span><span class='other'>,</span><span class='comment'>patted dry</span><span class='other'>, and pitted</span>",
+        "comment": "Kalamata or other brine-cured rinsed patted dry",
+        "other": ",, , and pitted",
+        "unit": "cup",
+        "name": "black olives",
+        "input": "1/4 cup Kalamata or other brine-cured black olives, rinsed, patted dry, and pitted",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>drained bottled</span><span class='name'>capers</span><span class='comment'>, rinsed</span>",
+        "comment": "drained bottled, rinsed",
+        "unit": "tablespoon",
+        "name": "capers",
+        "input": "1 tablespoon drained bottled capers, rinsed",
+        "qty": "1"
+    }
+]

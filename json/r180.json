@@ -1,0 +1,76 @@
+[
+    {
+        "display": "<span class='name'>Nonstick vegetable oil spray</span>",
+        "input": "Nonstick vegetable oil spray",
+        "name": "Nonstick vegetable oil spray"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>cashews</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups cashews",
+        "name": "cashews"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>tablespoons</span><span class='comment'>raw</span><span class='name'>sesame seeds</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "raw divided",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "sesame seeds",
+        "input": "8 tablespoons raw sesame seeds, divided",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>flaxseed</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "flaxseed",
+        "input": "6 tablespoons flaxseed, divided",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>wheat bran</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup wheat bran",
+        "name": "wheat bran"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "3/4 teaspoon kosher salt",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cardamom</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cardamom",
+        "input": "1/4 teaspoon ground cardamom",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>pure</span><span class='name'>maple syrup</span>",
+        "comment": "pure",
+        "unit": "cup",
+        "name": "maple syrup",
+        "input": "1/2 cup pure maple syrup",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>coconut oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon coconut oil",
+        "name": "coconut oil"
+    },
+    {
+        "display": "<span class='name'>One 8x8\" baking pan</span><span class='comment'>, Parchment paper</span>",
+        "comment": ", Parchment paper",
+        "input": "One 8x8\" baking pan, Parchment paper",
+        "name": "One 8x8\" baking pan"
+    }
+]

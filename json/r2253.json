@@ -1,0 +1,25 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='other'>a 4-inch</span><span class='name'>cinnamon</span><span class='unit'>stick</span>",
+        "unit": "stick",
+        "other": "a 4-inch",
+        "input": "a 4-inch cinnamon stick",
+        "name": "cinnamon"
+    },
+    {
+        "display": "<span class='qty'>3 1/2</span><span class='unit'>pounds</span><span class='comment'>firm</span><span class='name'>papayas</span><span class='comment'>( about 3 small )</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>and cut lengthwise into 1/2-inch-thick strips</span>",
+        "comment": "firm (about 3 small) peeled seeded and cut lengthwise into 1/2-inch-thick strips",
+        "other": ",, ,",
+        "unit": "pound",
+        "name": "papayas",
+        "input": "3 1/2 pounds firm papayas (about 3 small), peeled, seeded, and cut lengthwise into 1/2-inch-thick strips",
+        "qty": "3 1/2"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1 teaspoon ground cumin",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>raw</span><span class='name'>green</span><span class='comment'>( hulled )</span><span class='name'>pumpkin seeds</span><span class='comment'>( pepitas )</span>",
+        "comment": "raw (hulled) (pepitas)",
+        "unit": "tablespoon",
+        "name": "green pumpkin seeds",
+        "input": "2 tablespoons raw green (hulled) pumpkin seeds (pepitas)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>2</span><span class='unit'>tablespoons</span><span class='other'>plus 1/4</span><span class='unit'>teaspoon</span><span class='comment'>extra-virgin olive oil , divided</span>",
+        "unit": "tablespoon teaspoon",
+        "comment": "extra-virgin olive oil, divided",
+        "input": "2 tablespoons plus 1/4 teaspoon extra-virgin olive oil, divided",
+        "other": "2 plus 1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>distilled</span><span class='name'>white vinegar</span>",
+        "comment": "distilled",
+        "unit": "tablespoon",
+        "name": "white vinegar",
+        "input": "1 tablespoon distilled white vinegar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoon</span><span class='name'>finely chopped seeded fresh jalape\u00f1o</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoon finely chopped seeded fresh jalape\u00f1o",
+        "name": "finely chopped seeded fresh jalape\u00f1o"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='comment'>mixed green</span><span class='name'>tomatoes</span><span class='comment'>( not unripe ) , cut into 3/4-inch wedges</span>",
+        "comment": "mixed green (not unripe), cut into 3/4-inch wedges",
+        "unit": "pound",
+        "name": "tomatoes",
+        "input": "1 1/2 pounds mixed green tomatoes (not unripe), cut into 3/4-inch wedges",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>honeydew melon</span><span class='other'>,</span><span class='comment'>cut into 3/4-inch pieces</span>",
+        "comment": "cut into 3/4-inch pieces",
+        "other": ",",
+        "name": "honeydew melon",
+        "input": "1/2 honeydew melon, cut into 3/4-inch pieces",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>packed</span><span class='name'>cilantro leaves</span>",
+        "comment": "packed",
+        "unit": "cup",
+        "name": "cilantro leaves",
+        "input": "1/4 cup packed cilantro leaves",
+        "qty": "1/4"
+    }
+]

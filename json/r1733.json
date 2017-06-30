@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>pomegranate juice</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup pomegranate juice",
+        "name": "pomegranate juice"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='other'>1 1/4-inch-thick</span><span class='unit'>slice</span><span class='comment'>fresh</span><span class='name'>ginger</span>",
+        "comment": "fresh",
+        "other": "1 1/4-inch-thick",
+        "unit": "slice",
+        "input": "1 1/4-inch-thick slice fresh ginger",
+        "name": "ginger"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>orange juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "orange juice",
+        "input": "4 tablespoons fresh orange juice",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>Cointreau</span><span class='comment'>or other</span><span class='name'>orange liqueur</span>",
+        "comment": "or other",
+        "unit": "teaspoon",
+        "name": "Cointreau orange liqueur",
+        "input": "1 teaspoon Cointreau or other orange liqueur",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>750-ml bottle brut</span><span class='name'>Champagne</span><span class='comment'>, well chilled</span>",
+        "qty": "1",
+        "comment": "750-ml bottle brut, well chilled",
+        "input": "1 750-ml bottle brut Champagne, well chilled",
+        "name": "Champagne"
+    }
+]

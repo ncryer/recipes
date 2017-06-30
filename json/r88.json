@@ -1,0 +1,165 @@
+[
+    {
+        "display": "<span class='name'>Nonstick vegetable cooking spray</span>",
+        "input": "Nonstick vegetable cooking spray",
+        "name": "Nonstick vegetable cooking spray"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>pounds</span><span class='comment'>mixed wild</span><span class='name'>mushrooms</span><span class='comment'>, trimmed</span>",
+        "comment": "mixed wild, trimmed",
+        "unit": "pound",
+        "name": "mushrooms",
+        "input": "2 1/2 pounds mixed wild mushrooms, trimmed",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, coarsely chopped</span>",
+        "qty": "1",
+        "comment": "medium, coarsely chopped",
+        "input": "1 medium onion, coarsely chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>peeled , smashed</span>",
+        "comment": "peeled, smashed",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, peeled, smashed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>coriander</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "coriander",
+        "input": "1 teaspoon ground coriander",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1 teaspoon ground cumin",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cardamom</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cardamom",
+        "input": "1/2 teaspoon ground cardamom",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "vegetable oil",
+        "input": "2 tablespoons vegetable oil, divided",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>1 ( 15-ounce ) can</span><span class='name'>chickpeas</span><span class='comment'>, rinsed</span><span class='other'>,</span><span class='comment'>drained</span>",
+        "comment": "1 (15-ounce) can, rinsed drained",
+        "input": "1 (15-ounce) can chickpeas, rinsed, drained",
+        "name": "chickpeas",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>egg</span>",
+        "qty": "1",
+        "comment": "large",
+        "input": "1 large egg",
+        "name": "egg"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>chickpea flour</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup chickpea flour",
+        "name": "chickpea flour"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>coarsely chopped</span><span class='name'>cilantro</span>",
+        "comment": "coarsely chopped",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "3/4 cup coarsely chopped cilantro",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>coarsely chopped</span><span class='name'>parsley</span>",
+        "comment": "coarsely chopped",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1/2 cup coarsely chopped parsley",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "2 teaspoons kosher salt",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>peeled</span>",
+        "comment": "peeled",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, peeled",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>tahini</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup tahini",
+        "name": "tahini"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span><span class='comment'>( from about 2 lemons )</span>",
+        "comment": "fresh (from about 2 lemons)",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "5 tablespoons fresh lemon juice (from about 2 lemons)",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 teaspoon kosher salt",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>pomegranate</span><span class='other'>,</span><span class='comment'>seeds reserved</span>",
+        "comment": "seeds reserved",
+        "other": ",",
+        "name": "pomegranate",
+        "input": "1 pomegranate, seeds reserved",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>coarsely chopped</span><span class='name'>mint</span>",
+        "comment": "coarsely chopped",
+        "unit": "tablespoon",
+        "name": "mint",
+        "input": "2 tablespoons coarsely chopped mint",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>coarsely chopped</span><span class='name'>parsley</span>",
+        "comment": "coarsely chopped",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "2 tablespoons coarsely chopped parsley",
+        "qty": "2"
+    }
+]

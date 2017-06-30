@@ -1,0 +1,58 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='name'>large</span><span class='comment'>( 8-ounce )</span><span class='name'>beet</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>cut into 3/4-inch cubes</span>",
+        "comment": "(8-ounce) peeled cut into 3/4-inch cubes",
+        "other": ", ,",
+        "name": "large beet",
+        "input": "1 large (8-ounce) beet, peeled, cut into 3/4-inch cubes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>drained canned</span><span class='name'>garbanzo beans</span><span class='comment'>( chickpeas; from 15 1/2-ounce can )</span>",
+        "comment": "drained canned (chickpeas; from 15 1/2-ounce can)",
+        "unit": "cup",
+        "name": "garbanzo beans",
+        "input": "1 cup drained canned garbanzo beans (chickpeas; from 15 1/2-ounce can)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span><span class='comment'>plus more for chips</span>",
+        "comment": "extra-virgin plus more for chips",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "3/4 cup extra-virgin olive oil plus more for chips",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>slivered</span><span class='name'>almonds</span>",
+        "comment": "slivered",
+        "unit": "cup",
+        "name": "almonds",
+        "input": "1/4 cup slivered almonds",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>peeled</span>",
+        "comment": "peeled",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "5 garlic cloves, peeled",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>( or more</span><span class='other'>)</span><span class='name'>red wine vinegar</span>",
+        "comment": "(or more",
+        "other": ")",
+        "unit": "tablespoon",
+        "name": "red wine vinegar",
+        "input": "1 1/2 tablespoons (or more) red wine vinegar",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>7-inch-diameter pita breads</span>",
+        "qty": "6",
+        "input": "6 7-inch-diameter pita breads",
+        "name": "7-inch-diameter pita breads"
+    }
+]

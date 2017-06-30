@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>Ma</span><span class='name'>Made</span><span class='comment'>prepared Seville</span><span class='name'>oranges</span><span class='comment'>, * thin-</span><span class='other'>or</span><span class='comment'>thick-cut</span>",
+        "comment": "Ma prepared Seville, * thin- thick-cut",
+        "other": "or",
+        "unit": "cup",
+        "name": "Made oranges",
+        "input": "1 cup Ma Made prepared Seville oranges, * thin- or thick-cut",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>thinly sliced</span><span class='name'>kumquats</span><span class='comment'>( about 5 ounces )</span>",
+        "comment": "thinly sliced (about 5 ounces)",
+        "unit": "cup",
+        "name": "kumquats",
+        "input": "1 cup thinly sliced kumquats (about 5 ounces)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>thinly sliced dried</span><span class='name'>apricots</span><span class='comment'>( about 1/4 pound )</span>",
+        "comment": "thinly sliced dried (about 1/4 pound)",
+        "unit": "cup",
+        "name": "apricots",
+        "input": "1 cup thinly sliced dried apricots (about 1/4 pound)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2 1/4</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "2 1/4",
+        "input": "2 1/4 cups sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>*available</span><span class='name'>at some specialty foods shops</span>",
+        "qty": "*available",
+        "input": "*available at some specialty foods shops",
+        "name": "at some specialty foods shops"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>bananas</span>",
+        "qty": "2",
+        "input": "2 bananas",
+        "name": "bananas"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>semi-sweet</span><span class='name'>chocolate morsels</span>",
+        "comment": "semi-sweet",
+        "unit": "cup",
+        "name": "chocolate morsels",
+        "input": "1/2 cup semi-sweet chocolate morsels",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>nuts ( peanuts , almonds</span><span class='other'>,</span><span class='comment'>cashews , etc )</span>",
+        "comment": "nuts (peanuts, almonds cashews, etc)",
+        "other": ",",
+        "unit": "cup",
+        "input": "1/2 cup nuts (peanuts, almonds, cashews, etc)",
+        "qty": "1/2"
+    }
+]

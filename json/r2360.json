@@ -1,0 +1,42 @@
+[
+    {
+        "display": "<span class='comment'>a 19-ounce</span><span class='unit'>can</span><span class='name'>chick-peas</span><span class='other'>,</span><span class='comment'>rinsed and drained ( about 2 cups )</span>",
+        "comment": "a 19-ounce rinsed and drained (about 2 cups)",
+        "other": ",",
+        "unit": "can",
+        "input": "a 19-ounce can chick-peas, rinsed and drained (about 2 cups)",
+        "name": "chick-peas"
+    },
+    {
+        "display": "<span class='other'>2 tablespoons plus 2</span><span class='unit'>teaspoons</span><span class='name'>olive oil</span><span class='comment'>( preferable extra-virgin )</span>",
+        "comment": "(preferable extra-virgin)",
+        "other": "2 tablespoons plus 2",
+        "unit": "teaspoon",
+        "input": "2 tablespoons plus 2 teaspoons olive oil (preferable extra-virgin)",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>cinnamon sticks</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "halved",
+        "other": ",",
+        "name": "cinnamon sticks",
+        "input": "2 cinnamon sticks, halved",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span><span class='comment'>, or to taste</span>",
+        "comment": "fresh, or to taste",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "2 teaspoons fresh lemon juice, or to taste",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>coriander</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "coriander",
+        "input": "1/4 cup fresh coriander",
+        "qty": "1/4"
+    }
+]

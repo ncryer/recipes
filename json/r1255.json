@@ -1,0 +1,22 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='name'>blood oranges</span>",
+        "qty": "4",
+        "input": "4 blood oranges",
+        "name": "blood oranges"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>12-ounce bag fresh</span><span class='name'>cranberries</span>",
+        "qty": "1",
+        "comment": "12-ounce bag fresh",
+        "input": "1 12-ounce bag fresh cranberries",
+        "name": "cranberries"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup sugar",
+        "name": "sugar"
+    }
+]

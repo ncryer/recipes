@@ -1,0 +1,67 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>coarse</span><span class='name'>salt</span>",
+        "comment": "coarse",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "2 tablespoons coarse salt",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='name'>lentils</span><span class='other'>,</span><span class='comment'>picked over ( about 1 1/4 cups )</span>",
+        "comment": "picked over (about 1 1/4 cups)",
+        "other": ",",
+        "unit": "pound",
+        "name": "lentils",
+        "input": "1/2 pound lentils, picked over (about 1 1/4 cups)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>tahini</span><span class='other'>(</span><span class='comment'>sesame seed paste</span><span class='other'>)</span>",
+        "comment": "sesame seed paste",
+        "other": "()",
+        "unit": "cup",
+        "name": "tahini",
+        "input": "1/2 cup tahini (sesame seed paste)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced and mashed to a paste with 1/4 teaspoon</span><span class='name'>salt</span>",
+        "comment": "minced and mashed to a paste with 1/4 teaspoon",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic salt",
+        "input": "5 garlic cloves, minced and mashed to a paste with 1/4 teaspoon salt",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/2 cup fresh lemon juice",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>1/3 to</span><span class='range_end'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "other": "1/3 to",
+        "unit": "cup",
+        "range_end": "1/2",
+        "input": "1/3 to 1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/2 cup extra-virgin olive oil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>toasted pita</span><span class='name'>wedges</span>",
+        "comment": "toasted pita",
+        "input": "toasted pita wedges",
+        "name": "wedges"
+    }
+]

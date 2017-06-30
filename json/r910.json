@@ -1,0 +1,20 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>pints</span><span class='name'>strawberries</span><span class='other'>,</span><span class='comment'>hulled</span>",
+        "comment": "hulled",
+        "other": ",",
+        "unit": "pint",
+        "name": "strawberries",
+        "input": "3 pints strawberries, hulled",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar cubes</span><span class='comment'>( important to use sugar cubes; it's</span><span class='other'>the</span><span class='comment'>best sugar for jam</span><span class='other'>,</span><span class='comment'>according to my mother )</span>",
+        "comment": "(important to use sugar cubes; it's best sugar for jam according to my mother)",
+        "other": "the ,",
+        "unit": "cup",
+        "name": "sugar cubes",
+        "input": "1/2 cup sugar cubes (important to use sugar cubes; it's the best sugar for jam, according to my mother)",
+        "qty": "1/2"
+    }
+]

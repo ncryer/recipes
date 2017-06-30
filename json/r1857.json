@@ -1,0 +1,63 @@
+[
+    {
+        "display": "<span class='other'>1 cup plus 3</span><span class='unit'>tablespoons</span><span class='name'>orange juice</span>",
+        "unit": "tablespoon",
+        "other": "1 cup plus 3",
+        "input": "1 cup plus 3 tablespoons orange juice",
+        "name": "orange juice"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>dried</span><span class='name'>cranberries</span>",
+        "comment": "dried",
+        "unit": "tablespoon",
+        "name": "cranberries",
+        "input": "6 tablespoons dried cranberries",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>3 1/2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3 1/2",
+        "input": "3 1/2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>white wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons white wine vinegar",
+        "name": "white wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>grated</span><span class='name'>orange peel</span>",
+        "comment": "grated",
+        "unit": "tablespoon",
+        "name": "orange peel",
+        "input": "1 tablespoon grated orange peel",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='comment'>mixed</span><span class='name'>baby greens</span>",
+        "comment": "mixed",
+        "unit": "cup",
+        "name": "baby greens",
+        "input": "6 cups mixed baby greens",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>oranges</span><span class='comment'>, peel and white pith removed , segmented</span>",
+        "qty": "3",
+        "comment": ", peel and white pith removed, segmented",
+        "input": "3 oranges, peel and white pith removed, segmented",
+        "name": "oranges"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>pecans</span><span class='other'>,</span><span class='comment'>toasted</span>",
+        "comment": "toasted",
+        "other": ",",
+        "unit": "cup",
+        "name": "pecans",
+        "input": "3/4 cup pecans, toasted",
+        "qty": "3/4"
+    }
+]

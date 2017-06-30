@@ -1,0 +1,24 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>short-or medium-grain</span><span class='name'>brown rice</span>",
+        "comment": "short-or medium-grain",
+        "unit": "cup",
+        "name": "brown rice",
+        "input": "2 cups short-or medium-grain brown rice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>pearl barley</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup pearl barley",
+        "name": "pearl barley"
+    },
+    {
+        "display": "<span class='qty'>3 1/2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3 1/2",
+        "input": "3 1/2 cups water",
+        "name": "water"
+    }
+]

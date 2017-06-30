@@ -1,0 +1,83 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='name'>bay leaves</span>",
+        "qty": "3",
+        "input": "3 bay leaves",
+        "name": "bay leaves"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>quinoa</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups quinoa",
+        "name": "quinoa"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>small</span><span class='name'>zucchini</span><span class='comment'>, cut into 1-inch cubes</span>",
+        "qty": "2",
+        "comment": "small, cut into 1-inch cubes",
+        "input": "2 small zucchini, cut into 1-inch cubes",
+        "name": "zucchini"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>butternut squash</span><span class='other'>,</span><span class='comment'>peeled and diced</span>",
+        "comment": "peeled and diced",
+        "other": ",",
+        "name": "butternut squash",
+        "input": "1 butternut squash, peeled and diced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>bunches</span><span class='comment'>green</span><span class='name'>onions</span><span class='comment'>, chopped</span>",
+        "comment": "green, chopped",
+        "unit": "bunch",
+        "name": "onions",
+        "input": "2 bunches green onions, chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>dried</span><span class='name'>apricots</span><span class='comment'>, diced</span>",
+        "comment": "dried, diced",
+        "unit": "cup",
+        "name": "apricots",
+        "input": "1 cup dried apricots, diced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>dried</span><span class='name'>cranberries</span>",
+        "comment": "dried",
+        "unit": "cup",
+        "name": "cranberries",
+        "input": "1 cup dried cranberries",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>parsley</span><span class='comment'>, chopped</span>",
+        "comment": "fresh, chopped",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1 cup fresh parsley, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>mint</span><span class='comment'>, chopped</span>",
+        "comment": "fresh, chopped",
+        "unit": "cup",
+        "name": "mint",
+        "input": "1 cup fresh mint, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>lemon</span>",
+        "qty": "1",
+        "input": "1 lemon",
+        "name": "lemon"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>1-inch pieces peeled seeded cantaloupe ( about 1/2 cantaloupe )</span>",
+        "unit": "cup",
+        "comment": "1-inch pieces peeled seeded cantaloupe (about 1/2 cantaloupe)",
+        "input": "3 cups 1-inch pieces peeled seeded cantaloupe (about 1/2 cantaloupe)",
+        "qty": "3"
+    }
+]

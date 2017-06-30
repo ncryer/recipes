@@ -1,0 +1,25 @@
+[
+    {
+        "display": "<span class='other'>454 g/4</span><span class='unit'>cups</span><span class='comment'>whole</span><span class='name'>kumquats</span>",
+        "comment": "whole",
+        "other": "454 g/4",
+        "unit": "cup",
+        "input": "454 g/4 cups whole kumquats",
+        "name": "kumquats"
+    },
+    {
+        "display": "<span class='other'>395 g/2</span><span class='unit'>cups</span><span class='comment'>granulated</span><span class='name'>sugar</span>",
+        "comment": "granulated",
+        "other": "395 g/2",
+        "unit": "cup",
+        "input": "395 g/2 cups granulated sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>456</span><span class='name'>g/2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "456",
+        "input": "456 g/2 cups water",
+        "name": "g/2 water"
+    }
+]

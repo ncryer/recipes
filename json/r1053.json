@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>navel</span><span class='name'>oranges</span>",
+        "qty": "2",
+        "comment": "navel",
+        "input": "2 navel oranges",
+        "name": "oranges"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>red-wine vinegar</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons red-wine vinegar",
+        "name": "red-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>Dijon mustard</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>medium</span><span class='unit'>head</span><span class='name'>escarole</span><span class='other'>,</span><span class='comment'>torn into 2- to 3-inch pieces ( 12 cups )</span>",
+        "comment": "torn into 2- to 3-inch pieces (12 cups)",
+        "other": "medium ,",
+        "unit": "head",
+        "name": "escarole",
+        "input": "1 medium head escarole, torn into 2- to 3-inch pieces (12 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>Belgian endives</span><span class='other'>,</span><span class='comment'>leaves separated and halved crosswise</span>",
+        "comment": "leaves separated and halved crosswise",
+        "other": ",",
+        "name": "Belgian endives",
+        "input": "4 Belgian endives, leaves separated and halved crosswise",
+        "qty": "4"
+    }
+]

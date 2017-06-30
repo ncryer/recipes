@@ -1,0 +1,72 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>red wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>slender</span><span class='name'>green beans</span><span class='comment'>, trimmed</span><span class='other'>,</span><span class='comment'>cut in half on diagonal</span>",
+        "comment": "slender, trimmed cut in half on diagonal",
+        "other": ",",
+        "unit": "pound",
+        "name": "green beans",
+        "input": "1 pound slender green beans, trimmed, cut in half on diagonal",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>2- to 2 1/2-inch white</span><span class='name'>turnips</span><span class='comment'>, each cut into 16 wedges</span>",
+        "comment": "2- to 2 1/2-inch white, each cut into 16 wedges",
+        "unit": "pound",
+        "name": "turnips",
+        "input": "1 pound 2- to 2 1/2-inch white turnips, each cut into 16 wedges",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>shelled fresh</span><span class='name'>peas</span><span class='comment'>or frozen</span><span class='name'>peas</span><span class='comment'>, thawed</span>",
+        "comment": "shelled fresh or frozen, thawed",
+        "unit": "cup",
+        "name": "peas peas",
+        "input": "1 cup shelled fresh peas or frozen peas, thawed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>dill</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "dill",
+        "input": "2 tablespoons chopped fresh dill",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh Italian</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh Italian",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "2 tablespoons chopped fresh Italian parsley",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>mint</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "mint",
+        "input": "2 tablespoons chopped fresh mint",
+        "qty": "2"
+    }
+]

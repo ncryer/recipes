@@ -1,0 +1,84 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>pounds</span><span class='comment'>ripe</span><span class='name'>tomatoes</span><span class='comment'>, coarsely chopped</span>",
+        "comment": "ripe, coarsely chopped",
+        "unit": "pound",
+        "name": "tomatoes",
+        "input": "6 pounds ripe tomatoes, coarsely chopped",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>celery</span><span class='other'>ribs ,</span><span class='comment'>coarsely chopped</span>",
+        "comment": "coarsely chopped",
+        "other": "ribs ,",
+        "name": "celery",
+        "input": "6 celery ribs, coarsely chopped",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>very coarsely chopped flat-leaf</span><span class='name'>parsley</span><span class='unit'>sprigs</span><span class='comment'>( from</span><span class='qty'>1</span><span class='comment'>large bunch )</span>",
+        "comment": "very coarsely chopped flat-leaf (from large bunch)",
+        "unit": "cup sprig",
+        "name": "parsley",
+        "input": "2 cups very coarsely chopped flat-leaf parsley sprigs (from 1 large bunch)",
+        "qty": "2 1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fine sea</span><span class='name'>salt</span><span class='comment'>, divided</span>",
+        "comment": "fine sea, divided",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "2 tablespoons fine sea salt, divided",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='other'>to</span><span class='range_end'>3</span><span class='unit'>tablespoons</span><span class='comment'>bottled</span><span class='name'>horseradish</span>",
+        "comment": "bottled",
+        "other": "to",
+        "unit": "tablespoon",
+        "qty": "2 1/2",
+        "range_end": "3",
+        "input": "2 1/2 to 3 tablespoons bottled horseradish",
+        "name": "horseradish"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='other'>to</span><span class='range_end'>3</span><span class='unit'>teaspoons</span><span class='name'>Tabasco</span>",
+        "other": "to",
+        "unit": "teaspoon",
+        "name": "Tabasco",
+        "range_end": "3",
+        "input": "2 1/2 to 3 teaspoons Tabasco",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='other'>to</span><span class='range_end'>3</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "other": "to",
+        "unit": "teaspoon",
+        "qty": "2 1/2",
+        "range_end": "3",
+        "input": "2 1/2 to 3 teaspoons fresh lemon juice",
+        "name": "lemon juice"
+    },
+    {
+        "display": "<span class='name'>Lemon wedges</span><span class='comment'>for rims of</span><span class='name'>glasses</span>",
+        "comment": "for rims of",
+        "input": "Lemon wedges for rims of glasses",
+        "name": "Lemon wedges glasses"
+    },
+    {
+        "display": "<span class='qty'>16</span><span class='unit'>ounces</span><span class='other'>(</span><span class='comment'>2 cups ) ice-cold</span><span class='name'>vodka</span>",
+        "comment": "2 cups) ice-cold",
+        "other": "(",
+        "unit": "ounce",
+        "name": "vodka",
+        "input": "16 ounces (2 cups) ice-cold vodka",
+        "qty": "16"
+    },
+    {
+        "display": "<span class='name'>Garnish: large caper berries</span><span class='comment'>or green olives</span>",
+        "comment": "or green olives",
+        "input": "Garnish: large caper berries or green olives",
+        "name": "Garnish: large caper berries"
+    }
+]

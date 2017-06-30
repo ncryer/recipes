@@ -1,0 +1,54 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>( 8 cups ) fresh</span><span class='name'>strawberries</span><span class='other'>,</span><span class='comment'>hulled</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "(8 cups) fresh hulled halved",
+        "other": ", ,",
+        "unit": "pound",
+        "name": "strawberries",
+        "input": "2 pounds (8 cups) fresh strawberries, hulled, halved",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>Beaujolais or other fruity dry red wine</span>",
+        "unit": "cup",
+        "comment": "Beaujolais or other fruity dry red wine",
+        "input": "1 cup Beaujolais or other fruity dry red wine",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>sliced fresh</span><span class='name'>strawberries</span><span class='comment'>plus 8 large whole berries for garnish</span>",
+        "comment": "sliced fresh plus 8 large whole berries for garnish",
+        "unit": "cup",
+        "name": "strawberries",
+        "input": "2 cups sliced fresh strawberries plus 8 large whole berries for garnish",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>Beaujolais or other fruity dry red wine</span>",
+        "unit": "cup",
+        "comment": "Beaujolais or other fruity dry red wine",
+        "input": "1/4 cup Beaujolais or other fruity dry red wine",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons sugar",
+        "name": "sugar"
+    }
+]

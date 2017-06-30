@@ -1,0 +1,72 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>( 3 ounces</span><span class='other'>)</span><span class='name'>walnuts</span><span class='comment'>, toasted and cooled</span>",
+        "comment": "(3 ounces, toasted and cooled",
+        "other": ")",
+        "unit": "cup",
+        "name": "walnuts",
+        "input": "3/4 cup (3 ounces) walnuts, toasted and cooled",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>( 4 ounces ) raw</span><span class='name'>almonds</span><span class='comment'>, toasted and cooled</span>",
+        "comment": "(4 ounces) raw, toasted and cooled",
+        "unit": "cup",
+        "name": "almonds",
+        "input": "3/4 cup (4 ounces) raw almonds, toasted and cooled",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>tightly packed ( 3 ounces ) dried</span><span class='name'>apples</span>",
+        "comment": "tightly packed (3 ounces) dried",
+        "unit": "cup",
+        "name": "apples",
+        "input": "1 cup tightly packed (3 ounces) dried apples",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>( 5 ounces</span><span class='other'>)</span><span class='name'>Turkish apricots</span>",
+        "comment": "(5 ounces",
+        "other": "2/3)",
+        "unit": "cup",
+        "input": "2/3 cup (5 ounces) Turkish apricots",
+        "name": "Turkish apricots"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>( 3-inch long by 1-inch wide ) strips orange zest , any white pith removed</span>",
+        "comment": "(3-inch long by 1-inch wide) strips orange zest, any white pith removed",
+        "input": "2 (3-inch long by 1-inch wide) strips orange zest, any white pith removed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>allspice</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon allspice",
+        "name": "allspice"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>cinnamon</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon cinnamon",
+        "name": "cinnamon"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>ruby Port or medium dry</span><span class='name'>Concord grape wine</span>",
+        "comment": "ruby Port or medium dry",
+        "unit": "cup",
+        "name": "Concord grape wine",
+        "input": "1/2 cup ruby Port or medium dry Concord grape wine",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>golden raisins</span><span class='other'>(</span><span class='comment'>3 ounces</span><span class='other'>)</span>",
+        "comment": "3 ounces",
+        "other": "()",
+        "unit": "cup",
+        "name": "golden raisins",
+        "input": "1/2 cup golden raisins (3 ounces)",
+        "qty": "1/2"
+    }
+]

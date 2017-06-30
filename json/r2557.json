@@ -1,0 +1,32 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>750-ml bottle</span><span class='name'>dry white wine</span><span class='comment'>( such as Sauvignon Blanc )</span>",
+        "qty": "1",
+        "comment": "750-ml bottle (such as Sauvignon Blanc)",
+        "input": "1 750-ml bottle dry white wine (such as Sauvignon Blanc)",
+        "name": "dry white wine"
+    },
+    {
+        "display": "<span class='other'>1/4 cup plus 3</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "other": "1/4 cup plus 3",
+        "input": "1/4 cup plus 3 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>red and/or green seedless</span><span class='name'>grapes</span><span class='comment'>, cut into small clusters</span>",
+        "comment": "red and/or green seedless, cut into small clusters",
+        "unit": "pound",
+        "name": "grapes",
+        "input": "2 pounds red and/or green seedless grapes, cut into small clusters",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>grated</span><span class='name'>lemon peel</span>",
+        "comment": "grated",
+        "unit": "tablespoon",
+        "name": "lemon peel",
+        "input": "1 tablespoon grated lemon peel",
+        "qty": "1"
+    }
+]

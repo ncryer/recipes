@@ -1,0 +1,70 @@
+[
+    {
+        "display": "<span class='name'>Nonstick vegetable oil spray</span>",
+        "input": "Nonstick vegetable oil spray",
+        "name": "Nonstick vegetable oil spray"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>medium</span><span class='name'>carrots</span><span class='comment'>( about 1 1/4 pounds ) , scrubbed</span><span class='other'>,</span><span class='comment'>ends trimmed</span>",
+        "comment": "medium (about 1 1/4 pounds), scrubbed ends trimmed",
+        "other": ",",
+        "name": "carrots",
+        "input": "4 medium carrots (about 1 1/4 pounds), scrubbed, ends trimmed",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>medium</span><span class='name'>parsnips</span><span class='comment'>( about 1 1/4 pounds ) , scrubbed</span><span class='other'>,</span><span class='comment'>ends trimmed</span>",
+        "comment": "medium (about 1 1/4 pounds), scrubbed ends trimmed",
+        "other": ",",
+        "name": "parsnips",
+        "input": "4 medium parsnips (about 1 1/4 pounds), scrubbed, ends trimmed",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>fingerling</span><span class='name'>potatoes</span><span class='comment'>or baby Dutch yellow</span><span class='name'>potatoes</span><span class='comment'>, scrubbed</span>",
+        "comment": "fingerling or baby Dutch yellow, scrubbed",
+        "unit": "pound",
+        "name": "potatoes potatoes",
+        "input": "1 pound fingerling potatoes or baby Dutch yellow potatoes, scrubbed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>coarse kosher</span><span class='name'>salt</span>",
+        "comment": "coarse kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "2 teaspoons coarse kosher salt",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>ground</span><span class='name'>coriander</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "coriander",
+        "input": "2 teaspoons ground coriander",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>ground</span><span class='name'>cardamom</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cardamom",
+        "input": "1 1/2 teaspoons ground cardamom",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "3/4 teaspoon freshly ground black pepper",
+        "qty": "3/4"
+    }
+]

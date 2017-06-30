@@ -1,0 +1,26 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>( about 1 1/2 pounds ) finely diced fresh</span><span class='name'>pineapple</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "(about 1 1/2 pounds) finely diced fresh divided",
+        "other": ",",
+        "unit": "cup",
+        "name": "pineapple",
+        "input": "4 cups (about 1 1/2 pounds) finely diced fresh pineapple, divided",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "1 tablespoon fresh lime juice",
+        "qty": "1"
+    }
+]

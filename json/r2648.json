@@ -1,0 +1,17 @@
+[
+    {
+        "display": "<span class='qty'>5</span><span class='name'>zucchini</span><span class='comment'>( each 4 inches long; 1 pound total ) , cut lengthwise into 1/4-inch wedges</span>",
+        "qty": "5",
+        "comment": "(each 4 inches long; 1 pound total), cut lengthwise into 1/4-inch wedges",
+        "input": "5 zucchini (each 4 inches long; 1 pound total), cut lengthwise into 1/4-inch wedges",
+        "name": "zucchini"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>coarse</span><span class='name'>salt</span>",
+        "comment": "coarse",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1/2 teaspoon coarse salt",
+        "qty": "1/2"
+    }
+]

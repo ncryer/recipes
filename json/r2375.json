@@ -1,0 +1,38 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>yellow pear</span><span class='other'>or</span><span class='comment'>cherry</span><span class='name'>tomatoes</span><span class='comment'>( about 2 2/3 cups )</span>",
+        "comment": "cherry (about 2 2/3 cups)",
+        "other": "or",
+        "unit": "pound",
+        "name": "yellow pear tomatoes",
+        "input": "1 pound yellow pear or cherry tomatoes (about 2 2/3 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>white-wine vinegar</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons white-wine vinegar",
+        "name": "white-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='name'>Garnish: halved yellow pear</span><span class='comment'>or cherry</span><span class='name'>tomatoes</span>",
+        "comment": "or cherry",
+        "input": "Garnish: halved yellow pear or cherry tomatoes",
+        "name": "Garnish: halved yellow pear tomatoes"
+    }
+]

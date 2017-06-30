@@ -1,0 +1,81 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>orange juice</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup orange juice",
+        "name": "orange juice"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>finely chopped canned</span><span class='name'>chipotle chilies</span>",
+        "comment": "finely chopped canned",
+        "unit": "tablespoon",
+        "name": "chipotle chilies",
+        "input": "1 tablespoon finely chopped canned chipotle chilies",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "1 teaspoon ground cumin",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>plum tomatoes</span><span class='other'>,</span><span class='comment'>quartered lengthwise</span>",
+        "comment": "quartered lengthwise",
+        "other": ",",
+        "name": "plum tomatoes",
+        "input": "3 plum tomatoes, quartered lengthwise",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>zucchini</span><span class='comment'>, trimmed , cut lengthwise into 1/4-inch-thick slices</span>",
+        "qty": "1",
+        "comment": "medium, trimmed, cut lengthwise into 1/4-inch-thick slices",
+        "input": "1 medium zucchini, trimmed, cut lengthwise into 1/4-inch-thick slices",
+        "name": "zucchini"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium-size yellow</span><span class='name'>crookneck squash</span><span class='comment'>, trimmed , cut lengthwise into 1/4-inch-thick slices</span>",
+        "qty": "1",
+        "comment": "medium-size yellow, trimmed, cut lengthwise into 1/4-inch-thick slices",
+        "input": "1 medium-size yellow crookneck squash, trimmed, cut lengthwise into 1/4-inch-thick slices",
+        "name": "crookneck squash"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>Japanese</span><span class='name'>eggplant</span><span class='comment'>, trimmed , cut lengthwise into 1/4-inch-thick slices</span>",
+        "qty": "1",
+        "comment": "Japanese, trimmed, cut lengthwise into 1/4-inch-thick slices",
+        "input": "1 Japanese eggplant, trimmed, cut lengthwise into 1/4-inch-thick slices",
+        "name": "eggplant"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>red onion</span><span class='other'>,</span><span class='comment'>cut into 1/3-inch-thick slices</span>",
+        "comment": "cut into 1/3-inch-thick slices",
+        "other": ",",
+        "name": "red onion",
+        "input": "1 red onion, cut into 1/3-inch-thick slices",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span>",
+        "input": "1",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>squash</span><span class='comment'>, peeled</span><span class='other'>,</span><span class='comment'>cored , cut into 12 wedges</span>",
+        "comment": ", peeled cored, cut into 12 wedges",
+        "input": "squash, peeled, cored, cut into 12 wedges",
+        "name": "squash",
+        "other": ","
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "display": "<span class='comment'>1 ( 5-pound ) ripe honeydew melon</span><span class='other'>,</span><span class='comment'>seeded and cut into 1-inch chunks ( 8 cups )</span>",
+        "comment": "1 (5-pound) ripe honeydew melon seeded and cut into 1-inch chunks (8 cups)",
+        "input": "1 (5-pound) ripe honeydew melon, seeded and cut into 1-inch chunks (8 cups)",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 3/4- to 1-pound ) seedless cucumber ( usually plastic-wrapped ) , peeled and coarsely chopped</span>",
+        "comment": "(3/4- to 1-pound) seedless cucumber (usually plastic-wrapped), peeled and coarsely chopped",
+        "input": "1 (3/4- to 1-pound) seedless cucumber (usually plastic-wrapped), peeled and coarsely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lime juice",
+        "input": "1/2 cup fresh lime juice",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>ice cubes</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup ice cubes",
+        "name": "ice cubes"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>coconut sorbet</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup coconut sorbet",
+        "name": "coconut sorbet"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>mint leaves</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "mint leaves",
+        "input": "1/4 cup fresh mint leaves",
+        "qty": "1/4"
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='name'>parsnip</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "halved",
+        "other": ",",
+        "name": "parsnip",
+        "input": "1 parsnip, halved",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4-inch</span><span class='unit'>piece</span><span class='other'>of</span><span class='comment'>fresh</span><span class='name'>ginger</span>",
+        "comment": "fresh",
+        "other": "of",
+        "unit": "piece",
+        "name": "ginger",
+        "input": "1/4-inch piece of fresh ginger",
+        "qty": "1/4-inch"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>apples</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "halved",
+        "other": ",",
+        "name": "apples",
+        "input": "2 apples, halved",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chilled</span><span class='name'>water</span>",
+        "comment": "chilled",
+        "unit": "cup",
+        "name": "water",
+        "input": "1/2 cup chilled water",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>small</span><span class='unit'>handful</span><span class='other'>of</span><span class='name'>ice</span><span class='comment'>( optional</span><span class='other'>)</span>",
+        "comment": "(optional",
+        "other": "small of)",
+        "unit": "handful",
+        "input": "small handful of ice (optional)",
+        "name": "ice"
+    }
+]

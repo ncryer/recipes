@@ -1,0 +1,58 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large ripe</span><span class='name'>avocado</span><span class='comment'>( 12 to 13 ounces ) , peeled</span><span class='other'>,</span><span class='comment'>pitted</span><span class='other'>,</span><span class='comment'>coarsely chopped</span>",
+        "comment": "large ripe (12 to 13 ounces), peeled pitted coarsely chopped",
+        "other": ", ,",
+        "name": "avocado",
+        "input": "1 large ripe avocado (12 to 13 ounces), peeled, pitted, coarsely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>coarsely chopped fresh</span><span class='name'>cilantro</span>",
+        "comment": "coarsely chopped fresh",
+        "unit": "tablespoon",
+        "name": "cilantro",
+        "input": "3 tablespoons coarsely chopped fresh cilantro",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>coarsely chopped green</span><span class='name'>onion</span><span class='other'>or</span><span class='comment'>sweet</span><span class='name'>onion</span><span class='comment'>( such as Maui</span><span class='other'>or</span><span class='comment'>Vidalia )</span>",
+        "comment": "coarsely chopped green sweet (such as Maui Vidalia)",
+        "other": "or or",
+        "unit": "tablespoon",
+        "name": "onion onion",
+        "input": "3 tablespoons coarsely chopped green onion or sweet onion (such as Maui or Vidalia)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped</span><span class='name'>serrano chiles</span><span class='comment'>with seeds</span>",
+        "comment": "chopped with seeds",
+        "unit": "tablespoon",
+        "name": "serrano chiles",
+        "input": "2 tablespoons chopped serrano chiles with seeds",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='other'>(</span><span class='comment'>or more</span><span class='other'>)</span><span class='name'>water</span>",
+        "comment": "or more",
+        "other": "()",
+        "unit": "cup",
+        "name": "water",
+        "input": "1/4 cup (or more) water",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>tablespoons</span><span class='comment'>( or more ) fresh</span><span class='name'>lime juice</span>",
+        "comment": "(or more) fresh",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "2 1/2 tablespoons (or more) fresh lime juice",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='name'>Coarse</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "input": "Coarse kosher salt",
+        "name": "Coarse salt"
+    }
+]

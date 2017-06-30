@@ -1,0 +1,50 @@
+[
+    {
+        "display": "<span class='name'>Nonstick vegetable oil spray</span>",
+        "input": "Nonstick vegetable oil spray",
+        "name": "Nonstick vegetable oil spray"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='other'>(</span><span class='comment'>3/4 stick</span><span class='other'>)</span><span class='name'>butter</span><span class='comment'>, melted</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "3/4 stick, melted divided",
+        "other": "() ,",
+        "unit": "tablespoon",
+        "name": "butter",
+        "input": "6 tablespoons (3/4 stick) butter, melted, divided",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>pounds</span><span class='name'>russet potatoes</span><span class='comment'>( about 2 medium )</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>cut into scant 1/8-inch-thick rounds</span>",
+        "comment": "(about 2 medium) peeled cut into scant 1/8-inch-thick rounds",
+        "other": ", ,",
+        "unit": "pound",
+        "name": "russet potatoes",
+        "input": "1 1/4 pounds russet potatoes (about 2 medium), peeled, cut into scant 1/8-inch-thick rounds",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>3-inch-diameter</span><span class='name'>celery root</span><span class='comment'>( celeriac )</span><span class='other'>,</span><span class='comment'>trimmed</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>halved</span><span class='other'>,</span><span class='comment'>very thinly sliced ( 1 1/4 cups to 1 1/2 cups</span><span class='other'>)</span>",
+        "comment": "(celeriac) trimmed peeled halved very thinly sliced (1 1/4 cups to 1 1/2 cups",
+        "other": ",, ,,)",
+        "unit": "3-inch-diameter",
+        "name": "celery root",
+        "input": "1/2 3-inch-diameter celery root (celeriac), trimmed, peeled, halved, very thinly sliced (1 1/4 cups to 1 1/2 cups)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>turnip</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>halved , very thinly sliced ( 1 1/4 cups to 1 1/2 cups )</span>",
+        "comment": "medium peeled halved, very thinly sliced (1 1/4 cups to 1 1/2 cups)",
+        "other": ", ,",
+        "name": "turnip",
+        "input": "1 medium turnip, peeled, halved, very thinly sliced (1 1/4 cups to 1 1/2 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>chopped fresh</span><span class='name'>rosemary</span>",
+        "comment": "chopped fresh",
+        "unit": "teaspoon",
+        "name": "rosemary",
+        "input": "1 teaspoon chopped fresh rosemary",
+        "qty": "1"
+    }
+]

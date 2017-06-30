@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>3 1/2</span><span class='unit'>pounds</span><span class='comment'>Swiss</span><span class='name'>chard</span><span class='comment'>( preferably red; about 4 bunches ) , washed</span>",
+        "comment": "Swiss (preferably red; about 4 bunches), washed",
+        "unit": "pound",
+        "name": "chard",
+        "input": "3 1/2 pounds Swiss chard (preferably red; about 4 bunches), washed",
+        "qty": "3 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 garlic cloves, minced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    }
+]

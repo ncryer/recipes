@@ -1,0 +1,56 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>lemon</span><span class='other'>,</span><span class='comment'>sliced thin</span>",
+        "comment": "sliced thin",
+        "other": ",",
+        "name": "lemon",
+        "input": "1/2 lemon, sliced thin",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/4 cup fresh lemon juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>large</span><span class='name'>shallots</span><span class='comment'>, sliced thin</span>",
+        "qty": "3",
+        "comment": "large, sliced thin",
+        "input": "3 large shallots, sliced thin",
+        "name": "shallots"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>rosemary</span><span class='comment'>or 1 tablespoon crumbled dried</span>",
+        "comment": "chopped fresh or 1 tablespoon crumbled dried",
+        "unit": "tablespoon",
+        "name": "rosemary",
+        "input": "3 tablespoons chopped fresh rosemary or 1 tablespoon crumbled dried",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>dried hot</span><span class='name'>red pepper flakes</span>",
+        "comment": "dried hot",
+        "unit": "teaspoon",
+        "name": "red pepper flakes",
+        "input": "1 teaspoon dried hot red pepper flakes",
+        "qty": "1"
+    },
+    {
+        "other": "two",
+        "display": "<span class='other'>two</span><span class='comment'>6-ounce cans ripe</span><span class='name'>olives</span><span class='comment'>, drained ( about 3 cups )</span>",
+        "comment": "6-ounce cans ripe, drained (about 3 cups)",
+        "input": "two 6-ounce cans ripe olives, drained (about 3 cups)",
+        "name": "olives"
+    },
+    {
+        "display": "<span class='other'>about</span><span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>olive oil</span>",
+        "other": "about",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "about 1 1/2 cups olive oil",
+        "name": "olive oil"
+    }
+]

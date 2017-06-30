@@ -1,0 +1,95 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='name'>radishes</span><span class='other'>,</span><span class='comment'>trimmed , thinly sliced</span>",
+        "comment": "trimmed, thinly sliced",
+        "other": ",",
+        "name": "radishes",
+        "input": "6 radishes, trimmed, thinly sliced",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>carrots</span><span class='comment'>, peeled , julienned</span>",
+        "qty": "2",
+        "comment": "large, peeled, julienned",
+        "input": "2 large carrots, peeled, julienned",
+        "name": "carrots"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>medium</span><span class='name'>red onion</span><span class='comment'>, thinly sliced</span>",
+        "qty": "1/2",
+        "comment": "medium, thinly sliced",
+        "input": "1/2 medium red onion, thinly sliced",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>English hothouse cucumber</span><span class='comment'>, thinly sliced</span>",
+        "qty": "1/2",
+        "comment": ", thinly sliced",
+        "input": "1/2 English hothouse cucumber, thinly sliced",
+        "name": "English hothouse cucumber"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "1 tablespoon kosher salt",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='comment'>unseasoned</span><span class='name'>rice vinegar</span><span class='other'>, divided</span>",
+        "comment": "unseasoned",
+        "other": ", divided",
+        "unit": "cup",
+        "name": "rice vinegar",
+        "input": "1 1/4 cups unseasoned rice vinegar, divided",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>toasted</span><span class='name'>nori sheets</span>",
+        "qty": "2",
+        "comment": "toasted",
+        "input": "2 toasted nori sheets",
+        "name": "nori sheets"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>vegetable oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>reduced-sodium</span><span class='name'>soy sauce</span>",
+        "comment": "reduced-sodium",
+        "unit": "tablespoon",
+        "name": "soy sauce",
+        "input": "2 tablespoons reduced-sodium soy sauce",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>mirin</span><span class='other'>(</span><span class='comment'>sweet Japanese rice wine</span><span class='other'>)</span>",
+        "comment": "sweet Japanese rice wine",
+        "other": "()",
+        "unit": "tablespoon",
+        "name": "mirin",
+        "input": "1 tablespoon mirin (sweet Japanese rice wine)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>ounces</span><span class='name'>tender lettuces</span><span class='comment'>( such as Bibb</span><span class='other'>,</span><span class='comment'>butter</span><span class='other'>,</span><span class='comment'>and m\u00e2che; about 6 cups )</span>",
+        "comment": "(such as Bibb butter and m\u00e2che; about 6 cups)",
+        "other": ", ,",
+        "unit": "ounce",
+        "name": "tender lettuces",
+        "input": "5 ounces tender lettuces (such as Bibb, butter, and m\u00e2che; about 6 cups)",
+        "qty": "5"
+    }
+]

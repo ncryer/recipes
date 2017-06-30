@@ -1,0 +1,57 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>whole</span><span class='name'>coriander seeds</span>",
+        "comment": "whole",
+        "unit": "tablespoon",
+        "name": "coriander seeds",
+        "input": "2 tablespoons whole coriander seeds",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>2 12-ounce bags or baskets cherry</span><span class='name'>tomatoes</span><span class='comment'>, stemmed</span>",
+        "comment": "2 12-ounce bags or baskets cherry, stemmed",
+        "input": "2 12-ounce bags or baskets cherry tomatoes, stemmed",
+        "name": "tomatoes"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, minced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>dried crushed</span><span class='name'>red pepper</span>",
+        "comment": "dried crushed",
+        "unit": "teaspoon",
+        "name": "red pepper",
+        "input": "1/2 teaspoon dried crushed red pepper",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>teaspoons</span><span class='comment'>chopped fresh</span><span class='name'>marjoram</span>",
+        "comment": "chopped fresh",
+        "unit": "teaspoon",
+        "name": "marjoram",
+        "input": "4 teaspoons chopped fresh marjoram",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>sourdough baguette</span><span class='other'>,</span><span class='comment'>cut crosswise into 1/2-inch-thick rounds</span>",
+        "comment": "cut crosswise into 1/2-inch-thick rounds",
+        "other": ",",
+        "name": "sourdough baguette",
+        "input": "1 sourdough baguette, cut crosswise into 1/2-inch-thick rounds",
+        "qty": "1"
+    }
+]

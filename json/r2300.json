@@ -1,0 +1,44 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>small</span><span class='name'>pearl tapioca</span><span class='comment'>( not quick-cooking )</span>",
+        "comment": "small (not quick-cooking)",
+        "unit": "tablespoon",
+        "name": "pearl tapioca",
+        "input": "1 tablespoon small pearl tapioca (not quick-cooking)",
+        "qty": "1"
+    },
+    {
+        "other": "a 14-ounce",
+        "display": "<span class='other'>a 14-ounce</span><span class='comment'>can light unsweetened</span><span class='name'>coconut milk</span>",
+        "comment": "can light unsweetened",
+        "input": "a 14-ounce can light unsweetened coconut milk",
+        "name": "coconut milk"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>coarsely chopped crystallized</span><span class='name'>ginger</span>",
+        "comment": "coarsely chopped crystallized",
+        "unit": "tablespoon",
+        "name": "ginger",
+        "input": "2 tablespoons coarsely chopped crystallized ginger",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>firm-ripe bananas</span>",
+        "qty": "3",
+        "input": "3 firm-ripe bananas",
+        "name": "firm-ripe bananas"
+    },
+    {
+        "display": "<span class='name'>Garnish if desired:</span><span class='comment'>1 tablespoon chopped crystallized</span><span class='name'>ginger</span>",
+        "comment": "1 tablespoon chopped crystallized",
+        "input": "Garnish if desired: 1 tablespoon chopped crystallized ginger",
+        "name": "Garnish if desired: ginger"
+    }
+]

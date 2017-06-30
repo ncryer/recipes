@@ -1,0 +1,35 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='name'>oz m\u00e2che</span><span class='comment'>( lamb's lettuce ) , trimmed ( 12 cups )</span>",
+        "qty": "3",
+        "comment": "(lamb's lettuce), trimmed (12 cups)",
+        "input": "3 oz m\u00e2che (lamb's lettuce), trimmed (12 cups)",
+        "name": "oz m\u00e2che"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='comment'>fine sea</span><span class='name'>salt</span><span class='comment'>, or to taste</span>",
+        "comment": "fine sea, or to taste",
+        "other": "1/8",
+        "unit": "teaspoon",
+        "input": "1/8 teaspoon fine sea salt, or to taste",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span><span class='comment'>, or to taste</span>",
+        "comment": ", or to taste",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/4 teaspoon black pepper, or to taste",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>to</span><span class='range_end'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "other": "to",
+        "unit": "tablespoon",
+        "qty": "2",
+        "range_end": "3",
+        "input": "2 to 3 tablespoons extra-virgin olive oil",
+        "name": "olive oil"
+    }
+]

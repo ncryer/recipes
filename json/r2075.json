@@ -1,0 +1,82 @@
+[
+    {
+        "display": "<span class='qty'>12</span><span class='unit'>pounds</span><span class='name'>bananas</span>",
+        "unit": "pound",
+        "qty": "12",
+        "input": "12 pounds bananas",
+        "name": "bananas"
+    },
+    {
+        "display": "<span class='qty'>7</span><span class='unit'>cups</span><span class='name'>white vinegar</span>",
+        "unit": "cup",
+        "qty": "7",
+        "input": "7 cups white vinegar",
+        "name": "white vinegar"
+    },
+    {
+        "display": "<span class='qty'>7</span><span class='unit'>cups</span><span class='comment'>light</span><span class='name'>brown sugar</span>",
+        "comment": "light",
+        "unit": "cup",
+        "name": "brown sugar",
+        "input": "7 cups light brown sugar",
+        "qty": "7"
+    },
+    {
+        "display": "<span class='qty'>3 1/2</span><span class='unit'>cups</span><span class='comment'>dark</span><span class='name'>brown sugar</span>",
+        "comment": "dark",
+        "unit": "cup",
+        "name": "brown sugar",
+        "input": "3 1/2 cups dark brown sugar",
+        "qty": "3 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>lemon juice</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup lemon juice",
+        "name": "lemon juice"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>powdered</span><span class='name'>cinnamon</span>",
+        "comment": "powdered",
+        "unit": "teaspoon",
+        "name": "cinnamon",
+        "input": "1 teaspoon powdered cinnamon",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>powdered</span><span class='name'>mace</span>",
+        "comment": "powdered",
+        "unit": "teaspoon",
+        "name": "mace",
+        "input": "1 teaspoon powdered mace",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>24</span><span class='comment'>whole</span><span class='name'>cloves</span>",
+        "qty": "24",
+        "comment": "whole",
+        "input": "24 whole cloves",
+        "name": "cloves"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='name'>cardamom seeds</span>",
+        "qty": "12",
+        "input": "12 cardamom seeds",
+        "name": "cardamom seeds"
+    },
+    {
+        "display": "<span class='qty'>24</span><span class='comment'>whole</span><span class='name'>black peppercorns</span>",
+        "qty": "24",
+        "comment": "whole",
+        "input": "24 whole black peppercorns",
+        "name": "black peppercorns"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>saffron</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon saffron",
+        "name": "saffron"
+    }
+]

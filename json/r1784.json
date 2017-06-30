@@ -1,0 +1,32 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>fresh</span><span class='name'>orange juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "4 cups fresh orange juice",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>unsweetened</span><span class='name'>pineapple juice</span>",
+        "comment": "unsweetened",
+        "unit": "cup",
+        "name": "pineapple juice",
+        "input": "1 1/2 cups unsweetened pineapple juice",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/2 cup fresh lemon juice",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>grenadine</span><span class='comment'>to taste</span>",
+        "comment": "to taste",
+        "input": "grenadine to taste",
+        "qty": "grenadine"
+    }
+]

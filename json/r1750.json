@@ -1,0 +1,67 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span>",
+        "unit": "clove",
+        "qty": "1",
+        "input": "1 garlic clove",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='name'>red-wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 tablespoons red-wine vinegar",
+        "name": "red-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>red bell peppers</span>",
+        "qty": "2",
+        "input": "2 red bell peppers",
+        "name": "red bell peppers"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small red</span><span class='name'>onion</span><span class='comment'>, halved lengthwise</span><span class='other'>,</span><span class='comment'>then very thinly sliced crosswise</span>",
+        "comment": "small red, halved lengthwise then very thinly sliced crosswise",
+        "other": ",",
+        "name": "onion",
+        "input": "1 small red onion, halved lengthwise, then very thinly sliced crosswise",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>pound</span><span class='name'>arugula</span><span class='other'>,</span><span class='comment'>tough stems discarded and leaves cut crosswise into 1/3-inch-wide strips ( 6 cups )</span>",
+        "comment": "tough stems discarded and leaves cut crosswise into 1/3-inch-wide strips (6 cups)",
+        "other": ",",
+        "unit": "pound",
+        "name": "arugula",
+        "input": "3/4 pound arugula, tough stems discarded and leaves cut crosswise into 1/3-inch-wide strips (6 cups)",
+        "qty": "3/4"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>large navel</span><span class='name'>oranges</span><span class='comment'>, peeled and coarsely chopped</span><span class='other'>,</span><span class='comment'>discarding tough membranes</span>",
+        "comment": "large navel, peeled and coarsely chopped discarding tough membranes",
+        "other": ",",
+        "name": "oranges",
+        "input": "6 large navel oranges, peeled and coarsely chopped, discarding tough membranes",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 750-ml ) bottle Chianti or other Italian red wine</span>",
+        "comment": "(750-ml) bottle Chianti or other Italian red wine",
+        "input": "1 (750-ml) bottle Chianti or other Italian red wine",
+        "qty": "1"
+    }
+]

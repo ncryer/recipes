@@ -1,0 +1,61 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='other'>(</span><span class='comment'>13.5-oz [370-ml] ) cans full-fat</span><span class='name'>coconut milk</span>",
+        "comment": "13.5-oz [370-ml]) cans full-fat",
+        "other": "(",
+        "name": "coconut milk",
+        "input": "2 (13.5-oz [370-ml]) cans full-fat coconut milk",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>tsp</span><span class='other'>(</span><span class='comment'>5 ml ) 100% vanilla extract</span>",
+        "comment": "5 ml) 100% vanilla extract",
+        "other": "(",
+        "name": "tsp",
+        "input": "1 tsp (5 ml) 100% vanilla extract",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>tbsp</span><span class='comment'>( 45 ml ) 100% maple syrup</span>",
+        "qty": "3",
+        "comment": "(45 ml) 100% maple syrup",
+        "input": "3 tbsp (45 ml) 100% maple syrup",
+        "name": "tbsp"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>tbsp</span><span class='other'>(</span><span class='comment'>16 g ) tapioca starch or arrowroot</span>",
+        "comment": "16 g) tapioca starch or arrowroot",
+        "other": "(",
+        "name": "tbsp",
+        "input": "2 tbsp (16 g) tapioca starch or arrowroot",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>tsp</span><span class='comment'>( 2 g ) probiotic powder ( I used 200 billion cfu )</span>",
+        "qty": "1",
+        "comment": "(2 g) probiotic powder (I used 200 billion cfu)",
+        "input": "1 tsp (2 g) probiotic powder (I used 200 billion cfu)",
+        "name": "tsp"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='other'>(</span><span class='comment'>240 ml</span><span class='other'>)</span><span class='name'>water</span>",
+        "comment": "240 ml",
+        "other": "()",
+        "unit": "cup",
+        "name": "water",
+        "input": "1 cup (240 ml) water",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Fruit</span><span class='other'>,</span>",
+        "name": "Fruit",
+        "input": "Fruit ,",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>small heat-resistant and tempered glass bowls or yogurt cups</span>",
+        "comment": "small heat-resistant and tempered glass bowls or yogurt cups",
+        "input": "3 small heat-resistant and tempered glass bowls or yogurt cups",
+        "qty": "3"
+    }
+]

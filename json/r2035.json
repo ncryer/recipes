@@ -1,0 +1,23 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>white wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup white wine vinegar",
+        "name": "white wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>12- to 14-ounce fresh</span><span class='name'>artichokes</span>",
+        "qty": "6",
+        "comment": "12- to 14-ounce fresh",
+        "input": "6 12- to 14-ounce fresh artichokes",
+        "name": "artichokes"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>herbes de Provence</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon herbes de Provence",
+        "name": "herbes de Provence"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "other": "1/3",
+        "display": "<span class='other'>1/3</span><span class='comment'>English</span><span class='name'>cucumber</span><span class='comment'>, halved lengthwise and thinly sliced crosswise</span>",
+        "comment": "English, halved lengthwise and thinly sliced crosswise",
+        "input": "1/3 English cucumber, halved lengthwise and thinly sliced crosswise",
+        "name": "cucumber"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='comment'>small</span><span class='name'>red cabbage</span><span class='other'>,</span><span class='comment'>very thinly sliced</span>",
+        "comment": "small very thinly sliced",
+        "other": ",",
+        "name": "red cabbage",
+        "input": "1/4 small red cabbage, very thinly sliced",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>red onion</span><span class='comment'>, thinly sliced</span>",
+        "qty": "1/2",
+        "comment": ", thinly sliced",
+        "input": "1/2 red onion, thinly sliced",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>rice vinegar</span><span class='other'>(</span><span class='comment'>not seasoned )</span>",
+        "comment": "not seasoned)",
+        "other": "(",
+        "unit": "cup",
+        "name": "rice vinegar",
+        "input": "1/2 cup rice vinegar (not seasoned)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons salt",
+        "name": "salt"
+    }
+]

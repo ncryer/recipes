@@ -1,0 +1,70 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='name'>lb</span><span class='comment'>small ( 1- to 1 1/2-inch )</span><span class='name'>potatoes</span><span class='comment'>, preferably new</span><span class='name'>potatoes</span>",
+        "qty": "2",
+        "comment": "small (1- to 1 1/2-inch), preferably new",
+        "input": "2 lb small (1- to 1 1/2-inch) potatoes, preferably new potatoes",
+        "name": "lb potatoes potatoes"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>finely chopped</span><span class='name'>shallots</span><span class='comment'>( about 2 )</span>",
+        "comment": "finely chopped (about 2)",
+        "unit": "tablespoon",
+        "name": "shallots",
+        "input": "3 tablespoons finely chopped shallots (about 2)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>tablespoon</span><span class='name'>Dijon mustard</span>",
+        "unit": "tablespoon",
+        "qty": "1/2",
+        "input": "1/2 tablespoon Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>whole-grain</span><span class='name'>mustard</span>",
+        "comment": "whole-grain",
+        "unit": "tablespoon",
+        "name": "mustard",
+        "input": "1 tablespoon whole-grain mustard",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>white-wine vinegar</span><span class='other'>,</span><span class='comment'>or to taste</span>",
+        "comment": "or to taste",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "white-wine vinegar",
+        "input": "1 tablespoon white-wine vinegar, or to taste",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh flat-leaf</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh flat-leaf",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "2 tablespoons chopped fresh flat-leaf parsley",
+        "qty": "2"
+    }
+]

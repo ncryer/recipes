@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>sugar</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "unit": "cup",
+        "name": "sugar",
+        "input": "3/4 cup sugar, divided",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>cranberries</span><span class='other'>(</span><span class='comment'>1 3/4 ounces</span><span class='other'>)</span>",
+        "comment": "1 3/4 ounces",
+        "other": "()",
+        "unit": "cup",
+        "name": "cranberries",
+        "input": "1/2 cup cranberries (1 3/4 ounces)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='name'>sage leaves</span>",
+        "qty": "8",
+        "input": "8 sage leaves",
+        "name": "sage leaves"
+    }
+]

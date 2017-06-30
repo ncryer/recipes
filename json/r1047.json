@@ -1,0 +1,17 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>pounds</span><span class='comment'>small</span><span class='name'>carrots</span><span class='comment'>( including greens; carrots about 5 inches long ) , tops trimmed to 1 inch and carrots peeled</span>",
+        "comment": "small (including greens; carrots about 5 inches long), tops trimmed to 1 inch and carrots peeled",
+        "unit": "pound",
+        "name": "carrots",
+        "input": "3 pounds small carrots (including greens; carrots about 5 inches long), tops trimmed to 1 inch and carrots peeled",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    }
+]

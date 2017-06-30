@@ -1,0 +1,16 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>large long russet</span><span class='name'>potatoes</span><span class='comment'>( about 14 ounces each )</span>",
+        "qty": "4",
+        "comment": "large long russet (about 14 ounces each)",
+        "input": "4 large long russet potatoes (about 14 ounces each)",
+        "name": "potatoes"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup olive oil",
+        "name": "olive oil"
+    }
+]

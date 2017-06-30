@@ -1,0 +1,17 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>raspberries</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup raspberries",
+        "name": "raspberries"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>large pink grapefruit</span><span class='other'>,</span><span class='comment'>peeled</span>",
+        "comment": "peeled",
+        "other": ",",
+        "name": "large pink grapefruit",
+        "input": "1 large pink grapefruit, peeled",
+        "qty": "1"
+    }
+]

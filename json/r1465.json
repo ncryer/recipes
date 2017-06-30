@@ -1,0 +1,32 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>thawed orange juice</span><span class='comment'>concentrate</span>",
+        "comment": "concentrate",
+        "unit": "cup",
+        "name": "thawed orange juice",
+        "input": "1/2 cup thawed orange juice concentrate",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>Grand Marnier</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup Grand Marnier",
+        "name": "Grand Marnier"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>vanilla vodka</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons vanilla vodka",
+        "name": "vanilla vodka"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>shaved</span><span class='name'>ice</span><span class='comment'>( made with the grater blade of a food processor )</span>",
+        "comment": "shaved (made with the grater blade of a food processor)",
+        "unit": "cup",
+        "name": "ice",
+        "input": "4 cups shaved ice (made with the grater blade of a food processor)",
+        "qty": "4"
+    }
+]

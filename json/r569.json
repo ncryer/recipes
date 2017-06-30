@@ -1,0 +1,45 @@
+[
+    {
+        "display": "<span class='name'>160 grams</span><span class='other'>(</span><span class='comment'>4 or 5 ) thick</span><span class='name'>asparagus spears</span>",
+        "comment": "4 or 5) thick",
+        "input": "160 grams (4 or 5) thick asparagus spears",
+        "name": "160 grams asparagus spears",
+        "other": "("
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>avocado</span><span class='other'>,</span><span class='comment'>halved</span><span class='other'>,</span><span class='comment'>pitted</span><span class='other'>,</span><span class='comment'>and peeled</span>",
+        "comment": "halved pitted and peeled",
+        "other": ",, ,",
+        "name": "avocado",
+        "input": "1 avocado, halved, pitted, and peeled",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>16</span><span class='comment'>fresh</span><span class='name'>mint leaves</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "fresh chopped",
+        "other": ",",
+        "name": "mint leaves",
+        "input": "16 fresh mint leaves, chopped",
+        "qty": "16"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='name'>lime</span>",
+        "qty": "1/2",
+        "input": "1/2 lime",
+        "name": "lime"
+    },
+    {
+        "display": "<span class='qty'>20</span><span class='name'>grams</span><span class='other'>(</span><span class='comment'>about 2 tablespoons</span><span class='other'>)</span><span class='name'>extra-virgin olive oil</span>",
+        "comment": "about 2 tablespoons",
+        "other": "()",
+        "name": "grams extra-virgin olive oil",
+        "input": "20 grams (about 2 tablespoons) extra-virgin olive oil",
+        "qty": "20"
+    },
+    {
+        "display": "<span class='other'>Pinch of</span><span class='name'>fine sea salt per serving</span>",
+        "other": "Pinch of",
+        "input": "Pinch of fine sea salt per serving",
+        "name": "fine sea salt per serving"
+    }
+]

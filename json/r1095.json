@@ -1,0 +1,53 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium</span><span class='name'>kohlrabi</span><span class='comment'>( 2 pounds total</span><span class='other'>)</span>",
+        "comment": "medium (2 pounds total",
+        "other": ")",
+        "name": "kohlrabi",
+        "input": "3 medium kohlrabi (2 pounds total)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>small</span><span class='name'>red onion</span>",
+        "qty": "1/2",
+        "comment": "small",
+        "input": "1/2 small red onion",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>drained</span><span class='name'>capers</span>",
+        "comment": "drained",
+        "unit": "tablespoon",
+        "name": "capers",
+        "input": "2 tablespoons drained capers",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>ounces</span><span class='name'>m\u00e2che</span><span class='comment'>( lamb's lettuce; 4 cups ) or other small tender</span><span class='name'>lettuce</span>",
+        "comment": "(lamb's lettuce; 4 cups) or other small tender",
+        "unit": "ounce",
+        "name": "m\u00e2che lettuce",
+        "input": "2 ounces m\u00e2che (lamb's lettuce; 4 cups) or other small tender lettuce",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='name'>Equipment: an adjustable-blade slicer</span>",
+        "input": "Equipment: an adjustable-blade slicer",
+        "name": "Equipment: an adjustable-blade slicer"
+    }
+]

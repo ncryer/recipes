@@ -1,0 +1,95 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, diced small</span>",
+        "qty": "1",
+        "comment": "medium, diced small",
+        "input": "1 medium onion, diced small",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>peeled and finely chopped</span>",
+        "comment": "peeled and finely chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 cloves garlic, peeled and finely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>14</span><span class='comment'>oz firm</span><span class='name'>tofu</span><span class='other'>,</span><span class='comment'>frozen and then defrosted ( Freezing changes texture to a more meaty substance that soaks up flavor. Freeze in plastic wrap</span><span class='other'>, thaw and pat</span><span class='comment'>dry with paper towel to remove excess water. )</span>",
+        "comment": "oz firm frozen and then defrosted (Freezing changes texture to a more meaty substance that soaks up flavor. Freeze in plastic wrap dry with paper towel to remove excess water.)",
+        "other": ",, thaw and pat",
+        "name": "tofu",
+        "input": "14 oz firm tofu, frozen and then defrosted (Freezing changes texture to a more meaty substance that soaks up flavor. Freeze in plastic wrap, thaw and pat dry with paper towel to remove excess water.)",
+        "qty": "14"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>tsp</span><span class='comment'>dried</span><span class='name'>rosemary</span><span class='comment'>, crumbled</span>",
+        "comment": "dried, crumbled",
+        "unit": "tsp",
+        "name": "rosemary",
+        "input": "1/2 tsp dried rosemary, crumbled",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>small</span><span class='name'>tomatoes</span><span class='other'>,</span><span class='comment'>finely chopped</span>",
+        "comment": "small finely chopped",
+        "other": ",",
+        "name": "tomatoes",
+        "input": "2 small tomatoes, finely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>ground</span><span class='name'>walnuts</span>",
+        "comment": "ground",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup ground walnuts",
+        "name": "walnuts"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>tsp mellow miso</span><span class='other'>, or</span><span class='comment'>more for stronger flavor ( available at health food stores )</span>",
+        "comment": "more for stronger flavor (available at health food stores)",
+        "other": ", or",
+        "name": "tsp mellow miso",
+        "input": "2 tsp mellow miso, or more for stronger flavor (available at health food stores)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>tsp</span><span class='name'>balsamic vinegar</span>",
+        "qty": "1/2",
+        "comment": "tsp",
+        "input": "1/2 tsp balsamic vinegar",
+        "name": "balsamic vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>tbsp</span><span class='name'>tomato paste</span>",
+        "qty": "2",
+        "comment": "tbsp",
+        "input": "2 tbsp tomato paste",
+        "name": "tomato paste"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='comment'>large</span><span class='other'>,</span><span class='comment'>fresh cremini or white</span><span class='name'>mushrooms</span><span class='comment'>, wiped clean</span><span class='other'>,</span><span class='comment'>stems removed</span>",
+        "comment": "large fresh cremini or white, wiped clean stems removed",
+        "other": ", ,",
+        "name": "mushrooms",
+        "input": "12 large, fresh cremini or white mushrooms, wiped clean, stems removed",
+        "qty": "12"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>green onions</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "green onions",
+        "input": "1/4 cup chopped green onions",
+        "qty": "1/4"
+    }
+]

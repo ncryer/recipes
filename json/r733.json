@@ -1,0 +1,58 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>carrot</span>",
+        "qty": "1",
+        "comment": "large",
+        "input": "1 large carrot",
+        "name": "carrot"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>potato</span>",
+        "qty": "1",
+        "comment": "large",
+        "input": "1 large potato",
+        "name": "potato"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>sweet potato</span>",
+        "qty": "1",
+        "comment": "large",
+        "input": "1 large sweet potato",
+        "name": "sweet potato"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>beet</span>",
+        "qty": "1",
+        "comment": "large",
+        "input": "1 large beet",
+        "name": "beet"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>chopped fresh</span><span class='name'>thyme</span>",
+        "comment": "chopped fresh",
+        "unit": "teaspoon",
+        "name": "thyme",
+        "input": "1 teaspoon chopped fresh thyme",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>chopped fresh</span><span class='name'>rosemary</span>",
+        "comment": "chopped fresh",
+        "unit": "teaspoon",
+        "name": "rosemary",
+        "input": "1/2 teaspoon chopped fresh rosemary",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='name'>Salt and pepper</span>",
+        "input": "Salt and pepper",
+        "name": "Salt and pepper"
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='name'>leek</span>",
+        "qty": "1",
+        "input": "1 leek",
+        "name": "leek"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>coconut oil</span><span class='comment'>or olive oil</span>",
+        "comment": "or olive oil",
+        "unit": "tablespoon",
+        "name": "coconut oil",
+        "input": "1 tablespoon coconut oil or olive oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span>",
+        "unit": "clove",
+        "qty": "2",
+        "input": "2 cloves garlic",
+        "name": "garlic"
+    },
+    {
+        "other": "A",
+        "display": "<span class='other'>A</span><span class='comment'>good pinch of</span><span class='name'>chile powder</span><span class='comment'>or chopped dried</span><span class='name'>chile</span>",
+        "comment": "good pinch of or chopped dried",
+        "input": "A good pinch of chile powder or chopped dried chile",
+        "name": "chile powder chile"
+    },
+    {
+        "other": ")",
+        "display": "<span class='comment'>1 ( 14-ounce 400-g</span><span class='other'>)</span><span class='comment'>can</span><span class='name'>black-eyed peas</span>",
+        "comment": "1 (14-ounce 400-g can",
+        "input": "1 (14-ounce 400-g) can black-eyed peas",
+        "name": "black-eyed peas"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>vegetable stock powder</span><span class='comment'>or 1/2</span><span class='name'>stock cube</span>",
+        "comment": "or 1/2",
+        "unit": "teaspoon",
+        "name": "vegetable stock powder stock cube",
+        "input": "1 teaspoon vegetable stock powder or 1/2 stock cube",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>A good grating of</span><span class='name'>nutmeg</span>",
+        "comment": "A good grating of",
+        "input": "A good grating of nutmeg",
+        "name": "nutmeg"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>unwaxed</span><span class='name'>lemon</span>",
+        "unit": "unwaxed",
+        "qty": "1/2",
+        "input": "1/2 unwaxed lemon",
+        "name": "lemon"
+    },
+    {
+        "display": "<span class='qty'>7</span><span class='unit'>ounces</span><span class='comment'>200 g bunch Swiss or rainbow chard</span>",
+        "unit": "ounce",
+        "comment": "200 g bunch Swiss or rainbow chard",
+        "input": "7 ounces 200 g bunch Swiss or rainbow chard",
+        "qty": "7"
+    },
+    {
+        "display": "<span class='comment'>Sea</span><span class='name'>salt and</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Sea freshly ground",
+        "input": "Sea salt and freshly ground pepper",
+        "name": "salt and pepper"
+    },
+    {
+        "display": "<span class='other'>A large</span><span class='unit'>bunch</span><span class='comment'>of</span><span class='name'>cilantro</span>",
+        "comment": "of",
+        "other": "A large",
+        "unit": "bunch",
+        "input": "A large bunch of cilantro",
+        "name": "cilantro"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>green chiles</span>",
+        "qty": "2",
+        "input": "2 green chiles",
+        "name": "green chiles"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span>",
+        "unit": "clove",
+        "qty": "2",
+        "input": "2 cloves garlic",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>ounce</span><span class='comment'>30 g shelled</span><span class='name'>walnuts</span>",
+        "comment": "30 g shelled",
+        "unit": "ounce",
+        "name": "walnuts",
+        "input": "1 ounce 30 g shelled walnuts",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>runny</span><span class='name'>honey</span><span class='comment'>or maple syrup</span>",
+        "comment": "runny or maple syrup",
+        "unit": "tablespoon",
+        "name": "honey",
+        "input": "1 tablespoon runny honey or maple syrup",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>good</span><span class='name'>olive oil</span>",
+        "comment": "good",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "1 tablespoon good olive oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Juice of</span><span class='qty'>1/2</span><span class='other'>a</span><span class='name'>lemon</span>",
+        "comment": "Juice of",
+        "other": "a",
+        "name": "lemon",
+        "input": "Juice of 1/2 a lemon",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='comment'>Sea</span><span class='name'>salt and</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Sea freshly ground",
+        "input": "Sea salt and freshly ground pepper",
+        "name": "salt and pepper"
+    },
+    {
+        "display": "<span class='comment'>Rice or flatbreads , to serve ( optional )</span>",
+        "comment": "Rice or flatbreads, to serve (optional)",
+        "input": "Rice or flatbreads, to serve (optional)"
+    }
+]

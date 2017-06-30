@@ -1,0 +1,94 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='name'>scallions</span><span class='other'>,</span><span class='comment'>whites and greens separated</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "whites and greens separated thinly sliced",
+        "other": ", ,",
+        "name": "scallions",
+        "input": "4 scallions, whites and greens separated, thinly sliced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>vegetable oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>crushed</span><span class='name'>red pepper flakes</span>",
+        "comment": "crushed",
+        "unit": "tablespoon",
+        "name": "red pepper flakes",
+        "input": "1 tablespoon crushed red pepper flakes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>sesame seeds</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons sesame seeds",
+        "name": "sesame seeds"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>Sichuan pepper</span><span class='comment'>, coarsely chopped</span>",
+        "comment": ", coarsely chopped",
+        "unit": "teaspoon",
+        "name": "Sichuan pepper",
+        "input": "2 teaspoons Sichuan pepper, coarsely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='unit'>ounces</span><span class='comment'>thin</span><span class='name'>ramen noodles</span><span class='comment'>or spaghettini</span>",
+        "comment": "thin or spaghettini",
+        "unit": "ounce",
+        "name": "ramen noodles",
+        "input": "12 ounces thin ramen noodles or spaghettini",
+        "qty": "12"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>tahini</span><span class='other'>(</span><span class='comment'>sesame seed paste</span><span class='other'>)</span>",
+        "comment": "sesame seed paste",
+        "other": "()",
+        "unit": "cup",
+        "name": "tahini",
+        "input": "1/4 cup tahini (sesame seed paste)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>unseasoned</span><span class='name'>rice vinegar</span>",
+        "comment": "unseasoned",
+        "unit": "cup",
+        "name": "rice vinegar",
+        "input": "1/4 cup unseasoned rice vinegar",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>reduced-sodium</span><span class='name'>soy sauce</span>",
+        "comment": "reduced-sodium",
+        "unit": "tablespoon",
+        "name": "soy sauce",
+        "input": "3 tablespoons reduced-sodium soy sauce",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>toasted</span><span class='name'>sesame oil</span>",
+        "comment": "toasted",
+        "unit": "teaspoon",
+        "name": "sesame oil",
+        "input": "2 teaspoons toasted sesame oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sugar",
+        "name": "sugar"
+    }
+]

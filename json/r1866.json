@@ -1,0 +1,69 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>cups</span><span class='comment'>large green</span><span class='name'>olives</span><span class='comment'>( about 1 pound )</span>",
+        "comment": "large green (about 1 pound)",
+        "unit": "cup",
+        "name": "olives",
+        "input": "2 1/2 cups large green olives (about 1 pound)",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>celery</span><span class='other'>ribs</span>",
+        "qty": "3",
+        "name": "celery",
+        "input": "3 celery ribs",
+        "other": "ribs"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>carrot</span>",
+        "qty": "1",
+        "input": "1 carrot",
+        "name": "carrot"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>red onion</span>",
+        "qty": "1",
+        "comment": "small",
+        "input": "1 small red onion",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span>",
+        "unit": "clove",
+        "qty": "1",
+        "input": "1 garlic clove",
+        "name": "garlic"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>drained</span><span class='name'>caperberries</span>",
+        "comment": "drained",
+        "unit": "cup",
+        "name": "caperberries",
+        "input": "1/2 cup drained caperberries",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>oregano</span><span class='comment'>leaves or 1 1/2 teaspoons crumbled dried</span><span class='name'>oregano</span>",
+        "comment": "chopped fresh leaves or 1 1/2 teaspoons crumbled dried",
+        "unit": "tablespoon",
+        "name": "oregano oregano",
+        "input": "1 tablespoon chopped fresh oregano leaves or 1 1/2 teaspoons crumbled dried oregano",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/2 teaspoon freshly ground black pepper",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/2 cup extra-virgin olive oil",
+        "qty": "1/2"
+    }
+]

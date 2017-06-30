@@ -1,0 +1,83 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>medium</span><span class='name'>artichokes</span><span class='comment'>( 1/2 lb each</span><span class='other'>)</span>",
+        "comment": "medium (1/2 lb each",
+        "other": ")",
+        "name": "artichokes",
+        "input": "6 medium artichokes (1/2 lb each)",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>18</span><span class='comment'>fresh flat-leaf</span><span class='name'>parsley</span><span class='unit'>sprigs</span>",
+        "comment": "fresh flat-leaf",
+        "unit": "sprig",
+        "name": "parsley",
+        "input": "18 fresh flat-leaf parsley sprigs",
+        "qty": "18"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='comment'>fresh</span><span class='name'>thyme</span><span class='comment'>sprigs</span>",
+        "qty": "8",
+        "comment": "fresh sprigs",
+        "input": "8 fresh thyme sprigs",
+        "name": "thyme"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>head</span><span class='other'>of</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>cloves separated and left unpeeled</span>",
+        "comment": "cloves separated and left unpeeled",
+        "other": "of ,",
+        "unit": "head",
+        "name": "garlic",
+        "input": "1 head of garlic, cloves separated and left unpeeled",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "1 tablespoon extra-virgin olive oil",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Special equipment: a 6-</span><span class='other'>to</span><span class='comment'>8-qt heavy pot wide enough to hold artichokes in a single layer</span><span class='other'>(</span><span class='comment'>about 11 inches in diameter )</span>",
+        "comment": "8-qt heavy pot wide enough to hold artichokes in a single layer about 11 inches in diameter)",
+        "input": "Special equipment: a 6- to 8-qt heavy pot wide enough to hold artichokes in a single layer (about 11 inches in diameter)",
+        "name": "Special equipment: a 6-",
+        "other": "to ("
+    },
+    {
+        "display": "<span class='name'>Accompaniment:</span><span class='comment'>crusty</span><span class='name'>bread</span>",
+        "comment": "crusty",
+        "input": "Accompaniment: crusty bread",
+        "name": "Accompaniment: bread"
+    }
+]

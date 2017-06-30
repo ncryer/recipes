@@ -1,0 +1,80 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>pure</span><span class='name'>maple syrup</span>",
+        "comment": "pure",
+        "unit": "cup",
+        "name": "maple syrup",
+        "input": "1 cup pure maple syrup",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>apple cider vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup apple cider vinegar",
+        "name": "apple cider vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped dried</span><span class='name'>apricots</span>",
+        "comment": "chopped dried",
+        "unit": "cup",
+        "name": "apricots",
+        "input": "1/2 cup chopped dried apricots",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped dried</span><span class='name'>peaches</span>",
+        "comment": "chopped dried",
+        "unit": "cup",
+        "name": "peaches",
+        "input": "1/2 cup chopped dried peaches",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>sweetened dried</span><span class='name'>cranberries</span>",
+        "comment": "sweetened dried",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup sweetened dried cranberries",
+        "name": "cranberries"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 garlic cloves, chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>16</span><span class='unit'>ounces</span><span class='comment'>fresh</span><span class='name'>cranberries</span><span class='comment'>( about 4 cups )</span>",
+        "comment": "fresh (about 4 cups)",
+        "unit": "ounce",
+        "name": "cranberries",
+        "input": "16 ounces fresh cranberries (about 4 cups)",
+        "qty": "16"
+    },
+    {
+        "display": "<span class='qty'>2 1/4</span><span class='unit'>teaspoons</span><span class='comment'>chopped canned</span><span class='name'>chipotle chiles*</span>",
+        "comment": "chopped canned",
+        "unit": "teaspoon",
+        "name": "chipotle chiles*",
+        "input": "2 1/4 teaspoons chopped canned chipotle chiles*",
+        "qty": "2 1/4"
+    }
+]

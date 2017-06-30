@@ -1,0 +1,65 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium yellow</span><span class='name'>onions</span><span class='comment'>, sliced ( about 22 ounces unpeeled )</span>",
+        "qty": "3",
+        "comment": "medium yellow, sliced (about 22 ounces unpeeled)",
+        "input": "3 medium yellow onions, sliced (about 22 ounces unpeeled)",
+        "name": "onions"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>yellow onion charred</span><span class='other'>(</span><span class='comment'>see Chef's Tip , below )</span>",
+        "comment": "see Chef's Tip, below)",
+        "other": "(",
+        "name": "yellow onion charred",
+        "input": "1 yellow onion charred (see Chef's Tip, below)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>carrots</span><span class='other'>,</span><span class='comment'>peeled and sliced</span>",
+        "comment": "peeled and sliced",
+        "other": ",",
+        "name": "carrots",
+        "input": "4 carrots, peeled and sliced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>fennel bulb</span><span class='other'>,</span><span class='comment'>sliced</span>",
+        "comment": "sliced",
+        "other": ",",
+        "name": "fennel bulb",
+        "input": "1 fennel bulb, sliced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>leeks</span><span class='other'>,</span><span class='comment'>white and light green parts only , rinsed and sliced</span>",
+        "comment": "white and light green parts only, rinsed and sliced",
+        "other": ",",
+        "name": "leeks",
+        "input": "2 leeks, white and light green parts only, rinsed and sliced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>small</span><span class='unit'>head</span><span class='name'>celery root</span><span class='comment'>, peeled and sliced</span>",
+        "comment": ", peeled and sliced",
+        "other": "small",
+        "unit": "head",
+        "name": "celery root",
+        "input": "1 small head celery root, peeled and sliced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>bunch</span><span class='comment'>fresh</span><span class='name'>thyme</span>",
+        "comment": "fresh",
+        "unit": "bunch",
+        "name": "thyme",
+        "input": "1/2 bunch fresh thyme",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>quarts</span><span class='name'>water</span>",
+        "unit": "quart",
+        "qty": "4",
+        "input": "4 quarts water",
+        "name": "water"
+    }
+]

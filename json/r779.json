@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>1-inch cubes seeded</span><span class='name'>watermelon</span>",
+        "comment": "1-inch cubes seeded",
+        "unit": "cup",
+        "name": "watermelon",
+        "input": "3 cups 1-inch cubes seeded watermelon",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>frozen</span><span class='name'>quartered</span><span class='comment'>hulled</span><span class='name'>strawberries</span>",
+        "comment": "frozen hulled",
+        "unit": "cup",
+        "name": "quartered strawberries",
+        "input": "2 cups frozen quartered hulled strawberries",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>finely grated peeled fresh ginger</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons finely grated peeled fresh ginger",
+        "name": "finely grated peeled fresh ginger"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>lime juice</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "lime juice",
+        "input": "1 1/2 teaspoons fresh lime juice",
+        "qty": "1 1/2"
+    }
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>whole</span><span class='name'>star anise pod</span>",
+        "qty": "1",
+        "comment": "whole",
+        "input": "1 whole star anise pod",
+        "name": "star anise pod"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>aniseed</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon aniseed",
+        "name": "aniseed"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>coriander seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon coriander seeds",
+        "name": "coriander seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>fennel seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon fennel seeds",
+        "name": "fennel seeds"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>cumin seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon cumin seeds",
+        "name": "cumin seeds"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='name'>lemongrass</span><span class='unit'>stalk</span><span class='other'>,</span><span class='comment'>tough outer layer removed , crushed</span>",
+        "comment": "tough outer layer removed, crushed",
+        "other": ",",
+        "unit": "stalk",
+        "name": "lemongrass",
+        "input": "1/4 lemongrass stalk, tough outer layer removed, crushed",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='comment'>Zest of</span><span class='qty'>1/4</span><span class='name'>orange</span><span class='comment'>, removed with a vegetable peeler</span>",
+        "qty": "1/4",
+        "comment": "Zest of, removed with a vegetable peeler",
+        "input": "Zest of 1/4 orange, removed with a vegetable peeler",
+        "name": "orange"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>fennel bulb</span><span class='comment'>, cored , thinly sliced</span>",
+        "qty": "1",
+        "comment": "medium, cored, thinly sliced",
+        "input": "1 medium fennel bulb, cored, thinly sliced",
+        "name": "fennel bulb"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>unseasoned</span><span class='name'>rice vinegar</span>",
+        "comment": "unseasoned",
+        "unit": "cup",
+        "name": "rice vinegar",
+        "input": "1 1/2 cups unseasoned rice vinegar",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "2 tablespoons kosher salt",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>large heirloom</span><span class='name'>tomatoes</span><span class='comment'>( about 3 ) , cut into wedges</span>",
+        "comment": "large heirloom (about 3), cut into wedges",
+        "unit": "pound",
+        "name": "tomatoes",
+        "input": "2 pounds large heirloom tomatoes (about 3), cut into wedges",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>cherry tomatoes</span><span class='comment'>, preferably heirloom</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": ", preferably heirloom halved",
+        "other": ",",
+        "unit": "cup",
+        "name": "cherry tomatoes",
+        "input": "1 cup cherry tomatoes, preferably heirloom, halved",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>white balsamic</span><span class='comment'>or Sherry</span><span class='name'>vinegar</span>",
+        "comment": "or Sherry",
+        "unit": "tablespoon",
+        "name": "white balsamic vinegar",
+        "input": "2 tablespoons white balsamic or Sherry vinegar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>7</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": "extra-virgin, divided",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "7 tablespoons extra-virgin olive oil, divided",
+        "qty": "7"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground pepper",
+        "name": "salt pepper",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>Cubanelle peppers</span><span class='comment'>or Anaheim chiles</span><span class='other'>,</span><span class='comment'>sliced into 3/4\" rings</span><span class='other'>,</span><span class='comment'>seeded</span>",
+        "comment": "or Anaheim chiles sliced into 3/4\" rings seeded",
+        "other": ", ,",
+        "name": "Cubanelle peppers",
+        "input": "2 Cubanelle peppers or Anaheim chiles, sliced into 3/4\" rings, seeded",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='name'>Fennel fronds</span><span class='other'>(</span><span class='comment'>for serving</span><span class='other'>)</span>",
+        "comment": "for serving",
+        "input": "Fennel fronds (for serving)",
+        "name": "Fennel fronds",
+        "other": "()"
+    },
+    {
+        "display": "<span class='name'>Cheesecloth</span>",
+        "input": "Cheesecloth",
+        "name": "Cheesecloth"
+    }
+]

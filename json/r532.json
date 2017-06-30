@@ -1,0 +1,23 @@
+[
+    {
+        "display": "<span class='qty'>18</span><span class='unit'>cups</span><span class='comment'>chopped seedless</span><span class='name'>watermelon</span><span class='comment'>( one 10-pound melon )</span>",
+        "comment": "chopped seedless (one 10-pound melon)",
+        "unit": "cup",
+        "name": "watermelon",
+        "input": "18 cups chopped seedless watermelon (one 10-pound melon)",
+        "qty": "18"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='comment'>fresh white</span><span class='other'>,</span><span class='comment'>ruby red , or pink grapefruit juice</span>",
+        "comment": "fresh white ruby red, or pink grapefruit juice",
+        "other": ",",
+        "unit": "cup",
+        "input": "1 1/4 cups fresh white, ruby red, or pink grapefruit juice",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='name'>Cheese cloth</span>",
+        "input": "Cheese cloth",
+        "name": "Cheese cloth"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='name'>1/2-inch-thick</span><span class='comment'>slices trimmed rhubarb ( 3 pounds untrimmed )</span>",
+        "comment": "slices trimmed rhubarb (3 pounds untrimmed)",
+        "unit": "cup",
+        "name": "1/2-inch-thick",
+        "input": "8 cups 1/2-inch-thick slices trimmed rhubarb (3 pounds untrimmed)",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>orange juice</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup orange juice",
+        "name": "orange juice"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>pomegranate juice*</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup pomegranate juice*",
+        "name": "pomegranate juice*"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>tablespoons</span><span class='name'>Grand Marnier</span><span class='other'>or</span><span class='comment'>other</span><span class='name'>orange liqueur</span>",
+        "comment": "other",
+        "other": "or",
+        "unit": "tablespoon",
+        "name": "Grand Marnier orange liqueur",
+        "input": "2 1/2 tablespoons Grand Marnier or other orange liqueur",
+        "qty": "2 1/2"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>large navel</span><span class='name'>oranges</span>",
+        "qty": "6",
+        "comment": "large navel",
+        "input": "6 large navel oranges",
+        "name": "oranges"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='name'>orange juice</span>",
+        "unit": "cup",
+        "other": "2/3",
+        "input": "2/3 cup orange juice",
+        "name": "orange juice"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>thinly sliced peeled fresh</span><span class='name'>ginger</span><span class='comment'>( about 2 1/2 ounces )</span>",
+        "comment": "thinly sliced peeled fresh (about 2 1/2 ounces)",
+        "unit": "cup",
+        "name": "ginger",
+        "input": "1/2 cup thinly sliced peeled fresh ginger (about 2 1/2 ounces)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>cinnamon</span><span class='unit'>stick</span>",
+        "unit": "stick",
+        "qty": "1",
+        "input": "1 cinnamon stick",
+        "name": "cinnamon"
+    }
+]

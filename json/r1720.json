@@ -1,0 +1,77 @@
+[
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>Sherry vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup Sherry vinegar",
+        "name": "Sherry vinegar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium</span><span class='name'>eggplants</span><span class='comment'>( 2 pounds total ) , trimmed and each cut lengthwise into 8 wedges</span>",
+        "qty": "3",
+        "comment": "medium (2 pounds total), trimmed and each cut lengthwise into 8 wedges",
+        "input": "3 medium eggplants (2 pounds total), trimmed and each cut lengthwise into 8 wedges",
+        "name": "eggplants"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 garlic clove, minced",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>oregano</span><span class='comment'>, crumbled</span>",
+        "comment": "dried, crumbled",
+        "unit": "teaspoon",
+        "name": "oregano",
+        "input": "1/2 teaspoon dried oregano, crumbled",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "other": "1/8",
+        "input": "1/8 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "6 tablespoons extra-virgin olive oil",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>finely chopped fresh</span><span class='name'>mint</span>",
+        "comment": "finely chopped fresh",
+        "unit": "tablespoon",
+        "name": "mint",
+        "input": "2 tablespoons finely chopped fresh mint",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>finely chopped fresh flat-leaf</span><span class='name'>parsley</span>",
+        "comment": "finely chopped fresh flat-leaf",
+        "unit": "tablespoon",
+        "name": "parsley",
+        "input": "2 tablespoons finely chopped fresh flat-leaf parsley",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='name'>Special</span><span class='comment'>equipment: a 12-inch collapsible steamer basket or a pasta pot with a shallow perforated colander-steamer insert</span>",
+        "comment": "equipment: a 12-inch collapsible steamer basket or a pasta pot with a shallow perforated colander-steamer insert",
+        "input": "Special equipment: a 12-inch collapsible steamer basket or a pasta pot with a shallow perforated colander-steamer insert",
+        "name": "Special"
+    }
+]

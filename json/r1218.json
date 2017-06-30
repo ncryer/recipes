@@ -1,0 +1,17 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>unpeeled russet</span><span class='name'>potatoes</span><span class='comment'>( about 3 large ) , scrubbed</span>",
+        "comment": "unpeeled russet (about 3 large), scrubbed",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "2 pounds unpeeled russet potatoes (about 3 large), scrubbed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='name'>Canola oil</span><span class='other'>(</span><span class='comment'>for deep-frying</span><span class='other'>)</span>",
+        "comment": "for deep-frying",
+        "input": "Canola oil (for deep-frying)",
+        "name": "Canola oil",
+        "other": "()"
+    }
+]

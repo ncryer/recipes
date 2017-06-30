@@ -1,0 +1,37 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>mushrooms</span><span class='comment'>( such as button or cremini ) , sliced</span>",
+        "comment": "(such as button or cremini), sliced",
+        "unit": "pound",
+        "name": "mushrooms",
+        "input": "2 pounds mushrooms (such as button or cremini), sliced",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='name'>Salt</span>",
+        "input": "Salt",
+        "name": "Salt"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>leeks</span><span class='comment'>, sliced crosswise , rinsed well</span>",
+        "qty": "2",
+        "comment": ", sliced crosswise, rinsed well",
+        "input": "2 leeks, sliced crosswise, rinsed well",
+        "name": "leeks"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>tarragon</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "tarragon",
+        "input": "1 tablespoon chopped fresh tarragon",
+        "qty": "1"
+    }
+]

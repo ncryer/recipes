@@ -1,0 +1,127 @@
+[
+    {
+        "display": "<span class='qty'>2 3/4</span><span class='unit'>cups</span><span class='comment'>sprouted spelt</span><span class='name'>flour</span><span class='comment'>or whole wheat</span><span class='name'>pastry flour</span>",
+        "comment": "sprouted spelt or whole wheat",
+        "unit": "cup",
+        "name": "flour pastry flour",
+        "input": "2 3/4 cups sprouted spelt flour or whole wheat pastry flour",
+        "qty": "2 3/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>baking powder</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon baking powder",
+        "name": "baking powder"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>baking soda</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons baking soda",
+        "name": "baking soda"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>sea</span><span class='name'>salt</span>",
+        "comment": "sea",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "3/4 teaspoon sea salt",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>unsweetened</span><span class='name'>cocoa powder</span><span class='comment'>, sifted</span>",
+        "comment": "unsweetened, sifted",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup unsweetened cocoa powder, sifted",
+        "name": "cocoa powder"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>canola oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup canola oil",
+        "name": "canola oil"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='name'>light agave nectar</span>",
+        "unit": "cup",
+        "qty": "1 1/4",
+        "input": "1 1/4 cups light agave nectar",
+        "name": "light agave nectar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>soy milk</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup soy milk",
+        "name": "soy milk"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>firm silken</span><span class='name'>tofu</span>",
+        "comment": "firm silken",
+        "unit": "cup",
+        "name": "tofu",
+        "input": "1/2 cup firm silken tofu",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>vanilla extract</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon vanilla extract",
+        "name": "vanilla extract"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>raw</span><span class='name'>apple cider vinegar</span>",
+        "comment": "raw",
+        "unit": "tablespoon",
+        "name": "apple cider vinegar",
+        "input": "2 tablespoons raw apple cider vinegar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>12</span><span class='unit'>ounces</span><span class='comment'>light firm silken</span><span class='name'>tofu</span>",
+        "comment": "light firm silken",
+        "unit": "ounce",
+        "name": "tofu",
+        "input": "12 ounces light firm silken tofu",
+        "qty": "12"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>light agave nectar</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup light agave nectar",
+        "name": "light agave nectar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>smooth</span><span class='name'>peanut butter</span>",
+        "comment": "smooth",
+        "unit": "cup",
+        "name": "peanut butter",
+        "input": "1 cup smooth peanut butter",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>vanilla extract</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon vanilla extract",
+        "name": "vanilla extract"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>sea salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon sea salt",
+        "name": "sea salt"
+    },
+    {
+        "display": "<span class='comment'>Chopped toasted</span><span class='name'>peanuts</span><span class='comment'>, for garnish ( optional )</span>",
+        "comment": "Chopped toasted, for garnish (optional)",
+        "input": "Chopped toasted peanuts, for garnish (optional)",
+        "name": "peanuts"
+    }
+]

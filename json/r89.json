@@ -1,0 +1,97 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>small</span><span class='name'>carrots</span><span class='comment'>( about 2 bunches ) , peeled</span><span class='other'>,</span><span class='comment'>cut into 3\" pieces</span>",
+        "comment": "small (about 2 bunches), peeled cut into 3\" pieces",
+        "other": ",",
+        "unit": "pound",
+        "name": "carrots",
+        "input": "2 pounds small carrots (about 2 bunches), peeled, cut into 3\" pieces",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large red</span><span class='name'>onions</span><span class='comment'>, each cut through root end into 8 wedges</span>",
+        "qty": "2",
+        "comment": "large red, each cut through root end into 8 wedges",
+        "input": "2 large red onions, each cut through root end into 8 wedges",
+        "name": "onions"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>fennel bulb</span><span class='other'>,</span><span class='comment'>cut into 1/2\" wedges</span>",
+        "comment": "cut into 1/2\" wedges",
+        "other": ",",
+        "name": "fennel bulb",
+        "input": "1 fennel bulb, cut into 1/2\" wedges",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>Tbsp.</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "qty": "4",
+        "comment": "Tbsp., divided",
+        "input": "4 Tbsp. olive oil, divided",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground pepper",
+        "name": "salt pepper",
+        "other": ","
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>raw</span><span class='name'>sunflower seeds</span>",
+        "comment": "raw",
+        "unit": "tablespoon",
+        "name": "sunflower seeds",
+        "input": "2 tablespoons raw sunflower seeds",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>coriander seeds</span><span class='other'>,</span><span class='comment'>coarsely chopped</span>",
+        "comment": "coarsely chopped",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "coriander seeds",
+        "input": "1 teaspoon coriander seeds, coarsely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>Aleppo pepper</span><span class='comment'>or a pinch of crushed red pepper flakes</span>",
+        "comment": "or a pinch of crushed red pepper flakes",
+        "unit": "teaspoon",
+        "name": "Aleppo pepper",
+        "input": "1/2 teaspoon Aleppo pepper or a pinch of crushed red pepper flakes",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>Hungarian hot</span><span class='name'>paprika</span>",
+        "comment": "Hungarian hot",
+        "unit": "teaspoon",
+        "name": "paprika",
+        "input": "1/2 teaspoon Hungarian hot paprika",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>Sherry vinegar</span><span class='comment'>or red wine</span><span class='name'>vinegar</span>",
+        "comment": "or red wine",
+        "unit": "tablespoon",
+        "name": "Sherry vinegar vinegar",
+        "input": "2 tablespoons Sherry vinegar or red wine vinegar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>torn</span><span class='name'>mint leaves</span>",
+        "comment": "torn",
+        "unit": "tablespoon",
+        "name": "mint leaves",
+        "input": "2 tablespoons torn mint leaves",
+        "qty": "2"
+    }
+]

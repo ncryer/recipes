@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>chilled</span><span class='name'>pomegranate juice</span>",
+        "comment": "chilled",
+        "unit": "cup",
+        "name": "pomegranate juice",
+        "input": "2 cups chilled pomegranate juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chilled fresh</span><span class='name'>orange juice</span>",
+        "comment": "chilled fresh",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "1 cup chilled fresh orange juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>orange-flavored liqueur</span><span class='other'>(</span><span class='comment'>preferably Cointreau</span><span class='other'>)</span>",
+        "comment": "preferably Cointreau",
+        "other": "()",
+        "unit": "cup",
+        "name": "orange-flavored liqueur",
+        "input": "1/2 cup orange-flavored liqueur (preferably Cointreau)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 750-ml ) bottle well-chilled Cava or demi-sec Champagne</span>",
+        "comment": "(750-ml) bottle well-chilled Cava or demi-sec Champagne",
+        "input": "1 (750-ml) bottle well-chilled Cava or demi-sec Champagne",
+        "qty": "1"
+    }
+]

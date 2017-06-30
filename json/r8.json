@@ -1,0 +1,121 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>( 214 g )</span><span class='name'>cauliflower</span><span class='comment'>florets ( about 1/2 head small cauliflower )</span>",
+        "comment": "(214 g) florets (about 1/2 head small cauliflower)",
+        "unit": "cup",
+        "name": "cauliflower",
+        "input": "2 cups (214 g) cauliflower florets (about 1/2 head small cauliflower)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='other'>(</span><span class='comment'>237 ml</span><span class='other'>)</span><span class='name'>water</span>",
+        "comment": "237 ml",
+        "other": "()",
+        "unit": "cup",
+        "name": "water",
+        "input": "1 cup (237 ml) water",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>( 96 g ) thick-cut</span><span class='name'>carrot coins</span>",
+        "comment": "(96 g) thick-cut",
+        "unit": "cup",
+        "name": "carrot coins",
+        "input": "3/4 cup (96 g) thick-cut carrot coins",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>( 34 g ) raw</span><span class='name'>cashews</span>",
+        "comment": "(34 g) raw",
+        "unit": "cup",
+        "name": "cashews",
+        "input": "1/4 cup (34 g) raw cashews",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>( 24 g )</span><span class='name'>nutritional yeast</span>",
+        "comment": "(24 g)",
+        "unit": "cup",
+        "name": "nutritional yeast",
+        "input": "1/4 cup (24 g) nutritional yeast",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='name'>Liquid</span><span class='comment'>drained from 1 ( 10-oz [283-g] ) can diced tomatoes with green chiles ( I like Rotel )</span>",
+        "comment": "drained from 1 (10-oz [283-g]) can diced tomatoes with green chiles (I like Rotel)",
+        "input": "Liquid drained from 1 (10-oz [283-g]) can diced tomatoes with green chiles (I like Rotel)",
+        "name": "Liquid"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>tsp</span><span class='name'>smoked paprika</span>",
+        "unit": "tsp",
+        "qty": "1/2",
+        "input": "1/2 tsp smoked paprika",
+        "name": "smoked paprika"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>tsp</span><span class='name'>salt</span><span class='other'>(</span><span class='comment'>or to taste )</span>",
+        "comment": "or to taste)",
+        "other": "(",
+        "unit": "tsp",
+        "name": "salt",
+        "input": "1/2 tsp salt (or to taste)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='name'>tsp chili powder</span>",
+        "qty": "1/4",
+        "input": "1/4 tsp chili powder",
+        "name": "tsp chili powder"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='name'>tsp jalape\u00f1o powder</span><span class='other'>,</span><span class='comment'>optional</span>",
+        "comment": "optional",
+        "other": ",",
+        "name": "tsp jalape\u00f1o powder",
+        "input": "1/4 tsp jalape\u00f1o powder, optional",
+        "qty": "1/4"
+    },
+    {
+        "other": "1/8",
+        "display": "<span class='other'>1/8</span><span class='comment'>tsp</span><span class='name'>mustard powder</span>",
+        "comment": "tsp",
+        "input": "1/8 tsp mustard powder",
+        "name": "mustard powder"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>10-oz [283-g] ) can diced tomatoes with green chiles</span><span class='other'>,</span><span class='comment'>drained ( I like Rotel )</span>",
+        "qty": "1",
+        "comment": "10-oz [283-g]) can diced tomatoes with green chiles drained (I like Rotel)",
+        "input": "1 (10-oz [283-g]) can diced tomatoes with green chiles, drained (I like Rotel)",
+        "other": "(,"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>( 75 g ) chopped</span><span class='name'>bell pepper</span><span class='comment'>( optional )</span>",
+        "comment": "(75 g) chopped (optional)",
+        "unit": "cup",
+        "name": "bell pepper",
+        "input": "1/2 cup (75 g) chopped bell pepper (optional)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>tbsp</span><span class='comment'>( 30 g ) minced red</span><span class='name'>onion</span><span class='comment'>( optional )</span>",
+        "qty": "2",
+        "comment": "(30 g) minced red (optional)",
+        "input": "2 tbsp (30 g) minced red onion (optional)",
+        "name": "tbsp onion"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>( 4 g ) minced</span><span class='name'>cilantro</span>",
+        "comment": "(4 g) minced",
+        "unit": "cup",
+        "name": "cilantro",
+        "input": "1/4 cup (4 g) minced cilantro",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='name'>Instant Pot pressure cooker</span>",
+        "input": "Instant Pot pressure cooker",
+        "name": "Instant Pot pressure cooker"
+    }
+]

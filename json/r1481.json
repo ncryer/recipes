@@ -1,0 +1,49 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>sweet potatoes</span><span class='comment'>or yams</span><span class='other'>,</span><span class='comment'>peeled</span><span class='other'>,</span><span class='comment'>cut lengthwise into 1/2-inch-thick slices</span><span class='other'>,</span><span class='comment'>each slice cut lengthwise into 1/2-inch-wide strips</span>",
+        "comment": "or yams peeled cut lengthwise into 1/2-inch-thick slices each slice cut lengthwise into 1/2-inch-wide strips",
+        "other": ",, ,",
+        "unit": "pound",
+        "name": "sweet potatoes",
+        "input": "2 pounds sweet potatoes or yams, peeled, cut lengthwise into 1/2-inch-thick slices, each slice cut lengthwise into 1/2-inch-wide strips",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span><span class='comment'>, plus more</span>",
+        "comment": "extra-virgin, plus more",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil, plus more",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>rosemary</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "rosemary",
+        "input": "1 tablespoon chopped fresh rosemary",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>( packed )</span><span class='name'>golden brown sugar</span>",
+        "comment": "(packed)",
+        "unit": "tablespoon",
+        "name": "golden brown sugar",
+        "input": "1 tablespoon (packed) golden brown sugar",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>garlic powder</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon garlic powder",
+        "name": "garlic powder"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>cayenne pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon cayenne pepper",
+        "name": "cayenne pepper"
+    }
+]

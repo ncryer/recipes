@@ -1,0 +1,33 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>tarragon</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "tarragon",
+        "input": "1/2 cup chopped fresh tarragon",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>fennel fronds</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "fennel fronds",
+        "input": "1/2 cup chopped fennel fronds",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>mild</span><span class='name'>olive oil</span>",
+        "comment": "mild",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/2 cup mild olive oil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    }
+]

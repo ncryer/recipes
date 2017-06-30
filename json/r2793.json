@@ -1,0 +1,34 @@
+[
+    {
+        "display": "<span class='qty'>12</span><span class='name'>lemons</span><span class='comment'>or 8 navel</span><span class='name'>oranges</span><span class='comment'>or 5 pink grapefruit</span>",
+        "qty": "12",
+        "comment": "or 8 navel or 5 pink grapefruit",
+        "input": "12 lemons or 8 navel oranges or 5 pink grapefruit",
+        "name": "lemons oranges"
+    },
+    {
+        "display": "<span class='qty'>7 1/2</span><span class='unit'>cups</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "7 1/2",
+        "input": "7 1/2 cups sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "6",
+        "input": "6 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='name'>Food coloring</span><span class='comment'>( optional ) : 3 drops yellow for lemon; 2 drops each of yellow and red for orange; 2 drops yellow and 1 drop red for grapefruit</span>",
+        "comment": "(optional) : 3 drops yellow for lemon; 2 drops each of yellow and red for orange; 2 drops yellow and 1 drop red for grapefruit",
+        "input": "Food coloring (optional) : 3 drops yellow for lemon; 2 drops each of yellow and red for orange; 2 drops yellow and 1 drop red for grapefruit",
+        "name": "Food coloring"
+    },
+    {
+        "display": "<span class='name'>Special equipment: a candy thermometer</span>",
+        "input": "Special equipment: a candy thermometer",
+        "name": "Special equipment: a candy thermometer"
+    }
+]

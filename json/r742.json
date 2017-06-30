@@ -1,0 +1,34 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>spoonful</span><span class='name'>lemon sorbet</span><span class='other'>,</span><span class='comment'>softened</span>",
+        "comment": "spoonful softened",
+        "other": ",",
+        "name": "lemon sorbet",
+        "input": "1 spoonful lemon sorbet, softened",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>ounce</span><span class='comment'>citrus</span><span class='name'>vodka</span><span class='comment'>( optional , for a stronger drink )</span>",
+        "comment": "citrus (optional, for a stronger drink)",
+        "unit": "ounce",
+        "name": "vodka",
+        "input": "1/2 ounce citrus vodka (optional, for a stronger drink)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>ounces</span><span class='name'>ros\u00e9 champagne</span>",
+        "unit": "ounce",
+        "qty": "4",
+        "input": "4 ounces ros\u00e9 champagne",
+        "name": "ros\u00e9 champagne"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>to</span><span class='range_end'>3</span><span class='name'>raspberries</span><span class='comment'>, for garnish</span>",
+        "comment": ", for garnish",
+        "other": "to",
+        "name": "raspberries",
+        "range_end": "3",
+        "input": "2 to 3 raspberries, for garnish",
+        "qty": "2"
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>tequila</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup tequila",
+        "name": "tequila"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>( packed )</span><span class='name'>golden brown sugar</span>",
+        "comment": "(packed)",
+        "unit": "cup",
+        "name": "golden brown sugar",
+        "input": "3/4 cup (packed) golden brown sugar",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>vanilla extract</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons vanilla extract",
+        "name": "vanilla extract"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cinnamon</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cinnamon",
+        "input": "1/4 teaspoon ground cinnamon",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>pineapple</span><span class='comment'>, peeled</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>cut into 2x1-inch pieces</span>",
+        "comment": "large, peeled cored cut into 2x1-inch pieces",
+        "other": ", ,",
+        "name": "pineapple",
+        "input": "1 large pineapple, peeled, cored, cut into 2x1-inch pieces",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='name'>bamboo skewers</span><span class='comment'>, soaked in water 30 minutes</span><span class='other'>,</span><span class='comment'>drained</span>",
+        "comment": ", soaked in water 30 minutes drained",
+        "other": ",",
+        "name": "bamboo skewers",
+        "input": "6 bamboo skewers, soaked in water 30 minutes, drained",
+        "qty": "6"
+    }
+]

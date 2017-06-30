@@ -1,0 +1,103 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>vegan</span><span class='name'>butter</span><span class='comment'>, chilled and cut into 1/2 inch cubes</span>",
+        "comment": "vegan, chilled and cut into 1/2 inch cubes",
+        "unit": "cup",
+        "name": "butter",
+        "input": "1 cup vegan butter, chilled and cut into 1/2 inch cubes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2 1/4</span><span class='unit'>cups</span><span class='comment'>unbleached</span><span class='name'>all-purpose flour</span>",
+        "comment": "unbleached",
+        "unit": "cup",
+        "name": "all-purpose flour",
+        "input": "2 1/4 cups unbleached all-purpose flour",
+        "qty": "2 1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "1 teaspoon kosher salt",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>tbsp evaporated cane juice sugar</span>",
+        "qty": "1",
+        "input": "1 tbsp evaporated cane juice sugar",
+        "name": "tbsp evaporated cane juice sugar"
+    },
+    {
+        "display": "<span class='other'>1/3 to</span><span class='range_end'>1/2</span><span class='unit'>cup</span><span class='comment'>ice-cold</span><span class='name'>water</span>",
+        "comment": "ice-cold",
+        "other": "1/3 to",
+        "unit": "cup",
+        "range_end": "1/2",
+        "input": "1/3 to 1/2 cup ice-cold water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2 1/4</span><span class='unit'>cups</span><span class='comment'>drained soft silken</span><span class='name'>tofu</span>",
+        "comment": "drained soft silken",
+        "unit": "cup",
+        "name": "tofu",
+        "input": "2 1/4 cups drained soft silken tofu",
+        "qty": "2 1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>canned organic</span><span class='name'>pumpkin</span><span class='comment'>pur\u00e9e</span>",
+        "comment": "canned organic pur\u00e9e",
+        "unit": "cup",
+        "name": "pumpkin",
+        "input": "1 cup canned organic pumpkin pur\u00e9e",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>1 cup plus 1</span><span class='unit'>tablespoon</span><span class='name'>cold vegan cream cheese</span><span class='comment'>, cut into 1-inch chunks</span>",
+        "comment": ", cut into 1-inch chunks",
+        "other": "1 cup plus 1",
+        "unit": "tablespoon",
+        "input": "1 cup plus 1 tablespoon cold vegan cream cheese, cut into 1-inch chunks",
+        "name": "cold vegan cream cheese"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='name'>evaporated cane juice sugar</span>",
+        "unit": "cup",
+        "qty": "1 1/4",
+        "input": "1 1/4 cups evaporated cane juice sugar",
+        "name": "evaporated cane juice sugar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>freshly grated</span><span class='name'>nutmeg</span>",
+        "comment": "freshly grated",
+        "unit": "teaspoon",
+        "name": "nutmeg",
+        "input": "1/2 teaspoon freshly grated nutmeg",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cinnamon</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cinnamon",
+        "input": "1/2 teaspoon ground cinnamon",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cloves</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cloves",
+        "input": "1/2 teaspoon ground cloves",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>vanilla extract</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon vanilla extract",
+        "name": "vanilla extract"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>dried cannellini</span><span class='comment'>( white kidney</span><span class='other'>)</span><span class='name'>beans</span><span class='comment'>, soaked overnight</span><span class='other'>,</span><span class='comment'>drained</span>",
+        "comment": "(white kidney, soaked overnight drained",
+        "other": ") ,",
+        "unit": "cup",
+        "name": "dried cannellini beans",
+        "input": "1 1/2 cups dried cannellini (white kidney) beans, soaked overnight, drained",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>head</span><span class='other'>of</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>halved crosswise; plus</span><span class='other'>2</span><span class='name'>garlic</span><span class='comment'>cloves</span><span class='other'>,</span><span class='comment'>crushed</span>",
+        "comment": "halved crosswise; plus cloves crushed",
+        "other": "of, 2 ,",
+        "unit": "head",
+        "name": "garlic garlic",
+        "input": "1 head of garlic, halved crosswise; plus 2 garlic cloves, crushed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>sage leaves</span>",
+        "qty": "3",
+        "input": "3 sage leaves",
+        "name": "sage leaves"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span><span class='other'>, divided ,</span><span class='comment'>plus more for serving</span>",
+        "comment": "plus more for serving",
+        "other": ", divided ,",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "6 tablespoons olive oil, divided, plus more for serving",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>crushed</span><span class='name'>red pepper flakes</span>",
+        "comment": "crushed",
+        "unit": "teaspoon",
+        "name": "red pepper flakes",
+        "input": "1/2 teaspoon crushed red pepper flakes",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>bunches</span><span class='comment'>mature</span><span class='name'>spinach</span><span class='comment'>, trimmed</span>",
+        "comment": "mature, trimmed",
+        "unit": "bunch",
+        "name": "spinach",
+        "input": "2 bunches mature spinach, trimmed",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>finely grated</span><span class='name'>lemon</span><span class='comment'>zest</span>",
+        "comment": "finely grated zest",
+        "unit": "tablespoon",
+        "name": "lemon",
+        "input": "1 tablespoon finely grated lemon zest",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons fresh lemon juice",
+        "qty": "2"
+    }
+]

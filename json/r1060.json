@@ -1,0 +1,25 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>oranges</span><span class='comment'>, 1/4 inch of top and bottom cut off</span>",
+        "qty": "2",
+        "comment": "large, 1/4 inch of top and bottom cut off",
+        "input": "2 large oranges, 1/4 inch of top and bottom cut off",
+        "name": "oranges"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>sugar</span><span class='other'>,</span><span class='comment'>divided</span>",
+        "comment": "divided",
+        "other": ",",
+        "unit": "cup",
+        "name": "sugar",
+        "input": "4 cups sugar, divided",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3",
+        "input": "3 cups water",
+        "name": "water"
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>( 10 to 11 ounces ) dried cannellini ( white kidney</span><span class='name'>beans</span><span class='comment'>)</span>",
+        "comment": "(10 to 11 ounces) dried cannellini (white kidney)",
+        "unit": "cup",
+        "name": "beans",
+        "input": "1 1/2 cups (10 to 11 ounces) dried cannellini (white kidney beans)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>onion</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1 cup chopped onion",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>peeled</span>",
+        "comment": "peeled",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 garlic cloves, peeled",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>Turkish bay leaf</span>",
+        "qty": "1",
+        "input": "1 Turkish bay leaf",
+        "name": "Turkish bay leaf"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>sage</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "sage",
+        "input": "1 teaspoon dried sage",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>( packed ) coarsely chopped stemmed lacinato kale</span>",
+        "unit": "cup",
+        "comment": "(packed) coarsely chopped stemmed lacinato kale",
+        "input": "4 cups (packed) coarsely chopped stemmed lacinato kale",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "6 tablespoons extra-virgin olive oil",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "3 tablespoons fresh lemon juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='comment'>Dried crushed</span><span class='name'>red pepper</span>",
+        "comment": "Dried crushed",
+        "input": "Dried crushed red pepper",
+        "name": "red pepper"
+    },
+    {
+        "display": "<span class='name'>Ingredient info:</span>",
+        "input": "Ingredient info:",
+        "name": "Ingredient info:"
+    },
+    {
+        "display": "<span class='comment'>( Tuscan )</span><span class='name'>kale</span><span class='comment'>is flatter and more tender than curly kale.</span>",
+        "comment": "(Tuscan) is flatter and more tender than curly kale.",
+        "input": "(Tuscan) kale is flatter and more tender than curly kale.",
+        "name": "kale"
+    }
+]

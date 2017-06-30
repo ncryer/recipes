@@ -1,0 +1,63 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "1 tablespoon fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>cumin seeds</span><span class='other'>,</span>",
+        "other": ",",
+        "unit": "teaspoon",
+        "name": "cumin seeds",
+        "input": "1 teaspoon cumin seeds ,",
+        "qty": "1"
+    },
+    {
+        "other": "and",
+        "display": "<span class='other'>and</span><span class='comment'>lightly</span><span class='name'>crushed</span>",
+        "comment": "lightly",
+        "input": "and lightly crushed",
+        "name": "crushed"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "2 tablespoons extra-virgin olive oil",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium</span><span class='name'>beets</span><span class='comment'>( 1 1/4 pound total without greens )</span><span class='other'>,</span><span class='comment'>trimmed</span><span class='other'>,</span><span class='comment'>leaving 1 inch of stems attached</span>",
+        "comment": "medium (1 1/4 pound total without greens) trimmed leaving 1 inch of stems attached",
+        "other": ", ,",
+        "name": "beets",
+        "input": "3 medium beets (1 1/4 pound total without greens), trimmed, leaving 1 inch of stems attached",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>mint</span><span class='comment'>, coarsely chopped</span>",
+        "comment": "fresh, coarsely chopped",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup fresh mint, coarsely chopped",
+        "name": "mint"
+    }
+]

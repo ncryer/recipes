@@ -1,0 +1,106 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>sweet</span><span class='name'>potatoes</span><span class='comment'>, peeled and cut into 1/2-inch cubes</span>",
+        "comment": "sweet, peeled and cut into 1/2-inch cubes",
+        "unit": "pound",
+        "name": "potatoes",
+        "input": "1 pound sweet potatoes, peeled and cut into 1/2-inch cubes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>2 1/4</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "2 1/4",
+        "input": "2 1/4 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='comment'>long-grain white</span><span class='name'>rice</span>",
+        "comment": "long-grain white",
+        "unit": "cup",
+        "name": "rice",
+        "input": "1 1/2 cups long-grain white rice",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='other'>to</span><span class='range_end'>4 1/4</span><span class='unit'>cups</span>",
+        "other": "to",
+        "unit": "cup",
+        "range_end": "4 1/4",
+        "input": "4 to 4 1/4 cups",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>hulled ( green )</span><span class='name'>pumpkin seeds</span><span class='comment'>( also called pepitas; not toasted )</span>",
+        "comment": "hulled (green) (also called pepitas; not toasted)",
+        "unit": "cup",
+        "name": "pumpkin seeds",
+        "input": "1 cup hulled (green) pumpkin seeds (also called pepitas; not toasted)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>olive oil</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='comment'>Accompaniments: cubes of</span><span class='name'>avocado</span><span class='comment'>tossed with lime juice; tomatillo salsa; lime wedges; chopped white onion; fresh cilantro sprigs</span>",
+        "comment": "Accompaniments: cubes of tossed with lime juice; tomatillo salsa; lime wedges; chopped white onion; fresh cilantro sprigs",
+        "input": "Accompaniments: cubes of avocado tossed with lime juice; tomatillo salsa; lime wedges; chopped white onion; fresh cilantro sprigs",
+        "name": "avocado"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>lime juice</span>",
+        "qty": "1",
+        "input": "1 lime juice",
+        "name": "lime juice"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>tomatillo salsa</span>",
+        "qty": "1",
+        "input": "1 tomatillo salsa",
+        "name": "tomatillo salsa"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>lime wedges</span>",
+        "qty": "1",
+        "input": "1 lime wedges",
+        "name": "lime wedges"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='name'>white onion</span>",
+        "qty": "1",
+        "input": "1 white onion",
+        "name": "white onion"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>fresh</span><span class='name'>cilantro</span><span class='comment'>sprigs</span>",
+        "qty": "1",
+        "comment": "fresh sprigs",
+        "input": "1 fresh cilantro sprigs",
+        "name": "cilantro"
+    }
+]

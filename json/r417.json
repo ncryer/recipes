@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>vegetable oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>( or more ) fresh</span><span class='name'>lemon juice</span>",
+        "comment": "(or more) fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "2 tablespoons (or more) fresh lemon juice",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>heads</span><span class='other'>of</span><span class='name'>Little Gem</span><span class='other'>or</span><span class='comment'>2 heads of Bibb lettuce</span><span class='other'>, leaves separated and</span><span class='comment'>hearts halved through root ( about 8 cups</span><span class='other'>)</span>",
+        "comment": "2 heads of Bibb lettuce hearts halved through root (about 8 cups",
+        "other": "of or, leaves separated and)",
+        "unit": "head",
+        "name": "Little Gem",
+        "input": "4 heads of Little Gem or 2 heads of Bibb lettuce, leaves separated and hearts halved through root (about 8 cups)",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>mixed flat-leaf</span><span class='name'>parsley</span><span class='comment'>, sorrel , and nasturtium leaves</span>",
+        "comment": "mixed flat-leaf, sorrel, and nasturtium leaves",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1 cup mixed flat-leaf parsley, sorrel, and nasturtium leaves",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='comment'>blanched</span><span class='name'>hazelnuts</span>",
+        "qty": "5",
+        "comment": "blanched",
+        "input": "5 blanched hazelnuts",
+        "name": "hazelnuts"
+    }
+]

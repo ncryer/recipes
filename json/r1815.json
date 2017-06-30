@@ -1,0 +1,39 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='comment'>small</span><span class='name'>butternut squash</span><span class='comment'>( about 1 1/2 pounds )</span>",
+        "qty": "1/2",
+        "comment": "small (about 1 1/2 pounds)",
+        "input": "1/2 small butternut squash (about 1 1/2 pounds)",
+        "name": "butternut squash"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>red onion</span>",
+        "qty": "1",
+        "comment": "medium",
+        "input": "1 medium red onion",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>ounces</span><span class='name'>broccoli rabe</span><span class='comment'>( about 1/2 bunch</span><span class='other'>)</span>",
+        "comment": "(about 1/2 bunch",
+        "other": ")",
+        "unit": "ounce",
+        "name": "broccoli rabe",
+        "input": "6 ounces broccoli rabe (about 1/2 bunch)",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup water",
+        "name": "water"
+    }
+]

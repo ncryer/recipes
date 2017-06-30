@@ -1,0 +1,83 @@
+[
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>medium</span><span class='name'>beets</span>",
+        "qty": "4",
+        "comment": "medium",
+        "input": "4 medium beets",
+        "name": "beets"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons vegetable oil",
+        "name": "vegetable oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>black pepper</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/2 teaspoon ground black pepper",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>blood orange juice</span><span class='comment'>( from about 1 blood orange )</span>",
+        "comment": "(from about 1 blood orange)",
+        "unit": "cup",
+        "name": "blood orange juice",
+        "input": "1/4 cup blood orange juice (from about 1 blood orange)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>pomegranate molasses*</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon pomegranate molasses*",
+        "name": "pomegranate molasses*"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>white wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon white wine vinegar",
+        "name": "white wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>red onion</span><span class='comment'>, thinly sliced</span>",
+        "qty": "1",
+        "comment": "medium, thinly sliced",
+        "input": "1 medium red onion, thinly sliced",
+        "name": "red onion"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>blood</span><span class='name'>oranges</span><span class='comment'>, peeled , cut into1/4-inch-thick slices</span>",
+        "qty": "3",
+        "comment": "blood, peeled, cut into1/4-inch-thick slices",
+        "input": "3 blood oranges, peeled, cut into1/4-inch-thick slices",
+        "name": "oranges"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>pomegranate seeds</span><span class='other'>(</span><span class='comment'>from one 11-ounce pomegranate )</span>",
+        "comment": "from one 11-ounce pomegranate)",
+        "other": "(",
+        "unit": "cup",
+        "name": "pomegranate seeds",
+        "input": "1 cup pomegranate seeds (from one 11-ounce pomegranate)",
+        "qty": "1"
+    }
+]

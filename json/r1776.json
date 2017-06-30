@@ -1,0 +1,18 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>ounces</span><span class='comment'>fresh</span><span class='name'>orange juice</span>",
+        "comment": "fresh",
+        "unit": "ounce",
+        "name": "orange juice",
+        "input": "3 ounces fresh orange juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>ounces</span><span class='comment'>chilled</span><span class='name'>champagne</span>",
+        "comment": "chilled",
+        "unit": "ounce",
+        "name": "champagne",
+        "input": "8 ounces chilled champagne",
+        "qty": "8"
+    }
+]

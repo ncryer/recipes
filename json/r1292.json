@@ -1,0 +1,50 @@
+[
+    {
+        "display": "<span class='qty'>12</span><span class='comment'>medium</span><span class='name'>beets</span><span class='comment'>, trimmed</span><span class='other'>,</span><span class='comment'>leaving 1/2 inch of stems attached</span>",
+        "comment": "medium, trimmed leaving 1/2 inch of stems attached",
+        "other": ",",
+        "name": "beets",
+        "input": "12 medium beets, trimmed, leaving 1/2 inch of stems attached",
+        "qty": "12"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "6 tablespoons extra-virgin olive oil",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>teaspoons</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "kosher",
+        "unit": "teaspoon",
+        "name": "salt",
+        "input": "3 teaspoons kosher salt",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>freshly squeezed</span><span class='name'>orange juice</span><span class='comment'>( from 1 medium</span><span class='name'>orange )</span>",
+        "comment": "freshly squeezed (from 1 medium",
+        "unit": "cup",
+        "name": "orange juice orange)",
+        "input": "1/4 cup freshly squeezed orange juice (from 1 medium orange)",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>thyme leaves</span>",
+        "comment": "fresh",
+        "unit": "teaspoon",
+        "name": "thyme leaves",
+        "input": "2 teaspoons fresh thyme leaves",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/2 teaspoon freshly ground black pepper",
+        "qty": "1/2"
+    }
+]

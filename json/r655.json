@@ -1,0 +1,34 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>slice</span><span class='comment'>whole-wheat</span><span class='name'>bread</span>",
+        "comment": "whole-wheat",
+        "unit": "slice",
+        "name": "bread",
+        "input": "1 slice whole-wheat bread",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>natural</span><span class='name'>peanut butter</span>",
+        "comment": "natural",
+        "unit": "tablespoon",
+        "name": "peanut butter",
+        "input": "1 tablespoon natural peanut butter",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped dried</span><span class='name'>cherries</span>",
+        "comment": "chopped dried",
+        "unit": "tablespoon",
+        "name": "cherries",
+        "input": "1 tablespoon chopped dried cherries",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>chopped</span><span class='name'>pistachios</span>",
+        "comment": "chopped",
+        "unit": "teaspoon",
+        "name": "pistachios",
+        "input": "2 teaspoons chopped pistachios",
+        "qty": "2"
+    }
+]

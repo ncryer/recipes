@@ -1,0 +1,73 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>coriander seed</span><span class='other'>,</span>",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "coriander seed",
+        "input": "2 tablespoons coriander seed ,",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>mustard seed</span><span class='other'>,</span>",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "mustard seed",
+        "input": "1 tablespoon mustard seed ,",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium</span><span class='name'>red onions</span><span class='comment'>, julienned</span>",
+        "qty": "3",
+        "comment": "medium, julienned",
+        "input": "3 medium red onions, julienned",
+        "name": "red onions"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>red wine vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup red wine vinegar",
+        "name": "red wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>white balsamic vinegar</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup white balsamic vinegar",
+        "name": "white balsamic vinegar"
+    },
+    {
+        "display": "<span class='other'>1/8</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "other": "1/8",
+        "input": "1/8 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='name'>bay leaves</span>",
+        "qty": "3",
+        "input": "3 bay leaves",
+        "name": "bay leaves"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>sprigs</span><span class='name'>thyme</span>",
+        "unit": "sprig",
+        "qty": "3",
+        "input": "3 sprigs thyme",
+        "name": "thyme"
+    },
+    {
+        "display": "<span class='name'>Salt and</span><span class='comment'>cracked</span><span class='name'>black pepper</span><span class='comment'>to taste</span>",
+        "comment": "cracked to taste",
+        "input": "Salt and cracked black pepper to taste",
+        "name": "Salt and black pepper"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "1 tablespoon extra-virgin olive oil",
+        "qty": "1"
+    }
+]

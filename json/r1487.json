@@ -1,0 +1,59 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>garlic</span><span class='unit'>clove</span><span class='other'>,</span><span class='comment'>chopped</span>",
+        "comment": "medium chopped",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "1 medium garlic clove, chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>well-stirred tahini</span><span class='comment'>( Middle Eastern sesame paste )</span>",
+        "comment": "(Middle Eastern sesame paste)",
+        "unit": "tablespoon",
+        "name": "well-stirred tahini",
+        "input": "3 tablespoons well-stirred tahini (Middle Eastern sesame paste)",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='other'>to</span><span class='range_end'>2</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span><span class='comment'>( to taste )</span>",
+        "comment": "fresh (to taste)",
+        "other": "to",
+        "unit": "tablespoon",
+        "qty": "1 1/2",
+        "range_end": "2",
+        "input": "1 1/2 to 2 tablespoons fresh lemon juice (to taste)",
+        "name": "lemon juice"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>15</span><span class='name'>oz</span><span class='comment'>loosely packed baby</span><span class='name'>spinach</span><span class='comment'>( 24 cups )</span>",
+        "qty": "15",
+        "comment": "loosely packed baby (24 cups)",
+        "input": "15 oz loosely packed baby spinach (24 cups)",
+        "name": "oz spinach"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>sesame seeds</span><span class='other'>(</span><span class='comment'>optional ) , toasted</span>",
+        "comment": "optional), toasted",
+        "other": "(",
+        "unit": "teaspoon",
+        "name": "sesame seeds",
+        "input": "2 teaspoons sesame seeds (optional), toasted",
+        "qty": "2"
+    }
+]

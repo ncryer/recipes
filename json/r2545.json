@@ -1,0 +1,76 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>bulgur</span><span class='other'>(</span><span class='comment'>cracked wheat</span><span class='other'>)</span>",
+        "comment": "cracked wheat",
+        "other": "()",
+        "unit": "cup",
+        "name": "bulgur",
+        "input": "1 cup bulgur (cracked wheat)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1 cup fresh lemon juice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='other'>2/3</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "other": "2/3",
+        "unit": "cup",
+        "input": "2/3 cup extra-virgin olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "5 garlic cloves, minced",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='comment'>medium</span><span class='name'>cucumbers</span><span class='comment'>, peeled</span><span class='other'>,</span><span class='comment'>seeded</span><span class='other'>,</span><span class='comment'>cut into 1/4-inch pieces</span>",
+        "comment": "medium, peeled seeded cut into 1/4-inch pieces",
+        "other": ", ,",
+        "name": "cucumbers",
+        "input": "3 medium cucumbers, peeled, seeded, cut into 1/4-inch pieces",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>finely chopped fresh</span><span class='name'>parsley</span>",
+        "comment": "finely chopped fresh",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "2 cups finely chopped fresh parsley",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>8</span><span class='name'>green onions</span><span class='other'>,</span><span class='comment'>thinly sliced</span>",
+        "comment": "thinly sliced",
+        "other": ",",
+        "name": "green onions",
+        "input": "8 green onions, thinly sliced",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>dill</span>",
+        "comment": "chopped fresh",
+        "unit": "cup",
+        "name": "dill",
+        "input": "1/2 cup chopped fresh dill",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>mint</span>",
+        "comment": "chopped fresh",
+        "other": "1/3",
+        "unit": "cup",
+        "input": "1/3 cup chopped fresh mint",
+        "name": "mint"
+    }
+]

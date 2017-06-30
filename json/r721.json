@@ -1,0 +1,66 @@
+[
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>pound</span><span class='name'>tomatillos</span><span class='other'>(</span><span class='comment'>5</span><span class='other'>or</span><span class='comment'>6 ) , husked</span><span class='other'>,</span><span class='comment'>rinsed</span><span class='other'>,</span><span class='comment'>and coarsely chopped</span>",
+        "comment": "5 6), husked rinsed and coarsely chopped",
+        "other": "(or, ,",
+        "unit": "pound",
+        "name": "tomatillos",
+        "input": "1/2 pound tomatillos (5 or 6), husked, rinsed, and coarsely chopped",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>large</span><span class='other'>(</span><span class='comment'>about 3 1/2 inches long ) fresh epazote leaves or cilantro</span>",
+        "qty": "6",
+        "comment": "large about 3 1/2 inches long) fresh epazote leaves or cilantro",
+        "input": "6 large (about 3 1/2 inches long) fresh epazote leaves or cilantro",
+        "other": "("
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>small</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>peeled and coarsely chopped</span>",
+        "comment": "peeled and coarsely chopped",
+        "other": "small ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "2 small garlic cloves, peeled and coarsely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>coarsely chopped</span><span class='name'>white onion</span>",
+        "comment": "coarsely chopped",
+        "unit": "cup",
+        "name": "white onion",
+        "input": "1/4 cup coarsely chopped white onion",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>fresh</span><span class='name'>serrano</span><span class='comment'>or jalape\u00f1o chiles</span><span class='other'>,</span><span class='comment'>coarsely chopped</span><span class='other'>,</span><span class='comment'>including seeds , or more to taste</span>",
+        "comment": "fresh or jalape\u00f1o chiles coarsely chopped including seeds, or more to taste",
+        "other": ", ,",
+        "name": "serrano",
+        "input": "2 fresh serrano or jalape\u00f1o chiles, coarsely chopped, including seeds, or more to taste",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>freshly squeezed</span><span class='name'>lime juice</span><span class='comment'>, or more to taste</span>",
+        "comment": "freshly squeezed, or more to taste",
+        "unit": "tablespoon",
+        "name": "lime juice",
+        "input": "1 tablespoon freshly squeezed lime juice, or more to taste",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>fine</span><span class='name'>salt</span><span class='comment'>, or</span><span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>kosher</span><span class='name'>salt</span>",
+        "comment": "fine, or kosher",
+        "unit": "teaspoon teaspoon",
+        "name": "salt salt",
+        "input": "1/2 teaspoon fine salt, or 1 teaspoon kosher salt",
+        "qty": "1/2 1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small ripe Mexican</span><span class='name'>Hass avocado</span><span class='comment'>, halved and pitted</span>",
+        "qty": "1",
+        "comment": "small ripe Mexican, halved and pitted",
+        "input": "1 small ripe Mexican Hass avocado, halved and pitted",
+        "name": "Hass avocado"
+    }
+]

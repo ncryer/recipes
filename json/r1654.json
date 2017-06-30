@@ -1,0 +1,78 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='name'>lb beets</span><span class='comment'>( 4 to 6; preferably Chioggia* ) , 1 inch of stems left intact</span>",
+        "qty": "1",
+        "comment": "(4 to 6; preferably Chioggia*), 1 inch of stems left intact",
+        "input": "1 lb beets (4 to 6; preferably Chioggia*), 1 inch of stems left intact",
+        "name": "lb beets"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>thinly sliced</span><span class='name'>scallions</span>",
+        "comment": "thinly sliced",
+        "unit": "tablespoon",
+        "name": "scallions",
+        "input": "3 tablespoons thinly sliced scallions",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='other'>to</span><span class='range_end'>2 1/2</span><span class='unit'>tablespoons</span><span class='name'>raspberry vinegar</span>",
+        "other": "to",
+        "unit": "tablespoon",
+        "name": "raspberry vinegar",
+        "range_end": "2 1/2",
+        "input": "2 to 2 1/2 tablespoons raspberry vinegar",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span><span class='comment'>, or to taste</span>",
+        "comment": "fresh, or to taste",
+        "unit": "teaspoon",
+        "name": "lemon juice",
+        "input": "2 teaspoons fresh lemon juice, or to taste",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>mint</span>",
+        "comment": "chopped fresh",
+        "unit": "tablespoon",
+        "name": "mint",
+        "input": "2 tablespoons chopped fresh mint",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>finely grated fresh</span><span class='name'>orange zest</span><span class='comment'>( from 2 oranges )</span>",
+        "comment": "finely grated fresh (from 2 oranges)",
+        "unit": "tablespoon",
+        "name": "orange zest",
+        "input": "1 tablespoon finely grated fresh orange zest (from 2 oranges)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "other": "Garnish:",
+        "display": "<span class='other'>Garnish:</span><span class='comment'>fresh</span><span class='name'>mint sprigs</span>",
+        "comment": "fresh",
+        "input": "Garnish: fresh mint sprigs",
+        "name": "mint sprigs"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>tahini</span><span class='other'>(</span><span class='comment'>sesame paste</span><span class='other'>)</span>",
+        "comment": "sesame paste",
+        "other": "()",
+        "unit": "cup",
+        "name": "tahini",
+        "input": "1 1/2 cups tahini (sesame paste)",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='other'>to</span><span class='range_end'>4</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='comment'>, crushed</span>",
+        "comment": ", crushed",
+        "other": "to",
+        "unit": "clove",
+        "name": "garlic",
+        "range_end": "4",
+        "input": "3 to 4 cloves garlic, crushed",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='comment'>Juice of</span><span class='qty'>5</span><span class='name'>lemons</span><span class='comment'>or to taste ( about 1 cup )</span>",
+        "qty": "5",
+        "comment": "Juice of or to taste (about 1 cup)",
+        "input": "Juice of 5 lemons or to taste (about 1 cup)",
+        "name": "lemons"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sea salt</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon sea salt",
+        "name": "sea salt"
+    },
+    {
+        "display": "<span class='comment'>Chopped</span><span class='name'>parsley</span><span class='comment'>for garnish</span>",
+        "comment": "Chopped for garnish",
+        "input": "Chopped parsley for garnish",
+        "name": "parsley"
+    }
+]

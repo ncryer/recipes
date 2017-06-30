@@ -1,0 +1,68 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>pitted brine-cured green</span><span class='name'>olives</span><span class='comment'>, left whole or coarsely chopped</span>",
+        "comment": "pitted brine-cured green, left whole or coarsely chopped",
+        "unit": "pound",
+        "name": "olives",
+        "input": "1 pound pitted brine-cured green olives, left whole or coarsely chopped",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>tomatoes</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "tomatoes",
+        "input": "2 cups chopped tomatoes",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "other": "1/3",
+        "input": "1/3 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>minced</span><span class='name'>garlic</span>",
+        "comment": "minced",
+        "unit": "tablespoon",
+        "name": "garlic",
+        "input": "2 tablespoons minced garlic",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>tomato paste</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon tomato paste",
+        "name": "tomato paste"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>3 1/4-inch-thick</span><span class='name'>lemon</span><span class='unit'>slices</span>",
+        "unit": "slice",
+        "qty": "3 1/4-inch-thick",
+        "input": "3 1/4-inch-thick lemon slices",
+        "name": "lemon"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>paprika</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon paprika",
+        "name": "paprika"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>cayenne pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon cayenne pepper",
+        "name": "cayenne pepper"
+    }
+]

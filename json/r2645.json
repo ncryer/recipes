@@ -1,0 +1,102 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>wild rice</span>",
+        "unit": "pound",
+        "qty": "1",
+        "input": "1 pound wild rice",
+        "name": "wild rice"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>orange juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "orange juice",
+        "input": "1/4 cup fresh orange juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>chopped</span><span class='name'>shallot</span>",
+        "comment": "chopped",
+        "unit": "tablespoon",
+        "name": "shallot",
+        "input": "3 tablespoons chopped shallot",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>balsamic vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons balsamic vinegar",
+        "name": "balsamic vinegar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>Dijon mustard</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>minced</span><span class='name'>garlic</span>",
+        "comment": "minced",
+        "unit": "teaspoon",
+        "name": "garlic",
+        "input": "1 teaspoon minced garlic",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/2 cup extra-virgin olive oil",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>long-grain white</span><span class='name'>rice</span>",
+        "comment": "long-grain white",
+        "unit": "cup",
+        "name": "rice",
+        "input": "1 cup long-grain white rice",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>hickory nuts</span><span class='comment'>or chopped</span><span class='name'>pecans</span><span class='comment'>, toasted</span>",
+        "comment": "or chopped, toasted",
+        "unit": "cup",
+        "name": "hickory nuts pecans",
+        "input": "2 cups hickory nuts or chopped pecans, toasted",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/4</span><span class='unit'>cups</span><span class='comment'>chopped fresh flat-leaf</span><span class='name'>parsley</span>",
+        "comment": "chopped fresh flat-leaf",
+        "unit": "cup",
+        "name": "parsley",
+        "input": "1 1/4 cups chopped fresh flat-leaf parsley",
+        "qty": "1 1/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>dried</span><span class='name'>apricots</span><span class='comment'>, thinly sliced</span>",
+        "comment": "dried, thinly sliced",
+        "unit": "cup",
+        "name": "apricots",
+        "input": "3/4 cup dried apricots, thinly sliced",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='comment'>dried</span><span class='name'>cranberries</span>",
+        "comment": "dried",
+        "unit": "cup",
+        "name": "cranberries",
+        "input": "3/4 cup dried cranberries",
+        "qty": "3/4"
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='other'>large</span><span class='unit'>stalks</span><span class='name'>celery</span><span class='comment'>, coarsely chopped</span>",
+        "comment": ", coarsely chopped",
+        "other": "large",
+        "unit": "stalk",
+        "name": "celery",
+        "input": "2 large stalks celery, coarsely chopped",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>celery seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon celery seeds",
+        "name": "celery seeds"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>coriander seeds</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon coriander seeds",
+        "name": "coriander seeds"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>seedless</span><span class='name'>green grapes</span>",
+        "comment": "seedless",
+        "unit": "cup",
+        "name": "green grapes",
+        "input": "1 cup seedless green grapes",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>still water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup still water",
+        "name": "still water"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>sparkling water</span>",
+        "unit": "cup",
+        "qty": "4",
+        "input": "4 cups sparkling water",
+        "name": "sparkling water"
+    }
+]

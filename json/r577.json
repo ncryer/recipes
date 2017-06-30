@@ -1,0 +1,71 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>Dijon mustard</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>lemon juice</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons lemon juice",
+        "name": "lemon juice"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>chopped pitted Kalamata</span><span class='name'>olives</span>",
+        "comment": "chopped pitted Kalamata",
+        "unit": "cup",
+        "name": "olives",
+        "input": "1/4 cup chopped pitted Kalamata olives",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>fennel</span><span class='comment'>bulb ( 3/4 pound</span><span class='other'>)</span>",
+        "comment": "medium bulb (3/4 pound",
+        "other": ")",
+        "name": "fennel",
+        "input": "1 medium fennel bulb (3/4 pound)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>ounces</span><span class='comment'>radicchio or Treviso , leaves torn into smaller pieces</span>",
+        "unit": "ounce",
+        "comment": "radicchio or Treviso, leaves torn into smaller pieces",
+        "input": "4 ounces radicchio or Treviso, leaves torn into smaller pieces",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>basil leaves</span><span class='other'>,</span><span class='comment'>torn if large</span>",
+        "comment": "torn if large",
+        "other": ",",
+        "unit": "cup",
+        "name": "basil leaves",
+        "input": "1/4 cup basil leaves, torn if large",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped</span><span class='name'>chives</span><span class='comment'>( optional</span><span class='other'>)</span>",
+        "comment": "chopped (optional",
+        "other": ")",
+        "unit": "tablespoon",
+        "name": "chives",
+        "input": "1 tablespoon chopped chives (optional)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Mandoline or other adjustable</span><span class='name'>blade slicer</span>",
+        "comment": "Mandoline or other adjustable",
+        "input": "Mandoline or other adjustable blade slicer",
+        "name": "blade slicer"
+    }
+]

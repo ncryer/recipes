@@ -1,0 +1,77 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>pounds</span><span class='name'>carrots</span><span class='other'>,</span><span class='comment'>peeled , cut on diagonal into 1/4-inch-thick slices</span>",
+        "comment": "peeled, cut on diagonal into 1/4-inch-thick slices",
+        "other": ",",
+        "unit": "pound",
+        "name": "carrots",
+        "input": "3 pounds carrots, peeled, cut on diagonal into 1/4-inch-thick slices",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "cup",
+        "name": "lemon juice",
+        "input": "1/4 cup fresh lemon juice",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>grated</span><span class='name'>orange peel</span>",
+        "comment": "grated",
+        "unit": "tablespoon",
+        "name": "orange peel",
+        "input": "1 tablespoon grated orange peel",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>ground</span><span class='name'>coriander</span>",
+        "comment": "ground",
+        "unit": "tablespoon",
+        "name": "coriander",
+        "input": "1 tablespoon ground coriander",
+        "qty": "1"
+    },
+    {
+        "other": "Drizzle of ()",
+        "display": "<span class='other'>Drizzle of</span><span class='name'>honey</span><span class='other'>(</span><span class='comment'>optional</span><span class='other'>)</span>",
+        "comment": "optional",
+        "input": "Drizzle of honey (optional)",
+        "name": "honey"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>drained chopped pitted brine-cured green</span><span class='name'>olives</span>",
+        "comment": "drained chopped pitted brine-cured green",
+        "unit": "cup",
+        "name": "olives",
+        "input": "1 cup drained chopped pitted brine-cured green olives",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>green onions</span>",
+        "comment": "chopped",
+        "unit": "cup",
+        "name": "green onions",
+        "input": "1 cup chopped green onions",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='name'>Orange slices</span>",
+        "input": "Orange slices",
+        "name": "Orange slices"
+    },
+    {
+        "display": "<span class='comment'>Fresh Italian</span><span class='name'>parsley</span><span class='comment'>sprigs</span>",
+        "comment": "Fresh Italian sprigs",
+        "input": "Fresh Italian parsley sprigs",
+        "name": "parsley"
+    }
+]

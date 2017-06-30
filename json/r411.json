@@ -1,0 +1,45 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='name'>russet potatoes</span><span class='comment'>( about 1 1/2 pounds ) , unpeeled</span><span class='other'>,</span><span class='comment'>each cut lengthwise into 8 wedges</span>",
+        "comment": "(about 1 1/2 pounds), unpeeled each cut lengthwise into 8 wedges",
+        "other": ",",
+        "name": "russet potatoes",
+        "input": "3 russet potatoes (about 1 1/2 pounds), unpeeled, each cut lengthwise into 8 wedges",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>paprika</span>",
+        "unit": "teaspoon",
+        "qty": "1/2",
+        "input": "1/2 teaspoon paprika",
+        "name": "paprika"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>garlic powder</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon garlic powder",
+        "name": "garlic powder"
+    },
+    {
+        "display": "<span class='qty'>1/8-1/4</span><span class='unit'>teaspoon</span><span class='name'>cayenne pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/8-1/4",
+        "input": "1/8-1/4 teaspoon cayenne pepper",
+        "name": "cayenne pepper"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground pepper",
+        "name": "salt pepper",
+        "other": ","
+    }
+]

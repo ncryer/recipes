@@ -1,0 +1,11 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>Indian parboiled rice</span><span class='other'>,</span><span class='comment'>Uncle Ben's Converted Rice , or long-grain white</span><span class='name'>rice</span>",
+        "comment": "Uncle Ben's Converted Rice, or long-grain white",
+        "other": ",",
+        "unit": "cup",
+        "name": "Indian parboiled rice rice",
+        "input": "2 cups Indian parboiled rice, Uncle Ben's Converted Rice, or long-grain white rice",
+        "qty": "2"
+    }
+]

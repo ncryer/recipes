@@ -1,0 +1,63 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, chopped</span>",
+        "qty": "1",
+        "comment": "medium, chopped",
+        "input": "1 medium onion, chopped",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": ",",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "4 cloves garlic, minced",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>oregano</span>",
+        "comment": "dried",
+        "unit": "teaspoon",
+        "name": "oregano",
+        "input": "1 teaspoon dried oregano",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>Fresno</span><span class='name'>chile</span><span class='other'>,</span><span class='comment'>minced</span><span class='other'>,</span><span class='comment'>or</span><span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='name'>red pepper flakes</span>",
+        "comment": "Fresno minced or",
+        "other": ", ,",
+        "unit": "teaspoon",
+        "name": "chile red pepper flakes",
+        "input": "1 Fresno chile, minced, or 1/2 teaspoon red pepper flakes",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 28-ounce ) can whole</span><span class='name'>tomatoes</span><span class='other'>,</span><span class='comment'>such as San Marzano</span><span class='other'>,</span><span class='comment'>with half of the juice strained out</span><span class='other'>,</span><span class='comment'>and crushed with your fingers</span>",
+        "comment": "(28-ounce) can whole such as San Marzano with half of the juice strained out and crushed with your fingers",
+        "other": ",, ,",
+        "name": "tomatoes",
+        "input": "1 (28-ounce) can whole tomatoes, such as San Marzano, with half of the juice strained out, and crushed with your fingers",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>tomato paste</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons tomato paste",
+        "name": "tomato paste"
+    },
+    {
+        "display": "<span class='name'>Salt and</span><span class='comment'>freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "freshly ground",
+        "input": "Salt and freshly ground black pepper",
+        "name": "Salt and black pepper"
+    }
+]

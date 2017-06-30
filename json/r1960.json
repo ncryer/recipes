@@ -1,0 +1,66 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>bulgur</span><span class='other'>(</span><span class='comment'>cracked wheat</span><span class='other'>)</span>",
+        "comment": "cracked wheat",
+        "other": "()",
+        "unit": "cup",
+        "name": "bulgur",
+        "input": "2 cups bulgur (cracked wheat)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='unit'>bunch</span><span class='name'>parsley</span>",
+        "other": "large",
+        "unit": "bunch",
+        "name": "parsley",
+        "input": "1 large bunch parsley",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>packed fresh</span><span class='name'>mint leaves</span>",
+        "comment": "packed fresh",
+        "unit": "cup",
+        "name": "mint leaves",
+        "input": "1/2 cup packed fresh mint leaves",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='comment'>green</span><span class='name'>onions</span>",
+        "qty": "4",
+        "comment": "green",
+        "input": "4 green onions",
+        "name": "onions"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>pound</span><span class='name'>tomatoes</span><span class='other'>,</span><span class='comment'>seeded , chopped</span>",
+        "comment": "seeded, chopped",
+        "other": ",",
+        "unit": "pound",
+        "name": "tomatoes",
+        "input": "3/4 pound tomatoes, seeded, chopped",
+        "qty": "3/4"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='comment'>fresh</span><span class='name'>lemon juice</span>",
+        "comment": "fresh",
+        "unit": "tablespoon",
+        "name": "lemon juice",
+        "input": "6 tablespoons fresh lemon juice",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "cumin",
+        "input": "3/4 teaspoon ground cumin",
+        "qty": "3/4"
+    }
+]

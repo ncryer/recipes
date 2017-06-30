@@ -1,0 +1,39 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='name'>grapefruit</span>",
+        "qty": "1",
+        "input": "1 grapefruit",
+        "name": "grapefruit"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>oranges</span>",
+        "qty": "2",
+        "input": "2 oranges",
+        "name": "oranges"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='name'>avocados</span>",
+        "qty": "2",
+        "input": "2 avocados",
+        "name": "avocados"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>lemon juice</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup lemon juice",
+        "name": "lemon juice"
+    },
+    {
+        "display": "<span class='name'>Watercress</span>",
+        "input": "Watercress",
+        "name": "Watercress"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>heads</span><span class='name'>French endive</span>",
+        "unit": "head",
+        "qty": "2",
+        "input": "2 heads French endive",
+        "name": "French endive"
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='comment'>tender green</span><span class='name'>beans</span><span class='comment'>, stem ends snapped</span>",
+        "comment": "tender green, stem ends snapped",
+        "unit": "pound",
+        "name": "beans",
+        "input": "1 1/2 pounds tender green beans, stem ends snapped",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>pounds</span><span class='comment'>tender wax</span><span class='name'>beans</span><span class='comment'>, stem ends snapped</span>",
+        "comment": "tender wax, stem ends snapped",
+        "unit": "pound",
+        "name": "beans",
+        "input": "1 1/2 pounds tender wax beans, stem ends snapped",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>finely minced</span><span class='name'>shallots</span>",
+        "comment": "finely minced",
+        "unit": "tablespoon",
+        "name": "shallots",
+        "input": "2 tablespoons finely minced shallots",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "cup",
+        "name": "olive oil",
+        "input": "1/4 cup extra-virgin olive oil",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='name'>Salt and pepper</span><span class='comment'>, to taste</span>",
+        "comment": ", to taste",
+        "input": "Salt and pepper, to taste",
+        "name": "Salt and pepper"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>tablebspoons</span><span class='name'>red-wine vinegar</span>",
+        "qty": "2",
+        "comment": "tablebspoons",
+        "input": "2 tablebspoons red-wine vinegar",
+        "name": "red-wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>torn fresh</span><span class='name'>basil leaves</span>",
+        "comment": "torn fresh",
+        "unit": "cup",
+        "name": "basil leaves",
+        "input": "1/2 cup torn fresh basil leaves",
+        "qty": "1/2"
+    }
+]

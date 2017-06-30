@@ -1,0 +1,37 @@
+[
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>medium</span><span class='name'>red onions</span><span class='comment'>or sweet</span><span class='name'>onions</span><span class='comment'>( such as Walla Walla ) , skin on</span><span class='other'>,</span><span class='comment'>roots intact</span>",
+        "comment": "medium or sweet (such as Walla Walla), skin on roots intact",
+        "other": ",",
+        "name": "red onions onions",
+        "input": "6 medium red onions or sweet onions (such as Walla Walla), skin on, roots intact",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span><span class='comment'>, divided</span>",
+        "comment": ", divided",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "6 tablespoons olive oil, divided",
+        "qty": "6"
+    },
+    {
+        "display": "<span class='name'>Salt</span><span class='other'>(</span><span class='comment'>smoked is delicious here</span><span class='other'>)</span>",
+        "comment": "smoked is delicious here",
+        "input": "Salt (smoked is delicious here)",
+        "name": "Salt",
+        "other": "()"
+    },
+    {
+        "display": "<span class='comment'>Herbs-either a few</span><span class='name'>bay leaves</span><span class='comment'>or a few sprigs of</span><span class='name'>rosemary and thyme</span>",
+        "comment": "Herbs-either a few or a few sprigs of",
+        "input": "Herbs-either a few bay leaves or a few sprigs of rosemary and thyme",
+        "name": "bay leaves rosemary and thyme"
+    },
+    {
+        "display": "<span class='comment'>Freshly ground</span><span class='name'>black pepper</span>",
+        "comment": "Freshly ground",
+        "input": "Freshly ground black pepper",
+        "name": "black pepper"
+    }
+]

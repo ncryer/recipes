@@ -1,0 +1,53 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "3/4",
+        "input": "3/4 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>15</span><span class='name'>juniper berries</span><span class='other'>,</span><span class='comment'>crushed</span>",
+        "comment": "crushed",
+        "other": ",",
+        "name": "juniper berries",
+        "input": "15 juniper berries, crushed",
+        "qty": "15"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>( 4-inch</span><span class='other'>)</span><span class='name'>rosemary sprig</span>",
+        "comment": "(4-inch",
+        "other": ")",
+        "name": "rosemary sprig",
+        "input": "1 (4-inch) rosemary sprig",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pints</span><span class='name'>blueberries</span><span class='other'>(</span><span class='comment'>1 1/2 pounds</span><span class='other'>)</span>",
+        "comment": "1 1/2 pounds",
+        "other": "()",
+        "unit": "pint",
+        "name": "blueberries",
+        "input": "2 pints blueberries (1 1/2 pounds)",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>dry gin</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup dry gin",
+        "name": "dry gin"
+    },
+    {
+        "display": "<span class='name'>mint sprigs</span>",
+        "input": "mint sprigs",
+        "name": "mint sprigs"
+    }
+]

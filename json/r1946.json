@@ -1,0 +1,51 @@
+[
+    {
+        "display": "<span class='qty'>8</span><span class='unit'>ounces</span><span class='comment'>red-skinned new</span><span class='name'>potatoes</span><span class='comment'>( about 3 ) , each cut into 6 wedges</span>",
+        "comment": "red-skinned new (about 3), each cut into 6 wedges",
+        "unit": "ounce",
+        "name": "potatoes",
+        "input": "8 ounces red-skinned new potatoes (about 3), each cut into 6 wedges",
+        "qty": "8"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "1 1/2 tablespoons extra-virgin olive oil",
+        "qty": "1 1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>coarse sea</span><span class='name'>salt</span><span class='comment'>or other coarse</span><span class='name'>salt</span>",
+        "comment": "coarse sea or other coarse",
+        "unit": "teaspoon",
+        "name": "salt salt",
+        "input": "1/2 teaspoon coarse sea salt or other coarse salt",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>black pepper</span>",
+        "comment": "ground",
+        "unit": "teaspoon",
+        "name": "black pepper",
+        "input": "1/2 teaspoon ground black pepper",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='other'>large</span><span class='name'>garlic</span><span class='unit'>cloves</span><span class='other'>,</span><span class='comment'>minced</span>",
+        "comment": "minced",
+        "other": "large ,",
+        "unit": "clove",
+        "name": "garlic",
+        "input": "3 large garlic cloves, minced",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='comment'>chopped fresh</span><span class='name'>rosemary</span>",
+        "comment": "chopped fresh",
+        "unit": "teaspoon",
+        "name": "rosemary",
+        "input": "1 1/2 teaspoons chopped fresh rosemary",
+        "qty": "1 1/2"
+    }
+]

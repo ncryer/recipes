@@ -1,0 +1,67 @@
+[
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='name'>lb</span><span class='comment'>medium golden</span><span class='name'>beets</span><span class='comment'>( with greens )</span>",
+        "qty": "2 1/2",
+        "comment": "medium golden (with greens)",
+        "input": "2 1/2 lb medium golden beets (with greens)",
+        "name": "lb beets"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>raw ( not roasted ) sunflower seeds ( 2 1/4 oz )</span>",
+        "unit": "cup",
+        "comment": "raw (not roasted) sunflower seeds (2 1/4 oz)",
+        "input": "1/2 cup raw (not roasted) sunflower seeds (2 1/4 oz)",
+        "qty": "1/2"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>finely chopped</span><span class='name'>shallot</span>",
+        "comment": "finely chopped",
+        "unit": "tablespoon",
+        "name": "shallot",
+        "input": "2 tablespoons finely chopped shallot",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>2 1/2</span><span class='unit'>tablespoons</span><span class='name'>cider vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2 1/2",
+        "input": "2 1/2 tablespoons cider vinegar",
+        "name": "cider vinegar"
+    },
+    {
+        "display": "<span class='qty'>3/4</span><span class='unit'>teaspoon</span><span class='name'>salt</span>",
+        "unit": "teaspoon",
+        "qty": "3/4",
+        "input": "3/4 teaspoon salt",
+        "name": "salt"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>black pepper</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon black pepper",
+        "name": "black pepper"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>sugar</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>extra-virgin</span><span class='name'>olive oil</span>",
+        "comment": "extra-virgin",
+        "unit": "tablespoon",
+        "name": "olive oil",
+        "input": "3 tablespoons extra-virgin olive oil",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>6</span><span class='comment'>oz</span><span class='name'>sunflower sprouts</span><span class='comment'>or baby mesclun ( 6 cups )</span>",
+        "qty": "6",
+        "comment": "oz or baby mesclun (6 cups)",
+        "input": "6 oz sunflower sprouts or baby mesclun (6 cups)",
+        "name": "sunflower sprouts"
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>dried cannellini</span><span class='comment'>( white kidney</span><span class='other'>)</span><span class='name'>beans</span><span class='comment'>, soaked overnight</span><span class='other'>,</span><span class='comment'>drained</span>",
+        "comment": "(white kidney, soaked overnight drained",
+        "other": ") ,",
+        "unit": "pound",
+        "name": "dried cannellini beans",
+        "input": "1 pound dried cannellini (white kidney) beans, soaked overnight, drained",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>onion</span><span class='comment'>, unpeeled</span><span class='other'>,</span><span class='comment'>halved lengthwise</span>",
+        "comment": "large, unpeeled halved lengthwise",
+        "other": ",",
+        "name": "onion",
+        "input": "1 large onion, unpeeled, halved lengthwise",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>fennel bulb</span><span class='comment'>, halved through root end</span>",
+        "qty": "1",
+        "comment": "medium, halved through root end",
+        "input": "1 medium fennel bulb, halved through root end",
+        "name": "fennel bulb"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>medium</span><span class='name'>carrot</span><span class='comment'>, peeled</span>",
+        "qty": "1",
+        "comment": "medium, peeled",
+        "input": "1 medium carrot, peeled",
+        "name": "carrot"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>head</span><span class='other'>of</span><span class='name'>garlic</span><span class='comment'>, halved crosswise</span>",
+        "comment": ", halved crosswise",
+        "other": "of",
+        "unit": "head",
+        "name": "garlic",
+        "input": "1 head of garlic, halved crosswise",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='name'>thyme</span><span class='unit'>sprigs</span>",
+        "unit": "sprig",
+        "qty": "4",
+        "input": "4 thyme sprigs",
+        "name": "thyme"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='comment'>dried</span><span class='name'>chiles</span><span class='comment'>de \u00e1rbol or 1/2 teaspoon crushed red pepper flakes</span>",
+        "qty": "2",
+        "comment": "dried de \u00e1rbol or 1/2 teaspoon crushed red pepper flakes",
+        "input": "2 dried chiles de \u00e1rbol or 1/2 teaspoon crushed red pepper flakes",
+        "name": "chiles"
+    },
+    {
+        "display": "<span class='other'>1/3</span><span class='unit'>cup</span><span class='name'>olive oil</span><span class='other'>,</span><span class='comment'>plus more for serving</span>",
+        "comment": "plus more for serving",
+        "other": "1/3 ,",
+        "unit": "cup",
+        "input": "1/3 cup olive oil, plus more for serving",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span><span class='other'>,</span><span class='comment'>freshly ground</span><span class='name'>pepper</span>",
+        "comment": "Kosher freshly ground",
+        "input": "Kosher salt, freshly ground pepper",
+        "name": "salt pepper",
+        "other": ","
+    }
+]

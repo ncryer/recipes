@@ -1,0 +1,71 @@
+[
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>tarragon vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons tarragon vinegar",
+        "name": "tarragon vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>sugar</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>Dijon mustard</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>paprika</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon paprika",
+        "name": "paprika"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='name'>olive oil</span>",
+        "unit": "cup",
+        "qty": "1/2",
+        "input": "1/2 cup olive oil",
+        "name": "olive oil"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='unit'>head</span><span class='comment'>of</span><span class='name'>radicchio</span><span class='other'>,</span><span class='comment'>torn into 1-inch pieces ( about 6 cups )</span>",
+        "comment": "of torn into 1-inch pieces (about 6 cups)",
+        "other": "large ,",
+        "unit": "head",
+        "name": "radicchio",
+        "input": "1 large head of radicchio, torn into 1-inch pieces (about 6 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>head</span><span class='other'>of</span><span class='name'>butter lettuce</span><span class='other'>,</span><span class='comment'>torn into 1-inch pieces ( about 6 cups )</span>",
+        "comment": "torn into 1-inch pieces (about 6 cups)",
+        "other": "of ,",
+        "unit": "head",
+        "name": "butter lettuce",
+        "input": "1 head of butter lettuce, torn into 1-inch pieces (about 6 cups)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>1-pint</span><span class='comment'>basket</span><span class='name'>strawberries</span><span class='comment'>, hulled</span><span class='other'>,</span><span class='comment'>halved</span>",
+        "comment": "basket, hulled halved",
+        "other": "1-pint ,",
+        "name": "strawberries",
+        "input": "1 1-pint basket strawberries, hulled, halved",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/2</span><span class='unit'>cup</span><span class='comment'>paper-thin red</span><span class='name'>onion</span><span class='comment'>slices</span>",
+        "comment": "paper-thin red slices",
+        "unit": "cup",
+        "name": "onion",
+        "input": "1/2 cup paper-thin red onion slices",
+        "qty": "1/2"
+    }
+]

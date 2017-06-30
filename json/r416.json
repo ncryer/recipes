@@ -1,0 +1,16 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='name'>savoy cabbage</span><span class='other'>,</span><span class='comment'>cored</span><span class='other'>,</span><span class='comment'>leaves separated</span><span class='other'>,</span><span class='comment'>small leaves reserved for another use</span>",
+        "comment": "cored leaves separated small leaves reserved for another use",
+        "other": ",, ,",
+        "name": "savoy cabbage",
+        "input": "1 savoy cabbage, cored, leaves separated, small leaves reserved for another use",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='comment'>Kosher</span><span class='name'>salt</span>",
+        "comment": "Kosher",
+        "input": "Kosher salt",
+        "name": "salt"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>fresh</span><span class='name'>asparagus</span><span class='other'>,</span><span class='comment'>trimmed</span>",
+        "comment": "fresh trimmed",
+        "other": ",",
+        "unit": "pound",
+        "name": "asparagus",
+        "input": "1 pound fresh asparagus, trimmed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='comment'>minced</span><span class='name'>shallots</span>",
+        "comment": "minced",
+        "unit": "cup",
+        "name": "shallots",
+        "input": "1/4 cup minced shallots",
+        "qty": "1/4"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>tarragon-white wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "3",
+        "input": "3 tablespoons tarragon-white wine vinegar",
+        "name": "tarragon-white wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>teaspoons</span><span class='comment'>chopped fresh</span><span class='name'>tarragon</span><span class='comment'>or 1 1/4 teaspoons dried</span>",
+        "comment": "chopped fresh or 1 1/4 teaspoons dried",
+        "unit": "teaspoon",
+        "name": "tarragon",
+        "input": "4 teaspoons chopped fresh tarragon or 1 1/4 teaspoons dried",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>Dijon mustard</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon Dijon mustard",
+        "name": "Dijon mustard"
+    },
+    {
+        "display": "<span class='qty'>7</span><span class='unit'>tablespoons</span><span class='name'>hazelnut oil</span><span class='other'>,</span><span class='comment'>walnut oil or olive oil</span>",
+        "comment": "walnut oil or olive oil",
+        "other": ",",
+        "unit": "tablespoon",
+        "name": "hazelnut oil",
+        "input": "7 tablespoons hazelnut oil, walnut oil or olive oil",
+        "qty": "7"
+    },
+    {
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>baby lettuces</span><span class='comment'>or inner leaves of curly</span><span class='name'>endive</span>",
+        "comment": "or inner leaves of curly",
+        "unit": "cup",
+        "name": "baby lettuces endive",
+        "input": "4 cups baby lettuces or inner leaves of curly endive",
+        "qty": "4"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>hazelnuts</span><span class='other'>,</span><span class='comment'>toasted , husked , coarsely chopped</span>",
+        "comment": "toasted, husked, coarsely chopped",
+        "other": ",",
+        "unit": "cup",
+        "name": "hazelnuts",
+        "input": "1/4 cup hazelnuts, toasted, husked, coarsely chopped",
+        "qty": "1/4"
+    }
+]

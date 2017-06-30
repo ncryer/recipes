@@ -1,0 +1,79 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>quinoa</span><span class='other'>(</span><span class='comment'>about 6 ounces</span><span class='other'>)</span>",
+        "comment": "about 6 ounces",
+        "other": "()",
+        "unit": "cup",
+        "name": "quinoa",
+        "input": "1 cup quinoa (about 6 ounces)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>cup</span><span class='name'>canola oil</span>",
+        "unit": "cup",
+        "qty": "1/4",
+        "input": "1/4 cup canola oil",
+        "name": "canola oil"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>white wine vinegar</span>",
+        "unit": "tablespoon",
+        "qty": "2",
+        "input": "2 tablespoons white wine vinegar",
+        "name": "white wine vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>mango chutney</span><span class='comment'>, chopped if chunky</span>",
+        "comment": ", chopped if chunky",
+        "unit": "tablespoon",
+        "name": "mango chutney",
+        "input": "1 tablespoon mango chutney, chopped if chunky",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>teaspoons</span><span class='name'>curry powder</span>",
+        "unit": "teaspoon",
+        "qty": "1 1/2",
+        "input": "1 1/2 teaspoons curry powder",
+        "name": "curry powder"
+    },
+    {
+        "display": "<span class='qty'>1/4</span><span class='unit'>teaspoon</span><span class='name'>dry mustard</span>",
+        "unit": "teaspoon",
+        "qty": "1/4",
+        "input": "1/4 teaspoon dry mustard",
+        "name": "dry mustard"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped peeled mango plus mango spears for garnish</span>",
+        "unit": "cup",
+        "comment": "chopped peeled mango plus mango spears for garnish",
+        "input": "1 cup chopped peeled mango plus mango spears for garnish",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped unpeeled</span><span class='name'>English hothouse cucumber</span>",
+        "comment": "chopped unpeeled",
+        "unit": "cup",
+        "name": "English hothouse cucumber",
+        "input": "1 cup chopped unpeeled English hothouse cucumber",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>5</span><span class='unit'>tablespoons</span><span class='comment'>chopped</span><span class='name'>green onions</span><span class='comment'>, divided</span>",
+        "comment": "chopped, divided",
+        "unit": "tablespoon",
+        "name": "green onions",
+        "input": "5 tablespoons chopped green onions, divided",
+        "qty": "5"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>( packed</span><span class='other'>)</span><span class='comment'>baby</span><span class='name'>spinach</span>",
+        "comment": "(packed baby",
+        "other": ")",
+        "unit": "cup",
+        "name": "spinach",
+        "input": "2 cups (packed) baby spinach",
+        "qty": "2"
+    }
+]

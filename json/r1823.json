@@ -1,0 +1,26 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>sugar snap peas</span><span class='other'>,</span><span class='comment'>stringed</span>",
+        "comment": "stringed",
+        "other": ",",
+        "unit": "pound",
+        "name": "sugar snap peas",
+        "input": "1 pound sugar snap peas, stringed",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>toasted</span><span class='name'>sesame seeds</span>",
+        "comment": "toasted",
+        "unit": "teaspoon",
+        "name": "sesame seeds",
+        "input": "1 teaspoon toasted sesame seeds",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>oriental sesame oil</span>",
+        "unit": "teaspoon",
+        "qty": "1",
+        "input": "1 teaspoon oriental sesame oil",
+        "name": "oriental sesame oil"
+    }
+]

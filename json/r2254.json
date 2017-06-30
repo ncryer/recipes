@@ -1,0 +1,25 @@
+[
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>confectioners' sugar</span>",
+        "unit": "cup",
+        "qty": "2",
+        "input": "2 cups confectioners' sugar",
+        "name": "confectioners' sugar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>strained fresh</span><span class='name'>orange juice</span>",
+        "comment": "strained fresh",
+        "unit": "tablespoon",
+        "name": "orange juice",
+        "input": "3 tablespoons strained fresh orange juice",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>orange-flavored</span><span class='name'>liqueur</span>",
+        "comment": "orange-flavored",
+        "unit": "tablespoon",
+        "name": "liqueur",
+        "input": "1 tablespoon orange-flavored liqueur",
+        "qty": "1"
+    }
+]

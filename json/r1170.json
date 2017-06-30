@@ -1,0 +1,78 @@
+[
+    {
+        "display": "<span class='qty'>1</span><span class='comment'>small sweet</span><span class='name'>onion</span><span class='comment'>( such as Vidalia or Maui ) , thinly sliced</span>",
+        "qty": "1",
+        "comment": "small sweet (such as Vidalia or Maui), thinly sliced",
+        "input": "1 small sweet onion (such as Vidalia or Maui), thinly sliced",
+        "name": "onion"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>medium pickling</span><span class='name'>cucumbers</span><span class='comment'>, scrubbed</span><span class='other'>,</span><span class='comment'>cut into 1/4-inch-thick rounds</span>",
+        "comment": "medium pickling, scrubbed cut into 1/4-inch-thick rounds",
+        "other": ",",
+        "unit": "pound",
+        "name": "cucumbers",
+        "input": "2 pounds medium pickling cucumbers, scrubbed, cut into 1/4-inch-thick rounds",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='other'>large</span><span class='unit'>bunch</span><span class='name'>dill</span><span class='comment'>, coarsely chopped ( stems included )</span>",
+        "comment": ", coarsely chopped (stems included)",
+        "other": "large",
+        "unit": "bunch",
+        "name": "dill",
+        "input": "1 large bunch dill, coarsely chopped (stems included)",
+        "qty": "1"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>yellow mustard seeds</span>",
+        "unit": "tablespoon",
+        "qty": "1",
+        "input": "1 tablespoon yellow mustard seeds",
+        "name": "yellow mustard seeds"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>whole</span><span class='name'>white peppercorns</span>",
+        "comment": "whole",
+        "unit": "teaspoon",
+        "name": "white peppercorns",
+        "input": "2 teaspoons whole white peppercorns",
+        "qty": "2"
+    },
+    {
+        "display": "<span class='qty'>1 1/2</span><span class='unit'>cups</span><span class='name'>apple cider vinegar</span>",
+        "unit": "cup",
+        "qty": "1 1/2",
+        "input": "1 1/2 cups apple cider vinegar",
+        "name": "apple cider vinegar"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup water",
+        "name": "water"
+    },
+    {
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sugar</span>",
+        "unit": "cup",
+        "qty": "1",
+        "input": "1 cup sugar",
+        "name": "sugar"
+    },
+    {
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>coarse kosher</span><span class='name'>salt</span>",
+        "comment": "coarse kosher",
+        "unit": "tablespoon",
+        "name": "salt",
+        "input": "3 tablespoons coarse kosher salt",
+        "qty": "3"
+    },
+    {
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>dill seeds</span>",
+        "unit": "teaspoon",
+        "qty": "2",
+        "input": "2 teaspoons dill seeds",
+        "name": "dill seeds"
+    }
+]
