@@ -28,7 +28,7 @@ myDB = giveDBConnection("data.db");
 // REST CALLS
 
 app.get("/", function(req, res){
-    console.log("Connected");
+    console.log("TEST CONNECTION PLEASE IGNORE: CONNECTION WORKS!");
 });
 
 // ... fill in with queries
@@ -36,7 +36,7 @@ app.get("/", function(req, res){
 // SERVER
 
 var server = app.listen(3000, function(){
-    var port = server.address.port;
+    var port = server.address().port;
     console.log("Listening on port %s", port);
 })
 
