@@ -19,10 +19,11 @@ function giveDBConnection(dbname) {
     var dbObj = new sqlite3.Database(dbname, sqlite3.OPEN_READWRITE, function(err){
         if(err) console.log(err);
     });
-    return(dbObj)
+    console.log("Connected to data.db");
+    return(dbObj);
 }
 
-myDB = giveDBConnection("");
+myDB = giveDBConnection("data.db");
 
 // REST CALLS
 
