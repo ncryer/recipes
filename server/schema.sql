@@ -1,12 +1,12 @@
 CREATE TABLE recipes (
-       id INTEGER PRIMARY KEY,
+       id INTEGER PRIMARY KEY AUTOINCREMENT,
        name TEXT NOT NULL,
        url TEXT NOT NULL,
        total_weight NUMBER NOT NULL
 );
 
 CREATE TABLE ingredients (
-       id INTEGER PRIMARY KEY,
+       id INTEGER PRIMARY KEY AUTOINCREMENT,
        name TEXT NOT NULL,
        weight NUMBER NOT NULL
 );
