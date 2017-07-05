@@ -31,7 +31,14 @@ app.get("/", function(req, res){
     console.log("TEST CONNECTION PLEASE IGNORE: CONNECTION WORKS!");
 });
 
-// ... fill in with queries
+// -- Find id'erne på de ingredienser der indgår i opskrift 123
+// SELECT ingredient_id FROM relationship where recipe_id = 123;
+
+// -- Find navnene på de ingredienser der indgår i opskrift 1
+// SELECT ingredients.name FROM ingredients LEFT JOIN relationship ON ingredients.id=relationship.ingredient_id WHERE relationship.recipe_id = 1;
+
+// -- Find id'erne på de opskrifter hvor ingrediens 1, 4 og 7 indgår
+// SELECT recipes.id FROM recipes INNER JOIN relationship ON recipes.id=relationship.recipe_id WHERE relationship.ingredient_id IN (1, 4, 7) GROUP BY recipes.id HAVING COUNT(DISTINCT relationship.ingredient_id) = 3;
 
 // SERVER
 
